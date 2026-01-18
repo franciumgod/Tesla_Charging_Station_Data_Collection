@@ -21,10 +21,10 @@ try:
         data = json.loads(json_text)
         all_locations = data.get('data',{}).get('data',[])
 
-        with open("US_charger_stations.json", "w", encoding="utf-8") as f:
+        with open("Tesla_charger_stations.json", "w", encoding="utf-8") as f:
             json.dump(all_locations, f, indent=4, ensure_ascii=False)
             
-        print(f"Success! Data for {len(all_locations)} locations has been successfully scraped and saved to US_charger_stations.json.")
+        print(f"Success! Data for {len(all_locations)} locations has been successfully scraped and saved to Tesla_charger_stations.json.")
         
     except json.JSONDecodeError:
         print("Error: The retrieved content is not in valid JSON format.")

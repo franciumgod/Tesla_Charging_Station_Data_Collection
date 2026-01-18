@@ -127,7 +127,7 @@ def fetch_and_save_chargers(valid_data):
     print("\n ALL tasks are completed!")
 
 if __name__ == '__main__':
-    json_path = "US_telsa_charger_stations.json"
+    json_path = "Tesla_charger_stations.json"
     
     if os.path.exists(json_path):
         with open(json_path, "r", encoding="utf-8") as f:
