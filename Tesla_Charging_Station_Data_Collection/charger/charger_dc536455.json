@@ -1,0 +1,84 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taitung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "成功鎮",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "961",
+                "postalExt": null,
+                "state": "Taitung",
+                "street": "豐田路",
+                "streetNumber": "25號"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 23.050266,
+                "longitude": 121.343468
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.5,
+                    "rateMinTier2": 0,
+                    "rateMinTier3": 0,
+                    "rateMinTier4": 0,
+                    "rateTier1": 0.5,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 23.050266,
+                "longitude": 121.343468
+            },
+            "locationGUID": "b78dfe79-92f8-4393-8ecf-5314c224d110",
+            "maxPowerKw": 5,
+            "name": "擁月星宿",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

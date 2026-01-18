@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Sankt Leonhard",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9462",
+                "postalExt": null,
+                "state": null,
+                "street": "Kliening",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.955563,
+                "longitude": 14.779286
+            },
+            "commonSiteName": "Hotel Moselebauer",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.955563,
+                "longitude": 14.779286
+            },
+            "locationGUID": "6f5586d5-713a-44bd-9d80-2bacb291a454",
+            "maxPowerKw": 11,
+            "name": "Hotel Moselebauer",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

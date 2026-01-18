@@ -1,0 +1,128 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taichung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "中區",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "400",
+                "postalExt": null,
+                "state": "Taichung",
+                "street": "Minquan Rd.",
+                "streetNumber": "162"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.1409692,
+                "longitude": 120.6766386
+            },
+            "commonSiteName": "台中鳳凰酒店",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 1,
+                    "rateMinTier2": 1,
+                    "rateMinTier3": 1,
+                    "rateMinTier4": 1,
+                    "rateTier1": 1,
+                    "rateTier2": 1,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 1,
+                    "rateMinTier2": 1,
+                    "rateMinTier3": 1,
+                    "rateMinTier4": 1,
+                    "rateTier1": 1,
+                    "rateTier2": 1,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.1409692,
+                "longitude": 120.6766386
+            },
+            "locationGUID": "a5c1ac90-a348-4697-984e-c2562b25d3a0",
+            "maxPowerKw": 7,
+            "name": "Taichung - Phoenix Hotel",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Little Rock",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72211",
+                "postalExt": null,
+                "state": "AR",
+                "street": "S Shackleford Rd",
+                "streetNumber": "1301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.741503,
+                "longitude": -92.393141
+            },
+            "commonSiteName": "Hampton Inn & Suites West Little Rock",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.35,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.35,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 34.741503,
+                "longitude": -92.393141
+            },
+            "locationGUID": "62cce579-13b3-4cca-8154-61399006db61",
+            "maxPowerKw": 6,
+            "name": "Hampton Inn & Suites West Little Rock",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

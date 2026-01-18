@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Detroit",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "48226",
+                "postalExt": null,
+                "state": "MI",
+                "street": "Shelby",
+                "streetNumber": "730"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.331181,
+                "longitude": -83.048927
+            },
+            "commonSiteName": "Financial District Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.331181,
+                "longitude": -83.048927
+            },
+            "locationGUID": "ad074cb9-12f8-44b4-840e-a14d22985795",
+            "maxPowerKw": 16,
+            "name": "Financial District Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

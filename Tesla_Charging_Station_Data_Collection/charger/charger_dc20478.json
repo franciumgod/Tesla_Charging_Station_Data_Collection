@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Pachuca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "42080",
+                "postalExt": null,
+                "state": "HID",
+                "street": "Venta Prieta",
+                "streetNumber": "Carretera Mexico Pachuca km. 85.5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.07947,
+                "longitude": -98.773259
+            },
+            "commonSiteName": "Gamma Pachuca",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.07947,
+                "longitude": -98.773259
+            },
+            "locationGUID": "99f1a936-d16f-49d1-8fe6-5cea058091aa",
+            "maxPowerKw": 18,
+            "name": "Gamma Pachuca",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

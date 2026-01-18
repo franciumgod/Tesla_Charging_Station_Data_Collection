@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Edmonton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T6J 5H2",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Gateway Blvd N",
+                "streetNumber": "4235"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.889442,
+                "longitude": -118.077288
+            },
+            "commonSiteName": "Sawridge Inn and Conference Centre Edmonton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.889442,
+                "longitude": -118.077288
+            },
+            "locationGUID": "973cba24-2f44-406c-b3af-026b00fbb090",
+            "maxPowerKw": 8,
+            "name": "Sawridge Inn and Conference Centre Edmonton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

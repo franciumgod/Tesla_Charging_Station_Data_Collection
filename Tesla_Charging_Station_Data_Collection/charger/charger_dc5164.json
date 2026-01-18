@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paso Robles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93446",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Riverside Ave",
+                "streetNumber": "3000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.645075,
+                "longitude": -120.688609
+            },
+            "commonSiteName": "The Oaks Hotel Paso Robles",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.645075,
+                "longitude": -120.688609
+            },
+            "locationGUID": "8db72d5f-5f1d-46d2-a2b1-cc20619c6b40",
+            "maxPowerKw": 16,
+            "name": "The Oaks Hotel Paso Robles",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

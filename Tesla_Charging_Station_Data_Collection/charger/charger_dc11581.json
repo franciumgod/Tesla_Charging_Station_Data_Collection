@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Susanville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "96130",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Riverside Dr",
+                "streetNumber": "3015"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.4066955,
+                "longitude": -120.6322662
+            },
+            "commonSiteName": "Red Lion Inn & Suites Susanville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.4066955,
+                "longitude": -120.6322662
+            },
+            "locationGUID": "b28002d7-3a37-4dd9-bb2e-895edb229cd1",
+            "maxPowerKw": 16,
+            "name": "Red Lion Inn & Suites Susanville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

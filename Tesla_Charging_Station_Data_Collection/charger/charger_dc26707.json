@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Denver",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80237",
+                "postalExt": null,
+                "state": "CO",
+                "street": "S Syracuse St",
+                "streetNumber": "4900"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.626518,
+                "longitude": -104.901761
+            },
+            "commonSiteName": "Denver Marriott Tech Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.626518,
+                "longitude": -104.901761
+            },
+            "locationGUID": "f95af366-52f2-4d97-a918-65e8ef2ecf81",
+            "maxPowerKw": 16,
+            "name": "Denver Marriott Tech Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

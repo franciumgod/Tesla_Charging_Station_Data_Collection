@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Parkhurst",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4702",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Yaamba Road",
+                "streetNumber": "984"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -23.288402,
+                "longitude": 150.511779
+            },
+            "commonSiteName": "Kortes Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -23.288402,
+                "longitude": 150.511779
+            },
+            "locationGUID": "61f9b569-6e55-424c-aea1-548edd8a263d",
+            "maxPowerKw": 22,
+            "name": "Kortes Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

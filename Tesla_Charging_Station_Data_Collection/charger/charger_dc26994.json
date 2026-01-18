@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Freshwater Creek",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3217",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Anglesea Road",
+                "streetNumber": "675"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.259646,
+                "longitude": 144.276227
+            },
+            "commonSiteName": "The Farmer's Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.259646,
+                "longitude": 144.276227
+            },
+            "locationGUID": "d79d03db-4858-46fb-a4ff-c5ee3491e20d",
+            "maxPowerKw": 22,
+            "name": "The Farmer's Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

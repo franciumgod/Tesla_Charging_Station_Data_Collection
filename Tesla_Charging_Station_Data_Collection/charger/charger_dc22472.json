@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Merida",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97000",
+                "postalExt": null,
+                "state": "YUC",
+                "street": "Centro",
+                "streetNumber": "Calle 57 #513, 62 y 64"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.970456,
+                "longitude": -89.624734
+            },
+            "commonSiteName": "El Castellano Gamma Merida Centro Historico",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.970456,
+                "longitude": -89.624734
+            },
+            "locationGUID": "5e5383fe-93d3-4483-af89-d3c018005154",
+            "maxPowerKw": 18,
+            "name": "El Castellano Gamma Merida Centro Historico",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Merida"
+        },
+        "success": true
+    }
+}

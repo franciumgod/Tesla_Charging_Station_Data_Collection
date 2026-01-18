@@ -1,0 +1,124 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lafayette",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Lafayette Parish",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70506",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Ridge Rd",
+                "streetNumber": "555"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.1809358,
+                "longitude": -92.0971204
+            },
+            "commonSiteName": "Save It Self Storage",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.2,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.2,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 30.1809358,
+                "longitude": -92.0971204
+            },
+            "locationGUID": "cc2323eb-16f0-4427-8009-b5e26b4121b4",
+            "maxPowerKw": 12,
+            "name": "Save It Self Storage",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

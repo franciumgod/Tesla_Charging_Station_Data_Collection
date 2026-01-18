@@ -1,0 +1,124 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Corvallis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Benton County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97333",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SW 4th St",
+                "streetNumber": "350"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.5622087,
+                "longitude": -123.2637259
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.55,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.55,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 44.5622087,
+                "longitude": -123.2637259
+            },
+            "locationGUID": "f0358e44-dd34-41f0-baf3-ecf04e426b24",
+            "maxPowerKw": 11,
+            "name": "Hotel Corvallis",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

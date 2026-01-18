@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Albacete",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "Albacete",
+                "postalExt": null,
+                "state": "Castilla-La Mancha",
+                "street": "Calle Alcalde Conangla",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.990408,
+                "longitude": -1.846801
+            },
+            "commonSiteName": "Centro Comercial Albacenter",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.990408,
+                "longitude": -1.846801
+            },
+            "locationGUID": "7b8fb5de-93b7-4eaa-920e-513b1f29197c",
+            "maxPowerKw": 22,
+            "name": "Centro Comercial Albacenter",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

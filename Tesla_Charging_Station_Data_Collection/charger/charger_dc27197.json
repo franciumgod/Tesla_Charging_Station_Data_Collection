@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "4525",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "중구 소공로",
+                "streetNumber": "119"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.564637,
+                "longitude": 126.97811
+            },
+            "commonSiteName": "더 플라자 호텔",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.564637,
+                "longitude": 126.97811
+            },
+            "locationGUID": "68ec94f8-1c2b-444f-b86b-fefaf64ebea6",
+            "maxPowerKw": 16,
+            "name": "The Plaza Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

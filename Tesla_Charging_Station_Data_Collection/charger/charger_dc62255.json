@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Baqueira",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25598",
+                "postalExt": null,
+                "state": "Cataluña",
+                "street": "Carrer de Perimetrau, Nucleo 1500",
+                "streetNumber": "S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.695544,
+                "longitude": 0.936264
+            },
+            "commonSiteName": "Hotel Val de Neu",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.695544,
+                "longitude": 0.936264
+            },
+            "locationGUID": "8807f0ad-adb1-457b-9d2d-3f56f1d57aeb",
+            "maxPowerKw": 22,
+            "name": "Hotel Val de Neu",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

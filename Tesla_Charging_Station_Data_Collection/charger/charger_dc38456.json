@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Roma",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "122",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Aristofane",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.763421,
+                "longitude": 12.371003
+            },
+            "commonSiteName": "Aris Garden Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.763421,
+                "longitude": 12.371003
+            },
+            "locationGUID": "35dbfe17-4ade-44b2-b0a8-c409b484896a",
+            "maxPowerKw": 22,
+            "name": "Aris Garden Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

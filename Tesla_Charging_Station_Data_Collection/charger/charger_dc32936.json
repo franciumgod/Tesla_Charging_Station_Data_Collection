@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Felipe",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21850",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Fondeport",
+                "streetNumber": "Carretera San Felipe km 4.5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.98773,
+                "longitude": -114.824512
+            },
+            "commonSiteName": "Marina San Felipe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.98773,
+                "longitude": -114.824512
+            },
+            "locationGUID": "b293143f-0ec1-47a3-8748-9b6ce9cb3bc4",
+            "maxPowerKw": 18,
+            "name": "Marina San Felipe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

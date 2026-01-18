@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grindelwald",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3818",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse",
+                "streetNumber": "161"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.624183,
+                "longitude": 8.040202
+            },
+            "commonSiteName": "Parkhotel Schoenegg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.624183,
+                "longitude": 8.040202
+            },
+            "locationGUID": "0820972f-07a8-4d65-bc40-d748afd3fdae",
+            "maxPowerKw": 17,
+            "name": "Parkhotel Schoenegg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

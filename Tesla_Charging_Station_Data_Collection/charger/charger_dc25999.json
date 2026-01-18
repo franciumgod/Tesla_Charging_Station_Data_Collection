@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Millstatt",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9872",
+                "postalExt": null,
+                "state": null,
+                "street": "Seestrasse",
+                "streetNumber": "68"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.80181,
+                "longitude": 13.574925
+            },
+            "commonSiteName": "Hotel See-Villa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.80181,
+                "longitude": 13.574925
+            },
+            "locationGUID": "585ae6ee-b55c-4cd9-90cd-81acaf8e59b6",
+            "maxPowerKw": 17,
+            "name": "Hotel See-Villa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

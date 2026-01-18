@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beamsville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L0R 1B1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "King St",
+                "streetNumber": "4245"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.1596,
+                "longitude": -79.4373321
+            },
+            "commonSiteName": "Redstone Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.1596,
+                "longitude": -79.4373321
+            },
+            "locationGUID": "17524a77-6550-450a-acba-981e5ea811cc",
+            "maxPowerKw": 16,
+            "name": "Redstone Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

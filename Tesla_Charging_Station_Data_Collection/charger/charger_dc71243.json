@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Muenster",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48163",
+                "postalExt": null,
+                "state": null,
+                "street": "Gropiusstrasse",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.890271,
+                "longitude": 7.593949
+            },
+            "commonSiteName": "Eymann-Sauna",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.890271,
+                "longitude": 7.593949
+            },
+            "locationGUID": "5ab44d83-a918-4881-9a1f-ea03da9970fd",
+            "maxPowerKw": 22,
+            "name": "Eymann-Sauna",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Windsor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95492",
+                "postalExt": null,
+                "state": "CA",
+                "street": "River Rd",
+                "streetNumber": "3360"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.487603,
+                "longitude": -122.807316
+            },
+            "commonSiteName": "Martinelli Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.487603,
+                "longitude": -122.807316
+            },
+            "locationGUID": "08592c6f-13b9-4a2c-a640-0b437c9fe87a",
+            "maxPowerKw": 8,
+            "name": "Martinelli Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

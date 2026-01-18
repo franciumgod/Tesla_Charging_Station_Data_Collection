@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tulsa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "74119",
+                "postalExt": null,
+                "state": "OK",
+                "street": "S Boulder Ave",
+                "streetNumber": "1633"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.1385333,
+                "longitude": -95.9881492
+            },
+            "commonSiteName": "DoubleShot Coffee Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.1385333,
+                "longitude": -95.9881492
+            },
+            "locationGUID": "379f7ecd-e512-419f-b8aa-cddda0ae8b1a",
+            "maxPowerKw": 10,
+            "name": "DoubleShot Coffee Company",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

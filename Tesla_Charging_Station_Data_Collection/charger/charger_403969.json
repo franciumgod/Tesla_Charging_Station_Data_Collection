@@ -1,0 +1,126 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Belleville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Republic County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66935",
+                "postalExt": null,
+                "state": "KS",
+                "street": "17th St",
+                "streetNumber": "1212"
+            },
+            "amenities": [
+                "AMENITIES_WIFI"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.82483,
+                "longitude": -97.63199
+            },
+            "commonSiteName": "Belleville EV Charging Station",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.34,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.34,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 39.82483,
+                "longitude": -97.63199
+            },
+            "locationGUID": "b70c95ff-2d30-45fa-93f1-f5f9a5037929",
+            "maxPowerKw": 16,
+            "name": "Belleville, KS",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

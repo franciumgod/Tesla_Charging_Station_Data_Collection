@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Liddes",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1945",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Grand St. Bernard",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.993175,
+                "longitude": 7.1749372
+            },
+            "commonSiteName": "La Channe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.993175,
+                "longitude": 7.1749372
+            },
+            "locationGUID": "9a1526ce-2c72-4654-a04e-36308cbfb086",
+            "maxPowerKw": 14,
+            "name": "La Channe",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

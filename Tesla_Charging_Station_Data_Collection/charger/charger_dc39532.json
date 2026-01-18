@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Juan del Rio",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76837",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Puerta de Palmillas",
+                "streetNumber": "Carretera Mexico-Queretaro km. 152"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.329268,
+                "longitude": -99.935709
+            },
+            "commonSiteName": "Los Cochinitos Quer├⌐taro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.329268,
+                "longitude": -99.935709
+            },
+            "locationGUID": "390360f3-4f30-47b1-b2be-eb66d2b56357",
+            "maxPowerKw": 18,
+            "name": "Los Cochinitos Queretaro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

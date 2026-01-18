@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kasterlee",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2460",
+                "postalExt": null,
+                "state": null,
+                "street": "Houtum 61",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.228766,
+                "longitude": 4.978059
+            },
+            "commonSiteName": "De Watermolen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.228766,
+                "longitude": 4.978059
+            },
+            "locationGUID": "49229ba8-fa24-460f-956f-c69d0aaa39e9",
+            "maxPowerKw": 22,
+            "name": "De Watermolen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

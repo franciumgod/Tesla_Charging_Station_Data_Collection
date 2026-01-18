@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SE10 8JA",
+                "postalExt": null,
+                "state": null,
+                "street": "Greenwich High Road",
+                "streetNumber": "173-185"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.477586,
+                "longitude": -0.01415
+            },
+            "commonSiteName": "Novotel London Greenwich",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.477586,
+                "longitude": -0.01415
+            },
+            "locationGUID": "52c0bc91-6546-4328-89db-8f576b91d0cf",
+            "maxPowerKw": 7,
+            "name": "Novotel London Greenwich",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

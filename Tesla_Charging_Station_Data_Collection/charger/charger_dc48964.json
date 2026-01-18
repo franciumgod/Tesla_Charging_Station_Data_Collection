@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Katrineholm",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "641 92",
+                "postalExt": null,
+                "state": null,
+                "street": "Herrgårdsvägen",
+                "streetNumber": "16A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.9705846,
+                "longitude": 16.195568
+            },
+            "commonSiteName": "Dufweholms Herrgård",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.9705846,
+                "longitude": 16.195568
+            },
+            "locationGUID": "74632f72-7942-4c3e-b63a-1aecdf7f1dbe",
+            "maxPowerKw": 11,
+            "name": "Dufweholms Herrgård",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

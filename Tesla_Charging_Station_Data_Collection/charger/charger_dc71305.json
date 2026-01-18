@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Forbes",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2871",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Cross Street",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.383476,
+                "longitude": 148.010084
+            },
+            "commonSiteName": "Country Mile Motor Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.383476,
+                "longitude": 148.010084
+            },
+            "locationGUID": "0c93fab0-c956-42b0-b1ae-f38b9968226b",
+            "maxPowerKw": 22,
+            "name": "Country Mile Motor Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

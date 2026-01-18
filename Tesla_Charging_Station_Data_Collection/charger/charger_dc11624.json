@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Del Mar",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92014",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Jimmy Durante Blvd",
+                "streetNumber": "15575"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.977989,
+                "longitude": -117.255156
+            },
+            "commonSiteName": "Hilton San Diego/Del Mar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.977989,
+                "longitude": -117.255156
+            },
+            "locationGUID": "4f6990ae-adc8-447c-84b5-59f7128d71cc",
+            "maxPowerKw": 8,
+            "name": "Hilton San Diego/Del Mar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

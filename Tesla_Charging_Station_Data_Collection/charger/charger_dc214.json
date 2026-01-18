@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6E 0A3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Melville St",
+                "streetNumber": "1177"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.287521,
+                "longitude": -123.123521
+            },
+            "commonSiteName": "Loden Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.287521,
+                "longitude": -123.123521
+            },
+            "locationGUID": "e78e0b4b-2327-46c7-ad32-0bbd75da489b",
+            "maxPowerKw": 16,
+            "name": "Loden Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tsing Yi",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": "4/F",
+                "postalCode": "00000",
+                "postalExt": null,
+                "state": "New Territories",
+                "street": "Tsing Yi Hong Wan Rd",
+                "streetNumber": "38"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.3340832,
+                "longitude": 114.1114233
+            },
+            "commonSiteName": "China Merchants Logistics Centre",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2.45,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 3.2,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 22.3340647,
+                "longitude": 114.1115846
+            },
+            "locationGUID": "e08747cd-a171-4028-9191-ee718ff6b16f",
+            "maxPowerKw": 11,
+            "name": "AP-HK-New Territories-Tsing Yi-38 Tsing Yi Hong Wan Rd - China Merchant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

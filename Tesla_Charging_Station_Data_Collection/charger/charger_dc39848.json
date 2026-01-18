@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pokolbin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2320",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Ekerts Road",
+                "streetNumber": "57"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.77544535,
+                "longitude": 151.28174344
+            },
+            "commonSiteName": "Spicers Guesthouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.77544535,
+                "longitude": 151.28174344
+            },
+            "locationGUID": "16729a95-175c-4a43-8209-24bfb51079a1",
+            "maxPowerKw": 22,
+            "name": "Spicers Guesthouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

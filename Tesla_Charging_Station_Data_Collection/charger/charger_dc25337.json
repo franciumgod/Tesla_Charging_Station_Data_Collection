@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Juan del Rio",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78821",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "La Estancia",
+                "streetNumber": "Carretera Mexico-Queretaro Km. 172"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.439503,
+                "longitude": -100.069013
+            },
+            "commonSiteName": "Mision San Gil",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.439503,
+                "longitude": -100.069013
+            },
+            "locationGUID": "1d48cf20-9d50-4857-bd8e-bb8665c369ea",
+            "maxPowerKw": 18,
+            "name": "Mision San Gil",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

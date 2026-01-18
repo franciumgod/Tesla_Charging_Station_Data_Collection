@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Leesburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20176",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Woodridge Pkwy",
+                "streetNumber": "44050"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.0834,
+                "longitude": -77.475975
+            },
+            "commonSiteName": "Lansdowne Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.0834,
+                "longitude": -77.475975
+            },
+            "locationGUID": "c05adbdf-07de-4b85-a88a-ce0fba1c6f20",
+            "maxPowerKw": 8,
+            "name": "Lansdowne Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

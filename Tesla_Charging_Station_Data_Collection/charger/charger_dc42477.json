@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Fe",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "87501",
+                "postalExt": null,
+                "state": "NM",
+                "street": "Cerrillos Rd",
+                "streetNumber": "510"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.682345,
+                "longitude": -105.945457
+            },
+            "commonSiteName": "Santa Fe Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.682345,
+                "longitude": -105.945457
+            },
+            "locationGUID": "0144166d-169f-445f-9a37-ec8522464a1c",
+            "maxPowerKw": 16,
+            "name": "Santa Fe Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

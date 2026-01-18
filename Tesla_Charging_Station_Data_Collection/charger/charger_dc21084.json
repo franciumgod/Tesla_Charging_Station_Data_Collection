@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Southampton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SO14 2AZ",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "The Pig in the Wall",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.899077,
+                "longitude": -1.407
+            },
+            "commonSiteName": "The Pig in the Wall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.899077,
+                "longitude": -1.407
+            },
+            "locationGUID": "c930f181-c520-41a0-aace-3afa3419fd0d",
+            "maxPowerKw": 6,
+            "name": "The Pig in the Wall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Birmingham",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "35243",
+                "postalExt": null,
+                "state": "AL",
+                "street": "Perimeter Park S",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.437392,
+                "longitude": -86.726007
+            },
+            "commonSiteName": "Hilton Birmingham Perimeter Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.437392,
+                "longitude": -86.726007
+            },
+            "locationGUID": "8c88382b-3470-481a-9d68-e59989ecde5c",
+            "maxPowerKw": 8,
+            "name": "Hilton Birmingham Perimeter Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

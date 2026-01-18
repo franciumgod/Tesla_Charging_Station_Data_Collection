@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Chicago",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60185",
+                "postalExt": null,
+                "state": "IL",
+                "street": "IL-59",
+                "streetNumber": "2241"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.9224259,
+                "longitude": -88.2073922
+            },
+            "commonSiteName": "St. Andrews Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.9224259,
+                "longitude": -88.2073922
+            },
+            "locationGUID": "ba5a817f-8fbd-4f3a-af72-64e510aa4698",
+            "maxPowerKw": 10,
+            "name": "St. Andrews Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

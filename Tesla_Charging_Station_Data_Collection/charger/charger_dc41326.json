@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8017",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carrer de les Escoles",
+                "streetNumber": "105"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.404989,
+                "longitude": 2.126534
+            },
+            "commonSiteName": "Metropolitan Iradier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.404989,
+                "longitude": 2.126534
+            },
+            "locationGUID": "6c4bf48d-8fec-4d80-9184-6c2d918298c6",
+            "maxPowerKw": 17,
+            "name": "Metropolitan Iradier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

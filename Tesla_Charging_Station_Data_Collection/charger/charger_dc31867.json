@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Miguel de Allende",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "37745",
+                "postalExt": null,
+                "state": "GUA",
+                "street": "La Luciernaga",
+                "streetNumber": "Boulevard Jose Manuel Zavala Z. 165"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.904104,
+                "longitude": -100.728702
+            },
+            "commonSiteName": "Plaza La Luciernaga",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.904104,
+                "longitude": -100.728702
+            },
+            "locationGUID": "a8f3c979-b427-4690-ae32-a7c9e214c184",
+            "maxPowerKw": 18,
+            "name": "Plaza La Luciernaga",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rochester",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14623",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Jefferson Rd",
+                "streetNumber": "940"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.0876689,
+                "longitude": -77.6132767
+            },
+            "commonSiteName": "Best Western Rochester Marketplace Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.0876689,
+                "longitude": -77.6132767
+            },
+            "locationGUID": "b88cb546-d814-4d74-b71d-2fb5d4504df8",
+            "maxPowerKw": 16,
+            "name": "Best Western Rochester Marketplace Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

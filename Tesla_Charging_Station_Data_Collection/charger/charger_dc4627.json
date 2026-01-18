@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jackson",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39202",
+                "postalExt": null,
+                "state": "MS",
+                "street": "Fairview St",
+                "streetNumber": "734"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.320791,
+                "longitude": -90.176512
+            },
+            "commonSiteName": "Fairview Inn, a Select Registry Property",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.320791,
+                "longitude": -90.176512
+            },
+            "locationGUID": "d3b48259-0062-465a-8936-81530f6e312a",
+            "maxPowerKw": 13,
+            "name": "Fairview Inn, a Select Registry Property",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

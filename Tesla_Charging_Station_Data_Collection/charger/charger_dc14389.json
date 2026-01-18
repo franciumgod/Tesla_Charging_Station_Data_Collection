@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V7V 3N9",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Cypress Bowl Rd",
+                "streetNumber": "6000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.395976,
+                "longitude": -123.204545
+            },
+            "commonSiteName": "Cypress Mountain",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.395976,
+                "longitude": -123.204545
+            },
+            "locationGUID": "4e4fb55a-0f82-4737-8d56-8a878aed5c37",
+            "maxPowerKw": 8,
+            "name": "Cypress Mountain",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

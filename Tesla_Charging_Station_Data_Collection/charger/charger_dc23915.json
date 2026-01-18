@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cuernavaca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "62374",
+                "postalExt": null,
+                "state": "MOR",
+                "street": "Villas del Lago",
+                "streetNumber": "Cuernavaca - Ciudad de Mexico"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 18.933436,
+                "longitude": -99.19729
+            },
+            "commonSiteName": "Averanda Cuernavaca",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 18.933436,
+                "longitude": -99.19729
+            },
+            "locationGUID": "1405d5bf-9c94-4d0d-a5b6-7a11c157b1ee",
+            "maxPowerKw": 16,
+            "name": "Averanda Cuernavaca",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

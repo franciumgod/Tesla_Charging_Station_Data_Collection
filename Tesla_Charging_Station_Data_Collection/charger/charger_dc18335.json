@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Willingen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "34508",
+                "postalExt": null,
+                "state": null,
+                "street": "Briloner Strasse",
+                "streetNumber": "48"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.295475,
+                "longitude": 8.607437
+            },
+            "commonSiteName": "Göbels Landhotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.295475,
+                "longitude": 8.607437
+            },
+            "locationGUID": "2156b36c-a023-4b1f-b419-8748f8733eac",
+            "maxPowerKw": 22,
+            "name": "Goebels Landhotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

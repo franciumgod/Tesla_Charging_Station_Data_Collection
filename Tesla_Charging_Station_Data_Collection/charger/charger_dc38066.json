@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Faringdon",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SN7 7AA",
+                "postalExt": null,
+                "state": null,
+                "street": "London St",
+                "streetNumber": "56"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.658624,
+                "longitude": -1.577048
+            },
+            "commonSiteName": "Sudbury House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.658624,
+                "longitude": -1.577048
+            },
+            "locationGUID": "01c17740-02b9-4d32-a9fd-7a28e517b352",
+            "maxPowerKw": 7,
+            "name": "Sudbury House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

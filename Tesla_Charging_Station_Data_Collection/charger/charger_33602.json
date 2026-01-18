@@ -1,0 +1,415 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "22:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kaohsiung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "Zuoying Dist",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "813",
+                "postalExt": null,
+                "state": "Kaohsiung",
+                "street": "Bo’ai 2nd Rd",
+                "streetNumber": "No. 777"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.1875,
+                            0.3125,
+                            0.515625,
+                            0.515625,
+                            0.528125,
+                            0.515625,
+                            0.4984375,
+                            0.455078125,
+                            0.484375,
+                            0.5375,
+                            0.578125,
+                            0.49375,
+                            0.3229166666666667,
+                            0.125,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.146875,
+                            0.2578125,
+                            0.34375,
+                            0.3489583333333333,
+                            0.34375,
+                            0.37276785714285715,
+                            0.359375,
+                            0.3839285714285714,
+                            0.390625,
+                            0.421875,
+                            0.3214285714285714,
+                            0.203125,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0.0625,
+                            0.17708333333333334,
+                            0.3125,
+                            0.359375,
+                            0.3489583333333333,
+                            0.39453125,
+                            0.4375,
+                            0.4140625,
+                            0.4140625,
+                            0.40625,
+                            0.3671875,
+                            0.28125,
+                            0.25,
+                            0.1484375,
+                            0.09375,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.1171875,
+                            0.203125,
+                            0.2916666666666667,
+                            0.3571428571428571,
+                            0.421875,
+                            0.4984375,
+                            0.5625,
+                            0.4765625,
+                            0.3697916666666667,
+                            0.3472222222222222,
+                            0.421875,
+                            0.3125,
+                            0.146875,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.09375,
+                            0.1875,
+                            0.35546875,
+                            0.453125,
+                            0.384765625,
+                            0.359375,
+                            0.3392857142857143,
+                            0.40625,
+                            0.4107142857142857,
+                            0.4375,
+                            0.484375,
+                            0.40625,
+                            0.234375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.1875,
+                            0.2857142857142857,
+                            0.390625,
+                            0.3125,
+                            0.4265625,
+                            0.453125,
+                            0.46249999999999997,
+                            0.39285714285714285,
+                            0.390625,
+                            0.39285714285714285,
+                            0.359375,
+                            0.25,
+                            0.14453125,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.2,
+                            0.31000000000000005,
+                            0.44999999999999996,
+                            0.4,
+                            0.33125,
+                            0.33125,
+                            0.3861111111111111,
+                            0.48125,
+                            0.5,
+                            0.45625,
+                            0.3625,
+                            0.253125,
+                            0.14166666666666666,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 9481,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 33602,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 22.668552,
+                "longitude": 120.301004
+            },
+            "commonSiteName": "Hanshin Arena",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 10,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "12:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 9,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "04:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "20:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 10,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "12:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "00:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 10,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "20:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "04:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 8,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "00:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 15,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 22.668062,
+                "longitude": 120.300728
+            },
+            "locationGUID": "240913db-cff3-4c86-adfe-9c60c4cd30d5",
+            "maxPowerKw": 250,
+            "name": "Kaohsiung, Zuoying - Hanshin Arena",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

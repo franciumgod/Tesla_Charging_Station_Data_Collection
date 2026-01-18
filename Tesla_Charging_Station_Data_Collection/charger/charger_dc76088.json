@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arlington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22201",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Wilson Blvd",
+                "streetNumber": "3033"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.8882,
+                "longitude": -77.094484
+            },
+            "commonSiteName": "Clarendon Square",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.8882,
+                "longitude": -77.094484
+            },
+            "locationGUID": "35f463a9-ea09-4f53-a878-26be1ef44474",
+            "maxPowerKw": 8,
+            "name": "Clarendon Square",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

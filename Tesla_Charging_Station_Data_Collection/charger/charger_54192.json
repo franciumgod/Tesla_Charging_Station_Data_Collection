@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Merrill",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54452",
+                "postalExt": null,
+                "state": "WI",
+                "street": "E Main St",
+                "streetNumber": "3350"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.1784,
+                "longitude": -89.65272
+            },
+            "commonSiteName": "Pine Ridge Mobil",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.1784,
+                "longitude": -89.65272
+            },
+            "locationGUID": "1b558c6c-1ec5-48b7-98dd-d6945b2b2089",
+            "maxPowerKw": 9,
+            "name": "Pine Ridge Mobil",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

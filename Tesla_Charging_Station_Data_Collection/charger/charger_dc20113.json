@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Naples",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34102",
+                "postalExt": null,
+                "state": "FL",
+                "street": "5th Ave S",
+                "streetNumber": "1345"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.141588,
+                "longitude": -81.788079
+            },
+            "commonSiteName": "Hyatt House Naples/5th Avenue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.141588,
+                "longitude": -81.788079
+            },
+            "locationGUID": "cae34aee-bb27-4484-8aef-3d880c6f1431",
+            "maxPowerKw": 8,
+            "name": "Hyatt House Naples/5th Avenue",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

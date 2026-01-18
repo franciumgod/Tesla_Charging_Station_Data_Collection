@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sankt Anton am Arlberg",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6580",
+                "postalExt": null,
+                "state": null,
+                "street": "Nassereinerstraße",
+                "streetNumber": "98"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.139467,
+                "longitude": 10.276988
+            },
+            "commonSiteName": "Hotel Restaurant Tannenhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.139467,
+                "longitude": 10.276988
+            },
+            "locationGUID": "c5a3d170-5ebf-4374-88f3-2a079bad3971",
+            "maxPowerKw": 22,
+            "name": "Hotel Restaurant Tannenhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

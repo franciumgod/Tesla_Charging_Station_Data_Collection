@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Uttendorf",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5723",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfplatz",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.284731,
+                "longitude": 12.57265
+            },
+            "commonSiteName": "Scharlers Boutique Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.284731,
+                "longitude": 12.57265
+            },
+            "locationGUID": "27b3f60e-a7eb-455b-99ab-e0f6145ff600",
+            "maxPowerKw": 14,
+            "name": "Scharlers Boutique Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Terrebonne",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J6X 0B2",
+                "postalExt": null,
+                "state": "QC",
+                "street": "chemin Martin",
+                "streetNumber": "3737"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.74431,
+                "longitude": -73.720322
+            },
+            "commonSiteName": "Golf Le Mirage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.74431,
+                "longitude": -73.720322
+            },
+            "locationGUID": "d8d1e06c-aeef-4a8e-a6e2-f57fd284323f",
+            "maxPowerKw": 16,
+            "name": "Golf Le Mirage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

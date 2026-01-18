@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Banbridge",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BT32 4LF",
+                "postalExt": null,
+                "state": null,
+                "street": "Cascum Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.331849,
+                "longitude": -6.277309
+            },
+            "commonSiteName": "The Outlet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.331849,
+                "longitude": -6.277309
+            },
+            "locationGUID": "686eacce-6f5d-4d1f-8ed5-8d4273d4a92b",
+            "maxPowerKw": 7,
+            "name": "The Outlet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

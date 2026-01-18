@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92101",
+                "postalExt": null,
+                "state": "CA",
+                "street": "J St",
+                "streetNumber": "550"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.709565,
+                "longitude": -117.159897
+            },
+            "commonSiteName": "Pendry San Diego",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.709565,
+                "longitude": -117.159897
+            },
+            "locationGUID": "a6a93360-3c78-47f8-a1c7-4e6a00098c18",
+            "maxPowerKw": 16,
+            "name": "Pendry San Diego",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

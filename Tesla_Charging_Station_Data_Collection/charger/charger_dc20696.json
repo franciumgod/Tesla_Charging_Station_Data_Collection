@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tijuana",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22000",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "La Pechuga",
+                "streetNumber": "Rampa Aeropuerto 16000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.530066,
+                "longitude": -116.955914
+            },
+            "commonSiteName": "Fiesta Inn Tijuana Otay Aeropuerto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.530066,
+                "longitude": -116.955914
+            },
+            "locationGUID": "2584c999-cdce-45a3-bbbd-0c3872d6cca2",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Tijuana Otay Aeropuerto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

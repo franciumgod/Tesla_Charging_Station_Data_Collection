@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brno",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "61600",
+                "postalExt": null,
+                "state": null,
+                "street": "Sochorova",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.212834,
+                "longitude": 16.567008
+            },
+            "commonSiteName": "AVRIOPOINT Brno",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.212834,
+                "longitude": 16.567008
+            },
+            "locationGUID": "2af7f60a-5cff-4c13-b451-653cfc72c25b",
+            "maxPowerKw": 22,
+            "name": "AVRIOPOINT Brno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

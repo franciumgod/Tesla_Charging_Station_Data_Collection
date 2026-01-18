@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "West Palm Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33415",
+                "postalExt": null,
+                "state": "FL",
+                "street": "James L Turnage Blvd",
+                "streetNumber": "1000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.688488,
+                "longitude": -80.090259
+            },
+            "commonSiteName": "Palm Beach Airport - Short Term Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.688488,
+                "longitude": -80.090259
+            },
+            "locationGUID": "f0746082-80b6-4b7a-8986-2de9888b589f",
+            "maxPowerKw": 16,
+            "name": "Palm Beach Airport - Short Term Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

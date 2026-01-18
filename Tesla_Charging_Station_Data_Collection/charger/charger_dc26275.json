@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rye",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3941",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Nelson St",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.371155,
+                "longitude": 144.820936
+            },
+            "commonSiteName": "One Four Nelson",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.371155,
+                "longitude": 144.820936
+            },
+            "locationGUID": "2ef96698-2d59-4412-a8cf-3d4ace033de3",
+            "maxPowerKw": 22,
+            "name": "One Four Nelson",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

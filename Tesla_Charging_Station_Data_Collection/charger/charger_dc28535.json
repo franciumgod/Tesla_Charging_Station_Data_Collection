@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Winnipeg",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "R3P 2K9",
+                "postalExt": null,
+                "state": "MB",
+                "street": "McCreary Rd",
+                "streetNumber": "1961"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.820331,
+                "longitude": -97.225075
+            },
+            "commonSiteName": "Fort Whyte Alive",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.820331,
+                "longitude": -97.225075
+            },
+            "locationGUID": "38375bbc-38f7-4939-ad53-920623e0778d",
+            "maxPowerKw": 16,
+            "name": "Fort Whyte Alive",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Winnipeg"
+        },
+        "success": true
+    }
+}

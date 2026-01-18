@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Jungholtz",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "68500",
+                "postalExt": null,
+                "state": null,
+                "street": "Route Jungholtz",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.879053,
+                "longitude": 7.190163
+            },
+            "commonSiteName": "Hôtel & Spa Les Violettes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.879053,
+                "longitude": 7.190163
+            },
+            "locationGUID": "da8bbffc-9c52-4ba0-925c-482dc26126ad",
+            "maxPowerKw": 11,
+            "name": "Hôtel & Spa Les Violettes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

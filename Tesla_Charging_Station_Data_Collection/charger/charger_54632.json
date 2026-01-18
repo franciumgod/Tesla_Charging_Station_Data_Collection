@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28042",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Galeon",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.457968,
+                "longitude": -3.583363
+            },
+            "commonSiteName": "Sercotel Madrid Aeropuerto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.457968,
+                "longitude": -3.583363
+            },
+            "locationGUID": "8bd14e71-07ea-4007-b83f-8fbd40472cec",
+            "maxPowerKw": 7,
+            "name": "Sercotel Madrid Aeropuerto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

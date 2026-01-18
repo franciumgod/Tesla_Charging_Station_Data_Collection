@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano Marittima",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48015",
+                "postalExt": null,
+                "state": null,
+                "street": "Via VII Traversa Mare",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.28474,
+                "longitude": 12.349947
+            },
+            "commonSiteName": "Hotel Waldorf",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.28474,
+                "longitude": 12.349947
+            },
+            "locationGUID": "1d1e9786-ca68-4456-ae04-a2b81d187732",
+            "maxPowerKw": 22,
+            "name": "Hotel Waldorf",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

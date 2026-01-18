@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22747",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Middle St",
+                "streetNumber": "309"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.713727,
+                "longitude": -78.159574
+            },
+            "commonSiteName": "The Inn at Little Washington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.713727,
+                "longitude": -78.159574
+            },
+            "locationGUID": "09dc248d-ac22-4ae9-a171-a5c1f5b6b1d6",
+            "maxPowerKw": 16,
+            "name": "The Inn at Little Washington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

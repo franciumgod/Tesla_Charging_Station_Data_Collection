@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Martin",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5522",
+                "postalExt": null,
+                "state": null,
+                "street": "Lammerhofweg 2",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.497102,
+                "longitude": 13.373558
+            },
+            "commonSiteName": "Alpengasthof Laemmerhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.497102,
+                "longitude": 13.373558
+            },
+            "locationGUID": "f26b5c42-e154-4a86-bce3-c5ce058d8dc8",
+            "maxPowerKw": 22,
+            "name": "Alpengasthof Laemmerhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

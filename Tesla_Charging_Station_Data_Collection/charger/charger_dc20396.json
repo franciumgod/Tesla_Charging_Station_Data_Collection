@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gosforth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CA20 1JA",
+                "postalExt": null,
+                "state": "Cumbria",
+                "street": "The Kellbank",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.4175,
+                "longitude": -3.4309
+            },
+            "commonSiteName": "The Kellbank Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.4175,
+                "longitude": -3.4309
+            },
+            "locationGUID": "25293624-5fea-4be8-bfde-2ceaf77915dc",
+            "maxPowerKw": 7,
+            "name": "The Kellbank Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

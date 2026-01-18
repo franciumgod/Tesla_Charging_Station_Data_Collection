@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Puebla",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72000",
+                "postalExt": null,
+                "state": "PUE",
+                "street": "Del Alto, Barrio del Alto,",
+                "streetNumber": "Calle 10 Nte. 1406"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.045994,
+                "longitude": -98.18901
+            },
+            "commonSiteName": "City Express Puebla Centro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.045994,
+                "longitude": -98.18901
+            },
+            "locationGUID": "d1c53898-94bf-415d-80b7-1ca3d8a4dc0e",
+            "maxPowerKw": 18,
+            "name": "City Express Puebla Centro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

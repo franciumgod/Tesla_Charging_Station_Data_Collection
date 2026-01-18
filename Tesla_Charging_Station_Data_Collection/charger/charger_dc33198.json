@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queenstown",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9300",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Beach Street",
+                "streetNumber": "93"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -45.033273,
+                "longitude": 168.656901
+            },
+            "commonSiteName": "Crowne Plaza Queenstown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -45.033273,
+                "longitude": 168.656901
+            },
+            "locationGUID": "08c5c07a-c8ab-4307-b375-b91974b45da7",
+            "maxPowerKw": 14,
+            "name": "Crowne Plaza Queenstown",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

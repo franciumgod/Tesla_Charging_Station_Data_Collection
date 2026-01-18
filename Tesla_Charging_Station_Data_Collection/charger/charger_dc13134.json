@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43228",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Maxwell Pl",
+                "streetNumber": "5495"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.978948,
+                "longitude": -83.145259
+            },
+            "commonSiteName": "Holiday Inn Columbus - Hilliard",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.978948,
+                "longitude": -83.145259
+            },
+            "locationGUID": "febeacdc-9f7c-4a7f-9b4d-fc453bfaf7d8",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Columbus - Hilliard",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

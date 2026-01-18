@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dublin",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "D02 HE18",
+                "postalExt": null,
+                "state": null,
+                "street": "St. Stephen's Green",
+                "streetNumber": "127/128"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.339419,
+                "longitude": -6.26148
+            },
+            "commonSiteName": "The Fitzwillian Hotel Dublin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.339419,
+                "longitude": -6.26148
+            },
+            "locationGUID": "c50943af-b00d-4ba2-9ee5-b9ef47338642",
+            "maxPowerKw": 22,
+            "name": "The Fitzwillian Hotel Dublin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Los Gatos",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95030",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Los Gatos/Saratoga Rd",
+                "streetNumber": "165"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.227975,
+                "longitude": -121.980024
+            },
+            "commonSiteName": "Flights Restaurant Los Gatos",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.227975,
+                "longitude": -121.980024
+            },
+            "locationGUID": "755997ff-8c11-4de4-96ba-247a41f5ea9f",
+            "maxPowerKw": 16,
+            "name": "Flights Restaurant Los Gatos",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

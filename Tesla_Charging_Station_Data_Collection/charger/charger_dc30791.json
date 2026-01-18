@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fish Creek",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54212",
+                "postalExt": null,
+                "state": "WI",
+                "street": "Main St",
+                "streetNumber": "4209"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.1278397,
+                "longitude": -87.2490737
+            },
+            "commonSiteName": "Main Street Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.1278397,
+                "longitude": -87.2490737
+            },
+            "locationGUID": "f1379507-1a17-43fc-9ac5-04523c0e7a18",
+            "maxPowerKw": 16,
+            "name": "Main Street Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

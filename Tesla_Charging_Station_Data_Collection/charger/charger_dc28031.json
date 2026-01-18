@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "울산시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "44033",
+                "postalExt": null,
+                "state": "울산광역시",
+                "street": "동구 방어진순환도로",
+                "streetNumber": "875"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.519702,
+                "longitude": 129.430355
+            },
+            "commonSiteName": "현대 호텔 울산",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.519702,
+                "longitude": 129.430355
+            },
+            "locationGUID": "09f727e9-6b2e-48b5-8f90-fc5e80b56873",
+            "maxPowerKw": 7,
+            "name": "Hyundai Hotel Ulsan",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

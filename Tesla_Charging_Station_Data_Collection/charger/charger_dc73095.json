@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Amman",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "N/A",
+                "postalExt": null,
+                "state": "Airport",
+                "street": "Airport Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.852459,
+                "longitude": 35.896699
+            },
+            "commonSiteName": "Dunes Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.852459,
+                "longitude": 35.896699
+            },
+            "locationGUID": "2d52065e-0bdc-4ace-969c-874c88cfafe9",
+            "maxPowerKw": 22,
+            "name": "Dunes Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

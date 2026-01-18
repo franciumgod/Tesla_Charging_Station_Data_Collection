@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Edinburgh",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "EH1 1TH",
+                "postalExt": null,
+                "state": "Lothian",
+                "street": "80 The High Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.950078,
+                "longitude": -3.186821
+            },
+            "commonSiteName": "Radisson Blu Hotel Edinburgh",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.950078,
+                "longitude": -3.186821
+            },
+            "locationGUID": "6856e05e-d20f-429b-979f-296d15123949",
+            "maxPowerKw": 13,
+            "name": "Radisson Blu Hotel Edinburgh",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10023",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 63rd St",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.770772,
+                "longitude": -73.981795
+            },
+            "commonSiteName": "Icon Parking 30 W 63rd St",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.770772,
+                "longitude": -73.981795
+            },
+            "locationGUID": "14c10909-1adf-49bb-8eaa-1c9b48d2d72b",
+            "maxPowerKw": 16,
+            "name": "Icon Parking 30 W 63rd St",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

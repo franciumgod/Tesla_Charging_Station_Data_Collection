@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rogoznica",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22203",
+                "postalExt": null,
+                "state": null,
+                "street": "Uvala Soline",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.53195621,
+                "longitude": 15.96056331
+            },
+            "commonSiteName": "Marina Frapa Rogoznica",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.53195621,
+                "longitude": 15.96056331
+            },
+            "locationGUID": "eca0ede6-608a-4add-8400-49a5338d0657",
+            "maxPowerKw": 11,
+            "name": "Marina Frapa Rogoznica",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

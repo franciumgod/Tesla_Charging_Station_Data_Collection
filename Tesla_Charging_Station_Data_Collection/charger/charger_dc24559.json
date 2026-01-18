@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Leonhard",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6481",
+                "postalExt": null,
+                "state": null,
+                "street": "Stillebach",
+                "streetNumber": "83"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.046171,
+                "longitude": 10.862758
+            },
+            "commonSiteName": "Biohotel Stillebach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.046171,
+                "longitude": 10.862758
+            },
+            "locationGUID": "e0c6415b-4c00-4600-be48-7cab986f1e06",
+            "maxPowerKw": 11,
+            "name": "Biohotel Stillebach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

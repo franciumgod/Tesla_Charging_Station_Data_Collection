@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vail",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81657",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Vail Rd",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.64258,
+                "longitude": -106.378004
+            },
+            "commonSiteName": "The Sebastian - Vail",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.64258,
+                "longitude": -106.378004
+            },
+            "locationGUID": "9e4cf7a7-5229-4e44-b77e-488e07559cbe",
+            "maxPowerKw": 16,
+            "name": "The Sebastian - Vail",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

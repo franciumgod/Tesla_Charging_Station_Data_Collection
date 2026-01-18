@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Antonio",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78205",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Villita St",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.422799,
+                "longitude": -98.493049
+            },
+            "commonSiteName": "Riverwalk Plaza Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.422799,
+                "longitude": -98.493049
+            },
+            "locationGUID": "ab76fba9-a24e-4411-ba3d-11148c561629",
+            "maxPowerKw": 8,
+            "name": "Riverwalk Plaza Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

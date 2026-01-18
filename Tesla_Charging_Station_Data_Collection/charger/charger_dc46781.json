@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kinloch Rannoch",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "PH16 5PW",
+                "postalExt": null,
+                "state": "Pitlochry",
+                "street": "1, The Square",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.700737,
+                "longitude": -4.187606
+            },
+            "commonSiteName": "Dunalastair Hotel Suites",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.700737,
+                "longitude": -4.187606
+            },
+            "locationGUID": "bb1f2d55-7a7e-4659-961b-ee8714695276",
+            "maxPowerKw": 13,
+            "name": "Dunalastair Hotel Suites",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlottesville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22903",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Main Street",
+                "streetNumber": "852"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.031934,
+                "longitude": -78.493365
+            },
+            "commonSiteName": "The Flats at West Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.031934,
+                "longitude": -78.493365
+            },
+            "locationGUID": "ad633036-8f9e-41b3-91bb-8721411cd366",
+            "maxPowerKw": 16,
+            "name": "The Flats at West Village",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

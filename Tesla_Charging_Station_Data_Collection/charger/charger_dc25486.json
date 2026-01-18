@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sutton Coldfield",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "B76 1LH",
+                "postalExt": null,
+                "state": "West Midlands",
+                "street": "Penns Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.53636,
+                "longitude": -1.807692
+            },
+            "commonSiteName": "Ramada Birmingham Sutton Coldfield",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.53636,
+                "longitude": -1.807692
+            },
+            "locationGUID": "a1d69975-6a4d-4086-91f8-3348d9fb47c8",
+            "maxPowerKw": 6,
+            "name": "Ramada Birmingham Sutton Coldfield",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

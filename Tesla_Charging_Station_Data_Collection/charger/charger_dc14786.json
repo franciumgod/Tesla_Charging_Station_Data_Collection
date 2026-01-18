@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10010",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 26th St",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.744467,
+                "longitude": -73.990662
+            },
+            "commonSiteName": "Icon Parking 40 W 26th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.744467,
+                "longitude": -73.990662
+            },
+            "locationGUID": "bdd4df4c-578e-40b5-bede-e83c63bb0688",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 40 W 26th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paspels",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7417",
+                "postalExt": null,
+                "state": null,
+                "street": "Domleschgerstrasse",
+                "streetNumber": "80"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.750024,
+                "longitude": 9.44329
+            },
+            "commonSiteName": "Restaurant Triangel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.750024,
+                "longitude": 9.44329
+            },
+            "locationGUID": "22f2c630-c13b-425c-bc60-2ca446c73cb5",
+            "maxPowerKw": 11,
+            "name": "Restaurant Triangel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ocean City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21842",
+                "postalExt": null,
+                "state": "MD",
+                "street": "Coastal Hwy",
+                "streetNumber": "9100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.407642,
+                "longitude": -75.058072
+            },
+            "commonSiteName": "Princess Royale Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.407642,
+                "longitude": -75.058072
+            },
+            "locationGUID": "a9e653b2-dbd7-4f34-bd8e-8cda6e96a7f3",
+            "maxPowerKw": 8,
+            "name": "Princess Royale Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

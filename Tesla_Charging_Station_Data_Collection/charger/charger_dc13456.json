@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kungsbacka",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "434 32",
+                "postalExt": null,
+                "state": null,
+                "street": "Storgatan",
+                "streetNumber": "35"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.489045,
+                "longitude": 12.077941
+            },
+            "commonSiteName": "Hotell Halland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.489045,
+                "longitude": 12.077941
+            },
+            "locationGUID": "e0f2a9fe-f323-403b-8e16-144bac1b2134",
+            "maxPowerKw": 11,
+            "name": "Hotell Halland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

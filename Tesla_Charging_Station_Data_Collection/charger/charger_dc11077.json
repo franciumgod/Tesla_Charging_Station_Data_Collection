@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20007",
+                "postalExt": null,
+                "state": "DC",
+                "street": "31st St NW",
+                "streetNumber": "1050"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.904031,
+                "longitude": -77.061463
+            },
+            "commonSiteName": "Capella Washington, D.C.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.904031,
+                "longitude": -77.061463
+            },
+            "locationGUID": "dc2594c8-fbaf-4988-914e-38625a4d4881",
+            "maxPowerKw": 16,
+            "name": "Capella Washington, D.C.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

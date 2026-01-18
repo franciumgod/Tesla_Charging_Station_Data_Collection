@@ -1,0 +1,417 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "22:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Anif-Salzburg",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5081",
+                "postalExt": null,
+                "state": null,
+                "street": "Salzachtal Bundesstraße",
+                "streetNumber": "135"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.02083333333333333,
+                            0,
+                            0.027777777777777773,
+                            0.027777777777777773,
+                            0.059027777777777776,
+                            0.046875,
+                            0.07708333333333334,
+                            0.09809027777777778,
+                            0.1553030303030303,
+                            0.21113782051282048,
+                            0.27083333333333326,
+                            0.2864583333333333,
+                            0.29557291666666663,
+                            0.3020833333333333,
+                            0.3223039215686274,
+                            0.3072916666666667,
+                            0.3137254901960785,
+                            0.3125,
+                            0.3008578431372549,
+                            0.22256944444444443,
+                            0.2902756211180124,
+                            0.31994047619047616,
+                            0.27379514607775485,
+                            0.1828703703703704
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.055555555555555546,
+                            0,
+                            0,
+                            0,
+                            0.010416666666666671,
+                            0.04895833333333334,
+                            0.10416666666666666,
+                            0.1875,
+                            0.234375,
+                            0.2552083333333333,
+                            0.2604166666666667,
+                            0.2738095238095238,
+                            0.28125,
+                            0.28645833333333337,
+                            0.2764136904761905,
+                            0.3041087962962963,
+                            0.3229166666666667,
+                            0.2841435185185185,
+                            0.1826923076923077,
+                            0.1341382575757576,
+                            0.1978256894310359,
+                            0.21674332611832609,
+                            0.1719088819498655,
+                            0.055555555555555546
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.07638888888888887,
+                            0.08333333333333331,
+                            0.07638888888888887,
+                            0.055555555555555546,
+                            0.05208333333333333,
+                            0.05324074074074074,
+                            0.0625,
+                            0.10677083333333334,
+                            0.181547619047619,
+                            0.2552083333333333,
+                            0.32708333333333334,
+                            0.36458333333333326,
+                            0.38411458333333326,
+                            0.359375,
+                            0.3179824561403509,
+                            0.2885416666666667,
+                            0.29261363636363635,
+                            0.27939910468319556,
+                            0.23137408568443052,
+                            0.17099163274536408,
+                            0.09933592251630224,
+                            0.050798160173160176,
+                            0.02083333333333333,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.027777777777777773,
+                            0.04166666666666666,
+                            0.04166666666666666,
+                            0.08888888888888886,
+                            0.06631944444444443,
+                            0.0767361111111111,
+                            0.04166666666666668,
+                            0.0630997474747475,
+                            0.13803030303030303,
+                            0.20086711329715062,
+                            0.24952651515151517,
+                            0.2533143939393939,
+                            0.2528479760289462,
+                            0.27322036937421557,
+                            0.29640151515151514,
+                            0.29372870719024563,
+                            0.30300245098039214,
+                            0.30729166666666663,
+                            0.25674019607843135,
+                            0.1875,
+                            0.11067708333333334,
+                            0.1284722222222222,
+                            0.08333333333333331,
+                            0.08333333333333331
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.02083333333333333,
+                            0.04166666666666666,
+                            0.02083333333333333,
+                            0.02083333333333333,
+                            0.025,
+                            0.05,
+                            0.09047619047619049,
+                            0.10833333333333335,
+                            0.14375000000000002,
+                            0.20570175438596489,
+                            0.2833333333333333,
+                            0.2956140350877193,
+                            0.24351851851851855,
+                            0.2158854166666667,
+                            0.20327380952380952,
+                            0.21666666666666667,
+                            0.16815476190476186,
+                            0.17756410256410257,
+                            0.17083333333333334,
+                            0.18205128205128204,
+                            0.18633432539682537,
+                            0.1663690476190476,
+                            0.12660125248015874,
+                            0.031249999999999993
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.027777777777777773,
+                            0.027777777777777773,
+                            0,
+                            0.027777777777777773,
+                            0.027777777777777773,
+                            0.059974747474747486,
+                            0.050447658402203874,
+                            0.09090909090909094,
+                            0.14772727272727273,
+                            0.22916666666666663,
+                            0.28645833333333326,
+                            0.29557291666666663,
+                            0.296875,
+                            0.3125,
+                            0.3125,
+                            0.31803385416666663,
+                            0.2864583333333333,
+                            0.23697916666666663,
+                            0.16666666666666663,
+                            0.13194444444444442,
+                            0.09722222222222221,
+                            0.07291666666666666,
+                            0.04166666666666666,
+                            0.04166666666666666
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.02083333333333333,
+                            0.04166666666666666,
+                            0.02083333333333333,
+                            0.04166666666666666,
+                            0.026041666666666664,
+                            0.05729166666666667,
+                            0.07083333333333333,
+                            0.14441287878787878,
+                            0.2009548611111111,
+                            0.23958333333333331,
+                            0.2348090277777778,
+                            0.22916666666666666,
+                            0.24813988095238093,
+                            0.265625,
+                            0.22619047619047616,
+                            0.203125,
+                            0.17708333333333331,
+                            0.14791666666666667,
+                            0.13020833333333331,
+                            0.1130952380952381,
+                            0.11309523809523808,
+                            0.10492589893100099,
+                            0.0505952380952381,
+                            0.0625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 303,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 1677,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "3600s"
+            },
+            "centroid": {
+                "latitude": 47.727015,
+                "longitude": 13.060535
+            },
+            "commonSiteName": "Hotel Kaiserhof",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.3,
+                    "rateMinTier2": 0.6,
+                    "rateMinTier3": 0.93,
+                    "rateMinTier4": 1.58,
+                    "rateTier1": 0.3,
+                    "rateTier2": 0.6,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.42,
+                    "rateMinTier2": 0.84,
+                    "rateMinTier3": 1.31,
+                    "rateMinTier4": 2.2,
+                    "rateTier1": 0.42,
+                    "rateTier2": 0.84,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.35,
+                    "rateMinTier2": 0.7,
+                    "rateMinTier3": 1.09,
+                    "rateMinTier4": 1.84,
+                    "rateTier1": 0.35,
+                    "rateTier2": 0.7,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "MSP"
+                },
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.42,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "MSP"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 47.727204,
+                "longitude": 13.060426
+            },
+            "locationGUID": "21daf7f6-3f05-4750-9e92-9159a8da2cb1",
+            "maxPowerKw": 125,
+            "name": "Salzburg, Austria - Anif",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

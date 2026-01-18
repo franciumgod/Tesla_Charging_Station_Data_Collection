@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66278",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Haciendas de La Sierra, Lazaro Cardenas",
+                "streetNumber": "Lazaro Cardenas 2400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.650346,
+                "longitude": -100.333754
+            },
+            "commonSiteName": "Metropolitan Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.650346,
+                "longitude": -100.333754
+            },
+            "locationGUID": "2ad05ced-b687-4b99-b2f7-c82b3b48d304",
+            "maxPowerKw": 13,
+            "name": "Metropolitan Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

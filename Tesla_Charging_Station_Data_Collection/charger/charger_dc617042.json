@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Olhão",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8700",
+                "postalExt": "000",
+                "state": null,
+                "street": "Avenida 5 de outubro",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.023878,
+                "longitude": -7.847187
+            },
+            "commonSiteName": "Real Marina Hotel & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.023878,
+                "longitude": -7.847187
+            },
+            "locationGUID": "6d3e3531-33fb-4b21-bc2e-28bfd929ae77",
+            "maxPowerKw": 22,
+            "name": "Real Marina Hotel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

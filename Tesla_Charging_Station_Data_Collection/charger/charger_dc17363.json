@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Billiers",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "56190",
+                "postalExt": null,
+                "state": null,
+                "street": "Pointe de Penlan",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.514587,
+                "longitude": -2.501088
+            },
+            "commonSiteName": "Domaine de Rochevilaine",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.514587,
+                "longitude": -2.501088
+            },
+            "locationGUID": "54230e23-655a-4be3-98ff-a659935e3c35",
+            "maxPowerKw": 17,
+            "name": "Domaine de Rochevilaine",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

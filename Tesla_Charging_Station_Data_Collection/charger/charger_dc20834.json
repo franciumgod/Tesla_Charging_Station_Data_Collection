@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mexicali",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21100",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Nueva",
+                "streetNumber": "Ave. Fco. I. Madero y Calle H S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.666651,
+                "longitude": -115.46488
+            },
+            "commonSiteName": "Restaurante Heidelberg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.666651,
+                "longitude": -115.46488
+            },
+            "locationGUID": "3900114c-9ff4-4f4a-8931-57ea6c57156c",
+            "maxPowerKw": 18,
+            "name": "Restaurante Heidelberg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

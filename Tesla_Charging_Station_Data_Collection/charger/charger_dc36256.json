@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nashville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "47448",
+                "postalExt": null,
+                "state": "IN",
+                "street": "State Rd 46 E",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.201818,
+                "longitude": -86.245798
+            },
+            "commonSiteName": "The Brown County Inn and Conference Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.201818,
+                "longitude": -86.245798
+            },
+            "locationGUID": "a4c8efde-9af7-4f9f-a3fb-3d659095b6d7",
+            "maxPowerKw": 16,
+            "name": "The Brown County Inn and Conference Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Indiana/Tell_City"
+        },
+        "success": true
+    }
+}

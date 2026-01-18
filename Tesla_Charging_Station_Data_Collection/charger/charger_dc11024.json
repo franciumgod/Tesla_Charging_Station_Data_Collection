@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Verbier",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1936",
+                "postalExt": null,
+                "state": "Verbier",
+                "street": "Rue de Medran",
+                "streetNumber": "70"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.092741,
+                "longitude": 7.233258
+            },
+            "commonSiteName": "W Verbier Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.092741,
+                "longitude": 7.233258
+            },
+            "locationGUID": "10ce234f-ba70-4bc5-b3f7-0849bd0d6f92",
+            "maxPowerKw": 22,
+            "name": "W Verbier Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

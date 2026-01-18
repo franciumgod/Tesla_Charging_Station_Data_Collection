@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berchtesgaden",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83471",
+                "postalExt": null,
+                "state": null,
+                "street": "Maximilianstrasse",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.632095,
+                "longitude": 13.001962
+            },
+            "commonSiteName": "Edelweiss Berchtesgaden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.632095,
+                "longitude": 13.001962
+            },
+            "locationGUID": "bd301d52-b421-4fe5-83f7-f192491aef40",
+            "maxPowerKw": 22,
+            "name": "Edelweiss Berchtesgaden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

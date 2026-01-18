@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Goolwa",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5214",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Goolwa Ter",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.502955,
+                "longitude": 138.78418
+            },
+            "commonSiteName": "Goolwa Visitor Information Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.502955,
+                "longitude": 138.78418
+            },
+            "locationGUID": "53bed868-20e0-4911-8205-857854d8fb3e",
+            "maxPowerKw": 22,
+            "name": "Goolwa Visitor Information Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

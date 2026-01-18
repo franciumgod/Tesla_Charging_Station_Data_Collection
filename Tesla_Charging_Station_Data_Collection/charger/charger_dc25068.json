@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dornbirn",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6850",
+                "postalExt": null,
+                "state": null,
+                "street": "Messestrasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.412277,
+                "longitude": 9.714029
+            },
+            "commonSiteName": "Panoramahaus Dornbirn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.412277,
+                "longitude": 9.714029
+            },
+            "locationGUID": "482c039f-0aaf-4f10-833b-4b552f754de5",
+            "maxPowerKw": 22,
+            "name": "Panoramahaus Dornbirn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

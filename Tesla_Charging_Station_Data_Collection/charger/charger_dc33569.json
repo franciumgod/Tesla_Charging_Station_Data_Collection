@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Binghamton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "13905",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Upper Front St",
+                "streetNumber": "864"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.1305299,
+                "longitude": -75.9054211
+            },
+            "commonSiteName": "Fairfield Inn by Marriott Binghamton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.1305299,
+                "longitude": -75.9054211
+            },
+            "locationGUID": "7250b60d-71c7-47a4-938e-5245de63912b",
+            "maxPowerKw": 16,
+            "name": "Fairfield Inn by Marriott Binghamton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

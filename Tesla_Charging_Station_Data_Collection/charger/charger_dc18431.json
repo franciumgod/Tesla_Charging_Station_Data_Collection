@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chattanooga",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "37402",
+                "postalExt": null,
+                "state": "TN",
+                "street": "Chestnut St",
+                "streetNumber": "434"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.051119,
+                "longitude": -85.311229
+            },
+            "commonSiteName": "Holiday Inn & Suites Chattanooga Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.051119,
+                "longitude": -85.311229
+            },
+            "locationGUID": "01129c68-056c-48bf-a7f1-1aa199e4f54c",
+            "maxPowerKw": 0,
+            "name": "Holiday Inn & Suites Chattanooga Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

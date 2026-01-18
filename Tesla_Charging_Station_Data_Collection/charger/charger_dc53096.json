@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Engelberg",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6390",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstr.",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.819925,
+                "longitude": 8.401555
+            },
+            "commonSiteName": "Hotel Crystal Engelberg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.819925,
+                "longitude": 8.401555
+            },
+            "locationGUID": "cd70e16e-58a6-4b65-b3c8-3a8b37edab85",
+            "maxPowerKw": 14,
+            "name": "Hotel Crystal Engelberg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

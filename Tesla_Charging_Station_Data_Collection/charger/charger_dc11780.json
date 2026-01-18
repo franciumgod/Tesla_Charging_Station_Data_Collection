@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Heidelberg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69117",
+                "postalExt": null,
+                "state": "Germany",
+                "street": "Friedrich-Ebert-Anlage",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.407828,
+                "longitude": 8.695266
+            },
+            "commonSiteName": "Europäischer Hof Heidelberg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.407828,
+                "longitude": 8.695266
+            },
+            "locationGUID": "196ce44c-f5ce-4978-b7f8-9740f8d66bba",
+            "maxPowerKw": 22,
+            "name": "Europaeischer Hof Heidelberg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

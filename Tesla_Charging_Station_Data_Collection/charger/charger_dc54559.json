@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vysoke Tatry",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "062 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Tatranska Polianka",
+                "streetNumber": "32"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.156079,
+                "longitude": 20.156586
+            },
+            "commonSiteName": "Sliezsky dom",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.156079,
+                "longitude": 20.156586
+            },
+            "locationGUID": "bead65d2-1951-4bc3-87c1-64eab4e58a2d",
+            "maxPowerKw": 11,
+            "name": "Sliezsky dom",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

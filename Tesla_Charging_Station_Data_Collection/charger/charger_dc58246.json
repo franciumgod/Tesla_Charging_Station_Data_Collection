@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cd de Allende",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "67350",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "San Javier, Centro de Allende",
+                "streetNumber": "Carretera Nacional #1601 Norte"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.286677,
+                "longitude": -100.034548
+            },
+            "commonSiteName": "Cafe Sierra Norte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.286677,
+                "longitude": -100.034548
+            },
+            "locationGUID": "70624bb9-263f-4a1c-a283-bb1d5adf6405",
+            "maxPowerKw": 6,
+            "name": "Cafe Sierra Norte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

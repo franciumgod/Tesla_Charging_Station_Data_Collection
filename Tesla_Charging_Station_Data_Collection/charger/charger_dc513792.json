@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Giessen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "35392",
+                "postalExt": null,
+                "state": null,
+                "street": "Aulweg",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.575386,
+                "longitude": 8.678251
+            },
+            "commonSiteName": "Hotel & Restaurant heyligenstaedt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.575386,
+                "longitude": 8.678251
+            },
+            "locationGUID": "942d1c56-607d-42b1-8ee8-c901a82b3d82",
+            "maxPowerKw": 11,
+            "name": "Hotel & Restaurant heyligenstaedt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

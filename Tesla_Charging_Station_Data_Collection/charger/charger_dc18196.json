@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Praha 2",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "12000",
+                "postalExt": null,
+                "state": null,
+                "street": "Spanelska",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.080146,
+                "longitude": 14.435761
+            },
+            "commonSiteName": "MR.PARKIT Spanelska 12",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.080146,
+                "longitude": 14.435761
+            },
+            "locationGUID": "55e069a1-0eb8-42d1-ab76-e5b2a2567049",
+            "maxPowerKw": 22,
+            "name": "MR.PARKIT Spanelska 12",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

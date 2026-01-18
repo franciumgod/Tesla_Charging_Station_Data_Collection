@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sydney",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2000",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "George St",
+                "streetNumber": "455"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.871257,
+                "longitude": 151.206304
+            },
+            "commonSiteName": "Queen Victoria Building - Valet Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.871257,
+                "longitude": 151.206304
+            },
+            "locationGUID": "a9766b4e-7967-4c77-b7d4-7ec6dc4c3744",
+            "maxPowerKw": 22,
+            "name": "Queen Victoria Building - Valet Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92122",
+                "postalExt": null,
+                "state": "CA",
+                "street": "La Jolla Village Dr",
+                "streetNumber": "4550"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.874767,
+                "longitude": -117.208742
+            },
+            "commonSiteName": "Embassy Suites Hotel - San Diego, La Jolla",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.874767,
+                "longitude": -117.208742
+            },
+            "locationGUID": "02ec4e5d-a381-46b4-803f-e609939c0598",
+            "maxPowerKw": 6,
+            "name": "Embassy Suites Hotel - San Diego, La Jolla",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

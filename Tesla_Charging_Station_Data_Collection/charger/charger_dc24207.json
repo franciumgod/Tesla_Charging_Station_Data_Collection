@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Saint-Denis-le-Thiboult",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "76116",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Château",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.452786,
+                "longitude": 1.363544
+            },
+            "commonSiteName": "Château de Belmesnil",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.452786,
+                "longitude": 1.363544
+            },
+            "locationGUID": "4a65d878-9e15-4974-8701-b2708160c11b",
+            "maxPowerKw": 11,
+            "name": "Château de Belmesnil",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

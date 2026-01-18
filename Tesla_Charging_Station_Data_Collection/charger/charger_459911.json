@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kasukabe",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "344",
+                "postalExt": "0026",
+                "state": "Saitama",
+                "street": "Takesatonakano",
+                "streetNumber": "548-1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.95413,
+                "longitude": 139.75195
+            },
+            "commonSiteName": "ヒロファーム",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.95413,
+                "longitude": 139.75195
+            },
+            "locationGUID": "821102f2-393d-4840-b053-c71bc40d2325",
+            "maxPowerKw": 4,
+            "name": "Hiro Farm",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

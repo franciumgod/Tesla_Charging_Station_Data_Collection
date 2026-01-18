@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28014",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle del Prado",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.415024,
+                "longitude": -3.698171
+            },
+            "commonSiteName": "Hotel Vincci Soho",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.415024,
+                "longitude": -3.698171
+            },
+            "locationGUID": "d84afb80-11e5-4810-a0b2-8edc0c4c6c75",
+            "maxPowerKw": 22,
+            "name": "Hotel Vincci Soho",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

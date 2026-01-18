@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11000",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Lomas - Virreyes, Lomas de Chapultepec V Secc",
+                "streetNumber": "Av. Paseo de las Palmas 340"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.429584,
+                "longitude": -99.211029
+            },
+            "commonSiteName": "Altezza Palmas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.429584,
+                "longitude": -99.211029
+            },
+            "locationGUID": "78bd123c-f84d-4746-838c-5e71f61106b6",
+            "maxPowerKw": 6,
+            "name": "Altezza Palmas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

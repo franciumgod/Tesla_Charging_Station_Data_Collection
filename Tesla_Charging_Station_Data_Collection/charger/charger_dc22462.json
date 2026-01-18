@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8028",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avenida Diagonal",
+                "streetNumber": "617 - 1a Planta"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.387028,
+                "longitude": 2.128863
+            },
+            "commonSiteName": "El Corte Ingles Diagonal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.387028,
+                "longitude": 2.128863
+            },
+            "locationGUID": "17f20495-c540-49e2-91f0-6b46c36160e3",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Diagonal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

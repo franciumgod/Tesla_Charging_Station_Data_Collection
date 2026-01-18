@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rotterdam",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3045 AP",
+                "postalExt": null,
+                "state": "Zuid-Holland",
+                "street": "Rotterdam Airportplein 55",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.947716,
+                "longitude": 4.436052
+            },
+            "commonSiteName": "Worldhotel Wings",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.947716,
+                "longitude": 4.436052
+            },
+            "locationGUID": "5e0c99e1-48b9-433f-a9ae-a7455aaa57ab",
+            "maxPowerKw": 22,
+            "name": "Worldhotel Wings",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pokolbin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2320",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Hermitage Rd",
+                "streetNumber": "555"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.69682291,
+                "longitude": 151.262825
+            },
+            "commonSiteName": "Spicers Vineyards Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.69682291,
+                "longitude": 151.262825
+            },
+            "locationGUID": "a971bbb2-4e40-413a-8403-3c524866219b",
+            "maxPowerKw": 11,
+            "name": "Spicers Vineyards Estate",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

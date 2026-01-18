@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44160",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Americana",
+                "streetNumber": "Calle Colonias 221"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.672729,
+                "longitude": -103.365757
+            },
+            "commonSiteName": "V├¡a Libertad",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.672729,
+                "longitude": -103.365757
+            },
+            "locationGUID": "ada6aeed-f31b-4994-a042-37a59127c2a5",
+            "maxPowerKw": 18,
+            "name": "V├¡a Libertad",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

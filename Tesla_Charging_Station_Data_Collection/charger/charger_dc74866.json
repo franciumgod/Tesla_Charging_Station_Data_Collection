@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Livingston St",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.6909872,
+                "longitude": -73.9901305
+            },
+            "commonSiteName": "Park Kwik - 110 Livingston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.6909872,
+                "longitude": -73.9901305
+            },
+            "locationGUID": "d8240165-69a6-45c0-ae7b-98cea149388a",
+            "maxPowerKw": 10,
+            "name": "Park Kwik - 110 Livingston",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

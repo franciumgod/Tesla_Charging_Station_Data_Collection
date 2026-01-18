@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Westport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98595",
+                "postalExt": null,
+                "state": "WA",
+                "street": "S Forrest St",
+                "streetNumber": "2858"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.859479,
+                "longitude": -124.108594
+            },
+            "commonSiteName": "Cranberry Road Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.859479,
+                "longitude": -124.108594
+            },
+            "locationGUID": "15f0b0ee-5a58-4827-a8e3-70bcf1fdc2e8",
+            "maxPowerKw": 16,
+            "name": "Cranberry Road Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

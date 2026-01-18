@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Scottsdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85251",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "N Scottsdale Rd",
+                "streetNumber": "4925"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.508805,
+                "longitude": -111.925252
+            },
+            "commonSiteName": "The Scott Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.508805,
+                "longitude": -111.925252
+            },
+            "locationGUID": "e7bff694-6eb7-4384-a69e-4167947ed326",
+            "maxPowerKw": 16,
+            "name": "The Scott Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

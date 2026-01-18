@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bonn",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "53177",
+                "postalExt": null,
+                "state": null,
+                "street": "Kurfuerstenallee",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.681618,
+                "longitude": 7.153176
+            },
+            "commonSiteName": "La Redoute & Reduettchen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.681618,
+                "longitude": 7.153176
+            },
+            "locationGUID": "dc0c4a31-40f7-4b5c-a93f-3bcc85db2dff",
+            "maxPowerKw": 17,
+            "name": "La Redoute & Reduettchen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45055",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Col. Rinconada del Sol",
+                "streetNumber": "Avenida Mariano Otero 1550"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.65255,
+                "longitude": -103.396651
+            },
+            "commonSiteName": "Fiesta Inn Guadalajara Expo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.65255,
+                "longitude": -103.396651
+            },
+            "locationGUID": "7619016f-12fe-416f-83b9-90ac23ec92d2",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Guadalajara Expo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

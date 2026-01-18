@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taylors Lake",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3038",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Melton Hwy",
+                "streetNumber": "399"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.699167,
+                "longitude": 144.776103
+            },
+            "commonSiteName": "Watergardens Town Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.699167,
+                "longitude": 144.776103
+            },
+            "locationGUID": "b1c9bcda-7ac8-4fe9-ba7a-ee4707c5df99",
+            "maxPowerKw": 22,
+            "name": "Watergardens Town Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

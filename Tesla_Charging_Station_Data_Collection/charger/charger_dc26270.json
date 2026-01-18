@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queretaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76180",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Centro",
+                "streetNumber": "Ignacio Zaragoza 99"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.575464,
+                "longitude": -100.415176
+            },
+            "commonSiteName": "Hilton Garden Inn Queretaro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.575464,
+                "longitude": -100.415176
+            },
+            "locationGUID": "285ba9d7-8d70-43b0-b419-7ab9c9470c95",
+            "maxPowerKw": 18,
+            "name": "Hilton Garden Inn Queretaro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

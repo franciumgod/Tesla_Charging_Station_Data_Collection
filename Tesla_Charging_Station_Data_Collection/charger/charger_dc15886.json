@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Austin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78731",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Greystone Dr",
+                "streetNumber": "3435"
+            },
+            "amenities": [
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.357106,
+                "longitude": -97.74863
+            },
+            "commonSiteName": "Austin Terrier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.357106,
+                "longitude": -97.74863
+            },
+            "locationGUID": "d31e8b87-6e29-4f8d-b211-0b2d985a71a4",
+            "maxPowerKw": 8,
+            "name": "Austin Terrier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bromont",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J2L1K6",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Stanstead",
+                "streetNumber": "90"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.304932,
+                "longitude": -72.63798
+            },
+            "commonSiteName": "Domaine Chateau Bromont",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.304932,
+                "longitude": -72.63798
+            },
+            "locationGUID": "f752ab10-ebff-4ed7-9d3c-409d125c3435",
+            "maxPowerKw": 16,
+            "name": "Domaine Chateau Bromont",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

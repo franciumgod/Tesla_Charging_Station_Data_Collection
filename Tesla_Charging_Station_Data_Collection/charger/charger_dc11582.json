@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mascot",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2020",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Shiers Avenue",
+                "streetNumber": "Arrivals Level, Terminal 3, Sydney Domestic Airport,"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.932785,
+                "longitude": 151.180293
+            },
+            "commonSiteName": "Sydney Airport Qantas Valet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.932785,
+                "longitude": 151.180293
+            },
+            "locationGUID": "42de4b44-d903-40ab-acbf-8f6c23057410",
+            "maxPowerKw": 7,
+            "name": "Sydney Airport Qantas Valet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

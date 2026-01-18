@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Notre-Dame-du-Portage",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0L 1Y0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Route du Fleuve",
+                "streetNumber": "532"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.768469,
+                "longitude": -69.609635
+            },
+            "commonSiteName": "Municipalite de Notre-Dame-du-Portage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.768469,
+                "longitude": -69.609635
+            },
+            "locationGUID": "194ab924-f63e-4e78-bf73-ea1143f6651d",
+            "maxPowerKw": 13,
+            "name": "Municipalite de Notre-Dame-du-Portage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

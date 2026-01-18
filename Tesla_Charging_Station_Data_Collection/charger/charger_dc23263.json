@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Albert Park",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3004",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Queens Rd",
+                "streetNumber": "65"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.849746,
+                "longitude": 144.978703
+            },
+            "commonSiteName": "Pullman Albert Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.849746,
+                "longitude": 144.978703
+            },
+            "locationGUID": "0d15fa40-cf52-45e5-b76b-298c245fc716",
+            "maxPowerKw": 22,
+            "name": "Pullman Albert Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

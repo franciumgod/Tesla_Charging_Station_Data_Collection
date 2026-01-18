@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Freshwater",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2096",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Evans Street",
+                "streetNumber": "B1, 88"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.779139,
+                "longitude": 151.291861
+            },
+            "commonSiteName": "Harbord Diggers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.779139,
+                "longitude": 151.291861
+            },
+            "locationGUID": "3ec4dbe4-49d8-439b-8255-702d1bf4fcf2",
+            "maxPowerKw": 22,
+            "name": "Harbord Diggers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

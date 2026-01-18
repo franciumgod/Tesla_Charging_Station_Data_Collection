@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22761",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "San Antonio de las Minas",
+                "streetNumber": "Carretera Ensenada Tecate Kilometro 93.5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.97928958,
+                "longitude": -116.6532825
+            },
+            "commonSiteName": "Casa de Piedra Vinicola",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.97928958,
+                "longitude": -116.6532825
+            },
+            "locationGUID": "0aac8c1b-0774-4191-bf00-d5c761eea003",
+            "maxPowerKw": 18,
+            "name": "Casa de Piedra Vinicola",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

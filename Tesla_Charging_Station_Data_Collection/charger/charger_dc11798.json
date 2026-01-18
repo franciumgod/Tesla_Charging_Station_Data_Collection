@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Donegal Town",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "F94 HX59",
+                "postalExt": null,
+                "state": "Co. Donegal",
+                "street": "Lough Eske",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.68762954,
+                "longitude": -8.06616406
+            },
+            "commonSiteName": "Lough Eske Castle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.68762954,
+                "longitude": -8.06616406
+            },
+            "locationGUID": "3b64e865-721a-4f39-b5ec-a99dbd4810f9",
+            "maxPowerKw": 7,
+            "name": "Lough Eske Castle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

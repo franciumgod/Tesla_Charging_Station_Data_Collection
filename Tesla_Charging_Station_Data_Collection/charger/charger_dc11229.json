@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2600",
+                "postalExt": null,
+                "state": "Australian Capital Territory",
+                "street": "National Cir",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.307587,
+                "longitude": 149.134475
+            },
+            "commonSiteName": "Hotel Kurrajong",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.307587,
+                "longitude": 149.134475
+            },
+            "locationGUID": "f8eaf8f4-af98-45a1-8bea-30a23eea093e",
+            "maxPowerKw": 22,
+            "name": "Hotel Kurrajong",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

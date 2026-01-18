@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "List",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25992",
+                "postalExt": null,
+                "state": null,
+                "street": "Listlandstraße",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.014485,
+                "longitude": 8.42888
+            },
+            "commonSiteName": "A-ROSA Sylt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.014485,
+                "longitude": 8.42888
+            },
+            "locationGUID": "c1019f98-ce47-4497-89c2-c384b7f3e979",
+            "maxPowerKw": 11,
+            "name": "A-ROSA Sylt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

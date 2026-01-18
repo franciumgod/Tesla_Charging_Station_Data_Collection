@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Redondo Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90277",
+                "postalExt": null,
+                "state": "CA",
+                "street": "N. Harbor Dr",
+                "streetNumber": "655"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.848991,
+                "longitude": -118.394897
+            },
+            "commonSiteName": "Shade Hotel, Redondo Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.848991,
+                "longitude": -118.394897
+            },
+            "locationGUID": "329f969b-f658-41d2-8df3-e8fbadb339ed",
+            "maxPowerKw": 16,
+            "name": "Shade Hotel, Redondo Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

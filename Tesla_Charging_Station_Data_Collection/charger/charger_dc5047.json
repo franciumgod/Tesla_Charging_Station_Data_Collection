@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Costa Mesa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92626",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Bristol St",
+                "streetNumber": "325"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.665868,
+                "longitude": -117.881585
+            },
+            "commonSiteName": "Ayres Hotel & Suites Costa Mesa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.665868,
+                "longitude": -117.881585
+            },
+            "locationGUID": "e4325e34-fdbd-495e-83b3-3cba8f83056e",
+            "maxPowerKw": 16,
+            "name": "Ayres Hotel & Suites Costa Mesa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

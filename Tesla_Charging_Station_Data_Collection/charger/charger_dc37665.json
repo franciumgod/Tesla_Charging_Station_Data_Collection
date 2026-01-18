@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gadebusch",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "19205",
+                "postalExt": null,
+                "state": null,
+                "street": "Bahnhof",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.703922,
+                "longitude": 11.121142
+            },
+            "commonSiteName": "Station Burgsee GmbH",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.703922,
+                "longitude": 11.121142
+            },
+            "locationGUID": "6f663d8d-2109-44c5-8814-025f04859260",
+            "maxPowerKw": 14,
+            "name": "Station Burgsee GmbH",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wangaratta",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3677",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Ryley Street",
+                "streetNumber": "29-37"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.358166,
+                "longitude": 146.319437
+            },
+            "commonSiteName": "Quality Hotel Wangaratta Gateway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.358166,
+                "longitude": 146.319437
+            },
+            "locationGUID": "5c2b9db4-6111-4784-916f-673ceebfd350",
+            "maxPowerKw": 22,
+            "name": "Quality Hotel Wangaratta Gateway",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

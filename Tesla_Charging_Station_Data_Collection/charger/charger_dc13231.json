@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portage",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "49002",
+                "postalExt": null,
+                "state": "MI",
+                "street": "Portage Rd",
+                "streetNumber": "5626"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.235271,
+                "longitude": -85.560592
+            },
+            "commonSiteName": "Airway Fun Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.235271,
+                "longitude": -85.560592
+            },
+            "locationGUID": "6a7dfb7d-054a-44b0-8a5c-31496559e457",
+            "maxPowerKw": 8,
+            "name": "Airway Fun Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

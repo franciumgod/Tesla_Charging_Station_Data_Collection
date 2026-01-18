@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Santa Rosa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95401",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Laguna Rd",
+                "streetNumber": "2191"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.468937,
+                "longitude": -122.850563
+            },
+            "commonSiteName": "Martin Ray Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.468937,
+                "longitude": -122.850563
+            },
+            "locationGUID": "96f2072b-ee0b-4b2d-8064-4656fdb44077",
+            "maxPowerKw": 16,
+            "name": "Martin Ray Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

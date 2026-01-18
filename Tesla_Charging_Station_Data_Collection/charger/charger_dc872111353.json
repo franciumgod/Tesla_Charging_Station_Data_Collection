@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mineral City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44656",
+                "postalExt": "9006",
+                "state": "OH",
+                "street": "Atwood Lake Rd. NE",
+                "streetNumber": "9298"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.53603,
+                "longitude": -81.27442
+            },
+            "commonSiteName": "Atwood Lake Boats -Marina West",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.53603,
+                "longitude": -81.27442
+            },
+            "locationGUID": "a07f652e-4bfa-456e-bd58-c6cc39ee6c2f",
+            "maxPowerKw": 9,
+            "name": "Atwood Lake Boats -Marina West",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

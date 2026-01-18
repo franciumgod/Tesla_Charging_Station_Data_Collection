@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10001",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 28th St",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.745842,
+                "longitude": -73.990103
+            },
+            "commonSiteName": "Standard Parking 800 6th Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.745842,
+                "longitude": -73.990103
+            },
+            "locationGUID": "0991a3cd-2843-4144-b957-a41180d12c62",
+            "maxPowerKw": 16,
+            "name": "Standard Parking 800 6th Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

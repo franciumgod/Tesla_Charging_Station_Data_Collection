@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Southwold",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "IP18 6EG",
+                "postalExt": null,
+                "state": null,
+                "street": "Market Place",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.326206,
+                "longitude": 1.679486
+            },
+            "commonSiteName": "The Swan Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.326206,
+                "longitude": 1.679486
+            },
+            "locationGUID": "89295464-def5-4c34-9678-5db65aafe011",
+            "maxPowerKw": 11,
+            "name": "The Swan Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

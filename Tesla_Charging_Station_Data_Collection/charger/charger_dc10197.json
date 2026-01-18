@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brugge",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8000",
+                "postalExt": null,
+                "state": null,
+                "street": "Niklaas Desparsstraat",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.209999,
+                "longitude": 3.223905
+            },
+            "commonSiteName": "Hotel Heritage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.209999,
+                "longitude": 3.223905
+            },
+            "locationGUID": "4b68369a-b966-4ea1-9644-99626d412b34",
+            "maxPowerKw": 22,
+            "name": "Hotel Heritage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

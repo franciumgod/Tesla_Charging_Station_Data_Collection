@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Canberra",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2601",
+                "postalExt": null,
+                "state": "Australian Capital Territory",
+                "street": "Bunda Street",
+                "streetNumber": "148"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.2786,
+                "longitude": 149.1345
+            },
+            "commonSiteName": "Secure Parking - Canberra Centre L1",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.2786,
+                "longitude": 149.1345
+            },
+            "locationGUID": "5103e5ed-067f-492c-a402-346f36099192",
+            "maxPowerKw": 22,
+            "name": "Secure Parking - Canberra Centre L1",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

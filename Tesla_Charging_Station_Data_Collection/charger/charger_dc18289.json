@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jochberg",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6373",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorf",
+                "streetNumber": "58"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.373937,
+                "longitude": 12.418952
+            },
+            "commonSiteName": "Jochberger Dorfstub'n",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.373937,
+                "longitude": 12.418952
+            },
+            "locationGUID": "86b0243c-723a-4e6b-9a42-c6f4c34c0a88",
+            "maxPowerKw": 22,
+            "name": "Jochberger Dorfstub'n",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

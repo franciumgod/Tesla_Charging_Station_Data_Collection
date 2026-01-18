@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Three Lakes",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54562",
+                "postalExt": null,
+                "state": "WI",
+                "street": "Gogebic St",
+                "streetNumber": "6971"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.796214,
+                "longitude": -89.170408
+            },
+            "commonSiteName": "Three Lakes Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.796214,
+                "longitude": -89.170408
+            },
+            "locationGUID": "000da4d1-bc9d-4aa1-85c7-9d3e8b3a24d0",
+            "maxPowerKw": 16,
+            "name": "Three Lakes Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

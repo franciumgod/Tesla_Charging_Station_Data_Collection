@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28023",
+                "postalExt": null,
+                "state": "Community of Madrid",
+                "street": "Avenida de la Victoria",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.467567,
+                "longitude": -3.81407
+            },
+            "commonSiteName": "Centro Comercial Sexta Avenida",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.467567,
+                "longitude": -3.81407
+            },
+            "locationGUID": "753c4a95-838a-42eb-93c7-d668a3d4ff39",
+            "maxPowerKw": 11,
+            "name": "Centro Comercial Sexta Avenida",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

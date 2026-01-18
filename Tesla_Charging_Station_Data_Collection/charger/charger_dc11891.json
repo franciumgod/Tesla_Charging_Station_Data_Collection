@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roanoke",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24016",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Shenandoah Ave NW",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.2746767,
+                "longitude": -79.9393021
+            },
+            "commonSiteName": "Hotel Roanoke and Conference Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.2746767,
+                "longitude": -79.9393021
+            },
+            "locationGUID": "3a6a1dc7-5a1e-4611-be1b-9c4c81b615fd",
+            "maxPowerKw": 16,
+            "name": "Hotel Roanoke and Conference Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

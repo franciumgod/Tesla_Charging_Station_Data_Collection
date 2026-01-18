@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Claus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "47579",
+                "postalExt": null,
+                "state": "IN",
+                "street": "E Christmas Blvd",
+                "streetNumber": "452"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.117243,
+                "longitude": -86.915834
+            },
+            "commonSiteName": "Holiday World & Splashin' Safari",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.117243,
+                "longitude": -86.915834
+            },
+            "locationGUID": "190f3893-49fd-470a-9f59-f31e15cc420f",
+            "maxPowerKw": 16,
+            "name": "Holiday World & Splashin' Safari",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

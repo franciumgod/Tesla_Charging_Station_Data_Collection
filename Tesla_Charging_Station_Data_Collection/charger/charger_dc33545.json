@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dayton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "99328",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Artisan Wy",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.31017,
+                "longitude": -117.99763
+            },
+            "commonSiteName": "Blue Mountain Station",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.31017,
+                "longitude": -117.99763
+            },
+            "locationGUID": "56929224-59a0-4a6b-92d6-b0996e09b237",
+            "maxPowerKw": 16,
+            "name": "Blue Mountain Station",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

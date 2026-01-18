@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Crossville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "38571",
+                "postalExt": null,
+                "state": "TN",
+                "street": "Genesis Rd",
+                "streetNumber": "2444"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.985032,
+                "longitude": -85.010353
+            },
+            "commonSiteName": "Stonehaus Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.985032,
+                "longitude": -85.010353
+            },
+            "locationGUID": "1f5575f8-555d-4fa1-b4f4-b82759909531",
+            "maxPowerKw": 8,
+            "name": "Stonehaus Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

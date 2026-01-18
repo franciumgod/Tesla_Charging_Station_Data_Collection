@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39701",
+                "postalExt": null,
+                "state": "MS",
+                "street": "6th St N",
+                "streetNumber": "1915"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.515701,
+                "longitude": -88.426618
+            },
+            "commonSiteName": "Hampton Inn & Suites Columbus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.515701,
+                "longitude": -88.426618
+            },
+            "locationGUID": "4c122443-0ccc-4551-b360-b3628c7ec14d",
+            "maxPowerKw": 16,
+            "name": "Hampton Inn & Suites Columbus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

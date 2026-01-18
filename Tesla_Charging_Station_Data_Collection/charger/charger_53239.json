@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlottenberg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67332",
+                "postalExt": null,
+                "state": null,
+                "street": "Charlottenbergsvägen",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.882098,
+                "longitude": 12.28586
+            },
+            "commonSiteName": "Hotell Charlottenberg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.882098,
+                "longitude": 12.28586
+            },
+            "locationGUID": "19c90d53-01ef-4839-9ca6-5f94eb7de4c7",
+            "maxPowerKw": 6,
+            "name": "Hotell Charlottenberg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

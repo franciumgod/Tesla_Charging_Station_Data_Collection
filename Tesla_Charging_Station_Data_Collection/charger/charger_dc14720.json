@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94111",
+                "postalExt": null,
+                "state": "CA",
+                "street": "California St",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.792826,
+                "longitude": -122.397675
+            },
+            "commonSiteName": "101 California Street Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.792826,
+                "longitude": -122.397675
+            },
+            "locationGUID": "21059966-c030-4fd3-ae67-ac3fe43d535f",
+            "maxPowerKw": 16,
+            "name": "101 California Street Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mittersill",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5730",
+                "postalExt": null,
+                "state": null,
+                "street": "Thalbach",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.287468,
+                "longitude": 12.484607
+            },
+            "commonSiteName": "Hotel Schloss Mittersill",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.287468,
+                "longitude": 12.484607
+            },
+            "locationGUID": "7bf95da8-0e9a-406d-841c-c5a9a6d4d569",
+            "maxPowerKw": 14,
+            "name": "Hotel Schloss Mittersill",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

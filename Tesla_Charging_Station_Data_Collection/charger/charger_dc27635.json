@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bitburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "54634",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Markt",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.973829,
+                "longitude": 6.522156
+            },
+            "commonSiteName": "Zum Simonbräu",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.973829,
+                "longitude": 6.522156
+            },
+            "locationGUID": "7e20c3f0-20fa-4d38-89c7-d63174bd688c",
+            "maxPowerKw": 22,
+            "name": "Zum Simonbraeu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

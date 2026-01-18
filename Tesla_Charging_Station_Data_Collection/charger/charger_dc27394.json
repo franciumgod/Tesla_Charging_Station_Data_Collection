@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bolzano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "39100",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Bruno Buozzi",
+                "streetNumber": "35"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.47168,
+                "longitude": 11.325007
+            },
+            "commonSiteName": "Hotel Four Points by Sheraton Bolzano",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.47168,
+                "longitude": 11.325007
+            },
+            "locationGUID": "09d746cd-1c8a-4dcf-979c-2d56dae25f3b",
+            "maxPowerKw": 11,
+            "name": "Hotel Four Points by Sheraton Bolzano",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kuala Lumpur",
+                "country": "Malaysia",
+                "countryCode": "MY",
+                "district": null,
+                "navRegion": "se",
+                "nearestEntrance": null,
+                "postalCode": "50250",
+                "postalExt": null,
+                "state": null,
+                "street": "Jln Sultan Ismail",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 3.1540774,
+                "longitude": 101.7063402
+            },
+            "commonSiteName": "Shangri-La Kuala Lumpur, Kuala Lumpur",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "MYR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "free",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "MYR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "MYR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "free",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "MYR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 3.15435986,
+                "longitude": 101.70676448
+            },
+            "locationGUID": "6ba86c18-6113-440d-b9c6-8518f14d5f92",
+            "maxPowerKw": 0,
+            "name": "Shangri-La Kuala Lumpur, Kuala Lumpur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Kuala_Lumpur"
+        },
+        "success": true
+    }
+}

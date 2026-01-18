@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Pfastatt",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "68120",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de la Ferme",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.761479,
+                "longitude": 7.2999347
+            },
+            "commonSiteName": "La Ferme du chateau de Pfastatt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.761479,
+                "longitude": 7.2999347
+            },
+            "locationGUID": "97f95a49-fbc1-4ce7-a22b-6df0bac36146",
+            "maxPowerKw": 11,
+            "name": "La Ferme du chateau de Pfastatt",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

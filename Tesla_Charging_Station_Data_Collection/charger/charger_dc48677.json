@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Paso Robles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93446",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Limestone Wy",
+                "streetNumber": "3070"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.575524,
+                "longitude": -120.69023
+            },
+            "commonSiteName": "Tin Canteen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.575524,
+                "longitude": -120.69023
+            },
+            "locationGUID": "e33ab7a1-3f3e-4c92-92b8-b56f0bee98ac",
+            "maxPowerKw": 8,
+            "name": "Tin Canteen",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

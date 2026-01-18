@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Albany",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6330",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Earl Street",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.026729,
+                "longitude": 117.890019
+            },
+            "commonSiteName": "Earl Street Apartments",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.026729,
+                "longitude": 117.890019
+            },
+            "locationGUID": "450d7804-5937-4350-b32b-9ea4a2085fcd",
+            "maxPowerKw": 6,
+            "name": "Earl Street Apartments",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guardia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1309",
+                "postalExt": null,
+                "state": "País Vasco",
+                "street": "Carretera A-124, Km 61",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.569385,
+                "longitude": -2.614332
+            },
+            "commonSiteName": "Bodega Hotel Eguren Ugarte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.569385,
+                "longitude": -2.614332
+            },
+            "locationGUID": "82badd14-e7dc-473b-aa0a-9ce5a8390584",
+            "maxPowerKw": 22,
+            "name": "Bodega Hotel Eguren Ugarte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

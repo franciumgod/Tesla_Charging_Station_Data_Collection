@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Pokolbin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2320",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Broke Rd & Wine Country Dr",
+                "streetNumber": "Corner"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.775759,
+                "longitude": 151.338283
+            },
+            "commonSiteName": "Peterson House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.775759,
+                "longitude": 151.338283
+            },
+            "locationGUID": "2515667d-ab36-4133-a17c-c7f00a7bf66d",
+            "maxPowerKw": 22,
+            "name": "Peterson House",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

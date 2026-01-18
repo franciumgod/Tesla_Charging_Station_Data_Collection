@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Le Puy-Sainte-Réparade",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "13610",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de la Cride",
+                "streetNumber": "2750"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.634978,
+                "longitude": 5.422946
+            },
+            "commonSiteName": "Château La Coste",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.634978,
+                "longitude": 5.422946
+            },
+            "locationGUID": "c0684ca2-91e2-43eb-bada-61958a6f37cf",
+            "maxPowerKw": 22,
+            "name": "Château La Coste",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

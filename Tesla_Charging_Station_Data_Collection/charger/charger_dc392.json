@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "McAllen",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78503",
+                "postalExt": null,
+                "state": "TX",
+                "street": "S Jackson Rd",
+                "streetNumber": "809"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.189078,
+                "longitude": -98.205367
+            },
+            "commonSiteName": "Dunkin Donuts",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.189078,
+                "longitude": -98.205367
+            },
+            "locationGUID": "4ad9d0f0-7c4d-452d-8c1a-2eef2132b688",
+            "maxPowerKw": 8,
+            "name": "Dunkin Donuts",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

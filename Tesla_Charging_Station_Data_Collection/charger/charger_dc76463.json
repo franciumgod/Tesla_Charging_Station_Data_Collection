@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bondi Junction",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2022",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Grafton Street",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.89091845,
+                "longitude": 151.25082144
+            },
+            "commonSiteName": "Westfield Bondi Junction - P4 in Valet parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.89091845,
+                "longitude": 151.25082144
+            },
+            "locationGUID": "7470d113-1c63-4ad9-afe3-f5b0bf594cf6",
+            "maxPowerKw": 22,
+            "name": "Westfield Bondi Junction - P4 in Valet parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

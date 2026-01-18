@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Trail",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V1R 3T3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Victoria St",
+                "streetNumber": "1051"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.097454,
+                "longitude": -117.71106
+            },
+            "commonSiteName": "City of Trail - Trail Memorial Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.097454,
+                "longitude": -117.71106
+            },
+            "locationGUID": "93169612-bb2f-4a88-8b90-12638f97a09b",
+            "maxPowerKw": 16,
+            "name": "City of Trail - Trail Memorial Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

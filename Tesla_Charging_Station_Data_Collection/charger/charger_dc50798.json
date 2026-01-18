@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Launceston",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7250",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Elizabeth Street",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -41.43960339,
+                "longitude": 147.142468
+            },
+            "commonSiteName": "Colonial Launceston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -41.43960339,
+                "longitude": 147.142468
+            },
+            "locationGUID": "7a1b607b-d0c0-4b8b-a208-fe8ef5f08fab",
+            "maxPowerKw": 22,
+            "name": "Colonial Launceston",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Hobart"
+        },
+        "success": true
+    }
+}

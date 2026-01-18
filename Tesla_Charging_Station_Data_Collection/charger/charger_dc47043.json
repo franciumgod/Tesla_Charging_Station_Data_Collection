@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Peru",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05152",
+                "postalExt": null,
+                "state": "VT",
+                "street": "VT-11",
+                "streetNumber": "3574"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.2163145,
+                "longitude": -72.9253243
+            },
+            "commonSiteName": "Johnny Seesaw's",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.2163145,
+                "longitude": -72.9253243
+            },
+            "locationGUID": "8901cf14-1825-48c7-9aa1-7e5d03bc32cf",
+            "maxPowerKw": 16,
+            "name": "Johnny Seesaw's",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

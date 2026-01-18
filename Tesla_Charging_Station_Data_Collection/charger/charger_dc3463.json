@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nashville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "37219",
+                "postalExt": null,
+                "state": "TN",
+                "street": "6th Ave N",
+                "streetNumber": "231"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.163688,
+                "longitude": -86.782274
+            },
+            "commonSiteName": "The Hermitage Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.163688,
+                "longitude": -86.782274
+            },
+            "locationGUID": "583eed28-0d3b-4c0f-bf1e-438c8d4845d0",
+            "maxPowerKw": 16,
+            "name": "The Hermitage Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

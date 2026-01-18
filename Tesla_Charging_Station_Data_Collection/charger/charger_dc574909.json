@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vila de Frades",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7960",
+                "postalExt": "909",
+                "state": "Alentejo",
+                "street": "Estrada das Sesmarias",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.2239515,
+                "longitude": -7.82727838
+            },
+            "commonSiteName": "Quinta do Quetzal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.22432275,
+                "longitude": -7.8268521
+            },
+            "locationGUID": "f9d790dd-3a9e-4d7f-bb3d-fc71786e2c10",
+            "maxPowerKw": 22,
+            "name": "Quinta do Quetzal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

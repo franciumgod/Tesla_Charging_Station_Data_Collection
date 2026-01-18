@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Martillac",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33650",
+                "postalExt": null,
+                "state": "Aquitaine",
+                "street": "Chemin de Smith Haut Lafitte",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.730973,
+                "longitude": -0.558557
+            },
+            "commonSiteName": "Les Sources de Caudalie",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.730973,
+                "longitude": -0.558557
+            },
+            "locationGUID": "75a52c97-c6ef-4f70-9f80-010c35c2e9a5",
+            "maxPowerKw": 22,
+            "name": "Les Sources de Caudalie",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

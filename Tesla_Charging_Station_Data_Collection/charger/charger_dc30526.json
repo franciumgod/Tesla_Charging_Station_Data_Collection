@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Park City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84098",
+                "postalExt": null,
+                "state": "UT",
+                "street": "N Promontory Ranch Rd",
+                "streetNumber": "8758"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.74606,
+                "longitude": -111.450343
+            },
+            "commonSiteName": "Promontory Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.74606,
+                "longitude": -111.450343
+            },
+            "locationGUID": "4bfe052a-9345-4f30-a482-d59ba144b720",
+            "maxPowerKw": 16,
+            "name": "Promontory Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

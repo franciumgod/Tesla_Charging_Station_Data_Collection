@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kappeln",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24376",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Hafen",
+                "streetNumber": "19c"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.662304,
+                "longitude": 9.934882
+            },
+            "commonSiteName": "Pierspeicher Gastehaus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.662304,
+                "longitude": 9.934882
+            },
+            "locationGUID": "f5686c1c-9424-4194-8906-315b5843a392",
+            "maxPowerKw": 22,
+            "name": "Pierspeicher Gastehaus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

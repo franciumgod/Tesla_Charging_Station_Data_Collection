@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kargoolie",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6430",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Hannan St",
+                "streetNumber": "430"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -30.752057,
+                "longitude": 121.466985
+            },
+            "commonSiteName": "The View On Hannans",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -30.752057,
+                "longitude": 121.466985
+            },
+            "locationGUID": "5cd48bfd-513b-41d7-9a61-af586e9db5b2",
+            "maxPowerKw": 22,
+            "name": "The View On Hannans",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

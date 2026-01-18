@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32803",
+                "postalExt": null,
+                "state": "FL",
+                "street": "N Magnolia Ave",
+                "streetNumber": "730"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.554271,
+                "longitude": -81.377852
+            },
+            "commonSiteName": "Courtyard Orlando Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.554271,
+                "longitude": -81.377852
+            },
+            "locationGUID": "28ea3603-a46d-48fe-866f-3cdfcb71229f",
+            "maxPowerKw": 8,
+            "name": "Courtyard Orlando Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

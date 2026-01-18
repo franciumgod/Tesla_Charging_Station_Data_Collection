@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gosselies",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6041",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Charles Lindbergh 26",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.472612,
+                "longitude": 4.474247
+            },
+            "commonSiteName": "Airspace Indoor Skydiving",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.472612,
+                "longitude": 4.474247
+            },
+            "locationGUID": "ebb9dade-f292-445d-b008-77f91b305bf8",
+            "maxPowerKw": 22,
+            "name": "Airspace Indoor Skydiving",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

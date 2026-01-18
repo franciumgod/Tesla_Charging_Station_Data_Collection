@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22750",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Rusa de Guadalupe",
+                "streetNumber": "Parcela A-1 s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.08628029,
+                "longitude": -116.62191638
+            },
+            "commonSiteName": "Adobe Guadalupe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.08628029,
+                "longitude": -116.62191638
+            },
+            "locationGUID": "8ec97a7a-9c25-453c-8f97-fd6765bc4a0f",
+            "maxPowerKw": 18,
+            "name": "Adobe Guadalupe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

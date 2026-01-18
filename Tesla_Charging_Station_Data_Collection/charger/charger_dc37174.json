@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10014",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Charles St",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.734006,
+                "longitude": -74.009079
+            },
+            "commonSiteName": "Icon Parking 150 Charles Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.734006,
+                "longitude": -74.009079
+            },
+            "locationGUID": "29d133ec-df7d-4c0e-bf0f-a02bc37d47db",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 150 Charles Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

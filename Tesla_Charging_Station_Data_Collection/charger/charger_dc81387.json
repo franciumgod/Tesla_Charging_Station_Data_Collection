@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Meadville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "16335",
+                "postalExt": null,
+                "state": "PA",
+                "street": "N Main St",
+                "streetNumber": "520"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.649703,
+                "longitude": -80.143302
+            },
+            "commonSiteName": "Allegheny College",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.649703,
+                "longitude": -80.143302
+            },
+            "locationGUID": "f6228609-6510-4707-adcb-96dfff41613e",
+            "maxPowerKw": 16,
+            "name": "Allegheny College",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

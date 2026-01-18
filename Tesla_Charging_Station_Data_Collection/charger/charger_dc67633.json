@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Kilda",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3182",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Acland Street",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.862284,
+                "longitude": 144.973965
+            },
+            "commonSiteName": "The Prince Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.862284,
+                "longitude": 144.973965
+            },
+            "locationGUID": "da366d7b-1d92-4d31-9589-4b5184796ced",
+            "maxPowerKw": 22,
+            "name": "The Prince Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cheltenham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "GL52 3NJ",
+                "postalExt": null,
+                "state": "Gloucestershire",
+                "street": "Ellenborough Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.926518,
+                "longitude": -2.041776
+            },
+            "commonSiteName": "Ellenborough Park Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.926518,
+                "longitude": -2.041776
+            },
+            "locationGUID": "055c7be6-038d-4e2b-8545-e0f5b48090b4",
+            "maxPowerKw": 7,
+            "name": "Ellenborough Park Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

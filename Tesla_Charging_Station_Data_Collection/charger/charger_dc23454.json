@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Logan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25601",
+                "postalExt": null,
+                "state": "WV",
+                "street": "Conference Center Dr",
+                "streetNumber": "1000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.899216,
+                "longitude": -82.038342
+            },
+            "commonSiteName": "Chief Logan Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.899216,
+                "longitude": -82.038342
+            },
+            "locationGUID": "477c9e6a-b1cf-410e-ae19-6e93d0e7e827",
+            "maxPowerKw": 8,
+            "name": "Chief Logan Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

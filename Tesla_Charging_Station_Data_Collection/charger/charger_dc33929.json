@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66600",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Km 18.5",
+                "streetNumber": "Carretera Miquel Aleman"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.76994,
+                "longitude": -100.189073
+            },
+            "commonSiteName": "Best Western Plus Monterrey Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.76994,
+                "longitude": -100.189073
+            },
+            "locationGUID": "b7d41425-3608-4a90-a2f1-6fcfa9f9b3fc",
+            "maxPowerKw": 18,
+            "name": "Best Western Plus Monterrey Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

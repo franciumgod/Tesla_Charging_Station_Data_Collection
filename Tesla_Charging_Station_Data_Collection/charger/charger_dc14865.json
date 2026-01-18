@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94111",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Second St.",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.788097,
+                "longitude": -122.39918
+            },
+            "commonSiteName": "101 Second Street Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.788097,
+                "longitude": -122.39918
+            },
+            "locationGUID": "69d7671d-ca8c-4361-8857-ec729fd17c9f",
+            "maxPowerKw": 8,
+            "name": "101 Second Street Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Merrill",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54452",
+                "postalExt": null,
+                "state": "WI",
+                "street": "E Main St",
+                "streetNumber": "3300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.1788,
+                "longitude": -89.65444
+            },
+            "commonSiteName": "AmericInn by Wyndham Merrill",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.1788,
+                "longitude": -89.65444
+            },
+            "locationGUID": "ed4dd0b2-754d-4f3d-af6f-b099f2c659ae",
+            "maxPowerKw": 9,
+            "name": "AmericInn by Wyndham Merrill",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

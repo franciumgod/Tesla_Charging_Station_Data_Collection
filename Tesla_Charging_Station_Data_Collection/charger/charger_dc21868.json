@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Heidelberg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69115",
+                "postalExt": null,
+                "state": null,
+                "street": "Vangerowstr.",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.409078,
+                "longitude": 8.672826
+            },
+            "commonSiteName": "Heidelberg Marriott Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.409078,
+                "longitude": 8.672826
+            },
+            "locationGUID": "7d4637db-e08a-4eb6-a528-a37ad02e4e5a",
+            "maxPowerKw": 22,
+            "name": "Heidelberg Marriott Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

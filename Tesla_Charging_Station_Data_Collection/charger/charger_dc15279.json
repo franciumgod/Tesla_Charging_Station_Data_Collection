@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Le Mont Saint-Michel",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "50170",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Mont Saint Michel",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.610895,
+                "longitude": -1.509526
+            },
+            "commonSiteName": "Restaurant La Ferme Saint Michel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.610895,
+                "longitude": -1.509526
+            },
+            "locationGUID": "7d914ea5-c984-4580-9fd8-c0d3f2ef19b5",
+            "maxPowerKw": 14,
+            "name": "Restaurant La Ferme Saint Michel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

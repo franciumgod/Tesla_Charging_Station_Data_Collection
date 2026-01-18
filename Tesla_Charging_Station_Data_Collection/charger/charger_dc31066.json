@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Colac",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3250",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Queen Street",
+                "streetNumber": "66"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.341026,
+                "longitude": 143.592919
+            },
+            "commonSiteName": "Colac Plaza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.341026,
+                "longitude": 143.592919
+            },
+            "locationGUID": "f9d1d26f-6dbb-4cfc-a8d2-fcf2d6eb1775",
+            "maxPowerKw": 22,
+            "name": "Colac Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

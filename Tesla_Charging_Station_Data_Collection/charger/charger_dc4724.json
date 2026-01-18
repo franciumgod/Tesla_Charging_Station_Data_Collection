@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Orleans",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70130",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Gravier St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.949579,
+                "longitude": -90.066291
+            },
+            "commonSiteName": "Windsor Court Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.949579,
+                "longitude": -90.066291
+            },
+            "locationGUID": "fb0c5dbd-f948-4782-b461-0c1006d21fc0",
+            "maxPowerKw": 8,
+            "name": "Windsor Court Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

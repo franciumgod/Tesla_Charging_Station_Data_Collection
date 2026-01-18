@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Delden",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7491 AN",
+                "postalExt": null,
+                "state": null,
+                "street": "Langestraat 242",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.259617,
+                "longitude": 6.682393
+            },
+            "commonSiteName": "Hotel Wapen van Delden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.259617,
+                "longitude": 6.682393
+            },
+            "locationGUID": "a15fefda-c942-4f44-93e5-bd4fecd9f019",
+            "maxPowerKw": 11,
+            "name": "Hotel Wapen van Delden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

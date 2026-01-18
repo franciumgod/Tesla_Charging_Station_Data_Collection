@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arnsberg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "59821",
+                "postalExt": null,
+                "state": null,
+                "street": "Ruhrstrasse",
+                "streetNumber": "60"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.400902,
+                "longitude": 8.064567
+            },
+            "commonSiteName": "Hotel Menge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.400902,
+                "longitude": 8.064567
+            },
+            "locationGUID": "8cb7533a-8702-4170-b6e9-21eba3f6eda7",
+            "maxPowerKw": 22,
+            "name": "Hotel Menge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

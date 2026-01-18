@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32806",
+                "postalExt": null,
+                "state": "FL",
+                "street": "S Orange Ave",
+                "streetNumber": "1315"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.526026,
+                "longitude": -81.376066
+            },
+            "commonSiteName": "The Delaney Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.526026,
+                "longitude": -81.376066
+            },
+            "locationGUID": "7ccab16c-12af-45e1-94b0-d19a684c8d5f",
+            "maxPowerKw": 16,
+            "name": "The Delaney Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

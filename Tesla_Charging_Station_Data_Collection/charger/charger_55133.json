@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10004",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Cooper Street",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.727797,
+                "longitude": -73.990746
+            },
+            "commonSiteName": "The Standard, East Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.727797,
+                "longitude": -73.990746
+            },
+            "locationGUID": "67b6791d-b072-493f-ade1-9d26d22b1097",
+            "maxPowerKw": 10,
+            "name": "The Standard, East Village",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

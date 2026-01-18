@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Palm Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92264",
+                "postalExt": null,
+                "state": "CA",
+                "street": "W Ramon Rd",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.816364,
+                "longitude": -116.54844
+            },
+            "commonSiteName": "Ingleside Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.816364,
+                "longitude": -116.54844
+            },
+            "locationGUID": "0c71076c-0494-4ae6-8e3c-e1c4ebc318d8",
+            "maxPowerKw": 16,
+            "name": "Ingleside Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

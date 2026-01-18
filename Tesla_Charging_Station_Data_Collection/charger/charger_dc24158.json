@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8006",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Av. del Bogatell",
+                "streetNumber": "64"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.393367,
+                "longitude": 2.193207
+            },
+            "commonSiteName": "H10 Marina Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.393367,
+                "longitude": 2.193207
+            },
+            "locationGUID": "35c4c996-b394-44f3-8e02-3fde02f545ee",
+            "maxPowerKw": 22,
+            "name": "H10 Marina Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

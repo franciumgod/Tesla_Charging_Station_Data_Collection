@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Luzern",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": "Luzern-Stadt District",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6004",
+                "postalExt": null,
+                "state": "Lucerne",
+                "street": "Weinmarkt",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.05207,
+                "longitude": 8.30482
+            },
+            "commonSiteName": "Hotel des Balances",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.05207,
+                "longitude": 8.30482
+            },
+            "locationGUID": "c9397e58-dc58-4ac3-bcfb-35798b1099bd",
+            "maxPowerKw": 14,
+            "name": "Hotel des Balances",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

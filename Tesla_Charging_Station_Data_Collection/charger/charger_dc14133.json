@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kristinehamn",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "68194",
+                "postalExt": null,
+                "state": null,
+                "street": "Ölme Prästgård 1",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.375229,
+                "longitude": 13.946428
+            },
+            "commonSiteName": "Ölme Prästgård Gästgiveri",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.375229,
+                "longitude": 13.946428
+            },
+            "locationGUID": "e6539525-64f0-48c8-9d93-cec9229d8ba0",
+            "maxPowerKw": 22,
+            "name": "Ölme Prästgård Gästgiveri",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

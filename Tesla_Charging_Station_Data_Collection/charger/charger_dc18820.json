@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Champfier",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7512",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Suot chesas",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.479749,
+                "longitude": 9.813881
+            },
+            "commonSiteName": "Hotel Europa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.479749,
+                "longitude": 9.813881
+            },
+            "locationGUID": "aabe260f-b641-4a29-a8ab-1a6154e79790",
+            "maxPowerKw": 22,
+            "name": "Hotel Europa-Champfier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

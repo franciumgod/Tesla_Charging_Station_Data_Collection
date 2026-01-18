@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "4963",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "광진구 워커힐로",
+                "streetNumber": "177"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.555093,
+                "longitude": 127.110951
+            },
+            "commonSiteName": "그랜드 워커힐 서울",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.555093,
+                "longitude": 127.110951
+            },
+            "locationGUID": "42ab4d93-afc4-4c3f-9e52-2d90b278f253",
+            "maxPowerKw": 16,
+            "name": "Grand Walkerhill Seoul",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Maumee",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43537",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Salisbury Rd",
+                "streetNumber": "6904"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.58462,
+                "longitude": -83.705301
+            },
+            "commonSiteName": "Brandywine Country Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.58462,
+                "longitude": -83.705301
+            },
+            "locationGUID": "19a0b6ea-a249-4d86-a9ae-51d8a7bb1d25",
+            "maxPowerKw": 16,
+            "name": "Brandywine Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

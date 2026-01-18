@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Brugge",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8380",
+                "postalExt": null,
+                "state": null,
+                "street": "Ter Doeststraat",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.282465,
+                "longitude": 3.201841
+            },
+            "commonSiteName": "Hof ter Doest",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.282465,
+                "longitude": 3.201841
+            },
+            "locationGUID": "d58fe8d9-82c3-4a44-93ff-e09fa1c51e50",
+            "maxPowerKw": 11,
+            "name": "Hof ter Doest",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

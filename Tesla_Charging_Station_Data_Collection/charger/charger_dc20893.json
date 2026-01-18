@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Skjåk",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2698",
+                "postalExt": null,
+                "state": null,
+                "street": "Skjåkvegen 1184",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.882858,
+                "longitude": 8.26967
+            },
+            "commonSiteName": "Skjåk Turistheim",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.882858,
+                "longitude": 8.26967
+            },
+            "locationGUID": "83fbd96e-dd87-460f-9e5c-47a2210a7c2c",
+            "maxPowerKw": 7,
+            "name": "Skjåk Turistheim",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Sheikh Zayed Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.07642,
+                "longitude": 55.140558
+            },
+            "commonSiteName": "Dubai Marina Mall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.07642,
+                "longitude": 55.140558
+            },
+            "locationGUID": "ca2c9b4c-008e-4fd5-8dd1-1c37d685697d",
+            "maxPowerKw": 22,
+            "name": "Dubai Marina Mall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garcia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66260",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Valle Oriente",
+                "streetNumber": "Av Lazaro Cardenas 2424"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.651756,
+                "longitude": -100.332504
+            },
+            "commonSiteName": "Live Aqua Monterrey Valle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.651756,
+                "longitude": -100.332504
+            },
+            "locationGUID": "b75010d0-172d-4002-a8e8-84d2992c5cb6",
+            "maxPowerKw": 13,
+            "name": "Live Aqua Monterrey Valle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

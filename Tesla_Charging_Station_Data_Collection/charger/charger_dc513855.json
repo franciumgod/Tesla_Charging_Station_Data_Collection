@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bratislava",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82108",
+                "postalExt": null,
+                "state": null,
+                "street": "Priekopy",
+                "streetNumber": "20/A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.157504,
+                "longitude": 17.142006
+            },
+            "commonSiteName": "Premium Business Hotel Bratislava",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.157504,
+                "longitude": 17.142006
+            },
+            "locationGUID": "ec5da5ea-b56d-44b4-babb-7ce324382494",
+            "maxPowerKw": 14,
+            "name": "Premium Business Hotel Bratislava",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Valencia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46013",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Av d'Ausias March",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.445708,
+                "longitude": -0.368275
+            },
+            "commonSiteName": "B&B Hotel Valencia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.445708,
+                "longitude": -0.368275
+            },
+            "locationGUID": "5e09018c-05a0-4540-aeb0-7052bde0b069",
+            "maxPowerKw": 11,
+            "name": "B&B Hotel Valencia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

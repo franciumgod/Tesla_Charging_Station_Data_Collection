@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bindslev",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9881",
+                "postalExt": null,
+                "state": null,
+                "street": "Tannisbugtvej",
+                "streetNumber": "123"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.592876,
+                "longitude": 10.183893
+            },
+            "commonSiteName": "Hotel Tannishus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.592876,
+                "longitude": 10.183893
+            },
+            "locationGUID": "5d972833-7808-41b7-b60c-c8b4dc8ee8cc",
+            "maxPowerKw": 14,
+            "name": "Hotel Tannishus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

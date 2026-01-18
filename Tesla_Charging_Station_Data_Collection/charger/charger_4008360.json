@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": "MI",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20156",
+                "postalExt": null,
+                "state": "Milano",
+                "street": "Via Villapizzone",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.500634,
+                "longitude": 9.1445244
+            },
+            "commonSiteName": "Radisson Blu Milan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.500634,
+                "longitude": 9.1445244
+            },
+            "locationGUID": "b4d1a980-9c7c-41bf-99cf-935a6d2fd37c",
+            "maxPowerKw": 11,
+            "name": "Radisson Blu Milan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

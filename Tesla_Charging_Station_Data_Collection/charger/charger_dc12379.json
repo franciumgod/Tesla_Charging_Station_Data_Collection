@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20001",
+                "postalExt": null,
+                "state": "DC",
+                "street": "Massachusetts Ave NW",
+                "streetNumber": "901"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.903543,
+                "longitude": -77.024973
+            },
+            "commonSiteName": "Marriott Marquis Washington D.C.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.903543,
+                "longitude": -77.024973
+            },
+            "locationGUID": "0396c61e-49cc-4287-a9a0-8e1517bf2cc5",
+            "maxPowerKw": 8,
+            "name": "Marriott Marquis Washington D.C.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10007",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Murray St",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.714266,
+                "longitude": -74.009921
+            },
+            "commonSiteName": "Icon Parking 54 Murray Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.714266,
+                "longitude": -74.009921
+            },
+            "locationGUID": "a6f2be24-bc63-4e2a-8d47-693a8d341b80",
+            "maxPowerKw": 10,
+            "name": "Icon Parking 54 Murray Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

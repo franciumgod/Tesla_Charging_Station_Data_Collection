@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Perth",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6000",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Adelaide Terrace",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -31.961241,
+                "longitude": 115.873439
+            },
+            "commonSiteName": "Hyatt Regency Perth",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -31.961241,
+                "longitude": 115.873439
+            },
+            "locationGUID": "285bb240-58f0-4d20-b9ad-ef120d9b289c",
+            "maxPowerKw": 22,
+            "name": "Hyatt Regency Perth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

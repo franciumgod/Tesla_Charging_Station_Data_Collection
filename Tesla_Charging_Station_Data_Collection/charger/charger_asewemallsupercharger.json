@@ -1,0 +1,415 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Taipei City",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "Tucheng District",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "236",
+                "postalExt": null,
+                "state": "New Taipei",
+                "street": "Section 2, Xuefu Road",
+                "streetNumber": "B3F, No.210"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.375,
+                            0.484375,
+                            0.5924479166666666,
+                            0.609375,
+                            0.5625,
+                            0.47265625,
+                            0.46875,
+                            0.4947916666666667,
+                            0.484375,
+                            0.4791666666666667,
+                            0.5,
+                            0.59375,
+                            0.609375,
+                            0.5109375,
+                            0.4479166666666667,
+                            0.34375,
+                            0.21205357142857142,
+                            0.09375,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.20758928571428573,
+                            0.34375
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.46875,
+                            0.609375,
+                            0.58203125,
+                            0.4756944444444445,
+                            0.4375,
+                            0.4375,
+                            0.455078125,
+                            0.51875,
+                            0.5625,
+                            0.51875,
+                            0.47265625,
+                            0.453125,
+                            0.4140625,
+                            0.375,
+                            0.359375,
+                            0.23958333333333331,
+                            0.15625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.09375,
+                            0.140625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.455078125,
+                            0.484375,
+                            0.5596590909090909,
+                            0.59375,
+                            0.5994318181818181,
+                            0.578125,
+                            0.5625,
+                            0.4652777777777778,
+                            0.44140625,
+                            0.390625,
+                            0.3671875,
+                            0.3802083333333333,
+                            0.5255681818181818,
+                            0.625,
+                            0.5071022727272727,
+                            0.3715277777777778,
+                            0.1875,
+                            0.125,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.03125,
+                            0.15625,
+                            0.1875
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.5,
+                            0.484375,
+                            0.4947916666666667,
+                            0.484375,
+                            0.45138888888888895,
+                            0.39583333333333337,
+                            0.4683908045977012,
+                            0.546875,
+                            0.5677083333333334,
+                            0.5488505747126438,
+                            0.5866477272727273,
+                            0.5989583333333334,
+                            0.5183080808080809,
+                            0.4010416666666667,
+                            0.3325892857142857,
+                            0.19375,
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.125,
+                            0.20833333333333331
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.37777777777777777,
+                            0.39453125,
+                            0.4826388888888889,
+                            0.484375,
+                            0.4253472222222222,
+                            0.41666666666666674,
+                            0.528125,
+                            0.59375,
+                            0.5796875,
+                            0.515625,
+                            0.528125,
+                            0.515625,
+                            0.4984375,
+                            0.455078125,
+                            0.4375,
+                            0.35546875,
+                            0.19375,
+                            0.125,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0.09375,
+                            0.1875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.314453125,
+                            0.390625,
+                            0.43359375,
+                            0.40625,
+                            0.43359375,
+                            0.40625,
+                            0.4375,
+                            0.44791666666666663,
+                            0.5,
+                            0.4375,
+                            0.4375,
+                            0.484375,
+                            0.4756944444444445,
+                            0.4375,
+                            0.390625,
+                            0.29464285714285715,
+                            0.1484375,
+                            0.09375,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.09375,
+                            0.1783482142857143
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.30937499999999996,
+                            0.36406249999999996,
+                            0.44999999999999996,
+                            0.55,
+                            0.5874999999999999,
+                            0.55,
+                            0.5615384615384615,
+                            0.5375,
+                            0.47788461538461535,
+                            0.38749999999999996,
+                            0.4138888888888889,
+                            0.48125,
+                            0.5125,
+                            0.45,
+                            0.321875,
+                            0.25357142857142856,
+                            0.15000000000000002,
+                            0.1,
+                            0.025,
+                            0.037500000000000006,
+                            0.037500000000000006,
+                            0.05,
+                            0.21527777777777776,
+                            0.31562500000000004
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 4927,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 17090,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 24.978959,
+                "longitude": 121.444866
+            },
+            "commonSiteName": "ASE Mall",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 10,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "12:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 8,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "04:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "20:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 10,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "12:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "00:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 9,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "20:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "04:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 8,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "00:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 15,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.979615,
+                "longitude": 121.444553
+            },
+            "locationGUID": "be38b430-6d41-40e7-bc9d-d0f913b1f36a",
+            "maxPowerKw": 250,
+            "name": "New Taipei, Tucheng - Asewemall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

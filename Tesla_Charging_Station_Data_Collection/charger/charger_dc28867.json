@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rothenburg ob der Tauber",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "91541",
+                "postalExt": null,
+                "state": null,
+                "street": "Vorm Wuerzburger Tor",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.380188,
+                "longitude": 10.18489
+            },
+            "commonSiteName": "Villa Mittermeier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.380188,
+                "longitude": 10.18489
+            },
+            "locationGUID": "071c9f82-79f7-485e-91cb-15288405155c",
+            "maxPowerKw": 11,
+            "name": "Villa Mittermeier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

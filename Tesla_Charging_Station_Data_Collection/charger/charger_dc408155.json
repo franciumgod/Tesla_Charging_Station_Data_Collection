@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Shell",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "82441",
+                "postalExt": null,
+                "state": "WY",
+                "street": "Main St",
+                "streetNumber": "219"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.5362,
+                "longitude": -107.7792
+            },
+            "commonSiteName": "Shell WY Tesla Chargers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.5362,
+                "longitude": -107.7792
+            },
+            "locationGUID": "9e3aec67-bf77-4719-99cc-09f66dc01b32",
+            "maxPowerKw": 11,
+            "name": "Shell WY Tesla Chargers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

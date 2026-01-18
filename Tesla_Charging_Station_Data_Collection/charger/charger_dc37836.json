@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pokolbin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2320",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Oakey Creek Road",
+                "streetNumber": "336"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.80881127,
+                "longitude": 151.30641604
+            },
+            "commonSiteName": "Kirkton Park Hunter Valley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.80881127,
+                "longitude": 151.30641604
+            },
+            "locationGUID": "46a65958-8ffe-4be1-bbb7-9c42a1a63f5f",
+            "maxPowerKw": 7,
+            "name": "Kirkton Park Hunter Valley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

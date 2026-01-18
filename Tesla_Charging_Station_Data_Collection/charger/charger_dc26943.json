@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Avon",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14414",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E Main St",
+                "streetNumber": "244"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.910916,
+                "longitude": -77.7358019
+            },
+            "commonSiteName": "Peppermint's Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.910916,
+                "longitude": -77.7358019
+            },
+            "locationGUID": "f7bc9172-a597-4abe-93e5-56ba93629a61",
+            "maxPowerKw": 16,
+            "name": "Peppermint's Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

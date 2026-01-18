@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Connemara",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "Co Galway",
+                "postalExt": null,
+                "state": null,
+                "street": "Recess",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.460367,
+                "longitude": -9.863068
+            },
+            "commonSiteName": "Ballynahinch Castle Hotel & Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.460367,
+                "longitude": -9.863068
+            },
+            "locationGUID": "292e8724-fe6d-476b-92cf-5538c2516450",
+            "maxPowerKw": 13,
+            "name": "Ballynahinch Castle Hotel & Estate",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

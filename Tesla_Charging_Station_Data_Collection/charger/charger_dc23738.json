@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lerici",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "19032",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Carpanini",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.072127,
+                "longitude": 9.910587
+            },
+            "commonSiteName": "Doria Park Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.072127,
+                "longitude": 9.910587
+            },
+            "locationGUID": "18b36cc8-ae4e-450c-960e-4fe2ef95c944",
+            "maxPowerKw": 17,
+            "name": "Doria Park Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

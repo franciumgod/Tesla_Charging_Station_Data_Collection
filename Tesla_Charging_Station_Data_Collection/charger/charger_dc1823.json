@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Marco Island",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34145",
+                "postalExt": null,
+                "state": "FL",
+                "street": "S Collier Blvd",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.920085,
+                "longitude": -81.727577
+            },
+            "commonSiteName": "Marriott's Crystal Shores",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.920085,
+                "longitude": -81.727577
+            },
+            "locationGUID": "1b667adf-414d-43a6-95d2-fa73656a2e47",
+            "maxPowerKw": 8,
+            "name": "Marriott's Crystal Shores",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

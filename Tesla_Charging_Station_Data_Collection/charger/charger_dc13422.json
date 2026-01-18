@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Annapolis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21401",
+                "postalExt": null,
+                "state": "MD",
+                "street": "Holiday Ct",
+                "streetNumber": "210"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.982522,
+                "longitude": -76.547334
+            },
+            "commonSiteName": "Doubletree by Hilton Annapolis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.982522,
+                "longitude": -76.547334
+            },
+            "locationGUID": "e197deb0-1865-4bc8-b04d-3e0e64321835",
+            "maxPowerKw": 8,
+            "name": "Doubletree by Hilton Annapolis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

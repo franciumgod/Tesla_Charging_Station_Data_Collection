@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bend",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97702",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SW Simpson Ave",
+                "streetNumber": "901"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.046851,
+                "longitude": -121.322336
+            },
+            "commonSiteName": "Deschutes Brewery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.046851,
+                "longitude": -121.322336
+            },
+            "locationGUID": "e0784add-9c5f-43bb-9f18-812fb2271702",
+            "maxPowerKw": 8,
+            "name": "Deschutes Brewery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

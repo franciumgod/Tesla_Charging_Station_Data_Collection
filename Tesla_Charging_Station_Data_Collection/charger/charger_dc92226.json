@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jersey City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "07311",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "Hudson St",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.71585,
+                "longitude": -74.035362
+            },
+            "commonSiteName": "101 Hudson-Littleman Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.71585,
+                "longitude": -74.035362
+            },
+            "locationGUID": "380d953b-3484-4723-b0ae-91c8d54f6bbf",
+            "maxPowerKw": 10,
+            "name": "101 Hudson-Littleman Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

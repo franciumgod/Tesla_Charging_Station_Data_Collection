@@ -1,0 +1,300 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hamamatsu",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "431",
+                "postalExt": "2102",
+                "state": "Shizuoka",
+                "street": "Miyakoda-cho, Hamana-ku",
+                "streetNumber": "7824-5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.265625,
+                            0.26875,
+                            0.25,
+                            0.26875,
+                            0.296875,
+                            0.33072916666666663,
+                            0.296875,
+                            0.3072916666666667,
+                            0.2760416666666667,
+                            0.3125,
+                            0.28125,
+                            0.234375,
+                            0.25,
+                            0.21875,
+                            0.25,
+                            0.234375,
+                            0.33482142857142855,
+                            0.3993055555555556,
+                            0.421875,
+                            0.3194444444444444,
+                            0.14583333333333334,
+                            0.171875,
+                            0.20703125,
+                            0.2708333333333333
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.171875,
+                            0.16666666666666666,
+                            0.234375,
+                            0.3125,
+                            0.3489583333333333,
+                            0.34375,
+                            0.27604166666666663,
+                            0.25,
+                            0.23125,
+                            0.3125,
+                            0.3125,
+                            0.2109375,
+                            0.16666666666666669,
+                            0.140625,
+                            0.1953125,
+                            0.1875,
+                            0.171875,
+                            0.109375,
+                            0.0859375,
+                            0.0859375,
+                            0.1484375,
+                            0.21875,
+                            0.26875,
+                            0.265625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.328125,
+                            0.4253472222222222,
+                            0.46875,
+                            0.4375,
+                            0.3727678571428571,
+                            0.39453125,
+                            0.453125,
+                            0.419921875,
+                            0.3125,
+                            0.33482142857142855,
+                            0.328125,
+                            0.3392857142857143,
+                            0.296875,
+                            0.33072916666666663,
+                            0.359375,
+                            0.3125,
+                            0.25520833333333337,
+                            0.20937499999999998,
+                            0.265625,
+                            0.23125,
+                            0.21875,
+                            0.23125,
+                            0.3125,
+                            0.359375
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.46875,
+                            0.43359375,
+                            0.4375,
+                            0.484375,
+                            0.453125,
+                            0.3984375,
+                            0.359375,
+                            0.4140625,
+                            0.40625,
+                            0.4140625,
+                            0.390625,
+                            0.359375,
+                            0.3392857142857143,
+                            0.234375,
+                            0.275,
+                            0.28125,
+                            0.265625,
+                            0.2,
+                            0.09375,
+                            0.09375,
+                            0.0625,
+                            0.109375,
+                            0.14583333333333334,
+                            0.171875
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.165625,
+                            0.2265625,
+                            0.171875,
+                            0.28125,
+                            0.3214285714285714,
+                            0.359375,
+                            0.2857142857142857,
+                            0.23124999999999998,
+                            0.265625,
+                            0.25,
+                            0.1875,
+                            0.14583333333333331,
+                            0.14583333333333334,
+                            0.125,
+                            0.1875,
+                            0.109375,
+                            0.140625,
+                            0.09375,
+                            0.0859375,
+                            0.0859375,
+                            0.125,
+                            0.171875,
+                            0.1875,
+                            0.23124999999999998
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.20937499999999998,
+                            0.1953125,
+                            0.296875,
+                            0.34375,
+                            0.26171875,
+                            0.140625,
+                            0.1875,
+                            0.25,
+                            0.1875,
+                            0.2630208333333333,
+                            0.28125,
+                            0.2942708333333333,
+                            0.23124999999999998,
+                            0.171875,
+                            0.14583333333333331,
+                            0.109375,
+                            0.171875,
+                            0.171875,
+                            0.1953125,
+                            0.140625,
+                            0.140625,
+                            0.175,
+                            0.21875,
+                            0.19
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.10750000000000001,
+                            0.18333333333333332,
+                            0.2833333333333333,
+                            0.35,
+                            0.2972222222222223,
+                            0.2,
+                            0.21500000000000002,
+                            0.19999999999999998,
+                            0.16000000000000003,
+                            0.1375,
+                            0.185,
+                            0.1875,
+                            0.14,
+                            0.037500000000000006,
+                            0.07500000000000001,
+                            0.07500000000000001,
+                            0.1,
+                            0.07500000000000001,
+                            0.05,
+                            0.075,
+                            0.11249999999999999,
+                            0.12499999999999999,
+                            0.11249999999999999,
+                            0.14
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 387,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 1648,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 34.840451,
+                "longitude": 137.74804
+            },
+            "commonSiteName": "NEOPASA",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 70,
+                    "rateMinTier3": 112,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 70,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 34.840553,
+                "longitude": 137.746248
+            },
+            "locationGUID": "459e2ab6-ea83-46a6-aeed-dc402faf3c11",
+            "maxPowerKw": 150,
+            "name": "Hamamatsu, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

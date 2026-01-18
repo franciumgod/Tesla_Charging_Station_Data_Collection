@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eau Claire",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54701",
+                "postalExt": null,
+                "state": "WI",
+                "street": "S Farwell St",
+                "streetNumber": "202"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.8119377,
+                "longitude": -91.4993478
+            },
+            "commonSiteName": "Eau Claire Civic Center Parking Ramp",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.8119377,
+                "longitude": -91.4993478
+            },
+            "locationGUID": "87cb7eac-de92-4916-a4da-7ed0682197d7",
+            "maxPowerKw": 8,
+            "name": "Eau Claire Civic Center Parking Ramp",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Karuizawa, Kitasaku",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "389",
+                "postalExt": "0102",
+                "state": "Nagano",
+                "street": "Karuizawa",
+                "streetNumber": "1178"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.25,
+                            0.3325892857142857,
+                            0.359375,
+                            0.3392857142857143,
+                            0.296875,
+                            0.296875,
+                            0.3392857142857143,
+                            0.359375,
+                            0.3727678571428571,
+                            0.296875,
+                            0.25520833333333337,
+                            0.140625,
+                            0.2630208333333333,
+                            0.21875,
+                            0.17708333333333334,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0859375,
+                            0.125,
+                            0.171875
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.109375,
+                            0.40625,
+                            0.453125,
+                            0.5453125,
+                            0.4375,
+                            0.39285714285714285,
+                            0.359375,
+                            0.27232142857142855,
+                            0.171875,
+                            0.171875,
+                            0.203125,
+                            0.16796875,
+                            0.11458333333333334,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.0625,
+                            0.078125,
+                            0.109375,
+                            0.09375,
+                            0.109375
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.314453125,
+                            0.359375,
+                            0.5625,
+                            0.578125,
+                            0.58203125,
+                            0.4375,
+                            0.44791666666666663,
+                            0.484375,
+                            0.4305555555555555,
+                            0.33984375,
+                            0.1875,
+                            0.1171875,
+                            0.09375,
+                            0.078125,
+                            0.0625,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.14453125,
+                            0.15625,
+                            0.14453125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.14583333333333334,
+                            0.31770833333333337,
+                            0.5216346153846154,
+                            0.703125,
+                            0.701923076923077,
+                            0.625,
+                            0.5596590909090909,
+                            0.4375,
+                            0.34375,
+                            0.203125,
+                            0.14453125,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.09375,
+                            0.109375,
+                            0.16666666666666669,
+                            0.125,
+                            0.16666666666666669
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.059375,
+                            0.23660714285714285,
+                            0.349609375,
+                            0.44140625,
+                            0.401611328125,
+                            0.34765625,
+                            0.2942708333333333,
+                            0.23124999999999998,
+                            0.2578125,
+                            0.265625,
+                            0.203125,
+                            0.109375,
+                            0.1484375,
+                            0.203125,
+                            0.16796875,
+                            0.08854166666666667,
+                            0.03125,
+                            0.03125,
+                            0.046875,
+                            0.0859375,
+                            0.109375,
+                            0.09375,
+                            0.15625,
+                            0.1484375
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.125,
+                            0.140625,
+                            0.140625,
+                            0.203125,
+                            0.296875,
+                            0.37276785714285715,
+                            0.359375,
+                            0.3169642857142857,
+                            0.25,
+                            0.203125,
+                            0.1171875,
+                            0.0625,
+                            0.0625,
+                            0.109375,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.078125,
+                            0.109375,
+                            0.090625
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.17375000000000002,
+                            0.2,
+                            0.28214285714285714,
+                            0.36624999999999996,
+                            0.42500000000000004,
+                            0.38249999999999995,
+                            0.3142857142857143,
+                            0.24999999999999997,
+                            0.1625,
+                            0.06875,
+                            0.037500000000000006,
+                            0.025,
+                            0.025,
+                            0.025,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.05,
+                            0.1,
+                            0.1375,
+                            0.12109375000000001
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 7701,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 31666,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 36.339556,
+                "longitude": 138.632762
+            },
+            "commonSiteName": "Karuizawa Prince Shopping Plaza",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 36.33907593,
+                "longitude": 138.63120055
+            },
+            "locationGUID": "c5a52c07-a332-48b2-8acc-309993d2489b",
+            "maxPowerKw": 250,
+            "name": "Karuizawa, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

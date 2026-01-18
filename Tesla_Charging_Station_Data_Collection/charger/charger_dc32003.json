@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Phoenix",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85020",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "N 7th St",
+                "streetNumber": "11111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.596778,
+                "longitude": -112.064907
+            },
+            "commonSiteName": "Pointe Hilton Tapatio Cliffs Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.596778,
+                "longitude": -112.064907
+            },
+            "locationGUID": "e036461c-27eb-4201-83f6-50de36c41cb1",
+            "maxPowerKw": 10,
+            "name": "Pointe Hilton Tapatio Cliffs Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

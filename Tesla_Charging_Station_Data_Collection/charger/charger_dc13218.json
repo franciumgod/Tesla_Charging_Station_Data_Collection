@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Princeton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08540",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "Bayard Ln",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.349131,
+                "longitude": -74.665479
+            },
+            "commonSiteName": "The Peacock Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.349131,
+                "longitude": -74.665479
+            },
+            "locationGUID": "6ea06b9e-161c-4485-bd2d-8761b3705334",
+            "maxPowerKw": 16,
+            "name": "The Peacock Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geilo",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3580",
+                "postalExt": null,
+                "state": "Geilo",
+                "street": "Bakkestølvegen",
+                "streetNumber": "81"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.522251,
+                "longitude": 8.197152
+            },
+            "commonSiteName": "Vestlia Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.522251,
+                "longitude": 8.197152
+            },
+            "locationGUID": "f6091758-eb5d-475d-b7ec-27bf4b3b5114",
+            "maxPowerKw": 0,
+            "name": "Vestlia Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

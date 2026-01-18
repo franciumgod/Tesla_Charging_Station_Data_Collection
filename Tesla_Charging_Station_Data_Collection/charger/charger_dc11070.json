@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Homewood",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60430",
+                "postalExt": null,
+                "state": "IL",
+                "street": "Ridge Rd",
+                "streetNumber": "2034"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.56213,
+                "longitude": -87.666663
+            },
+            "commonSiteName": "La Banque Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.56213,
+                "longitude": -87.666663
+            },
+            "locationGUID": "1d5b6e23-620e-4990-8903-5ea67231a85e",
+            "maxPowerKw": 16,
+            "name": "La Banque Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

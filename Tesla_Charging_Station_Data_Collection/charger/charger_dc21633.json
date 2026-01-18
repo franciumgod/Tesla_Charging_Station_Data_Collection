@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Zürich",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8008",
+                "postalExt": null,
+                "state": null,
+                "street": "Dufourstrasse",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.364372,
+                "longitude": 8.547232
+            },
+            "commonSiteName": "Hotel Opera Zürich",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.364372,
+                "longitude": 8.547232
+            },
+            "locationGUID": "032a36fb-bfb0-4e3d-9994-b5484435c1cd",
+            "maxPowerKw": 8,
+            "name": "Hotel Opera Zuerich",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

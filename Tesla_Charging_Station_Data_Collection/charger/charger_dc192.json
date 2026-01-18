@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milwaukee",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "53202",
+                "postalExt": null,
+                "state": "WI",
+                "street": "East Kilbourn Ave",
+                "streetNumber": "139"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.041929,
+                "longitude": -87.911333
+            },
+            "commonSiteName": "InterContinental Milwaukee",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.041929,
+                "longitude": -87.911333
+            },
+            "locationGUID": "3b60571e-814b-4586-9768-a7a12640d33f",
+            "maxPowerKw": 13,
+            "name": "InterContinental Milwaukee",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

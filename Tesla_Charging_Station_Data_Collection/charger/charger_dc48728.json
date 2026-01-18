@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bexhill-on-Sea",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TN39 4TT",
+                "postalExt": null,
+                "state": "East Sussex",
+                "street": "Cooden Sea Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.83304481,
+                "longitude": 0.42667027
+            },
+            "commonSiteName": "The Cooden Beach Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.83304481,
+                "longitude": 0.42667027
+            },
+            "locationGUID": "801f1734-e309-4d1c-94b1-9fa2efbc9c65",
+            "maxPowerKw": 6,
+            "name": "The Cooden Beach Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

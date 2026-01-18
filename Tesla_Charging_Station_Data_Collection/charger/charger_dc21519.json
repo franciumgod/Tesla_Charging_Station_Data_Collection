@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stresa",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28838",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Lido",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.88881,
+                "longitude": 8.52495
+            },
+            "commonSiteName": "Hotel Royal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.88881,
+                "longitude": 8.52495
+            },
+            "locationGUID": "191277fc-ed1b-4b3f-97d3-05bed43df8cd",
+            "maxPowerKw": 22,
+            "name": "Hotel Royal-Stresa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

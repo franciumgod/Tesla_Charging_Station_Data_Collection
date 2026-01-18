@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Warszawa",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "00",
+                "postalExt": "854",
+                "state": null,
+                "street": "Al. Jana Pawla II",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.235436,
+                "longitude": 20.996647
+            },
+            "commonSiteName": "The Westin Warsaw",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.235436,
+                "longitude": 20.996647
+            },
+            "locationGUID": "154331e4-9f09-492f-b5e4-a3684cc7a082",
+            "maxPowerKw": 22,
+            "name": "The Westin Warsaw",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

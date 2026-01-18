@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coyoacan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "4700",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "El Caracol",
+                "streetNumber": "Periferico Sur 5550, Pedregal de Carrasco"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.3059,
+                "longitude": -99.16632
+            },
+            "commonSiteName": "Gran Sur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.3059,
+                "longitude": -99.16632
+            },
+            "locationGUID": "99cdde82-75e0-41bf-a46b-c178427d12ec",
+            "maxPowerKw": 6,
+            "name": "Gran Sur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

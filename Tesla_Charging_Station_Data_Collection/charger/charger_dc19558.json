@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milton Park",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2575",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Horderns Rd",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.499128,
+                "longitude": 150.481303
+            },
+            "commonSiteName": "Milton Park Country House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.499128,
+                "longitude": 150.481303
+            },
+            "locationGUID": "c451f270-e8c9-4f85-a362-a2533b3799c9",
+            "maxPowerKw": 8,
+            "name": "Milton Park Country House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

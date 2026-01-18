@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atami",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "413",
+                "postalExt": "0002",
+                "state": "Shizuoka",
+                "street": "Midorigaokachō",
+                "streetNumber": "269-1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.109931,
+                "longitude": 139.082121
+            },
+            "commonSiteName": "熱海せかいえ",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.109931,
+                "longitude": 139.082121
+            },
+            "locationGUID": "687000fc-25f8-4550-801d-22e68eb15cd1",
+            "maxPowerKw": 16,
+            "name": "Atami Sekaie",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

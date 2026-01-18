@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bad Hofgastein",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5630",
+                "postalExt": null,
+                "state": "Salzburg",
+                "street": "Parkstrasse",
+                "streetNumber": "13"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.172509,
+                "longitude": 13.100316
+            },
+            "commonSiteName": "Hotel Alpina Gastein",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.172509,
+                "longitude": 13.100316
+            },
+            "locationGUID": "47a2d47d-3feb-47ff-97b9-54441f0893b0",
+            "maxPowerKw": 22,
+            "name": "Hotel Alpina Gastein",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

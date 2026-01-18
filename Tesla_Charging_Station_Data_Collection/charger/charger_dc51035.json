@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rytro",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33",
+                "postalExt": "343",
+                "state": null,
+                "street": "Rytro",
+                "streetNumber": "306"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.490912,
+                "longitude": 20.682234
+            },
+            "commonSiteName": "Willa Poprad",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.490912,
+                "longitude": 20.682234
+            },
+            "locationGUID": "cdc601f1-007f-4ec1-a34d-1a73f345783f",
+            "maxPowerKw": 17,
+            "name": "Willa Poprad",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

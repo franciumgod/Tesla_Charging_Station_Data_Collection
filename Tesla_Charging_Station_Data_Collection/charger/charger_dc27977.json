@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Derby",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "DE24 8UX",
+                "postalExt": null,
+                "state": null,
+                "street": "London Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.904484,
+                "longitude": -1.448363
+            },
+            "commonSiteName": "The Derby Conference Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.904484,
+                "longitude": -1.448363
+            },
+            "locationGUID": "4a65c819-ee12-4ab7-8d3d-595e48ab30c6",
+            "maxPowerKw": 13,
+            "name": "The Derby Conference Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

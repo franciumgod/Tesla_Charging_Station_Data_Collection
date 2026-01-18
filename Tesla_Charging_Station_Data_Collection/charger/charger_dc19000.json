@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Belmont",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28012",
+                "postalExt": null,
+                "state": "NC",
+                "street": "S Main St",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.241715,
+                "longitude": -81.037882
+            },
+            "commonSiteName": "Old Stone Steakhouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.241715,
+                "longitude": -81.037882
+            },
+            "locationGUID": "6dda00b1-d9c0-4a4e-b3a1-38d899331832",
+            "maxPowerKw": 16,
+            "name": "Old Stone Steakhouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

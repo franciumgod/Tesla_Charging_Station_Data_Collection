@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alpthal",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8849",
+                "postalExt": null,
+                "state": null,
+                "street": "Brunnistr.",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.042671,
+                "longitude": 8.703956
+            },
+            "commonSiteName": "Brunni-Alpthal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.042671,
+                "longitude": 8.703956
+            },
+            "locationGUID": "44c88a09-7087-41fa-98a2-2082450ccfe2",
+            "maxPowerKw": 11,
+            "name": "Brunni-Alpthal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

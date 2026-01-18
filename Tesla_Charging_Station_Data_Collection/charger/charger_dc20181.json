@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22800",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Zona Centro",
+                "streetNumber": "Av. Ruiz #113"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.865384,
+                "longitude": -116.62923
+            },
+            "commonSiteName": "Cantina Hussong's",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.865384,
+                "longitude": -116.62923
+            },
+            "locationGUID": "f68975a0-bc37-4308-b590-0033d714ba81",
+            "maxPowerKw": 11,
+            "name": "Cantina Hussong's",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Whistler",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0N 1B4",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Chateau Blvd",
+                "streetNumber": "4599"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.117399,
+                "longitude": -122.944972
+            },
+            "commonSiteName": "Fairmont Chateau Whistler - Parking Level P1",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.117399,
+                "longitude": -122.944972
+            },
+            "locationGUID": "40ae338d-ac99-416d-ad1d-d3c0301038a7",
+            "maxPowerKw": 16,
+            "name": "Fairmont Chateau Whistler - Parking Level P1",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Weaverville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28787",
+                "postalExt": null,
+                "state": "NC",
+                "street": "S Main St",
+                "streetNumber": "88"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.6927437,
+                "longitude": -82.559905
+            },
+            "commonSiteName": "Inn On Main",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.6927437,
+                "longitude": -82.559905
+            },
+            "locationGUID": "63de4643-8fa6-4b01-81e9-f89a3d3425a1",
+            "maxPowerKw": 8,
+            "name": "Inn On Main",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

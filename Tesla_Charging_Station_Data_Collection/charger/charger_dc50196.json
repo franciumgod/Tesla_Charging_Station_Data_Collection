@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Brome",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0E 2P0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "QC-139",
+                "streetNumber": "128"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.179885,
+                "longitude": -72.663651
+            },
+            "commonSiteName": "Auberge West Brome",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.179885,
+                "longitude": -72.663651
+            },
+            "locationGUID": "1d094c69-5fe6-43a4-8b4a-c5792f5efd40",
+            "maxPowerKw": 10,
+            "name": "Auberge West Brome",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

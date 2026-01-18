@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Baie Saint Paul",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G3Z 1A7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Chemin Cap-Aux-Corbeaux Nord",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.440215,
+                "longitude": -70.469809
+            },
+            "commonSiteName": "L'Estampilles",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.440215,
+                "longitude": -70.469809
+            },
+            "locationGUID": "42fdced0-75f3-4c69-959e-97c6a987cd10",
+            "maxPowerKw": 8,
+            "name": "L'Estampilles",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

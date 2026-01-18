@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nottingham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NG7 5EH",
+                "postalExt": null,
+                "state": null,
+                "street": "Beeston Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.939233,
+                "longitude": -1.202268
+            },
+            "commonSiteName": "Orchard Hotel & East Midlands Conference Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.939233,
+                "longitude": -1.202268
+            },
+            "locationGUID": "a21b35b4-eb93-4c19-b1c2-62200d3f0131",
+            "maxPowerKw": 22,
+            "name": "Orchard Hotel & East Midlands Conference Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

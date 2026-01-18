@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Loganholme",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4129",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Cnr Pacific Hwy and Bryants Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.656361,
+                "longitude": 153.171528
+            },
+            "commonSiteName": "Hyperdome Shopping Centre (Level 1)",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.656361,
+                "longitude": 153.171528
+            },
+            "locationGUID": "e1d4fde8-6f3a-4033-9ebe-46fab89a338d",
+            "maxPowerKw": 0,
+            "name": "Hyperdome Shopping Centre (Level 1)",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

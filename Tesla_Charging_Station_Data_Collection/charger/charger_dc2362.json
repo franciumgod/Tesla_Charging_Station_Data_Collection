@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "The Rocks",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2000",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Hickson Road",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.855584,
+                "longitude": 151.209488
+            },
+            "commonSiteName": "Park Hyatt Sydney",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.855584,
+                "longitude": 151.209488
+            },
+            "locationGUID": "4ac43c36-b6a5-48c8-a19f-d74c2e99f75c",
+            "maxPowerKw": 7,
+            "name": "Park Hyatt Sydney",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mittelkalbach",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "36148",
+                "postalExt": null,
+                "state": null,
+                "street": "Grashof",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.409443,
+                "longitude": 9.622938
+            },
+            "commonSiteName": "Landhotel Grashof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.409443,
+                "longitude": 9.622938
+            },
+            "locationGUID": "65af8a89-80b9-4dd5-afdb-744cc12f4440",
+            "maxPowerKw": 22,
+            "name": "Landhotel Grashof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

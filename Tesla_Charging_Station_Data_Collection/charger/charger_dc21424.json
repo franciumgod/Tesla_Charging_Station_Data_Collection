@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Awans",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4340",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de Bruxelles",
+                "streetNumber": "10/15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.679804,
+                "longitude": 5.47072
+            },
+            "commonSiteName": "The Huggy's Bar - Awans",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.679804,
+                "longitude": 5.47072
+            },
+            "locationGUID": "c639e6f8-0d2d-4882-816a-34fea0babc67",
+            "maxPowerKw": 14,
+            "name": "The Huggy's Bar - Awans",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

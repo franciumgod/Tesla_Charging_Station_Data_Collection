@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Thuile",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11016",
+                "postalExt": null,
+                "state": null,
+                "street": "Frazione Arly",
+                "streetNumber": "87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.711155,
+                "longitude": 6.952911
+            },
+            "commonSiteName": "Nira Montana",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.711155,
+                "longitude": 6.952911
+            },
+            "locationGUID": "f3d83227-68fd-46c5-a558-8c730640b56d",
+            "maxPowerKw": 11,
+            "name": "Nira Montana",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

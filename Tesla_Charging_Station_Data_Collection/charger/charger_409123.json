@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waitsfield",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Washington County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05673",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Carroll Rd",
+                "streetNumber": "155"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.1878437,
+                "longitude": -72.8352541
+            },
+            "commonSiteName": "Lawson's Finest Liquids",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.1878437,
+                "longitude": -72.8352541
+            },
+            "locationGUID": "e41787d2-8469-4d16-8c5b-60bc440af230",
+            "maxPowerKw": 0,
+            "name": "Lawson's Finest Liquids",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

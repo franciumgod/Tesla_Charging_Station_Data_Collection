@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gondorf",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "54647",
+                "postalExt": null,
+                "state": null,
+                "street": "Weisstrasse",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.9644292,
+                "longitude": 6.61759721
+            },
+            "commonSiteName": "Eifelpark",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.9644292,
+                "longitude": 6.61759721
+            },
+            "locationGUID": "ab7bdfdc-1514-48ca-8e06-3149999bd46d",
+            "maxPowerKw": 11,
+            "name": "Eifelpark",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

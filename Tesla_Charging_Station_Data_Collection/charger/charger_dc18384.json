@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chapel Hill",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27516",
+                "postalExt": null,
+                "state": "NC",
+                "street": "W Franklin St",
+                "streetNumber": "311"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.911118,
+                "longitude": -79.060128
+            },
+            "commonSiteName": "The Franklin Hotel Chapel Hill, Curio Collection",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.911118,
+                "longitude": -79.060128
+            },
+            "locationGUID": "105998d8-02b9-4efb-ae5d-818627049c36",
+            "maxPowerKw": 16,
+            "name": "The Franklin Hotel Chapel Hill, Curio Collection",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

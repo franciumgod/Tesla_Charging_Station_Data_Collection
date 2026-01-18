@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Belmont",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6104",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Great Eastern Hwy",
+                "streetNumber": "249-263"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -31.9407311,
+                "longitude": 115.92908393
+            },
+            "commonSiteName": "Country Comfort Perth",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -31.9407311,
+                "longitude": 115.92908393
+            },
+            "locationGUID": "2495929b-a2f6-42de-a2df-c51298e7b332",
+            "maxPowerKw": 22,
+            "name": "Country Comfort Perth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

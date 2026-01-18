@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geraldton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6530",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Cathedral Ave",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -28.774554,
+                "longitude": 114.609545
+            },
+            "commonSiteName": "The Gerald Apartment Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -28.774554,
+                "longitude": 114.609545
+            },
+            "locationGUID": "21ee7cda-58d2-4aba-b8fa-a274f43c17f7",
+            "maxPowerKw": 22,
+            "name": "The Gerald Apartment Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

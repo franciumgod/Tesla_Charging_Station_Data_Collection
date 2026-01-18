@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Göteborg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "412 51",
+                "postalExt": null,
+                "state": "Västra Götalands län",
+                "street": "Mässans Gata 24",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.69845344,
+                "longitude": 11.99115162
+            },
+            "commonSiteName": "Gothia Towers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.69845344,
+                "longitude": 11.99115162
+            },
+            "locationGUID": "39f6f6f8-e346-411e-b380-a3937d2eef87",
+            "maxPowerKw": 15,
+            "name": "Gothia Towers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

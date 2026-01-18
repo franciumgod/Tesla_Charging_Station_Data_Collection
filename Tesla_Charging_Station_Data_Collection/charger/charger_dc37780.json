@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kaindorf bei Hartberg",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8224",
+                "postalExt": null,
+                "state": null,
+                "street": "Hofkirchen",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.230887,
+                "longitude": 15.866332
+            },
+            "commonSiteName": "Ballonhotel Thaller",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.230887,
+                "longitude": 15.866332
+            },
+            "locationGUID": "08944e41-5eae-43dd-bb63-b3c69a6bee08",
+            "maxPowerKw": 17,
+            "name": "Ballonhotel Thaller",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

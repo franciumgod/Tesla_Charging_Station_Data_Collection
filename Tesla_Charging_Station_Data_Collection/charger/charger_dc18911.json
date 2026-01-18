@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dallas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "75201",
+                "postalExt": null,
+                "state": "TX",
+                "street": "N Akard St",
+                "streetNumber": "1717"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.785831,
+                "longitude": -96.801945
+            },
+            "commonSiteName": "Fairmont Dallas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.785831,
+                "longitude": -96.801945
+            },
+            "locationGUID": "dd754ad7-a4b2-4bc7-ba55-b9ef2877acec",
+            "maxPowerKw": 8,
+            "name": "Fairmont Dallas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

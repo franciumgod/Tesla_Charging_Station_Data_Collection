@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77386",
+                "postalExt": null,
+                "state": "TX",
+                "street": "basilica bay drive",
+                "streetNumber": "650"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.11972,
+                "longitude": -95.43308
+            },
+            "commonSiteName": "Hotel Indigo Spring",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.11972,
+                "longitude": -95.43308
+            },
+            "locationGUID": "4d5899c2-e036-4acb-b7b9-25cfd32fd11e",
+            "maxPowerKw": 10,
+            "name": "Hotel Indigo Spring",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

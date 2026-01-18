@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Schwelm",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "58332",
+                "postalExt": null,
+                "state": null,
+                "street": "Brunnenstrasse",
+                "streetNumber": "24-28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.298156,
+                "longitude": 7.308265
+            },
+            "commonSiteName": "Hotel Fritz am Brunnen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.298156,
+                "longitude": 7.308265
+            },
+            "locationGUID": "6103e984-6f11-4d42-8c43-29bf9dc7bdb1",
+            "maxPowerKw": 22,
+            "name": "Hotel Fritz am Brunnen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

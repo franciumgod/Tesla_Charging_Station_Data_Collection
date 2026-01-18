@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gien",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "45500",
+                "postalExt": null,
+                "state": null,
+                "street": "quai de Nice",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.682383,
+                "longitude": 2.637255
+            },
+            "commonSiteName": "Hôtel Le Rivage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.682383,
+                "longitude": 2.637255
+            },
+            "locationGUID": "eb6e73cb-2387-49ac-a02e-6b5f4d0bdae4",
+            "maxPowerKw": 11,
+            "name": "Hôtel Le Rivage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

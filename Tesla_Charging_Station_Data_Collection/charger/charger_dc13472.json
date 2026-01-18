@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Plymouth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95642",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Shenandoah Rd",
+                "streetNumber": "11000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.521509,
+                "longitude": -120.818946
+            },
+            "commonSiteName": "Andis Wines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.521509,
+                "longitude": -120.818946
+            },
+            "locationGUID": "e5151da2-3cff-48cc-ae58-fe27adfd5c44",
+            "maxPowerKw": 8,
+            "name": "Andis Wines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

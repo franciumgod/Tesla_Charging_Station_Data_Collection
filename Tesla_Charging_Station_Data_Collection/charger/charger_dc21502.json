@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Detroit",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "48226",
+                "postalExt": null,
+                "state": "MI",
+                "street": "Library St",
+                "streetNumber": "1234"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.334265,
+                "longitude": -83.045959
+            },
+            "commonSiteName": "The Z Deck EFF",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.334265,
+                "longitude": -83.045959
+            },
+            "locationGUID": "441710d2-f4fe-4c74-8881-466efd0c8d8c",
+            "maxPowerKw": 16,
+            "name": "The Z Deck EFF",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

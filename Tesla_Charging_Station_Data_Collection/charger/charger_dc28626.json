@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Jose del Cabo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23400",
+                "postalExt": null,
+                "state": "BCS",
+                "street": "Cerro Colorado",
+                "streetNumber": "Carretera Transpeninsular Km. 25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 23.004848,
+                "longitude": -109.731414
+            },
+            "commonSiteName": "Paseo Esperanza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 23.004848,
+                "longitude": -109.731414
+            },
+            "locationGUID": "0c8899f6-861e-4016-99ab-c7083da570a0",
+            "maxPowerKw": 18,
+            "name": "Paseo Esperanza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mazatlan"
+        },
+        "success": true
+    }
+}

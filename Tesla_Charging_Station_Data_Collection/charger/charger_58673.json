@@ -1,0 +1,124 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taoyuan",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "Taoyuan",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "330",
+                "postalExt": null,
+                "state": "Taoyuan",
+                "street": "Zhongshan Rd",
+                "streetNumber": "No. 956"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.989697,
+                "longitude": 121.28696
+            },
+            "commonSiteName": "Taoyuan - Taoyuan Zhongshan Road",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 1,
+                    "rateMinTier2": 1,
+                    "rateMinTier3": 1,
+                    "rateMinTier4": 1,
+                    "rateTier1": 1,
+                    "rateTier2": 1,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 1,
+                    "rateMinTier2": 1,
+                    "rateMinTier3": 1,
+                    "rateMinTier4": 1,
+                    "rateTier1": 1,
+                    "rateTier2": 1,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.989697,
+                "longitude": 121.28696
+            },
+            "locationGUID": "8048907d-ff53-4e4f-97a7-68193debfe69",
+            "maxPowerKw": 0,
+            "name": "Taoyuan, Taoyuan - Zhongshan Rd",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": null,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

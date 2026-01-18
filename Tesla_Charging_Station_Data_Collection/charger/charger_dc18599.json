@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grand Junction",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81506",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Crossroads Blvd",
+                "streetNumber": "2790"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.115307,
+                "longitude": -108.535576
+            },
+            "commonSiteName": "Grand Vista Hotel Grand Junction",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.115307,
+                "longitude": -108.535576
+            },
+            "locationGUID": "e09187e8-5ce0-4d87-aad4-ac0ec6052bff",
+            "maxPowerKw": 8,
+            "name": "Grand Vista Hotel Grand Junction",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Ignacio",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23930",
+                "postalExt": null,
+                "state": "BCS",
+                "street": "Profesor Valdivia",
+                "streetNumber": "34"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.28163,
+                "longitude": -112.899451
+            },
+            "commonSiteName": "Hotel La Huerta",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.28163,
+                "longitude": -112.899451
+            },
+            "locationGUID": "c8edb617-36fa-4d5c-9410-fc1a5daab575",
+            "maxPowerKw": 18,
+            "name": "Hotel La Huerta",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mazatlan"
+        },
+        "success": true
+    }
+}

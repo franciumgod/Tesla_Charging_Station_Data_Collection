@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Forcola",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "23010",
+                "postalExt": null,
+                "state": null,
+                "street": "Via piani",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.165105,
+                "longitude": 9.676055
+            },
+            "commonSiteName": "La Brace Hotel Restaurant & Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.165105,
+                "longitude": 9.676055
+            },
+            "locationGUID": "6ddd5993-ef40-41b1-a895-d5b617173229",
+            "maxPowerKw": 22,
+            "name": "La Brace Hotel Restaurant & Bar",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

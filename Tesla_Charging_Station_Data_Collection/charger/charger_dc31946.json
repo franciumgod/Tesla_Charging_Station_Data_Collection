@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sommieres",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30250",
+                "postalExt": null,
+                "state": null,
+                "street": "Route d'Aubais",
+                "streetNumber": "1990"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.765703,
+                "longitude": 4.097087
+            },
+            "commonSiteName": "Camping du Domaine de Massereau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.765703,
+                "longitude": 4.097087
+            },
+            "locationGUID": "e8da9f04-866c-43fd-b34d-c4e611beeb65",
+            "maxPowerKw": 11,
+            "name": "Camping du Domaine de Massereau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

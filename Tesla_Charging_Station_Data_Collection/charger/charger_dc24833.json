@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Clusaz",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74220",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Col des Aravis",
+                "streetNumber": "1078"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.902672,
+                "longitude": 6.425618
+            },
+            "commonSiteName": "Hôtel La Ferme",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.902672,
+                "longitude": 6.425618
+            },
+            "locationGUID": "55705a2d-fbb4-4f48-90c9-e6b71f289d8c",
+            "maxPowerKw": 10,
+            "name": "Hôtel La Ferme",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

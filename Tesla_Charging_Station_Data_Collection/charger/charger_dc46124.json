@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wilmslow",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SK9 4EY",
+                "postalExt": null,
+                "state": "Cheshire",
+                "street": "Stanneylands Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.342974,
+                "longitude": -2.22745
+            },
+            "commonSiteName": "Stanneylands Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.342974,
+                "longitude": -2.22745
+            },
+            "locationGUID": "bad8f7d6-41b5-43e1-bb50-bb35bd18a65c",
+            "maxPowerKw": 13,
+            "name": "Stanneylands Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

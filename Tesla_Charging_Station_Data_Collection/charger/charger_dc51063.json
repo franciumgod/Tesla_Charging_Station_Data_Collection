@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Philadelphia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19153",
+                "postalExt": null,
+                "state": "PA",
+                "street": "B Island Ave",
+                "streetNumber": "4101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.8901483,
+                "longitude": -75.231638
+            },
+            "commonSiteName": "Sheraton Suites Philadelphia Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.8901483,
+                "longitude": -75.231638
+            },
+            "locationGUID": "fb465a4c-8fc8-48c0-8722-784241c54fd3",
+            "maxPowerKw": 16,
+            "name": "Sheraton Suites Philadelphia Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Napa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94559",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Soscol Ave",
+                "streetNumber": "1600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.305275,
+                "longitude": -122.283453
+            },
+            "commonSiteName": "River Terrace Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.305275,
+                "longitude": -122.283453
+            },
+            "locationGUID": "8726e139-fe39-4595-8f81-98796a42987e",
+            "maxPowerKw": 13,
+            "name": "River Terrace Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

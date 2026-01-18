@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brisbane",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4000",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "George St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.469837,
+                "longitude": 153.022358
+            },
+            "commonSiteName": "W Brisbane Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.469837,
+                "longitude": 153.022358
+            },
+            "locationGUID": "8af31ee6-48ba-4e53-9366-ea8e6696b879",
+            "maxPowerKw": 22,
+            "name": "W Brisbane Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

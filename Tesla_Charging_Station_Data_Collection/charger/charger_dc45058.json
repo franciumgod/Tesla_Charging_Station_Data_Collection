@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grove City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "16127",
+                "postalExt": null,
+                "state": "PA",
+                "street": "W Main S",
+                "streetNumber": "1313"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.166222,
+                "longitude": -80.103719
+            },
+            "commonSiteName": "Main Street Diner",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.166222,
+                "longitude": -80.103719
+            },
+            "locationGUID": "23d3bae2-e7aa-49a1-b5ae-e6179489842a",
+            "maxPowerKw": 16,
+            "name": "Main Street Diner",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jackson",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "83001",
+                "postalExt": null,
+                "state": "WY",
+                "street": "N Glenwood St",
+                "streetNumber": "120"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.480685,
+                "longitude": -110.763383
+            },
+            "commonSiteName": "Hotel Jackson",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.480685,
+                "longitude": -110.763383
+            },
+            "locationGUID": "cdddd675-e600-403d-9f7d-6ff2f54e91fe",
+            "maxPowerKw": 16,
+            "name": "Hotel Jackson",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

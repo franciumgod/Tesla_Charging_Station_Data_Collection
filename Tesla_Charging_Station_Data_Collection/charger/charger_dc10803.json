@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Verona",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37121",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Carlo Cattaneo",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.43906,
+                "longitude": 10.989969
+            },
+            "commonSiteName": "The Gentleman of Verona Grand Relais",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.43906,
+                "longitude": 10.989969
+            },
+            "locationGUID": "7ed384a2-0869-4b6d-9f74-d2459a04f534",
+            "maxPowerKw": 22,
+            "name": "The Gentleman of Verona Grand Relais",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "León",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24005",
+                "postalExt": null,
+                "state": "Castilla y León",
+                "street": "Calle Fray Luis de León",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.59107,
+                "longitude": -5.568884
+            },
+            "commonSiteName": "El Corte Ingles C.C. León",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.59107,
+                "longitude": -5.568884
+            },
+            "locationGUID": "d18861c3-11f7-4591-a592-c82b18ae415a",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Fray Luis de León",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

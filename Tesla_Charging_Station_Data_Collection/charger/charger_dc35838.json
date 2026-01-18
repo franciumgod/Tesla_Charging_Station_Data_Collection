@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alvaro Obregon",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "1219",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Zedec Sta Fe",
+                "streetNumber": "Av Sta Fe 170"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.366749,
+                "longitude": -99.260706
+            },
+            "commonSiteName": "German Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.366749,
+                "longitude": -99.260706
+            },
+            "locationGUID": "24ded3ce-11da-4e88-8bca-3094085e153b",
+            "maxPowerKw": 18,
+            "name": "German Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Invercargill",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9810",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Corner Tay Street & Racecourse Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -46.40399755,
+                "longitude": 168.39563389
+            },
+            "commonSiteName": "Ascot Park Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -46.40399755,
+                "longitude": 168.39563389
+            },
+            "locationGUID": "50d11db0-5ecb-4e2e-b732-de1e200be916",
+            "maxPowerKw": 6,
+            "name": "Ascot Park Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

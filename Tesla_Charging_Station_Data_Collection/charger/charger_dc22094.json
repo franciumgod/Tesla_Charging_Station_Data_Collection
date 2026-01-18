@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oxley",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3678",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Snow Rd",
+                "streetNumber": "1143"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.443411,
+                "longitude": 146.381853
+            },
+            "commonSiteName": "King River Cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.443411,
+                "longitude": 146.381853
+            },
+            "locationGUID": "dcb64f74-dc5e-40c9-a99b-ea7fe1f0524f",
+            "maxPowerKw": 22,
+            "name": "King River Cafe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

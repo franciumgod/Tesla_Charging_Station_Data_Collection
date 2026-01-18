@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sargans",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7320",
+                "postalExt": null,
+                "state": "St. Gallen",
+                "street": "Regazerstrasse",
+                "streetNumber": "61"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.040646,
+                "longitude": 9.434862
+            },
+            "commonSiteName": "Pizolcenter",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.040646,
+                "longitude": 9.434862
+            },
+            "locationGUID": "aa78fb9e-e873-4968-b5a9-2dc48c4b1daa",
+            "maxPowerKw": 22,
+            "name": "Pizolcenter",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

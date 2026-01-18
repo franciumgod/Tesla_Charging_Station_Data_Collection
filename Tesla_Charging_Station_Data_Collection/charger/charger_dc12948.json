@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mountain Village",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81435",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Country Club Dr",
+                "streetNumber": "136"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.938809,
+                "longitude": -107.848019
+            },
+            "commonSiteName": "The Peaks Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.938809,
+                "longitude": -107.848019
+            },
+            "locationGUID": "419ccff5-a892-46a9-964a-653b2be18ea7",
+            "maxPowerKw": 16,
+            "name": "The Peaks Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

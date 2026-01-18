@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bol",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21420",
+                "postalExt": null,
+                "state": null,
+                "street": "Put Zlatnog Rata",
+                "streetNumber": "46"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.2608455,
+                "longitude": 16.642495
+            },
+            "commonSiteName": "Hotel Elaphusa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.2608455,
+                "longitude": 16.642495
+            },
+            "locationGUID": "ea5f0fe9-5c46-469a-a169-7a1068609fca",
+            "maxPowerKw": 17,
+            "name": "Hotel Elaphusa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

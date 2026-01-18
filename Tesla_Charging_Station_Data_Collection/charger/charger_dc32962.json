@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ashland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97520",
+                "postalExt": null,
+                "state": "OR",
+                "street": "4th St",
+                "streetNumber": "243"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.197543,
+                "longitude": -122.707718
+            },
+            "commonSiteName": "The Peerless Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.197543,
+                "longitude": -122.707718
+            },
+            "locationGUID": "d3b9eee7-e03d-4de6-8fc2-3035db12c282",
+            "maxPowerKw": 16,
+            "name": "The Peerless Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

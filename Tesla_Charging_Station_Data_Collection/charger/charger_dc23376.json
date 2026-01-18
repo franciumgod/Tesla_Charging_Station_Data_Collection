@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11000",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Lomas de Chapultepec V Secc",
+                "streetNumber": "Av. Paseo de las Palmas 425"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.430186,
+                "longitude": -99.211882
+            },
+            "commonSiteName": "Torre Optima 3",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.430186,
+                "longitude": -99.211882
+            },
+            "locationGUID": "732890e6-eaf4-444b-9dc4-759e9f944193",
+            "maxPowerKw": 18,
+            "name": "Torre Optima 3",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Charlotte",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28217",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Coliseum Centre Dr",
+                "streetNumber": "2800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.188152,
+                "longitude": -80.914969
+            },
+            "commonSiteName": "Renaissance Charlotte Suites Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.188152,
+                "longitude": -80.914969
+            },
+            "locationGUID": "e6b2e46f-7e72-485c-ad01-8b15cb071f35",
+            "maxPowerKw": 8,
+            "name": "Renaissance Charlotte Suites Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

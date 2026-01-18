@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Zell am See",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5700",
+                "postalExt": null,
+                "state": null,
+                "street": "Auerspergstr.",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.325408,
+                "longitude": 12.79818
+            },
+            "commonSiteName": "Hotel Salzburgerhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.325408,
+                "longitude": 12.79818
+            },
+            "locationGUID": "b164d62c-1ef6-45c3-9997-b22a07d2f7e0",
+            "maxPowerKw": 17,
+            "name": "Hotel Salzburgerhof",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bowling Green",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "42104",
+                "postalExt": null,
+                "state": "KY",
+                "street": "Wilkinson Trace",
+                "streetNumber": "1010"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.96806,
+                "longitude": -86.430033
+            },
+            "commonSiteName": "Courtyard by Marriott Bowling Green Convention Cntr",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.96806,
+                "longitude": -86.430033
+            },
+            "locationGUID": "705d175b-95b8-42dc-a851-734ddd8b7609",
+            "maxPowerKw": 8,
+            "name": "Courtyard by Marriott Bowling Green Convention Cntr",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

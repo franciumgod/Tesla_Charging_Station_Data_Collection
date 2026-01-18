@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kühtai",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6183",
+                "postalExt": null,
+                "state": null,
+                "street": "Kühtai",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.21059,
+                "longitude": 11.015622
+            },
+            "commonSiteName": "Hotel Alpenrose",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.21059,
+                "longitude": 11.015622
+            },
+            "locationGUID": "c7da7766-974a-4870-86a2-fac1a829a1af",
+            "maxPowerKw": 22,
+            "name": "Hotel Alpenrose",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

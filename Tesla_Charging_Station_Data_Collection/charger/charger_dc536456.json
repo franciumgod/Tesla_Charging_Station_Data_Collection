@@ -1,0 +1,84 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nantou",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "魚池鄉",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "555",
+                "postalExt": null,
+                "state": "Nantou",
+                "street": "日月村水沙連街",
+                "streetNumber": "3號"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 23.848655,
+                "longitude": 120.929993
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.5,
+                    "rateMinTier2": 0,
+                    "rateMinTier3": 0,
+                    "rateMinTier4": 0,
+                    "rateTier1": 0.5,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 23.848655,
+                "longitude": 120.929993
+            },
+            "locationGUID": "8e519cc7-7f22-4f4b-af31-4ff0418b9e5d",
+            "maxPowerKw": 7,
+            "name": "日月潭晶澤會館",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

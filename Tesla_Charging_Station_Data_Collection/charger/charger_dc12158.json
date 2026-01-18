@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Skjåk",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2690",
+                "postalExt": null,
+                "state": null,
+                "street": "Skjåkvegen",
+                "streetNumber": "3484"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.959865,
+                "longitude": 7.897303
+            },
+            "commonSiteName": "Pollfoss Hotell",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.959865,
+                "longitude": 7.897303
+            },
+            "locationGUID": "3beb761e-cae7-40f6-8665-e73530c2bdad",
+            "maxPowerKw": 6,
+            "name": "Pollfoss Hotell",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Liberec",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "460 12",
+                "postalExt": null,
+                "state": null,
+                "street": "Nitranska",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.758842,
+                "longitude": 15.051705
+            },
+            "commonSiteName": "Wellness hotel BABYLON",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.758842,
+                "longitude": 15.051705
+            },
+            "locationGUID": "232a62c1-f554-43b3-89c6-0eab46344656",
+            "maxPowerKw": 14,
+            "name": "Wellness hotel BABYLON",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

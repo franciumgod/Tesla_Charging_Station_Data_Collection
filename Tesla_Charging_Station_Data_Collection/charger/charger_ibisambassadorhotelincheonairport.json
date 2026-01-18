@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Incheon",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": "Incheon",
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "22382",
+                "postalExt": null,
+                "state": "Incheon",
+                "street": "Je2terminal-daero",
+                "streetNumber": "340"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.481,
+                "longitude": 126.42
+            },
+            "commonSiteName": "IbisstylesAmbassadorHotelAirport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.481,
+                "longitude": 126.42
+            },
+            "locationGUID": "6abc2409-63dd-4479-98d7-c962308a5405",
+            "maxPowerKw": 7,
+            "name": "IbisStylesAmbassadorHotelAirport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 21,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

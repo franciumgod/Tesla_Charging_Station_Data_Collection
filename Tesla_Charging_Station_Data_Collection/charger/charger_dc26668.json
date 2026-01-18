@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Zeulenroda",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7937",
+                "postalExt": null,
+                "state": null,
+                "street": "Bauerfeindallee",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.666796,
+                "longitude": 11.979261
+            },
+            "commonSiteName": "Bio-Seehotel Zeulenroda",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.666796,
+                "longitude": 11.979261
+            },
+            "locationGUID": "7568f8d1-6ef8-4890-94e1-21417e3088ff",
+            "maxPowerKw": 22,
+            "name": "Bio-Seehotel Zeulenroda",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

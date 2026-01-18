@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Osoyoos",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0H 1V0",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Main St",
+                "streetNumber": "7906"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.028558,
+                "longitude": -119.457127
+            },
+            "commonSiteName": "Holiday Inn & Suites, Osoyoos",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.028558,
+                "longitude": -119.457127
+            },
+            "locationGUID": "76cc0d4a-0ae0-4c1d-889b-784d7f2c79eb",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn & Suites, Osoyoos",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

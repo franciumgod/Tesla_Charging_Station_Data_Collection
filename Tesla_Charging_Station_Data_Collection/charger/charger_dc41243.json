@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Orvault",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "44700",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Jules Verne",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.252083,
+                "longitude": -1.619092
+            },
+            "commonSiteName": "Hotel The Originals Nantes Ouest Agora",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.252083,
+                "longitude": -1.619092
+            },
+            "locationGUID": "adf075de-7081-4c72-9fc8-e80ce8d05f6e",
+            "maxPowerKw": 17,
+            "name": "Hotel The Originals Nantes Ouest Agora",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

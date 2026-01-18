@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8001",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carrer Pintor Fortuny",
+                "streetNumber": "6-8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.383742,
+                "longitude": 2.170866
+            },
+            "commonSiteName": "Le Meridien Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.383742,
+                "longitude": 2.170866
+            },
+            "locationGUID": "4746000e-9fb5-4a6b-b73e-e3130dfdb424",
+            "maxPowerKw": 22,
+            "name": "Le Meridien Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

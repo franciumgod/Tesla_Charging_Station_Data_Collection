@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Korcula",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20260",
+                "postalExt": null,
+                "state": null,
+                "street": "Setaliste Frana Krsinica",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.958976,
+                "longitude": 17.135738
+            },
+            "commonSiteName": "ACI marina Korcula",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.958976,
+                "longitude": 17.135738
+            },
+            "locationGUID": "766a1b01-d43e-428d-b136-8dd6f81078a1",
+            "maxPowerKw": 22,
+            "name": "ACI marina Korcula",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

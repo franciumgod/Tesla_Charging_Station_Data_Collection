@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Glenside",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5065",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Portrush Road",
+                "streetNumber": "447"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.940794,
+                "longitude": 138.641702
+            },
+            "commonSiteName": "Burnside Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.940794,
+                "longitude": 138.641702
+            },
+            "locationGUID": "63fbb972-9870-428c-b76b-df2b1c4b10d6",
+            "maxPowerKw": 6,
+            "name": "Burnside Village",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

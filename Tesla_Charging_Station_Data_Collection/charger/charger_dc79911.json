@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Venezia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30126",
+                "postalExt": null,
+                "state": null,
+                "street": "Gran Viale S.M. Elisabetta",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.415573,
+                "longitude": 12.371316
+            },
+            "commonSiteName": "Ausonia Hungaria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.415573,
+                "longitude": 12.371316
+            },
+            "locationGUID": "ec38b298-60a6-4d92-98a0-c3fdbbd690ec",
+            "maxPowerKw": 22,
+            "name": "Ausonia Hungaria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Liebefeld",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3097",
+                "postalExt": null,
+                "state": null,
+                "street": "Schwarzenburgstrasse",
+                "streetNumber": "134"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.932017,
+                "longitude": 7.421263
+            },
+            "commonSiteName": "Rest. Landhaus Liebefeld AG",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.932017,
+                "longitude": 7.421263
+            },
+            "locationGUID": "4c7133db-165f-422c-9cc8-6a7e96450aee",
+            "maxPowerKw": 14,
+            "name": "Rest. Landhaus Liebefeld AG",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

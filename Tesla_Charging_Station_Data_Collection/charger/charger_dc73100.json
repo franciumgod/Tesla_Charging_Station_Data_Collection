@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Calgary",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T2G 5A6",
+                "postalExt": null,
+                "state": "AB",
+                "street": "9 Ave SE",
+                "streetNumber": "322"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.044567,
+                "longitude": -114.0569
+            },
+            "commonSiteName": "CPA City Hall Parkade - Lot 36",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.044567,
+                "longitude": -114.0569
+            },
+            "locationGUID": "d2bcc149-ce92-4974-a53f-6a7561349f13",
+            "maxPowerKw": 17,
+            "name": "CPA City Hall Parkade - Lot 36",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 9,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

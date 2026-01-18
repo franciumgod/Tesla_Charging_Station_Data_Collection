@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Highland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "12528",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main St",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.720382,
+                "longitude": -73.963884
+            },
+            "commonSiteName": "Town of Lloyd Municipal Parking Lot",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.720382,
+                "longitude": -73.963884
+            },
+            "locationGUID": "e1ab38d4-04c9-4e68-88bb-6a724ec23898",
+            "maxPowerKw": 16,
+            "name": "Town of Lloyd Municipal Parking Lot",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

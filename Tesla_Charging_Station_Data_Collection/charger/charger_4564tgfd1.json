@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Edmonton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T5J 0J4",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Ave NW",
+                "streetNumber": "10111-104"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.54562,
+                "longitude": -113.49464
+            },
+            "commonSiteName": "Edmonton Tower",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.54562,
+                "longitude": -113.49464
+            },
+            "locationGUID": "f731b22f-b6de-4b84-a507-6582039c2ccf",
+            "maxPowerKw": 16,
+            "name": "Edmonton Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

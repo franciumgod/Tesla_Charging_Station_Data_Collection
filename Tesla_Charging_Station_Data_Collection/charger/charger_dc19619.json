@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Becancour",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G9H 1A5",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boul Becancour",
+                "streetNumber": "17575"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.301222,
+                "longitude": -72.542795
+            },
+            "commonSiteName": "Auberge Godefroy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.301222,
+                "longitude": -72.542795
+            },
+            "locationGUID": "f1708549-7648-41f6-8086-1b00eed19567",
+            "maxPowerKw": 16,
+            "name": "Auberge Godefroy",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

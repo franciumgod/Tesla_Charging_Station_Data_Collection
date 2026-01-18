@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10022",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 60th St",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.76306,
+                "longitude": -73.968409
+            },
+            "commonSiteName": "ABM Parking 750 Lexington Ave LLC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.76306,
+                "longitude": -73.968409
+            },
+            "locationGUID": "6bd06b08-b6db-4668-a863-16db6226b049",
+            "maxPowerKw": 12,
+            "name": "ABM Parking 750 Lexington Ave LLC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

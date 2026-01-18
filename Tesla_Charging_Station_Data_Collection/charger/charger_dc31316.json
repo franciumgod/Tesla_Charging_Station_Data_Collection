@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Caloundra",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4551",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Bowman Rd",
+                "streetNumber": "47"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -26.803788,
+                "longitude": 153.125256
+            },
+            "commonSiteName": "Stockland Caloundra",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -26.803788,
+                "longitude": 153.125256
+            },
+            "locationGUID": "e53436e9-cb58-4804-b6f9-7a5841aab254",
+            "maxPowerKw": 22,
+            "name": "Stockland Caloundra",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

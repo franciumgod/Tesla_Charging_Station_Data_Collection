@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cicovice",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "252 68",
+                "postalExt": null,
+                "state": null,
+                "street": "Velke Cicovice",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.154086,
+                "longitude": 14.241747
+            },
+            "commonSiteName": "Dvur Hoffmeister",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.154086,
+                "longitude": 14.241747
+            },
+            "locationGUID": "893b43ff-9f60-4d69-aa7c-f96778d2fe8e",
+            "maxPowerKw": 11,
+            "name": "Dvur Hoffmeister",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

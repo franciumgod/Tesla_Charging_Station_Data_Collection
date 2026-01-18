@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Joigny",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "89300",
+                "postalExt": null,
+                "state": "Bourgogne",
+                "street": "Faubourg de Paris",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.98365,
+                "longitude": 3.385155
+            },
+            "commonSiteName": "La Côte Saint Jacques & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.98365,
+                "longitude": 3.385155
+            },
+            "locationGUID": "accc5945-0c9a-472e-8e85-71fb40627901",
+            "maxPowerKw": 22,
+            "name": "La Côte Saint Jacques & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

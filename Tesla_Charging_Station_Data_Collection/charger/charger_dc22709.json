@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Canazei",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38032",
+                "postalExt": null,
+                "state": null,
+                "street": "Strada del Pordoi",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.481777,
+                "longitude": 11.788008
+            },
+            "commonSiteName": "Hotel Bellavista",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.481777,
+                "longitude": 11.788008
+            },
+            "locationGUID": "af2636d2-a9ea-4217-ac87-b869af34b180",
+            "maxPowerKw": 22,
+            "name": "Hotel Bellavista-Canazei",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

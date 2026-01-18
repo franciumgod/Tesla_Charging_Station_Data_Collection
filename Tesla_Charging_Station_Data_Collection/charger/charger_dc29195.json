@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6E 2Y3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "W Georgia St",
+                "streetNumber": "1030"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.284829,
+                "longitude": -123.122178
+            },
+            "commonSiteName": "Diamond Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.284829,
+                "longitude": -123.122178
+            },
+            "locationGUID": "2c1449e8-1bfa-424e-b756-b10cc4ebfec0",
+            "maxPowerKw": 16,
+            "name": "Diamond Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

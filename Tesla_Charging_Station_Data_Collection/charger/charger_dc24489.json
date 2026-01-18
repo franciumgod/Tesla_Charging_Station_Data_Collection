@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32940",
+                "postalExt": null,
+                "state": "FL",
+                "street": "N Wickham Rd",
+                "streetNumber": "8298"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.231633,
+                "longitude": -80.716749
+            },
+            "commonSiteName": "Holiday Inn Melbourne-Viera Conference Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.231633,
+                "longitude": -80.716749
+            },
+            "locationGUID": "9f116158-3d19-45cf-8336-2fd762f87e1e",
+            "maxPowerKw": 8,
+            "name": "Holiday Inn Melbourne-Viera Conference Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

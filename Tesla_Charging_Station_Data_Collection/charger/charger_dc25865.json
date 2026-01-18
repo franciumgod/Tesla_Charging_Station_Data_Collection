@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28049",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Carretera de Colmenar Viejo",
+                "streetNumber": "Km 14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.5299494,
+                "longitude": -3.6939533
+            },
+            "commonSiteName": "El Meson de Fuencarral",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.5299494,
+                "longitude": -3.6939533
+            },
+            "locationGUID": "ae595777-1cb6-4831-8116-45371e63c592",
+            "maxPowerKw": 22,
+            "name": "El Meson de Fuencarral",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

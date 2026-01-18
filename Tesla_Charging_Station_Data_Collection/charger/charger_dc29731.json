@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64925",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Fraccionamiento Club Sonoma Residencial",
+                "streetNumber": "Camino al Mirador 5800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.61852748,
+                "longitude": -100.30374468
+            },
+            "commonSiteName": "Club Sonoma",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.61852748,
+                "longitude": -100.30374468
+            },
+            "locationGUID": "a99ad603-9a42-4e56-8489-35f459bf06aa",
+            "maxPowerKw": 18,
+            "name": "Club Sonoma",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

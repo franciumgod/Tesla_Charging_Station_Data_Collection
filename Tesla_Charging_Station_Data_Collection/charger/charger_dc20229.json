@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bielefeld",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33604",
+                "postalExt": null,
+                "state": null,
+                "street": "Furtwaenglerstrasse",
+                "streetNumber": "52"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.003389,
+                "longitude": 8.543015
+            },
+            "commonSiteName": "Waldhotel Brands Busch",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.003389,
+                "longitude": 8.543015
+            },
+            "locationGUID": "358272b8-0845-4267-bd6b-7be5f60e8d60",
+            "maxPowerKw": 22,
+            "name": "Waldhotel Brands Busch",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

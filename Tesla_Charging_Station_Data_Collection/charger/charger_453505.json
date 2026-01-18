@@ -1,0 +1,89 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Antipolo",
+                "country": "Philippines",
+                "countryCode": "PH",
+                "district": null,
+                "navRegion": "se",
+                "nearestEntrance": null,
+                "postalCode": "1870",
+                "postalExt": null,
+                "state": "Calabarzon",
+                "street": "Manuel L. Quezon Ext",
+                "streetNumber": "43B"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 14.57011024,
+                "longitude": 121.17850009
+            },
+            "commonSiteName": "Vista Mall Antipolo",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "PHP",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 16,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "PHP",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 14.57011024,
+                "longitude": 121.17850009
+            },
+            "locationGUID": "72f5d749-fd74-4755-b700-37373a078d30",
+            "maxPowerKw": 11,
+            "name": "Vista Mall, Antipolo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Manila"
+        },
+        "success": true
+    }
+}

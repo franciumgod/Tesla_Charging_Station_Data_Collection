@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Manhattan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10024",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 90th St",
+                "streetNumber": "175"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.790046,
+                "longitude": -73.972531
+            },
+            "commonSiteName": "Icon Parking 175 W 90th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.790046,
+                "longitude": -73.972531
+            },
+            "locationGUID": "112f53ea-22da-4e5f-8497-72d3d8e7f9c5",
+            "maxPowerKw": 10,
+            "name": "Icon Parking 175 W 90th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

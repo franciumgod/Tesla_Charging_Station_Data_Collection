@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salamanca",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37008",
+                "postalExt": null,
+                "state": "Castilla y León",
+                "street": "Av. de Lasalle",
+                "streetNumber": "16-20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.955331,
+                "longitude": -5.678421
+            },
+            "commonSiteName": "Hotel Vincci Ciudad de Salamanca",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.955331,
+                "longitude": -5.678421
+            },
+            "locationGUID": "a5bdfcfc-5a14-41a6-aaa6-88a8681a0968",
+            "maxPowerKw": 14,
+            "name": "Hotel Vincci Ciudad de Salamanca",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

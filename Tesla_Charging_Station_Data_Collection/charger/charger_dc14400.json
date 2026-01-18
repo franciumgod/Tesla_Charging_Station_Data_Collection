@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lisboa",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1250",
+                "postalExt": "139",
+                "state": "Lisboa",
+                "street": "Avenida da Liberdade, 29",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.716954,
+                "longitude": -9.143387
+            },
+            "commonSiteName": "BessaHotel Liberdade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.716954,
+                "longitude": -9.143387
+            },
+            "locationGUID": "928c03f6-cc89-4f5a-8c13-950f034252b4",
+            "maxPowerKw": 22,
+            "name": "BessaHotel Liberdade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

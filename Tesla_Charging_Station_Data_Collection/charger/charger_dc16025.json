@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Amsterdam",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1054 LH",
+                "postalExt": null,
+                "state": null,
+                "street": "Overtoom 519",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.357784,
+                "longitude": 4.856549
+            },
+            "commonSiteName": "Conscious Hotel Vondelpark",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.357784,
+                "longitude": 4.856549
+            },
+            "locationGUID": "b9598391-ef84-489e-997d-74772deea9a8",
+            "maxPowerKw": 11,
+            "name": "Conscious Hotel Vondelpark",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

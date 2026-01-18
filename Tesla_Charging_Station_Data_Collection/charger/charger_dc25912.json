@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Taipei",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "林口區",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "244",
+                "postalExt": null,
+                "state": "New Taipei",
+                "street": "文化三路一段",
+                "streetNumber": "2號 B2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.066061,
+                "longitude": 121.361442
+            },
+            "commonSiteName": "Global Mall 林口A9",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.066061,
+                "longitude": 121.361442
+            },
+            "locationGUID": "90b04491-49d2-4010-b5f5-30dd08d88254",
+            "maxPowerKw": 9,
+            "name": "Global Mall 林口A9",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

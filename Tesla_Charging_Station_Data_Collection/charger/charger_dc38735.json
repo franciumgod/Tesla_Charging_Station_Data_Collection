@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Collins Street",
+                "streetNumber": "Level Ground & Lower Parking P1, 25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.81405,
+                "longitude": 144.972585
+            },
+            "commonSiteName": "SOFITEL Melbourne On Collins",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.81405,
+                "longitude": 144.972585
+            },
+            "locationGUID": "69e5c42f-0452-45c3-aa35-8b1f17dd389c",
+            "maxPowerKw": 22,
+            "name": "SOFITEL Melbourne On Collins",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "7506",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "강서구 방화대로",
+                "streetNumber": "94"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.5470456,
+                "longitude": 126.8190301
+            },
+            "commonSiteName": "메이필드 호텔",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.5470456,
+                "longitude": 126.8190301
+            },
+            "locationGUID": "f333519f-2e36-493a-a667-0ccd87d594aa",
+            "maxPowerKw": 16,
+            "name": "MAYFIELD Hotel & Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

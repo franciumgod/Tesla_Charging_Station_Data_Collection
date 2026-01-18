@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aberdeen",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "AB12 5GB",
+                "postalExt": null,
+                "state": null,
+                "street": "South Deeside Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.089645,
+                "longitude": -2.258955
+            },
+            "commonSiteName": "Maryculter House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.089645,
+                "longitude": -2.258955
+            },
+            "locationGUID": "75cb705e-9b40-44f8-a702-abafcfdf5491",
+            "maxPowerKw": 13,
+            "name": "Maryculter House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

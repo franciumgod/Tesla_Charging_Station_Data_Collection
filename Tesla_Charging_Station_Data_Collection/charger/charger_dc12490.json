@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Antonio",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78256",
+                "postalExt": null,
+                "state": "TX",
+                "street": "La Cantera Pkwy",
+                "streetNumber": "16641"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.602679,
+                "longitude": -98.62229
+            },
+            "commonSiteName": "La Cantera Resort & Spa, a Destination Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.602679,
+                "longitude": -98.62229
+            },
+            "locationGUID": "22863e27-1e8e-4fec-8cb4-c8f46fdb0a5f",
+            "maxPowerKw": 8,
+            "name": "La Cantera Resort & Spa, a Destination Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

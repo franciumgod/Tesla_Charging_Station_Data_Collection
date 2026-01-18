@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oberstdorf",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "87561",
+                "postalExt": null,
+                "state": null,
+                "street": "Freibergstrasse",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.405243,
+                "longitude": 10.270772
+            },
+            "commonSiteName": "Das Freiberg Romantik Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.405243,
+                "longitude": 10.270772
+            },
+            "locationGUID": "67637968-b871-4983-846a-673a0451c96c",
+            "maxPowerKw": 11,
+            "name": "Das Freiberg Romantik Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Solihull",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "B92 0EJ",
+                "postalExt": null,
+                "state": "West Midlands",
+                "street": "Coventry Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.444504,
+                "longitude": -1.707021
+            },
+            "commonSiteName": "National Motorcycle Museum",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.444504,
+                "longitude": -1.707021
+            },
+            "locationGUID": "6fd07260-3357-4f2c-9567-61617361dfb7",
+            "maxPowerKw": 11,
+            "name": "National Motorcycle Museum",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

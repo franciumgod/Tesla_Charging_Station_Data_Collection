@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ostrava",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "70030",
+                "postalExt": null,
+                "state": null,
+                "street": "Zkracena",
+                "streetNumber": "2703"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.80296471,
+                "longitude": 18.25190443
+            },
+            "commonSiteName": "Clarion Congress Hotel Ostrava",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.80296471,
+                "longitude": 18.25190443
+            },
+            "locationGUID": "9795a16b-b125-47be-b7c1-f010046aa9cc",
+            "maxPowerKw": 22,
+            "name": "Clarion Congress Hotel Ostrava",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

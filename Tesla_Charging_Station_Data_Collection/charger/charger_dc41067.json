@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miami",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33131",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Brickell Ave",
+                "streetNumber": "1109"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.762508,
+                "longitude": -80.191109
+            },
+            "commonSiteName": "JW Marriott Miami",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.762508,
+                "longitude": -80.191109
+            },
+            "locationGUID": "3b0f5562-ad02-48c4-a101-7d0992858c89",
+            "maxPowerKw": 16,
+            "name": "JW Marriott Miami",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

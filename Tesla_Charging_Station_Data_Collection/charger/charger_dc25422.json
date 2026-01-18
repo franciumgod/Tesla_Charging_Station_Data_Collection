@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Plymouth",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4310",
+                "postalExt": null,
+                "state": null,
+                "street": "Corner of King and Queen Streets",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -39.058267,
+                "longitude": 174.070309
+            },
+            "commonSiteName": "King & Queen Hotel Suites",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -39.058267,
+                "longitude": 174.070309
+            },
+            "locationGUID": "12314a29-bc0b-4840-8630-f20113dc2ff5",
+            "maxPowerKw": 22,
+            "name": "King & Queen Hotel Suites",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

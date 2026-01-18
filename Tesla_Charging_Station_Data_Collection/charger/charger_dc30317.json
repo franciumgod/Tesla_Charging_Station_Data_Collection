@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Auckland",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2022",
+                "postalExt": null,
+                "state": null,
+                "street": "Montgomerie Road",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.979381,
+                "longitude": 174.768452
+            },
+            "commonSiteName": "Villa Maria Vineyard Cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.979381,
+                "longitude": 174.768452
+            },
+            "locationGUID": "72a3cf4b-2489-4f8a-a6b8-8b7015e9c4d7",
+            "maxPowerKw": 22,
+            "name": "Villa Maria Vineyard Cafe",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

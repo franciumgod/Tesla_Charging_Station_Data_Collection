@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chicoutimi",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G7H 4B6",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boulevard Talbot",
+                "streetNumber": "1080"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.411705,
+                "longitude": -71.053966
+            },
+            "commonSiteName": "Hotel Le Montagnais",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.411705,
+                "longitude": -71.053966
+            },
+            "locationGUID": "c7d76a5a-67e3-4fd9-bf7b-7cefe9fcdbd5",
+            "maxPowerKw": 13,
+            "name": "Hotel Le Montagnais",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

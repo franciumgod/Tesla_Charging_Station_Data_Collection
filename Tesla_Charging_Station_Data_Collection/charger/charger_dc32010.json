@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lincolnville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04850",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Main St",
+                "streetNumber": "269"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.2980687,
+                "longitude": -69.107674
+            },
+            "commonSiteName": "Lincolnville General Store",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.2980687,
+                "longitude": -69.107674
+            },
+            "locationGUID": "0dfe9ae9-ef13-4651-a035-1c48bd6518df",
+            "maxPowerKw": 10,
+            "name": "Lincolnville General Store",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

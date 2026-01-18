@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Richmond",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6X 1S1",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Bridgeport Rd",
+                "streetNumber": "9260"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.1917643,
+                "longitude": -123.1209056
+            },
+            "commonSiteName": "Best Western Plus Abercorn Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.1917643,
+                "longitude": -123.1209056
+            },
+            "locationGUID": "b3581d52-7812-415f-86a3-73017d02b9a1",
+            "maxPowerKw": 16,
+            "name": "Best Western Plus Abercorn Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

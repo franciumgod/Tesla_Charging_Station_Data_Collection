@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20001",
+                "postalExt": null,
+                "state": "DC",
+                "street": "E St NW",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.896373,
+                "longitude": -77.010017
+            },
+            "commonSiteName": "The Kimpton George Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.896373,
+                "longitude": -77.010017
+            },
+            "locationGUID": "3e8cdddc-e5ca-466a-848c-cc1d8bc15dbb",
+            "maxPowerKw": 8,
+            "name": "The Kimpton George Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

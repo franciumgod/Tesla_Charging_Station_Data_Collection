@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chasseneuil-du-Poitou",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "86360",
+                "postalExt": null,
+                "state": null,
+                "street": "rue du Champ de Foire",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.650701,
+                "longitude": 0.376165
+            },
+            "commonSiteName": "Le Clos de la Ribaudiere",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.650701,
+                "longitude": 0.376165
+            },
+            "locationGUID": "425c8e85-c69b-414f-ae21-e5c37173c1a7",
+            "maxPowerKw": 22,
+            "name": "Le Clos de la Ribaudiere",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

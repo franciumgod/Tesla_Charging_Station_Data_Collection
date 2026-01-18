@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22760",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "El Sauzal de Rodriguez",
+                "streetNumber": "El Tigre , Carretera libre Tijuana-Ensenada Km. 89"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.942872,
+                "longitude": -116.736403
+            },
+            "commonSiteName": "Cuatro Cuatros",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.942872,
+                "longitude": -116.736403
+            },
+            "locationGUID": "68b7b4de-b5f1-46a0-9fb6-3b3aa20093a2",
+            "maxPowerKw": 13,
+            "name": "Cuatro Cuatros",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

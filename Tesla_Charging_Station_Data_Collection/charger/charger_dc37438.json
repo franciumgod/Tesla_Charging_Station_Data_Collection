@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mesa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81643",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Powderhorn Rd",
+                "streetNumber": "48338"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.0693962,
+                "longitude": -108.1507337
+            },
+            "commonSiteName": "Powderhorn Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.0693962,
+                "longitude": -108.1507337
+            },
+            "locationGUID": "d530d1ca-5dab-4497-bb8d-25534990326b",
+            "maxPowerKw": 16,
+            "name": "Powderhorn Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

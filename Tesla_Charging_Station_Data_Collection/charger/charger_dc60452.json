@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Toowoomba",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4350",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Annand St",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.56215,
+                "longitude": 151.95405
+            },
+            "commonSiteName": "Walton Stores",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.56215,
+                "longitude": 151.95405
+            },
+            "locationGUID": "bcf77780-a857-4215-a328-5c664f18141d",
+            "maxPowerKw": 22,
+            "name": "Walton Stores",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

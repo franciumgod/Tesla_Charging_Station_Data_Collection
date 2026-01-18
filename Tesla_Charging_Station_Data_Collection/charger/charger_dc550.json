@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97201",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SW Clay St",
+                "streetNumber": "515"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.513619,
+                "longitude": -122.680676
+            },
+            "commonSiteName": "Hotel Modera",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.513619,
+                "longitude": -122.680676
+            },
+            "locationGUID": "f132c9c9-4952-478f-90c2-d6572eb4db36",
+            "maxPowerKw": 13,
+            "name": "Hotel Modera",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

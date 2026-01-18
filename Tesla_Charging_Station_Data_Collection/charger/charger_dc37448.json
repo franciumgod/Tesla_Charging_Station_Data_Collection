@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ventura",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93003",
+                "postalExt": null,
+                "state": "CA",
+                "street": "E Old Creek Rd",
+                "streetNumber": "10024"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.39064043,
+                "longitude": -119.29497208
+            },
+            "commonSiteName": "Old Creek Ranch Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.39064043,
+                "longitude": -119.29497208
+            },
+            "locationGUID": "b9a5a1bf-17d5-4271-99b5-987e0261fbef",
+            "maxPowerKw": 16,
+            "name": "Old Creek Ranch Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

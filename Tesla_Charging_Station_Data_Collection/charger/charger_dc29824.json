@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brisbane",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4000",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Leichhardt St",
+                "streetNumber": "Level B1, 23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.46247438,
+                "longitude": 153.02129933
+            },
+            "commonSiteName": "Hotel Grand Chancellor Brisbane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.46247438,
+                "longitude": 153.02129933
+            },
+            "locationGUID": "f87dc4e9-ef99-49eb-8228-a2caed6dd616",
+            "maxPowerKw": 22,
+            "name": "Hotel Grand Chancellor Brisbane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

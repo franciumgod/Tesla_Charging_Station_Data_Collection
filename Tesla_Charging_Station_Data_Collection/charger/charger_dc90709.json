@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Burlington",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L7L 6P8",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Burloak Dr",
+                "streetNumber": "1110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.397474,
+                "longitude": -79.761097
+            },
+            "commonSiteName": "Courtyard by Marriott Burlington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.397474,
+                "longitude": -79.761097
+            },
+            "locationGUID": "a1fe2919-bbba-4231-83b0-63b01d53c98d",
+            "maxPowerKw": 16,
+            "name": "Courtyard by Marriott Burlington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

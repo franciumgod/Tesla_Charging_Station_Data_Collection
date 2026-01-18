@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "4349",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "용산구 이태원로",
+                "streetNumber": "221"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.535315,
+                "longitude": 126.998264
+            },
+            "commonSiteName": "임피리얼 팰리스 부티크 호텔 이태원",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.535315,
+                "longitude": 126.998264
+            },
+            "locationGUID": "0b818ce9-e197-4fdd-8747-4be8b3e7458e",
+            "maxPowerKw": 16,
+            "name": "Imperial Palace Boutique Hotel Itaewon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

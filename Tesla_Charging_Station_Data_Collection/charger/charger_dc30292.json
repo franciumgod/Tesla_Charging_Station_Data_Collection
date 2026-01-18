@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10011",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 17th St",
+                "streetNumber": "151"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.740243,
+                "longitude": -73.997591
+            },
+            "commonSiteName": "Standard Parking 151 W 17th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.740243,
+                "longitude": -73.997591
+            },
+            "locationGUID": "0ac44520-cc0b-47a3-abc2-e13a9c648969",
+            "maxPowerKw": 8,
+            "name": "Standard Parking 151 W 17th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

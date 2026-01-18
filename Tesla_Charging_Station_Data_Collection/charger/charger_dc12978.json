@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10017",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 48th St",
+                "streetNumber": "329"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.753079,
+                "longitude": -73.968032
+            },
+            "commonSiteName": "Icon Parking E 48th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.753079,
+                "longitude": -73.968032
+            },
+            "locationGUID": "ffde1b6f-c82d-4ee3-ba4e-4da7e7e2cb21",
+            "maxPowerKw": 8,
+            "name": "Icon Parking E 48th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

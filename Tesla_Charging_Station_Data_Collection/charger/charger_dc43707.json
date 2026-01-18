@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Mary Bourne",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SP11 6BT",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "Upper Link",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.246825,
+                "longitude": -1.391967
+            },
+            "commonSiteName": "Bourne Vally Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.246825,
+                "longitude": -1.391967
+            },
+            "locationGUID": "92d06b67-03f8-426f-8a25-4cdec4bbfbdf",
+            "maxPowerKw": 13,
+            "name": "Bourne Vally Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

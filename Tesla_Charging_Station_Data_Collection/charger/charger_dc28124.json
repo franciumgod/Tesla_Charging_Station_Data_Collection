@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kaslo",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0G 1M0",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Front St",
+                "streetNumber": "430"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.912398,
+                "longitude": -116.905263
+            },
+            "commonSiteName": "Kaslo Hotel, Kaslo, BC Canada",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.912398,
+                "longitude": -116.905263
+            },
+            "locationGUID": "3c693c23-de4e-44c8-baaf-d0a74b7c0841",
+            "maxPowerKw": 16,
+            "name": "Kaslo Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

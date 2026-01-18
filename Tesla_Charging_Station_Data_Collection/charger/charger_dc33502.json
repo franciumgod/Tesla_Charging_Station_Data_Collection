@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ondara",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3760",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Avda. Costa Blanca",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.817446,
+                "longitude": 0.021121
+            },
+            "commonSiteName": "Centro Comercial Portal de la Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.817446,
+                "longitude": 0.021121
+            },
+            "locationGUID": "e075dbe2-3f1c-4c2b-827c-ffb9fa94a492",
+            "maxPowerKw": 6,
+            "name": "Centro Comercial Portal de la Marina",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

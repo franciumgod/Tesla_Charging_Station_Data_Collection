@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Velka Lomnica",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "059  52",
+                "postalExt": null,
+                "state": null,
+                "street": "Tatranska",
+                "streetNumber": "754"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.137249,
+                "longitude": 20.339099
+            },
+            "commonSiteName": "Hotel International Golf Black Stork",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.137249,
+                "longitude": 20.339099
+            },
+            "locationGUID": "1cbdac35-9991-415e-9a6d-07626f66ac34",
+            "maxPowerKw": 14,
+            "name": "Hotel International Golf Black Stork",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

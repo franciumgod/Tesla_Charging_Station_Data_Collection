@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "A Coruña",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "15008",
+                "postalExt": null,
+                "state": "Galicia",
+                "street": "Estrada Baños de Arteixo",
+                "streetNumber": "43"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.344802,
+                "longitude": -8.426565
+            },
+            "commonSiteName": "Centro Comercial Marineda City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.344802,
+                "longitude": -8.426565
+            },
+            "locationGUID": "040167d7-9462-49c7-8d73-430961f97863",
+            "maxPowerKw": 14,
+            "name": "Centro Comercial Marineda City",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

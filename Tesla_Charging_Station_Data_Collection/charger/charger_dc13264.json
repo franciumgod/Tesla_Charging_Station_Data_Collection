@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Central",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Hong Kong Island",
+                "street": "Tim Mei Ave",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.2808208,
+                "longitude": 114.1671299
+            },
+            "commonSiteName": "CITIC Tower",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.2808208,
+                "longitude": 114.1671299
+            },
+            "locationGUID": "c5c926f5-b73b-4774-9d5e-a743d374f62e",
+            "maxPowerKw": 21,
+            "name": "CITIC Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

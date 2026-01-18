@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Scandiano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "42019",
+                "postalExt": null,
+                "state": null,
+                "street": "via Pedemonta 6",
+                "streetNumber": "59"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.594203,
+                "longitude": 10.6779
+            },
+            "commonSiteName": "Boiardo 1495",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.594203,
+                "longitude": 10.6779
+            },
+            "locationGUID": "1e5bd262-939e-4b43-a291-54d5513edc40",
+            "maxPowerKw": 22,
+            "name": "Boiardo Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

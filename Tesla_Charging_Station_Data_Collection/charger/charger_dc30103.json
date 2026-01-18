@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Maria Rain",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9161",
+                "postalExt": null,
+                "state": null,
+                "street": "Angersbichl",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.57251,
+                "longitude": 14.291849
+            },
+            "commonSiteName": "Hotel Sonnenhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.57251,
+                "longitude": 14.291849
+            },
+            "locationGUID": "c192d1b8-a91b-4ded-b169-567f38e93897",
+            "maxPowerKw": 22,
+            "name": "Hotel Sonnenhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

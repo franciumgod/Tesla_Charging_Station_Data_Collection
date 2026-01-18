@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cuernavaca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "62250",
+                "postalExt": null,
+                "state": "MOR",
+                "street": "Lomas de la Selva",
+                "streetNumber": "Av. Domingo Diez 711"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 18.953144,
+                "longitude": -99.236503
+            },
+            "commonSiteName": "Carlitos Grill and Garden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 18.953144,
+                "longitude": -99.236503
+            },
+            "locationGUID": "acd314c8-5b34-4d2e-9d56-319a523871b8",
+            "maxPowerKw": 18,
+            "name": "Carlitos Grill and Garden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

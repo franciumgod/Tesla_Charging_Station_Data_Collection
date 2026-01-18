@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gandia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46701",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Avenida de La Vital",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.968608,
+                "longitude": -0.169168
+            },
+            "commonSiteName": "Centro Comercial La Vital",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.968608,
+                "longitude": -0.169168
+            },
+            "locationGUID": "dc988c16-2955-4a7c-903b-3c61e7f64cd4",
+            "maxPowerKw": 11,
+            "name": "Centro Comercial La Vital",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

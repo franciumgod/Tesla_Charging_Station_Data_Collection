@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22760",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Bajamar",
+                "streetNumber": "Ensenada, Carretera Tijuana - Ensenada Km. 77.5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.0152429,
+                "longitude": -116.87068519
+            },
+            "commonSiteName": "Bajamar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.0152429,
+                "longitude": -116.87068519
+            },
+            "locationGUID": "b31eb39a-4763-4488-9d47-4ccc27032e4b",
+            "maxPowerKw": 18,
+            "name": "Bajamar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

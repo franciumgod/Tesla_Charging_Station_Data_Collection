@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fügen",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6263",
+                "postalExt": null,
+                "state": null,
+                "street": "Hochfügener Straße",
+                "streetNumber": "63"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.341142,
+                "longitude": 11.845178
+            },
+            "commonSiteName": "Gartenhotel Crystal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.341142,
+                "longitude": 11.845178
+            },
+            "locationGUID": "ce780846-ac8c-4e52-a286-17a21bfaec2d",
+            "maxPowerKw": 11,
+            "name": "Gartenhotel Crystal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

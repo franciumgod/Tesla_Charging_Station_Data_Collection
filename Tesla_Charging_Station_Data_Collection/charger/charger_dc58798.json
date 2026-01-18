@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pec pod Snežkou",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "54221",
+                "postalExt": null,
+                "state": null,
+                "street": "Pec pod Snezkou",
+                "streetNumber": "221"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.68653,
+                "longitude": 15.719129
+            },
+            "commonSiteName": "Hotel Obzor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.68653,
+                "longitude": 15.719129
+            },
+            "locationGUID": "44fdb2d4-2725-4f9a-bb3c-cb862e062626",
+            "maxPowerKw": 11,
+            "name": "Hotel Obzor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

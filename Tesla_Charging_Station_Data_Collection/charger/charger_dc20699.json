@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ciudad del Carmen",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24130",
+                "postalExt": null,
+                "state": "CAM",
+                "street": "Miguel de la Madrid",
+                "streetNumber": "Avenida Luis Donaldo Colosio Esq Calle 20 S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 18.631016,
+                "longitude": -91.824145
+            },
+            "commonSiteName": "Fiesta Inn Loft Ciudad del Carmen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 18.631016,
+                "longitude": -91.824145
+            },
+            "locationGUID": "c7caf59b-dfa0-48eb-a02f-00ce2c29241c",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Loft Ciudad del Carmen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Merida"
+        },
+        "success": true
+    }
+}

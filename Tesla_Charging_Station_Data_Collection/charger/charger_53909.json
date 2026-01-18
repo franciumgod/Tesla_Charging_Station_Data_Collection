@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gedinne",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5575",
+                "postalExt": null,
+                "state": null,
+                "street": "Moulin de Boiron",
+                "streetNumber": "128"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.990474,
+                "longitude": 4.9061805
+            },
+            "commonSiteName": "Moulin de Boiron",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.990474,
+                "longitude": 4.9061805
+            },
+            "locationGUID": "10d44342-22b6-43f5-8604-a8b4a66b15cf",
+            "maxPowerKw": 22,
+            "name": "Moulin de Boiron",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

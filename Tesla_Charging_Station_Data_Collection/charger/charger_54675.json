@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vejle",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7100",
+                "postalExt": null,
+                "state": null,
+                "street": "140 Skibetvej",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.702401,
+                "longitude": 9.439544
+            },
+            "commonSiteName": "Sinatur Hotel Haraldskær",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.702401,
+                "longitude": 9.439544
+            },
+            "locationGUID": "b4a140e0-6735-4ab3-a2c5-217e3f82c657",
+            "maxPowerKw": 22,
+            "name": "Sinatur Hotel Haraldskær",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

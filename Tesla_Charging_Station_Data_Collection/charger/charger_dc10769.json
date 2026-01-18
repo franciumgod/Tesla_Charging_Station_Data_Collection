@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28046",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Paseo de la Castellana",
+                "streetNumber": "49"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.436415,
+                "longitude": -3.690211
+            },
+            "commonSiteName": "Hotel InterContinental Madrid",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.436415,
+                "longitude": -3.690211
+            },
+            "locationGUID": "05431772-8984-47d2-bd03-dd4c32c90d5d",
+            "maxPowerKw": 22,
+            "name": "Hotel InterContinental Madrid",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

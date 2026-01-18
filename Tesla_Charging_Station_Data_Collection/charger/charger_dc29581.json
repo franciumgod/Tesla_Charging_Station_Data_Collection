@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Groenenbach",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "87730",
+                "postalExt": null,
+                "state": null,
+                "street": "Sebastian-Kneipp-Allee",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.870202,
+                "longitude": 10.22353
+            },
+            "commonSiteName": "Allgaeu Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.870202,
+                "longitude": 10.22353
+            },
+            "locationGUID": "6f8496e7-381f-48ef-82ed-d5dcbc8b57c9",
+            "maxPowerKw": 14,
+            "name": "Allgaeu Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

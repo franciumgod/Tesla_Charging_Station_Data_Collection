@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Canton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02021",
+                "postalExt": null,
+                "state": "MA",
+                "street": "Hudson Rd",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.183322,
+                "longitude": -71.150391
+            },
+            "commonSiteName": "Trillium Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.183322,
+                "longitude": -71.150391
+            },
+            "locationGUID": "952e8f1c-a795-417c-b16b-ec5706db293a",
+            "maxPowerKw": 16,
+            "name": "Trillium Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

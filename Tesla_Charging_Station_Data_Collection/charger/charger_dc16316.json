@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rimini",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "47921",
+                "postalExt": null,
+                "state": "Emilia-Romagna",
+                "street": "Viale Amerigo Vespucci",
+                "streetNumber": "71"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.06729,
+                "longitude": 12.581063
+            },
+            "commonSiteName": "Hotel Villa Rosa Riviera",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.06729,
+                "longitude": 12.581063
+            },
+            "locationGUID": "5656daef-2662-476b-bbf4-de263f42b1f4",
+            "maxPowerKw": 22,
+            "name": "Hotel Villa Rosa Riviera",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

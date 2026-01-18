@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31904",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Bradley Lake Blvd",
+                "streetNumber": "1500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.537694,
+                "longitude": -84.975016
+            },
+            "commonSiteName": "Hilton Garden Inn Columbus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.537694,
+                "longitude": -84.975016
+            },
+            "locationGUID": "701e633f-88d5-4c36-bed8-5454f087a1a0",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Columbus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

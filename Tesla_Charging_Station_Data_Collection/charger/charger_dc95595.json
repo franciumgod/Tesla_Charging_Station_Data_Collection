@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11217",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Ashland Pl",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.68608,
+                "longitude": -73.978252
+            },
+            "commonSiteName": "Park Kwik-300 Ashland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.68608,
+                "longitude": -73.978252
+            },
+            "locationGUID": "11cb6e2e-d38f-49fd-ae2f-ba6f7485e44c",
+            "maxPowerKw": 10,
+            "name": "Park Kwik-300 Ashland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

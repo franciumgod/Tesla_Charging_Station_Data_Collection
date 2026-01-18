@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "East 5th Ave",
+                "streetNumber": "325"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.747478,
+                "longitude": -73.98504
+            },
+            "commonSiteName": "GGMC Parking 8 E 33rd St Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.747478,
+                "longitude": -73.98504
+            },
+            "locationGUID": "750a3bf8-73ab-41c6-9155-7c7eaa188841",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking 8 E 33rd St Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

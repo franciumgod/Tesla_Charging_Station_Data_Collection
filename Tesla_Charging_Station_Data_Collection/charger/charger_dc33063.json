@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kosta",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "360 52",
+                "postalExt": null,
+                "state": null,
+                "street": "Stora Vägen",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.848977,
+                "longitude": 15.394627
+            },
+            "commonSiteName": "Kosta Boda Art Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.848977,
+                "longitude": 15.394627
+            },
+            "locationGUID": "0b7a40e0-0164-42b4-96c3-c58f6591f099",
+            "maxPowerKw": 19,
+            "name": "Kosta Boda Art Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

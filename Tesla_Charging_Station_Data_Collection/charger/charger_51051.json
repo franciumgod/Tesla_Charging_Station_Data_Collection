@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Anchorage",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "99514",
+                "postalExt": null,
+                "state": "AK",
+                "street": "W 3rd Ave",
+                "streetNumber": "717"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.21963,
+                "longitude": -149.89592
+            },
+            "commonSiteName": "49th State Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.21963,
+                "longitude": -149.89592
+            },
+            "locationGUID": "378573d9-e4ef-46e3-bde1-7aa64e948fff",
+            "maxPowerKw": 16,
+            "name": "49th State Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Anchorage"
+        },
+        "success": true
+    }
+}

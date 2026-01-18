@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22747",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Main St",
+                "streetNumber": "189"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.710569,
+                "longitude": -78.161097
+            },
+            "commonSiteName": "Foster Harris House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.710569,
+                "longitude": -78.161097
+            },
+            "locationGUID": "84c03946-5c20-4883-ab61-7ce35fc678c4",
+            "maxPowerKw": 8,
+            "name": "Foster Harris House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Carspach",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "68130",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Belfort",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.629907,
+                "longitude": 7.200748
+            },
+            "commonSiteName": "Auberge Sundgovienne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.629907,
+                "longitude": 7.200748
+            },
+            "locationGUID": "12def84a-39bd-4b53-b598-d27d637d9bb7",
+            "maxPowerKw": 17,
+            "name": "Auberge Sundgovienne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

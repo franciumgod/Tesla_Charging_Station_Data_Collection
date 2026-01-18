@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reykjavík",
+                "country": "Iceland",
+                "countryCode": "IS",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "105",
+                "postalExt": null,
+                "state": null,
+                "street": "Sigtún 38",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 64.14217921,
+                "longitude": -21.89201292
+            },
+            "commonSiteName": "Grand Hótel Reykjavík",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 64.142846,
+                "longitude": -21.891474
+            },
+            "locationGUID": "089a02a2-6f6b-4f61-b168-1e5eaafa2513",
+            "maxPowerKw": 19,
+            "name": "Grand Hotel Reykjavík",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Atlantic/Reykjavik"
+        },
+        "success": true
+    }
+}

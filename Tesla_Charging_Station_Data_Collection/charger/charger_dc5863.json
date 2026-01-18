@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portsmouth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23704",
+                "postalExt": null,
+                "state": "VA",
+                "street": "High St",
+                "streetNumber": "421"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.834926,
+                "longitude": -76.302028
+            },
+            "commonSiteName": "The Commodore Theatre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.834926,
+                "longitude": -76.302028
+            },
+            "locationGUID": "4bb9c49b-387c-4b85-86d2-8ae0ac0da401",
+            "maxPowerKw": 16,
+            "name": "The Commodore Theatre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

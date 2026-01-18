@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wahgunyah",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3687",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "All Saints Rd",
+                "streetNumber": "315"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.99379947,
+                "longitude": 146.41075034
+            },
+            "commonSiteName": "All Saints Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.99379947,
+                "longitude": 146.41075034
+            },
+            "locationGUID": "2fe7be88-3106-4967-bb9f-28a36eeee232",
+            "maxPowerKw": 17,
+            "name": "All Saints Estate",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

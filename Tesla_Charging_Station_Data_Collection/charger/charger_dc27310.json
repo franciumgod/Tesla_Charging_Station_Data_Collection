@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "6174",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "강남구 테헤란로",
+                "streetNumber": "606"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.508511,
+                "longitude": 127.064109
+            },
+            "commonSiteName": "파크 하얏트 서울",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.508511,
+                "longitude": 127.064109
+            },
+            "locationGUID": "47b591de-ccf0-43c3-855d-fae871933367",
+            "maxPowerKw": 16,
+            "name": "Park Hyatt Seoul",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

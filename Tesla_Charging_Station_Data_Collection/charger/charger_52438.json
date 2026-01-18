@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Nordheim",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "97334",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptstrasse",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.859743,
+                "longitude": 10.18368
+            },
+            "commonSiteName": "Gasthaus zur Sonne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.859743,
+                "longitude": 10.18368
+            },
+            "locationGUID": "ca8dc55e-777e-4637-9a51-306d3d112134",
+            "maxPowerKw": 11,
+            "name": "Gasthaus zur Sonne-Nordheim",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

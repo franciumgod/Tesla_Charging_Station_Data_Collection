@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gniew",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83",
+                "postalExt": "140",
+                "state": null,
+                "street": "Zamkowa 3",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.833694,
+                "longitude": 18.829028
+            },
+            "commonSiteName": "Hotel Zamek Gniew****",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.833694,
+                "longitude": 18.829028
+            },
+            "locationGUID": "8eea2c31-ab30-46d3-8b7f-c429345fbf88",
+            "maxPowerKw": 22,
+            "name": "Hotel Zamek Gniew",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

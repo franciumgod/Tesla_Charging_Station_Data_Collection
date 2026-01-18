@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Göteborg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "411 17",
+                "postalExt": null,
+                "state": null,
+                "street": "Kungstorget 9",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.704344,
+                "longitude": 11.968883
+            },
+            "commonSiteName": "Avalon Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.704344,
+                "longitude": 11.968883
+            },
+            "locationGUID": "d42ce844-5656-49b0-9b06-948702ef850a",
+            "maxPowerKw": 11,
+            "name": "Avalon Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

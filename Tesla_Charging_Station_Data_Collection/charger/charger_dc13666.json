@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "North East",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21901",
+                "postalExt": null,
+                "state": "MD",
+                "street": "N Main St",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.60151,
+                "longitude": -75.943346
+            },
+            "commonSiteName": "Port House Grill",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.60151,
+                "longitude": -75.943346
+            },
+            "locationGUID": "2b794815-ee7a-445e-964c-87dd2d31a0d7",
+            "maxPowerKw": 16,
+            "name": "Port House Grill",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

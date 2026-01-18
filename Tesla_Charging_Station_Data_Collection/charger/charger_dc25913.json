@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chihuahua",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31215",
+                "postalExt": null,
+                "state": "CHH",
+                "street": "Puerta de Hierro",
+                "streetNumber": "Periferico de la Juventud 3102"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.627759,
+                "longitude": -106.117038
+            },
+            "commonSiteName": "Plaza 3106",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.627759,
+                "longitude": -106.117038
+            },
+            "locationGUID": "6ff05aff-8fe5-4214-9e47-d24a5bc199d4",
+            "maxPowerKw": 18,
+            "name": "Plaza 3106",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chihuahua"
+        },
+        "success": true
+    }
+}

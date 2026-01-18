@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vimperk",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "385 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Kubova Hut",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.983143,
+                "longitude": 13.771995
+            },
+            "commonSiteName": "Hotel Kristian",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.983143,
+                "longitude": 13.771995
+            },
+            "locationGUID": "aa05b932-d829-427b-859f-3539130e1d01",
+            "maxPowerKw": 17,
+            "name": "Hotel Kristian",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

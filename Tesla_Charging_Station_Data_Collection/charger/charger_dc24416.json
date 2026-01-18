@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10023",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Broadway",
+                "streetNumber": "1930"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.772574,
+                "longitude": -73.981951
+            },
+            "commonSiteName": "Glenwood Grand Tier Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.772574,
+                "longitude": -73.981951
+            },
+            "locationGUID": "274e6540-46ae-400d-826d-550ac99e742e",
+            "maxPowerKw": 12,
+            "name": "Glenwood Grand Tier Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

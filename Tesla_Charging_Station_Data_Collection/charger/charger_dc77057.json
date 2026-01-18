@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20124",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Panfilo Castaldi",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.478296,
+                "longitude": 9.19978
+            },
+            "commonSiteName": "Hotel Baviera Mokinba",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.478296,
+                "longitude": 9.19978
+            },
+            "locationGUID": "00592220-b6d8-4aad-a0e2-492fbbd3d569",
+            "maxPowerKw": 17,
+            "name": "Hotel Baviera Mokinba",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

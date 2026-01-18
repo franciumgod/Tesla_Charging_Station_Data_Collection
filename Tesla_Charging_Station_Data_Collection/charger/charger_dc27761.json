@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vikingstad",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "59048",
+                "postalExt": null,
+                "state": null,
+                "street": "Sjögestad Motell",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.369803,
+                "longitude": 15.34287
+            },
+            "commonSiteName": "Sjögestad Motell",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.369803,
+                "longitude": 15.34287
+            },
+            "locationGUID": "2469a20c-3c65-470c-b07f-f52784cb9681",
+            "maxPowerKw": 17,
+            "name": "Sjögestad Motell",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

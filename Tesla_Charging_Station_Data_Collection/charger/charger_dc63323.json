@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Katowice",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "40",
+                "postalExt": "086",
+                "state": null,
+                "street": "ul. Sokolska",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.26365,
+                "longitude": 19.016287
+            },
+            "commonSiteName": "Vienna House Easy Katowice",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.26365,
+                "longitude": 19.016287
+            },
+            "locationGUID": "a8054006-ef21-4d30-9ffa-44c59253ac57",
+            "maxPowerKw": 22,
+            "name": "Vienna House Easy Katowice",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

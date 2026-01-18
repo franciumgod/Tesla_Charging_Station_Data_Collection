@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Santa Barbara",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93101",
+                "postalExt": null,
+                "state": "CA",
+                "street": "State St",
+                "streetNumber": "36"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.413249,
+                "longitude": -119.689955
+            },
+            "commonSiteName": "Hotel Californian",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.413249,
+                "longitude": -119.689955
+            },
+            "locationGUID": "1f788f68-f45e-4b52-a682-9096fa67cda6",
+            "maxPowerKw": 10,
+            "name": "Hotel Californian",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

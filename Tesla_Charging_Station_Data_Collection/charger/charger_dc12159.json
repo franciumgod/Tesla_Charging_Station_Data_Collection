@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "White",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30184",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Tellus Dr",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.241831,
+                "longitude": -84.770259
+            },
+            "commonSiteName": "Tellus Science Museum",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.241831,
+                "longitude": -84.770259
+            },
+            "locationGUID": "d060127e-b542-40b5-ab83-6076104d5594",
+            "maxPowerKw": 13,
+            "name": "Tellus Science Museum",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

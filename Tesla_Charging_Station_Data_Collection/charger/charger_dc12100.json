@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Westlake",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44145",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Crocker Rd",
+                "streetNumber": "1940"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.462077,
+                "longitude": -81.951758
+            },
+            "commonSiteName": "Crocker Park Detroit Road Garage - Level 1A",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.462077,
+                "longitude": -81.951758
+            },
+            "locationGUID": "66df3b6c-e334-4546-b60e-46b55a5ddd96",
+            "maxPowerKw": 8,
+            "name": "Crocker Park Detroit Road Garage - Level 1A",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

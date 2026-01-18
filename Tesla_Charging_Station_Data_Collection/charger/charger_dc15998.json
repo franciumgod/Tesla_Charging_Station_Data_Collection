@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlottenberg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "673 32",
+                "postalExt": null,
+                "state": null,
+                "street": "Storgatan",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.884266,
+                "longitude": 12.302432
+            },
+            "commonSiteName": "Kallmans Konditori AB",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.884266,
+                "longitude": 12.302432
+            },
+            "locationGUID": "d098ebf1-e12f-4d7b-970c-fde562829ab7",
+            "maxPowerKw": 6,
+            "name": "Kallmans Konditori AB",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

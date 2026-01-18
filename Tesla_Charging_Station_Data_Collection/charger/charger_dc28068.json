@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oxton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NG25 0SS",
+                "postalExt": null,
+                "state": "Nottingham",
+                "street": "Blind Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.058692,
+                "longitude": -1.061694
+            },
+            "commonSiteName": "Old Green Dragon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.058692,
+                "longitude": -1.061694
+            },
+            "locationGUID": "39cede76-63a0-43b0-841d-9e08ead4b067",
+            "maxPowerKw": 22,
+            "name": "Old Green Dragon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

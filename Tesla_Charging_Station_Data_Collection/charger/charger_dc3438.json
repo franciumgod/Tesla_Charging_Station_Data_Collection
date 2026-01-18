@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6C 2W6",
+                "postalExt": null,
+                "state": "BC",
+                "street": "W George St",
+                "streetNumber": "900"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.283791,
+                "longitude": -123.120989
+            },
+            "commonSiteName": "The Fairmont Hotel Vancouver",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.283791,
+                "longitude": -123.120989
+            },
+            "locationGUID": "1a7de7a0-1a09-455f-95ae-68d425093505",
+            "maxPowerKw": 8,
+            "name": "The Fairmont Hotel Vancouver",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

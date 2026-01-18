@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Palm Desert",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92260",
+                "postalExt": null,
+                "state": "CA",
+                "street": "El Paseo",
+                "streetNumber": "73545"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.7184587,
+                "longitude": -116.3818948
+            },
+            "commonSiteName": "The Gardens on El Paseo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.7184587,
+                "longitude": -116.3818948
+            },
+            "locationGUID": "a5f9cdef-8e51-43f2-a314-1cb75cc84642",
+            "maxPowerKw": 16,
+            "name": "The Gardens on El Paseo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

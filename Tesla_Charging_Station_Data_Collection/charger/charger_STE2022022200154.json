@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tijuana",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22014",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Blvd. Agua Caliente 10488, Colonia Aviación",
+                "streetNumber": "10488"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.51547219,
+                "longitude": -117.0114425
+            },
+            "commonSiteName": "Hyatt Place Tijuana",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.51547219,
+                "longitude": -117.0114425
+            },
+            "locationGUID": "fcd81990-1ecf-44c2-a8bc-6e356af9127b",
+            "maxPowerKw": 19,
+            "name": "Hyatt Place Tijuana",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

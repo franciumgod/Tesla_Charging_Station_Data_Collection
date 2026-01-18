@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Whyalla",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5600",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Playford Ave",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.03453962,
+                "longitude": 137.562276
+            },
+            "commonSiteName": "Alexander Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.03453962,
+                "longitude": 137.562276
+            },
+            "locationGUID": "4d40de0a-17c1-415b-8fb1-d60faa999e88",
+            "maxPowerKw": 22,
+            "name": "Alexander Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

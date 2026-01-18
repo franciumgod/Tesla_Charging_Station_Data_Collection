@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Portsmouth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03801",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Portwalk Place",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.077805,
+                "longitude": -70.760162
+            },
+            "commonSiteName": "Portwalk Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.077805,
+                "longitude": -70.760162
+            },
+            "locationGUID": "40dc6efb-6348-48c0-b0f0-cae9ff8828fc",
+            "maxPowerKw": 16,
+            "name": "Portwalk Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

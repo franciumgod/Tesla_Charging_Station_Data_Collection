@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fremont",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94538",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Landing Pkwy",
+                "streetNumber": "46100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.488967,
+                "longitude": -121.94617
+            },
+            "commonSiteName": "Fremont Marriott Silicon Valley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.488967,
+                "longitude": -121.94617
+            },
+            "locationGUID": "16f530c7-233d-4989-b455-88099734f2a5",
+            "maxPowerKw": 8,
+            "name": "Fremont Marriott Silicon Valley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

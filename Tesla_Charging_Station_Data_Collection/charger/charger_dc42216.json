@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ballina",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2478",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Cnr Compton Drive & Cedar Cres",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -28.868603,
+                "longitude": 153.58893
+            },
+            "commonSiteName": "Quality Hotel Ballina Beach Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -28.868603,
+                "longitude": 153.58893
+            },
+            "locationGUID": "6b666378-1676-477e-8c12-1edeb120cd79",
+            "maxPowerKw": 22,
+            "name": "Quality Hotel Ballina Beach Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

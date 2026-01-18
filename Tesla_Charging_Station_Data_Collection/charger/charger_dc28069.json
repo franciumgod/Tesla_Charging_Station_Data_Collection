@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Healdsburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95448",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Westside Rd",
+                "streetNumber": "8075"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.522965,
+                "longitude": -122.879001
+            },
+            "commonSiteName": "Thomas George Estates",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.522965,
+                "longitude": -122.879001
+            },
+            "locationGUID": "146c2239-38c9-4919-9fb2-ec935d9ff8e1",
+            "maxPowerKw": 16,
+            "name": "Thomas George Estates",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

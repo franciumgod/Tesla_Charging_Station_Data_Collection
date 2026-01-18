@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jesolo Lido",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30016",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Alberto da Giussano",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.483826,
+                "longitude": 12.587593
+            },
+            "commonSiteName": "Jesolo International Club - Camping",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.483826,
+                "longitude": 12.587593
+            },
+            "locationGUID": "64545b4d-8439-4987-974a-eb88db3dfd38",
+            "maxPowerKw": 22,
+            "name": "Jesolo International Club - Camping",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

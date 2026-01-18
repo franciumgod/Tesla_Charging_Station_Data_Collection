@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queenstown",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9300",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Frankton Rd",
+                "streetNumber": "377"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -45.028296,
+                "longitude": 168.688184
+            },
+            "commonSiteName": "The Rees Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -45.028296,
+                "longitude": 168.688184
+            },
+            "locationGUID": "5d622a2b-92cf-412e-b870-4d7da9c0bafd",
+            "maxPowerKw": 14,
+            "name": "The Rees Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

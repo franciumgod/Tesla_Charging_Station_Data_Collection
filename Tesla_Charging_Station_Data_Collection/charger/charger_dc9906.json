@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Crissier",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1023",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue d'Yverdon",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.554024,
+                "longitude": 6.576935
+            },
+            "commonSiteName": "Restaurant de l'Hotel de Ville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.554024,
+                "longitude": 6.576935
+            },
+            "locationGUID": "752d8eaa-a3b5-4dd9-9a31-af85dea333b3",
+            "maxPowerKw": 11,
+            "name": "Restaurant de l'Hotel de Ville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

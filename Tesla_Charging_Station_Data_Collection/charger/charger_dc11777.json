@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Princeton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0X 1W0",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Bridge St",
+                "streetNumber": "169"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.4598041,
+                "longitude": -120.5070548
+            },
+            "commonSiteName": "Princeton Visitor Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.4598041,
+                "longitude": -120.5070548
+            },
+            "locationGUID": "1d8c83ff-7af1-4906-b497-d3d51f1fc38a",
+            "maxPowerKw": 16,
+            "name": "Princeton Visitor Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

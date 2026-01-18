@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sedona",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "86336",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "W State Route 89A",
+                "streetNumber": "4105"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.852782,
+                "longitude": -111.825062
+            },
+            "commonSiteName": "Courtyard Sedona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.852782,
+                "longitude": -111.825062
+            },
+            "locationGUID": "e0f187f8-3c23-42ac-bdae-0da234f6e04a",
+            "maxPowerKw": 16,
+            "name": "Courtyard Sedona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

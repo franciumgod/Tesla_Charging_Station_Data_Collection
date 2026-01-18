@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sarnen",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6062",
+                "postalExt": null,
+                "state": null,
+                "street": "Wilerstrasse",
+                "streetNumber": "35"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.888251,
+                "longitude": 8.232663
+            },
+            "commonSiteName": "Kurhaus am Sarnersee",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.888251,
+                "longitude": 8.232663
+            },
+            "locationGUID": "63075081-d913-475b-bd38-4df504932e69",
+            "maxPowerKw": 22,
+            "name": "Kurhaus am Sarnersee",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

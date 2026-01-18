@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alexandria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22314",
+                "postalExt": null,
+                "state": "VA",
+                "street": "N St Asaph St",
+                "streetNumber": "801"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.813023,
+                "longitude": -77.043613
+            },
+            "commonSiteName": "Sheraton Suites Old Town Alexandria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.813023,
+                "longitude": -77.043613
+            },
+            "locationGUID": "d386bbc2-3c61-48a1-81f1-fc9bf834adaa",
+            "maxPowerKw": 8,
+            "name": "Sheraton Suites Old Town Alexandria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Juan del Rio",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76803",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Industrial Valle De Oro",
+                "streetNumber": "Paseo Central 23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.407347,
+                "longitude": -99.983439
+            },
+            "commonSiteName": "Holiday Inn Express San Juan Del Rio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.407347,
+                "longitude": -99.983439
+            },
+            "locationGUID": "14c89ceb-8240-4a7b-a4aa-d944834d8b9b",
+            "maxPowerKw": 18,
+            "name": "Holiday Inn Express San Juan Del Rio",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

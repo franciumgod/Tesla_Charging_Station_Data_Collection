@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hamburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22335",
+                "postalExt": null,
+                "state": null,
+                "street": "Flughafenstrasse",
+                "streetNumber": "1-3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.632361,
+                "longitude": 10.008346
+            },
+            "commonSiteName": "Radisson Blu Hotel Hamburg Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.632361,
+                "longitude": 10.008346
+            },
+            "locationGUID": "0509a199-2f03-43cc-b39f-33d466c2d04c",
+            "maxPowerKw": 22,
+            "name": "Radisson Blu Hotel Hamburg Airport",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

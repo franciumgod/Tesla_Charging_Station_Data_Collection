@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cincinnati",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45241",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Cornell Rd",
+                "streetNumber": "4780"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.270393,
+                "longitude": -84.373524
+            },
+            "commonSiteName": "Envision Cinemas Bar & Grille",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.270393,
+                "longitude": -84.373524
+            },
+            "locationGUID": "8b730530-d971-400e-a66f-3ca4070f4ec4",
+            "maxPowerKw": 16,
+            "name": "Envision Cinemas Bar & Grille",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Durango",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34234",
+                "postalExt": null,
+                "state": "DUR",
+                "street": "20 de Noviembre",
+                "streetNumber": "Blvrd Francisco Villa 4021"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.053376,
+                "longitude": -104.61783
+            },
+            "commonSiteName": "City Express Durango",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.053376,
+                "longitude": -104.61783
+            },
+            "locationGUID": "8481e42c-77e3-4ce7-b55c-d9fa675c5caf",
+            "maxPowerKw": 18,
+            "name": "City Express Durango",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

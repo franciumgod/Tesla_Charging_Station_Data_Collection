@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kelowna",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V1Y 7S3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Bay Ave",
+                "streetNumber": "6-325"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.898718,
+                "longitude": -119.495865
+            },
+            "commonSiteName": "Urban Distilleries",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.898718,
+                "longitude": -119.495865
+            },
+            "locationGUID": "bc29a626-1ee7-42ce-837c-123d5da92de8",
+            "maxPowerKw": 8,
+            "name": "Urban Distilleries",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Myvatn",
+                "country": "Iceland",
+                "countryCode": "IS",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "660",
+                "postalExt": null,
+                "state": null,
+                "street": "Vogum  4805073200",
+                "streetNumber": "I"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 65.6241,
+                "longitude": -16.9228
+            },
+            "commonSiteName": "Vogafjós Farm Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 65.6241,
+                "longitude": -16.9228
+            },
+            "locationGUID": "0430e082-ae22-448d-9ffa-3e6f11df479e",
+            "maxPowerKw": 22,
+            "name": "Vogafjós Farm Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Atlantic/Reykjavik"
+        },
+        "success": true
+    }
+}

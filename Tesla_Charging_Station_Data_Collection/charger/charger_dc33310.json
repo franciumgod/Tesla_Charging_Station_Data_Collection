@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "North Sydney",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2065",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Blue Street",
+                "streetNumber": "36"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.840843,
+                "longitude": 151.207258
+            },
+            "commonSiteName": "Greenwood Plaza - Level B4 - 21 & 22 & 23",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.840843,
+                "longitude": 151.207258
+            },
+            "locationGUID": "7b7ffde0-46b4-43fa-99b8-5b305ce0ca0e",
+            "maxPowerKw": 22,
+            "name": "Greenwood Plaza - Level B4 - 21 & 22 & 23",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

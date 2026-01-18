@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Serfaus",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6534",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfbahnstrasse",
+                "streetNumber": "73"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.040421,
+                "longitude": 10.598153
+            },
+            "commonSiteName": "Hotel Alpenjuwel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.040421,
+                "longitude": 10.598153
+            },
+            "locationGUID": "072ef0a1-477a-48f9-a75e-810df8599aa8",
+            "maxPowerKw": 11,
+            "name": "Hotel Alpenjuwel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

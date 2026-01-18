@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naples",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34102",
+                "postalExt": null,
+                "state": "FL",
+                "street": "5th Ave S",
+                "streetNumber": "699"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.141821,
+                "longitude": -81.797888
+            },
+            "commonSiteName": "Inn on Fifth",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.141821,
+                "longitude": -81.797888
+            },
+            "locationGUID": "0759a6cb-e4b9-4bcf-8449-fd0ab0171a26",
+            "maxPowerKw": 16,
+            "name": "Inn on Fifth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

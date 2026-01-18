@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brignoles",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83170",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Cabasse",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.40373229,
+                "longitude": 6.16907686
+            },
+            "commonSiteName": "Golf de Barbaroux - Open Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.40373229,
+                "longitude": 6.16907686
+            },
+            "locationGUID": "5b2ff11f-348b-4c79-9214-3f3f4b892c3c",
+            "maxPowerKw": 22,
+            "name": "Golf de Barbaroux - Open Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10014",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Washington St",
+                "streetNumber": "848"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.740939,
+                "longitude": -74.00824
+            },
+            "commonSiteName": "The Standard, High Line",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.740939,
+                "longitude": -74.00824
+            },
+            "locationGUID": "0316b964-c4e8-4e9d-a66d-db9b58210fdc",
+            "maxPowerKw": 10,
+            "name": "The Standard, High Line",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

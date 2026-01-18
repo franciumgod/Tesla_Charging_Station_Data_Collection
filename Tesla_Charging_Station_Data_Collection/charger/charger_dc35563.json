@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Figueres",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17600",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avinguda de Roses",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.266522,
+                "longitude": 2.998114
+            },
+            "commonSiteName": "B&B HOTEL FIGUERES",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.266522,
+                "longitude": 2.998114
+            },
+            "locationGUID": "b6815d5f-6a85-4575-a45c-9ace1775c22e",
+            "maxPowerKw": 11,
+            "name": "B&B Hotel Figueres",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

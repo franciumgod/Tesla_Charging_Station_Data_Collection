@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92101",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Harbor Island Dr",
+                "streetNumber": "1380"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.727033,
+                "longitude": -117.197655
+            },
+            "commonSiteName": "Sheraton San Diego Hotel and Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.727033,
+                "longitude": -117.197655
+            },
+            "locationGUID": "faf5f897-359a-475d-a007-c4b7765251e2",
+            "maxPowerKw": 16,
+            "name": "Sheraton San Diego Hotel and Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

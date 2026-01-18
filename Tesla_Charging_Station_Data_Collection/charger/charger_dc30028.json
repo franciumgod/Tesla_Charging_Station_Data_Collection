@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cadiz",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11012",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Av. las Cortes de Cádiz",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.520278,
+                "longitude": -6.2769444
+            },
+            "commonSiteName": "El Corte Ingles Bahía Cadiz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.520278,
+                "longitude": -6.2769444
+            },
+            "locationGUID": "06d2baa9-4bff-47f0-a56c-565b53fedd1e",
+            "maxPowerKw": 11,
+            "name": "El Corte Inglés Bahía de Cádiz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

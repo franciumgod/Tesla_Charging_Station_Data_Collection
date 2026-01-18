@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "6651",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "서초구 반포대로 14길",
+                "streetNumber": "53"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.4863566,
+                "longitude": 127.0139677
+            },
+            "commonSiteName": "소설호텔",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.4863566,
+                "longitude": 127.0139677
+            },
+            "locationGUID": "ed956382-59c7-4ee3-9a51-0919b57ee5d6",
+            "maxPowerKw": 6,
+            "name": "HOTEL SOHSUL",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

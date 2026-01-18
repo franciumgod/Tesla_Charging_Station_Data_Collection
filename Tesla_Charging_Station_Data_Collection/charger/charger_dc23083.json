@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10028",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 90th St",
+                "streetNumber": "60"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.783085,
+                "longitude": -73.956304
+            },
+            "commonSiteName": "Champion Parking 90 LLC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.783085,
+                "longitude": -73.956304
+            },
+            "locationGUID": "53407919-96bc-47a4-899b-62e848193568",
+            "maxPowerKw": 16,
+            "name": "Champion Parking 90 LLC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

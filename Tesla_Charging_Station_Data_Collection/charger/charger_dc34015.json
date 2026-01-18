@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vineland",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L0R 2C0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Cherry Ave",
+                "streetNumber": "3955"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.151507,
+                "longitude": -79.411836
+            },
+            "commonSiteName": "Tawse Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.151507,
+                "longitude": -79.411836
+            },
+            "locationGUID": "005bff81-c7aa-460c-998c-cfeedf244115",
+            "maxPowerKw": 16,
+            "name": "Tawse Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

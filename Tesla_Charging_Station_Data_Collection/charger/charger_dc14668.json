@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "South Bend",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "46637",
+                "postalExt": null,
+                "state": "IN",
+                "street": "US 933",
+                "streetNumber": "53993"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.709026,
+                "longitude": -86.252235
+            },
+            "commonSiteName": "Inn at Saint Mary's",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.709026,
+                "longitude": -86.252235
+            },
+            "locationGUID": "062f1a3b-f956-4f41-8d1d-bec891d47678",
+            "maxPowerKw": 8,
+            "name": "Inn at Saint Mary's",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Indiana/Indianapolis"
+        },
+        "success": true
+    }
+}

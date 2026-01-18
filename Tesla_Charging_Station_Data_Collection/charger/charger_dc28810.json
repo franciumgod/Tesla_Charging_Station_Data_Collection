@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Philadelphia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19153",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Bartram Ave",
+                "streetNumber": "8600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.8882671,
+                "longitude": -75.2462644
+            },
+            "commonSiteName": "Hampton Inn/Philadelphia Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.8882671,
+                "longitude": -75.2462644
+            },
+            "locationGUID": "4de1381c-dfcd-4f75-b48c-34f3e3785451",
+            "maxPowerKw": 13,
+            "name": "Hampton Inn/Philadelphia Airport",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

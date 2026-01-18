@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10025",
+                "postalExt": null,
+                "state": "NY",
+                "street": "East 63rd St",
+                "streetNumber": "245"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.76332,
+                "longitude": -73.962938
+            },
+            "commonSiteName": "iPark 245 East 63rd Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.76332,
+                "longitude": -73.962938
+            },
+            "locationGUID": "3f6af114-5ac7-44ce-a57f-ce90543e86c6",
+            "maxPowerKw": 16,
+            "name": "iPark 245 East 63rd Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

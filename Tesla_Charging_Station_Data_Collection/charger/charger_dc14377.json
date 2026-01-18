@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Inverloch",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3996",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Cape Paterson-Inverloch Road",
+                "streetNumber": "70"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.650436,
+                "longitude": 145.688516
+            },
+            "commonSiteName": "RACV Inverloch Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.650436,
+                "longitude": 145.688516
+            },
+            "locationGUID": "b78b458d-4e03-47e8-af7d-971ab91ef5ca",
+            "maxPowerKw": 22,
+            "name": "RACV Inverloch Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

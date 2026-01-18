@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlotte",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28202",
+                "postalExt": null,
+                "state": "NC",
+                "street": "W Trade St",
+                "streetNumber": "895"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.233065,
+                "longitude": -80.851861
+            },
+            "commonSiteName": "DoubleTree by Hilton Hotel Charlotte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.233065,
+                "longitude": -80.851861
+            },
+            "locationGUID": "3a43689f-a63e-47e7-818d-13ef45252a83",
+            "maxPowerKw": 8,
+            "name": "DoubleTree by Hilton Hotel Charlotte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

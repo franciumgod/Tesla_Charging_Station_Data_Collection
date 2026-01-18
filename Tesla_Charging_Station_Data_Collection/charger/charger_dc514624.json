@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Benidorm",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "03503",
+                "postalExt": null,
+                "state": "Alicante",
+                "street": "Avenida Doctor Severo Ochoa",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.540756,
+                "longitude": -0.105172
+            },
+            "commonSiteName": "Hotel Melia Benidorm",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.5407776,
+                "longitude": -0.1041489
+            },
+            "locationGUID": "eebe9941-13cc-4649-957a-6fecd5a705e6",
+            "maxPowerKw": 11,
+            "name": "Hotel Melia Benidorm",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

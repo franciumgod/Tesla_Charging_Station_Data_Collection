@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alexandria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22314",
+                "postalExt": null,
+                "state": "VA",
+                "street": "King St",
+                "streetNumber": "1767"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.807129,
+                "longitude": -77.059363
+            },
+            "commonSiteName": "Hilton Alexandria Old Town",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.807129,
+                "longitude": -77.059363
+            },
+            "locationGUID": "b3ce10c4-4425-479c-9794-02703ff13d71",
+            "maxPowerKw": 10,
+            "name": "Hilton Alexandria Old Town",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

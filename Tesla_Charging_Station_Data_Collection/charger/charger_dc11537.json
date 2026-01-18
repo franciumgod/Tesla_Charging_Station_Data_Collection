@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Napa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94559",
+                "postalExt": null,
+                "state": "CA",
+                "street": "McKinstry St",
+                "streetNumber": "1314"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.304309,
+                "longitude": -122.283944
+            },
+            "commonSiteName": "The Westin Verasa Napa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.304309,
+                "longitude": -122.283944
+            },
+            "locationGUID": "0302a6f1-144c-450f-9bf6-f2db5178a53c",
+            "maxPowerKw": 16,
+            "name": "The Westin Verasa Napa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Medebach Medelon",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "59964",
+                "postalExt": null,
+                "state": null,
+                "street": "Orkestraße",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.1697708,
+                "longitude": 8.6699653
+            },
+            "commonSiteName": "Müllers Landhotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.1697708,
+                "longitude": 8.6699653
+            },
+            "locationGUID": "67626e8a-a217-4c1e-9359-0a2516c3f4da",
+            "maxPowerKw": 22,
+            "name": "Muellers Landhotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

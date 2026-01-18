@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tudela",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31500",
+                "postalExt": null,
+                "state": "Navarre",
+                "street": "Carretera de Ejea Na125 Km 1,5",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.078425,
+                "longitude": -1.565845
+            },
+            "commonSiteName": "Hotel Aire de Bardenas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.078425,
+                "longitude": -1.565845
+            },
+            "locationGUID": "d32a74e4-aee6-4c7b-bedd-4d4782dd7ebd",
+            "maxPowerKw": 22,
+            "name": "Hotel Aire de Bardenas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

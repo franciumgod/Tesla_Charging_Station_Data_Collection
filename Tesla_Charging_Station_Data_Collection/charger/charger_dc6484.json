@@ -1,0 +1,254 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10023",
+                "postalExt": null,
+                "state": "NY",
+                "street": "West End Ave",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0.75,
+                            0.75,
+                            0.5,
+                            0.75,
+                            0.5,
+                            0.25,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.25,
+                            0.375,
+                            0.6875,
+                            0.75,
+                            0.5,
+                            0.5,
+                            0.375,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.6875,
+                            0.8125
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.25,
+                            0.375,
+                            0.5,
+                            0.375,
+                            0.25,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.25,
+                            0.375,
+                            0.6875,
+                            0.875,
+                            1,
+                            1,
+                            0.875,
+                            0.875,
+                            0.875,
+                            0.875,
+                            0.6875,
+                            0.5,
+                            0.375,
+                            0.25
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.375,
+                            0.25,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.25,
+                            0.25,
+                            0.25
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            1,
+                            0.875,
+                            0.6875,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.375,
+                            0.5,
+                            0.5,
+                            0.875,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0.875,
+                            0.875,
+                            0.875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.828125,
+                            0.828125,
+                            0.875,
+                            0.828125,
+                            0.75,
+                            0.75,
+                            0.828125,
+                            0.9375,
+                            1,
+                            1,
+                            1,
+                            0.875,
+                            0.6875,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.375,
+                            0.5,
+                            0.375,
+                            0.5,
+                            0.6875,
+                            0.875,
+                            1,
+                            1
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0.75,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0.5,
+                            0,
+                            0.25,
+                            0.375,
+                            0.5,
+                            0.6875,
+                            0.875,
+                            1
+                        ]
+                    }
+                },
+                "createdTimestamp": "2025-06-18T00:00:00Z",
+                "siteId": {
+                    "id": 6484,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 1200,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "-18000s"
+            },
+            "centroid": {
+                "latitude": 40.778221,
+                "longitude": -73.985072
+            },
+            "commonSiteName": "Parkit 200 West End Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.778221,
+                "longitude": -73.985072
+            },
+            "locationGUID": "6b53d727-ebba-472c-a058-44f4a7754c23",
+            "maxPowerKw": 16,
+            "name": "Parkit 200 West End Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

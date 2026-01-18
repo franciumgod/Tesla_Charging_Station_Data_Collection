@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chippenham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SN14 7HR",
+                "postalExt": null,
+                "state": "Wiltshire",
+                "street": "Castle Combe",
+                "streetNumber": "The Manor House"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.493458,
+                "longitude": -2.232071
+            },
+            "commonSiteName": "The Manor House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.493458,
+                "longitude": -2.232071
+            },
+            "locationGUID": "29b7a30c-473f-45cc-9b4e-b96eaad41b75",
+            "maxPowerKw": 7,
+            "name": "The Manor House",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

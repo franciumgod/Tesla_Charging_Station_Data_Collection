@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Schoenefeld",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "12529",
+                "postalExt": null,
+                "state": null,
+                "street": "Hans-Grade-Allee",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.38948,
+                "longitude": 13.49896
+            },
+            "commonSiteName": "Holiday Inn Berlin Airport - Conference Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.38948,
+                "longitude": 13.49896
+            },
+            "locationGUID": "7a363e2a-6b2d-405c-a45a-3a1cd0301f22",
+            "maxPowerKw": 22,
+            "name": "Holiday Inn Berlin Airport - Conference Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lugano",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6900",
+                "postalExt": null,
+                "state": null,
+                "street": "Riva Antonio Caccia",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.994637,
+                "longitude": 8.945937
+            },
+            "commonSiteName": "Hotel Splendide Royal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.994637,
+                "longitude": 8.945937
+            },
+            "locationGUID": "52a6256d-705e-448b-a4d7-7f1ba487a0e2",
+            "maxPowerKw": 22,
+            "name": "Hotel Splendide Royal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

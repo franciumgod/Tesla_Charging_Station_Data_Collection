@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22785 Ensenada",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Ex-Ejido Chapultepec",
+                "streetNumber": "Calle Playas del Estero S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.77845922,
+                "longitude": -116.61586489
+            },
+            "commonSiteName": "Estero Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.77845922,
+                "longitude": -116.61586489
+            },
+            "locationGUID": "6d545db5-3ac8-4c07-8eb3-268e3f5f4abd",
+            "maxPowerKw": 18,
+            "name": "Estero Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

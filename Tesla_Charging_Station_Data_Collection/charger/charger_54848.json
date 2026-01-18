@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queenstown",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9371",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "State Highway 6",
+                "streetNumber": "756"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -44.989799,
+                "longitude": 168.815261
+            },
+            "commonSiteName": "Stoneridge Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -44.989799,
+                "longitude": 168.815261
+            },
+            "locationGUID": "60d51bac-c61b-4a44-ac64-8991fb6b8b3c",
+            "maxPowerKw": 11,
+            "name": "Stoneridge Estate",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

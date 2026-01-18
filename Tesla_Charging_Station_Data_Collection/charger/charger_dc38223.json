@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Valencia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46006",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Plaza de Manuel Sanchis Guarner",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.457599,
+                "longitude": -0.375459
+            },
+            "commonSiteName": "Senator Hotel Parque Central",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.457599,
+                "longitude": -0.375459
+            },
+            "locationGUID": "887aaf91-2ef4-4a87-abf0-4f61a7a356e4",
+            "maxPowerKw": 17,
+            "name": "Senator Hotel Parque Central",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

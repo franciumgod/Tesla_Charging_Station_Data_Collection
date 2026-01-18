@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Myrkdalen",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5713",
+                "postalExt": null,
+                "state": null,
+                "street": "Klypeteigane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.85634938,
+                "longitude": 6.49026575
+            },
+            "commonSiteName": "Myrkdalen Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.85634938,
+                "longitude": 6.49026575
+            },
+            "locationGUID": "28d94bdc-d4d1-4fd7-ba4b-17421579e199",
+            "maxPowerKw": 22,
+            "name": "Myrkdalen Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

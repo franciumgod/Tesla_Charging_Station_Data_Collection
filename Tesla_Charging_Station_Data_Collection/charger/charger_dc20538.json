@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Knislinge",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28990",
+                "postalExt": null,
+                "state": null,
+                "street": "Wanas Godskontor",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.18760722,
+                "longitude": 14.04525667
+            },
+            "commonSiteName": "Wanås",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.18760722,
+                "longitude": 14.04525667
+            },
+            "locationGUID": "46f9667c-2492-42e7-910d-25fb8873f2a2",
+            "maxPowerKw": 14,
+            "name": "Wanås",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coles Bay",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7215",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Coles Bay Road",
+                "streetNumber": "2352"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -42.109627,
+                "longitude": 148.265949
+            },
+            "commonSiteName": "Saffire Freycinet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -42.109627,
+                "longitude": 148.265949
+            },
+            "locationGUID": "23fa6bce-d5ca-4ddb-b816-c16e9d170f4c",
+            "maxPowerKw": 22,
+            "name": "Saffire Freycinet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Hobart"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oberreute",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "88179",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptstrasse 40",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.562351,
+                "longitude": 9.942155
+            },
+            "commonSiteName": "Landhotel Restaurant Krone",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.562351,
+                "longitude": 9.942155
+            },
+            "locationGUID": "cf7fb2e6-a9e9-43c8-a0c7-38f1beb20411",
+            "maxPowerKw": 11,
+            "name": "Landhotel Restaurant Krone",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

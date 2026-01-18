@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "제주도",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "695",
+                "postalExt": "914",
+                "state": "제주특별자치도",
+                "street": "애월읍 어음리",
+                "streetNumber": "산 131-3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.3907356,
+                "longitude": 126.3658468
+            },
+            "commonSiteName": "모노리스제주파크",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.3907356,
+                "longitude": 126.3658468
+            },
+            "locationGUID": "c03daf61-2424-4b68-9d88-665900d74933",
+            "maxPowerKw": 6,
+            "name": "Monolith Jeju Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 7,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

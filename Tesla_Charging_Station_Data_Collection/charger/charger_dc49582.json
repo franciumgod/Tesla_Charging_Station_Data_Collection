@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montceau-les-Mines",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "71300",
+                "postalExt": null,
+                "state": null,
+                "street": "Quai Jules Chagot",
+                "streetNumber": "70"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.672872,
+                "longitude": 4.358766
+            },
+            "commonSiteName": "Hotel Restaurant Nota Bene",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.672872,
+                "longitude": 4.358766
+            },
+            "locationGUID": "1da0bd41-f56e-44f5-91d8-05cf48b77edd",
+            "maxPowerKw": 11,
+            "name": "Hotel Restaurant Nota Bene",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Sebastian",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2017",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Centro Comercial Garbera",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.309108,
+                "longitude": -1.943774
+            },
+            "commonSiteName": "Centro Comercial Garbera",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.309108,
+                "longitude": -1.943774
+            },
+            "locationGUID": "c6e87176-3c48-492a-9816-5b5e076ca49e",
+            "maxPowerKw": 22,
+            "name": "Centro Comercial Garbera",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

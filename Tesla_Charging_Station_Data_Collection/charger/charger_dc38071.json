@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salou",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "43840",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Calle Birmingham",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.0782036,
+                "longitude": 1.1431304
+            },
+            "commonSiteName": "Hotel H10 Vintage Salou",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.0782036,
+                "longitude": 1.1431304
+            },
+            "locationGUID": "9433a6ef-1948-40fb-8e76-a26636c5ca32",
+            "maxPowerKw": 22,
+            "name": "Hotel H10 Vintage Salou",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

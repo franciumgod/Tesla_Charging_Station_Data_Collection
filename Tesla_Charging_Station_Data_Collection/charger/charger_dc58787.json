@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hinterriss",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6215",
+                "postalExt": null,
+                "state": null,
+                "street": "Hinterriss",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.472983,
+                "longitude": 11.467108
+            },
+            "commonSiteName": "Gasthof zur Post",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.472983,
+                "longitude": 11.467108
+            },
+            "locationGUID": "315dd49a-cf1b-441b-ad0d-d13a9441ae10",
+            "maxPowerKw": 22,
+            "name": "Gasthof zur Post",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

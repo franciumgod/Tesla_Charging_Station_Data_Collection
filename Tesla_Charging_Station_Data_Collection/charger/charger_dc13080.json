@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roanoke",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "26447",
+                "postalExt": null,
+                "state": "WV",
+                "street": "Resort Dr",
+                "streetNumber": "940"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.949503,
+                "longitude": -80.493567
+            },
+            "commonSiteName": "Stonewall Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.949503,
+                "longitude": -80.493567
+            },
+            "locationGUID": "3c702112-4b6c-4946-86a9-b6839a4a7b77",
+            "maxPowerKw": 16,
+            "name": "Stonewall Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

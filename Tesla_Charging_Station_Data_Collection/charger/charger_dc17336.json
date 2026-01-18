@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vitznau",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6354",
+                "postalExt": null,
+                "state": null,
+                "street": "Seestrasse",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.014967,
+                "longitude": 8.478416
+            },
+            "commonSiteName": "Park Hotel Vitznau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.014967,
+                "longitude": 8.478416
+            },
+            "locationGUID": "3ddb1972-beb3-4733-a7fe-04e3790d20b0",
+            "maxPowerKw": 0,
+            "name": "Park Hotel Vitznau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": null,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

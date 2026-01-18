@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Victoria",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V8V 1Z8",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Montreal St",
+                "streetNumber": "680"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.4233571,
+                "longitude": -123.3766224
+            },
+            "commonSiteName": "Inn at Laurel Point",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.4233571,
+                "longitude": -123.3766224
+            },
+            "locationGUID": "5bd9399f-671a-4dcb-babc-7d0e0ad47465",
+            "maxPowerKw": 8,
+            "name": "Inn at Laurel Point",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

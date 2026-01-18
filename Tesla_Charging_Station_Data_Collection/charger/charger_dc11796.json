@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Båstad",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26991",
+                "postalExt": null,
+                "state": "Båstad",
+                "street": "Hovshallavägen",
+                "streetNumber": "160"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.46789,
+                "longitude": 12.70814
+            },
+            "commonSiteName": "Hovs Hallar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.46789,
+                "longitude": 12.70814
+            },
+            "locationGUID": "11a5ef94-906c-4982-8db4-7dbba351e460",
+            "maxPowerKw": 11,
+            "name": "Hovs Hallar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

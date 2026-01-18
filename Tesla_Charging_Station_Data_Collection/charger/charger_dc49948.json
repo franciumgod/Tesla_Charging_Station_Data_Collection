@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leioa",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48940",
+                "postalExt": null,
+                "state": "Basque Country",
+                "street": "Barrio Peruri",
+                "streetNumber": "33"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.342139,
+                "longitude": -2.990694
+            },
+            "commonSiteName": "Centro Comercial Artea",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.342139,
+                "longitude": -2.990694
+            },
+            "locationGUID": "07b0c7e8-140a-474d-b5f3-9682f7b68777",
+            "maxPowerKw": 22,
+            "name": "Centro Comercial Artea",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miami Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33141",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Collins Ave",
+                "streetNumber": "6801"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.852753,
+                "longitude": -80.119937
+            },
+            "commonSiteName": "Carillon Miami Wellness Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.852753,
+                "longitude": -80.119937
+            },
+            "locationGUID": "c0d862b4-2c25-4975-9dbf-54ad6ad6ce58",
+            "maxPowerKw": 8,
+            "name": "Carillon Miami Wellness Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

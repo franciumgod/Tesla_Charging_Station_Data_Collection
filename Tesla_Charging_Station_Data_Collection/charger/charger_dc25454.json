@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stockholm",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11521",
+                "postalExt": null,
+                "state": null,
+                "street": "Lilla Allmänna Grånd",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.323289,
+                "longitude": 18.096974
+            },
+            "commonSiteName": "Gröna Lunds Tivoli",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.323289,
+                "longitude": 18.096974
+            },
+            "locationGUID": "25eccd17-2f03-4819-81cb-e0e2e1a72c03",
+            "maxPowerKw": 11,
+            "name": "Gröna Lunds Tivoli",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

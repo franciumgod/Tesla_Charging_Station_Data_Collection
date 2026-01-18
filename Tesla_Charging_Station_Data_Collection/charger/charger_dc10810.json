@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lyon",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69005",
+                "postalExt": null,
+                "state": null,
+                "street": "Montée Saint-Barthélémy",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.763168,
+                "longitude": 4.825844
+            },
+            "commonSiteName": "Villa Florentine - Restaurant Les Terrasses de Lyon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.763168,
+                "longitude": 4.825844
+            },
+            "locationGUID": "bfa02c5c-d72e-40b8-9f3a-3d1152c6c26b",
+            "maxPowerKw": 14,
+            "name": "Villa Florentine - Restaurant Les Terrasses de Lyon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

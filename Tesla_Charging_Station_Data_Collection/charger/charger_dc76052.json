@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brakel-Gehrden",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33034",
+                "postalExt": null,
+                "state": null,
+                "street": "Schlossstrasse",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.653418,
+                "longitude": 9.118536
+            },
+            "commonSiteName": "Hotel Schloss Gehrden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.653418,
+                "longitude": 9.118536
+            },
+            "locationGUID": "8fce61bf-bab2-4d81-aca5-6110058d185a",
+            "maxPowerKw": 22,
+            "name": "Hotel Schloss Gehrden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

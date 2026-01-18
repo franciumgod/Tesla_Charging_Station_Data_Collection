@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10128",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 94th St",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.78567,
+                "longitude": -73.954593
+            },
+            "commonSiteName": "GGMC Parking Carnegie Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.78567,
+                "longitude": -73.954593
+            },
+            "locationGUID": "1682a837-7442-4830-aef4-ae9585348dd2",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking Carnegie Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

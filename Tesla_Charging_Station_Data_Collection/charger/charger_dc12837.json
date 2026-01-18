@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Narrogin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6312",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Williams Road",
+                "streetNumber": "56"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.936085,
+                "longitude": 117.167248
+            },
+            "commonSiteName": "Narrogin Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.936085,
+                "longitude": 117.167248
+            },
+            "locationGUID": "703c08a9-e9af-4ee4-9255-a604cc3b0638",
+            "maxPowerKw": 7,
+            "name": "Narrogin Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

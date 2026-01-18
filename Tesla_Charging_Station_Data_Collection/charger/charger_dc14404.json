@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chicago",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60602",
+                "postalExt": null,
+                "state": "IL",
+                "street": "N Michigan Ave",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.882267,
+                "longitude": -87.624325
+            },
+            "commonSiteName": "Grant Park North",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.882267,
+                "longitude": -87.624325
+            },
+            "locationGUID": "3c16ff24-a9ff-43c7-abe9-84fb557698bf",
+            "maxPowerKw": 6,
+            "name": "Grant Park North",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

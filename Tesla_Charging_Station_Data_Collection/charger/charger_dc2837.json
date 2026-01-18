@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Avenue of the Americas",
+                "streetNumber": "1335"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.762234,
+                "longitude": -73.979036
+            },
+            "commonSiteName": "New York Hilton Midtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.762234,
+                "longitude": -73.979036
+            },
+            "locationGUID": "f097a51b-89e1-46c5-bb1e-94346d418618",
+            "maxPowerKw": 16,
+            "name": "New York Hilton Midtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

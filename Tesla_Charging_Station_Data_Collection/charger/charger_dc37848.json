@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Henley on Thames",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "RG9 4NR",
+                "postalExt": null,
+                "state": "Oxfordshire",
+                "street": "Badgemore Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.54215613,
+                "longitude": -0.923094
+            },
+            "commonSiteName": "Badgemore Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.54215613,
+                "longitude": -0.923094
+            },
+            "locationGUID": "0a6fd49f-039c-47ed-86b0-6f29dd11551e",
+            "maxPowerKw": 11,
+            "name": "Badgemore Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

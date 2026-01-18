@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Adelaide",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5000",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Frome Street",
+                "streetNumber": "55"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.923082,
+                "longitude": 138.607774
+            },
+            "commonSiteName": "Majestic Roof Garden Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.923082,
+                "longitude": 138.607774
+            },
+            "locationGUID": "cdfd1e1f-d64e-4035-a212-28d8151f76c1",
+            "maxPowerKw": 22,
+            "name": "Majestic Roof Garden Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

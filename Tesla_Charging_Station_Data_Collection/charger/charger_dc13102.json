@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Boucherville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J4B 5H1",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Nobel",
+                "streetNumber": "1228"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.568869,
+                "longitude": -73.442253
+            },
+            "commonSiteName": "Hotel Mortagne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.568869,
+                "longitude": -73.442253
+            },
+            "locationGUID": "2d0911f2-9a96-4061-9c98-9cd069b0c3c5",
+            "maxPowerKw": 16,
+            "name": "Hotel Mortagne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

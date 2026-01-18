@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "01507",
+                "postalExt": null,
+                "state": "MA",
+                "street": "Sturbridge Rd",
+                "streetNumber": "129"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.136299,
+                "longitude": -72.012656
+            },
+            "commonSiteName": "Tree House Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.136299,
+                "longitude": -72.012656
+            },
+            "locationGUID": "8cba9a48-ad9f-4fdd-ad8d-3a128a57908a",
+            "maxPowerKw": 8,
+            "name": "Tree House Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

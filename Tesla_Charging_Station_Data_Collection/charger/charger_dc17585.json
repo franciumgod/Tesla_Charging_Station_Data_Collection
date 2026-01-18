@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Zadar",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "23000",
+                "postalExt": null,
+                "state": null,
+                "street": "Ulica Bedemi zadarskih pobuna",
+                "streetNumber": "13A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.118009,
+                "longitude": 15.223634
+            },
+            "commonSiteName": "Hotel Bastion",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.118009,
+                "longitude": 15.223634
+            },
+            "locationGUID": "44c6aa80-1c1d-4036-a61d-4b9ea56320b3",
+            "maxPowerKw": 22,
+            "name": "Hotel Bastion",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

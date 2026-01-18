@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brugge",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8000",
+                "postalExt": null,
+                "state": "Vlaanderen",
+                "street": "Molenmeers",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.21034,
+                "longitude": 3.23185
+            },
+            "commonSiteName": "Hotel van Cleef",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.21034,
+                "longitude": 3.23185
+            },
+            "locationGUID": "811d5c6f-1c93-4c14-b328-5e0f324235a4",
+            "maxPowerKw": 22,
+            "name": "Hotel van Cleef",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "New Lambton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2304",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Rugby Rd",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.9207508,
+                "longitude": 151.7155217
+            },
+            "commonSiteName": "The Executive Inn Newcastle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.9207508,
+                "longitude": 151.7155217
+            },
+            "locationGUID": "9e9f83b0-c68a-44e5-af9e-b6a2d946e8f8",
+            "maxPowerKw": 22,
+            "name": "The Executive Inn Newcastle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

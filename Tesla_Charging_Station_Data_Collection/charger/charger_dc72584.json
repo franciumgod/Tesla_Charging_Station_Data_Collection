@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cupertino",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95014",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Perimeter Rd",
+                "streetNumber": "10380"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.32915514,
+                "longitude": -122.01316337
+            },
+            "commonSiteName": "Hyatt House San Jose/Cupertino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.32915514,
+                "longitude": -122.01316337
+            },
+            "locationGUID": "a15305f9-bcbc-4780-82a0-0ea42110bc87",
+            "maxPowerKw": 6,
+            "name": "Hyatt House San Jose/Cupertino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

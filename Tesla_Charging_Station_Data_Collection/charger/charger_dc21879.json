@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gulpen",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6271AA",
+                "postalExt": null,
+                "state": "Limburg",
+                "street": "Oude Rijksweg 20",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.815947,
+                "longitude": 5.902148
+            },
+            "commonSiteName": "Hotel Gulpenerland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.815947,
+                "longitude": 5.902148
+            },
+            "locationGUID": "74cd8543-4429-42bb-8eff-c5cd1fbd4a4e",
+            "maxPowerKw": 22,
+            "name": "Hotel Gulpenerland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

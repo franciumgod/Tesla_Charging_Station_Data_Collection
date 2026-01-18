@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garc├¡a",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66267",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Santa Engracia",
+                "streetNumber": "Av. Jose Vasconcelos 345"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.654045,
+                "longitude": -100.34878
+            },
+            "commonSiteName": "Plaza Tanarah",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.654045,
+                "longitude": -100.34878
+            },
+            "locationGUID": "d3042ba1-e612-4f1d-ae64-e5c064f0b229",
+            "maxPowerKw": 18,
+            "name": "Plaza Tanarah",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Luis Obispo",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94301",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Edna Rd",
+                "streetNumber": "4910"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.230915,
+                "longitude": -120.625431
+            },
+            "commonSiteName": "Tolosa Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.230915,
+                "longitude": -120.625431
+            },
+            "locationGUID": "056c49d8-f82a-4f1d-836a-c5ed53796187",
+            "maxPowerKw": 16,
+            "name": "Tolosa Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8028",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avda. Diagonal",
+                "streetNumber": "661-671"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.38147,
+                "longitude": 2.109038
+            },
+            "commonSiteName": "Fairmont Rey Juan Carlos I",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.38147,
+                "longitude": 2.109038
+            },
+            "locationGUID": "9065aad0-93e8-4b1d-a1e9-5bb6ffd36aeb",
+            "maxPowerKw": 11,
+            "name": "Fairmont Rey Juan Carlos I",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

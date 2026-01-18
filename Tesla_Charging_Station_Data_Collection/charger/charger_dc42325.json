@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30341",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Airport Rd",
+                "streetNumber": "2040"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.876036,
+                "longitude": -84.304316
+            },
+            "commonSiteName": "Atlantic Aviation PDK",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.876036,
+                "longitude": -84.304316
+            },
+            "locationGUID": "9986b13b-707a-4fe8-b201-501f907fd158",
+            "maxPowerKw": 16,
+            "name": "Atlantic Aviation PDK",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

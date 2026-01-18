@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phillip Island",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3925",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Potters Hill Rd",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.522528,
+                "longitude": 145.392082
+            },
+            "commonSiteName": "Silverwater Resort - Phillip Island",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.522528,
+                "longitude": 145.392082
+            },
+            "locationGUID": "3a452640-dda7-4f91-8acd-c6b63f7c3243",
+            "maxPowerKw": 22,
+            "name": "Silverwater Resort - Phillip Island",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

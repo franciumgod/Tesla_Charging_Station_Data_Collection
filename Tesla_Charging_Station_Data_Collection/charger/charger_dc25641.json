@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tampa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33607",
+                "postalExt": null,
+                "state": "FL",
+                "street": "W Courtney Campbell Cswy",
+                "streetNumber": "7627"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.968257,
+                "longitude": -82.565628
+            },
+            "commonSiteName": "The Westin Tampa Bay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.968257,
+                "longitude": -82.565628
+            },
+            "locationGUID": "8bc2f388-510f-4e41-9ba2-589ae1ad2933",
+            "maxPowerKw": 8,
+            "name": "The Westin Tampa Bay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

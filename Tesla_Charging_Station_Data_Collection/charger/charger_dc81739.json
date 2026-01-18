@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Georgetown",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21930",
+                "postalExt": null,
+                "state": "MD",
+                "street": "Augustine Herman Hwy",
+                "streetNumber": "14028"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.36095,
+                "longitude": -75.880319
+            },
+            "commonSiteName": "Kitty Knight",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.36095,
+                "longitude": -75.880319
+            },
+            "locationGUID": "28a83dad-f6c2-4150-8172-1ac7ff2cde18",
+            "maxPowerKw": 16,
+            "name": "Kitty Knight",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

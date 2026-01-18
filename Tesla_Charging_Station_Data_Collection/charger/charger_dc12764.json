@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rosières-prés-Troyes",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10430",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Pierre Curie",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.253507,
+                "longitude": 4.056419
+            },
+            "commonSiteName": "Resort Résidence Pierre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.253507,
+                "longitude": 4.056419
+            },
+            "locationGUID": "0bc696c3-788a-4179-86bf-a61580a9f72e",
+            "maxPowerKw": 22,
+            "name": "Resort Résidence Pierre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

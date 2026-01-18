@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Malaga",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29016",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Paseo Reding",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.71961662,
+                "longitude": -4.40744173
+            },
+            "commonSiteName": "Gran Hotel Miramar Malaga",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.71961662,
+                "longitude": -4.40744173
+            },
+            "locationGUID": "a8505b20-bd4f-4567-a8a6-f518f63c297d",
+            "maxPowerKw": 22,
+            "name": "Gran Hotel Miramar Malaga",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

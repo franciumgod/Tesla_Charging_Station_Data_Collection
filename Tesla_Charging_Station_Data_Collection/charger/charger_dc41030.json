@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8008",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carrer de Balmes",
+                "streetNumber": "142-146"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.393861,
+                "longitude": 2.156727
+            },
+            "commonSiteName": "Hotel Catalonia Diagonal Centro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.393861,
+                "longitude": 2.156727
+            },
+            "locationGUID": "ec7164d0-5c63-46e2-ae45-d36f7dc75c2c",
+            "maxPowerKw": 11,
+            "name": "Hotel Catalonia Diagonal Centro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

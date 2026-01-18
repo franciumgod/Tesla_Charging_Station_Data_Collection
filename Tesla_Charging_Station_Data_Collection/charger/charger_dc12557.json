@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Barnard",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05031",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Royalton Turnpike",
+                "streetNumber": "452"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.724818,
+                "longitude": -72.589373
+            },
+            "commonSiteName": "Twin Farms",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.724818,
+                "longitude": -72.589373
+            },
+            "locationGUID": "c91edde3-d7de-498d-9ff1-c95052268287",
+            "maxPowerKw": 8,
+            "name": "Twin Farms",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 14,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

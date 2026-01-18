@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Virginia Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23464",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Indian River Rd",
+                "streetNumber": "5641"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.802211,
+                "longitude": -76.190142
+            },
+            "commonSiteName": "Founders Inn and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.802211,
+                "longitude": -76.190142
+            },
+            "locationGUID": "e93ab57d-463f-4b65-946d-42c25da80cfb",
+            "maxPowerKw": 13,
+            "name": "Founders Inn and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

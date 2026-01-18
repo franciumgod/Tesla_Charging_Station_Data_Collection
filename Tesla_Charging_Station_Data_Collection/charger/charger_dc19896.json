@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92106",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Shelter Island Dr",
+                "streetNumber": "1551"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.70937,
+                "longitude": -117.232073
+            },
+            "commonSiteName": "Kona Kai Resort and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.70937,
+                "longitude": -117.232073
+            },
+            "locationGUID": "fee4ec14-3918-4f08-be2e-c16719750607",
+            "maxPowerKw": 16,
+            "name": "Kona Kai Resort and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

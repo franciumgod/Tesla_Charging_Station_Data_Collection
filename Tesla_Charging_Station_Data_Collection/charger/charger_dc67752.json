@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nola",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "80035",
+                "postalExt": null,
+                "state": null,
+                "street": "via Interporto Campano Lotto C",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.963881,
+                "longitude": 14.480053
+            },
+            "commonSiteName": "Pasta Bar Leonessa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.963881,
+                "longitude": 14.480053
+            },
+            "locationGUID": "d27bcd80-85f2-4981-b40a-73bc3b7353a4",
+            "maxPowerKw": 22,
+            "name": "Pasta Bar Leonessa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

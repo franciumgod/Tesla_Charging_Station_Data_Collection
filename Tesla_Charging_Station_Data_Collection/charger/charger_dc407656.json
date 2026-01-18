@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Philadelphia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Philadelphia County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19103",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Chestnut St",
+                "streetNumber": "2400"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.95271373,
+                "longitude": -75.17989722
+            },
+            "commonSiteName": "2400 Chestnut",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.95271373,
+                "longitude": -75.17989722
+            },
+            "locationGUID": "e3ef5ce8-9200-45fb-939e-577375113882",
+            "maxPowerKw": 6,
+            "name": "2400 Chestnut",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

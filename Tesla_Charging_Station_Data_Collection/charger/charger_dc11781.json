@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bellingham",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98226",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Meridian St",
+                "streetNumber": "4051"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.788325,
+                "longitude": -122.48746
+            },
+            "commonSiteName": "Oxford Suites Bellingham",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.788325,
+                "longitude": -122.48746
+            },
+            "locationGUID": "5ae36e8d-787d-43c5-9c37-b4a6a6efab61",
+            "maxPowerKw": 16,
+            "name": "Oxford Suites Bellingham",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Downtown Dubai",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.200945,
+                "longitude": 55.272379
+            },
+            "commonSiteName": "Emaar Square",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.200945,
+                "longitude": 55.272379
+            },
+            "locationGUID": "c686d5b8-5f44-4be6-8760-9749c31b2f4a",
+            "maxPowerKw": 11,
+            "name": "Emaar Square",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tanumshede",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "457 32",
+                "postalExt": null,
+                "state": "Västra Götalands län",
+                "street": "Brehogsvägen 6",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.721432,
+                "longitude": 11.345314
+            },
+            "commonSiteName": "Tanum Shoppingcenter",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.721432,
+                "longitude": 11.345314
+            },
+            "locationGUID": "d944c686-7f08-4296-a705-09690eaa6e90",
+            "maxPowerKw": 11,
+            "name": "Tanum Shoppingcenter",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

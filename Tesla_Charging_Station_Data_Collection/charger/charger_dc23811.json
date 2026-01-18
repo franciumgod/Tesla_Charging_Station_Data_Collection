@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N5V 1R5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Dundas St",
+                "streetNumber": "2230"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.010572,
+                "longitude": -81.156921
+            },
+            "commonSiteName": "Best Western London Airport Inn & Suites",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.010572,
+                "longitude": -81.156921
+            },
+            "locationGUID": "362fc7ca-115c-4c57-ae25-476cf505b79d",
+            "maxPowerKw": 8,
+            "name": "Best Western London Airport Inn & Suites",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

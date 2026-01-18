@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bétheny",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "51450",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de la Ferme Pierquin",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.285889,
+                "longitude": 4.03038
+            },
+            "commonSiteName": "Ristorante Del Arte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.285889,
+                "longitude": 4.03038
+            },
+            "locationGUID": "cfcd8f9a-c41d-4f57-ab2c-d903c456045e",
+            "maxPowerKw": 6,
+            "name": "Ristorante Del Arte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

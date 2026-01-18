@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Tropez",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83990",
+                "postalExt": null,
+                "state": null,
+                "street": "route du Pinet",
+                "streetNumber": "70"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.26164146,
+                "longitude": 6.65713936
+            },
+            "commonSiteName": "Hotel Lou Pinet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.26164146,
+                "longitude": 6.65713936
+            },
+            "locationGUID": "645fd1e9-2372-4a99-8db1-56a85850ce34",
+            "maxPowerKw": 11,
+            "name": "Hotel Lou Pinet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

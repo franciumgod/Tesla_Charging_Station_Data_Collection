@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 53rd St",
+                "streetNumber": "159"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.763279,
+                "longitude": -73.98086
+            },
+            "commonSiteName": "Champion Parking W 53rd Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.763279,
+                "longitude": -73.98086
+            },
+            "locationGUID": "9e1dadc3-f514-4e3e-9120-3350276304eb",
+            "maxPowerKw": 8,
+            "name": "Champion Parking W 53rd Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kinvara",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "H91 HD2P",
+                "postalExt": null,
+                "state": null,
+                "street": "Main Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.139283,
+                "longitude": -8.939299
+            },
+            "commonSiteName": "The Merriman Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.139283,
+                "longitude": -8.939299
+            },
+            "locationGUID": "ed7f07e5-a177-470c-932c-7681702fc830",
+            "maxPowerKw": 6,
+            "name": "The Merriman Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

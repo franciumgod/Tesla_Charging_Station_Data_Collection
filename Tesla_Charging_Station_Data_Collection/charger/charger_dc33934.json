@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Moon Township",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "15108",
+                "postalExt": null,
+                "state": "PA",
+                "street": "University Blvd",
+                "streetNumber": "8507"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.5079155,
+                "longitude": -80.22268
+            },
+            "commonSiteName": "La Quinta Inn Pittsburgh Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.5079155,
+                "longitude": -80.22268
+            },
+            "locationGUID": "de04781a-df0f-44b0-b1e9-c63b32b01ad3",
+            "maxPowerKw": 16,
+            "name": "La Quinta Inn Pittsburgh Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

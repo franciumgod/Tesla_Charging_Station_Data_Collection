@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oceanside",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "San Diego County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92054",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Mission Ave",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.193647,
+                "longitude": -117.382281
+            },
+            "commonSiteName": "The Seabird",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.193647,
+                "longitude": -117.382281
+            },
+            "locationGUID": "76e35418-cb47-4f66-8d29-73530bef365f",
+            "maxPowerKw": 6,
+            "name": "The Seabird",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

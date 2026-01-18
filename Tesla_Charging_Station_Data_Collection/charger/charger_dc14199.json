@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "East Windsor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08520",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "US Highway 130",
+                "streetNumber": "359"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.275682,
+                "longitude": -74.53493
+            },
+            "commonSiteName": "Americana Kitchen and Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.275682,
+                "longitude": -74.53493
+            },
+            "locationGUID": "7d40573a-5853-4e6e-b133-3a8d0a417dd8",
+            "maxPowerKw": 13,
+            "name": "Americana Kitchen and Bar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

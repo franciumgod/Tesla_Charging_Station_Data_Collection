@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Courchevel",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73120",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Emile Allais",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.411759,
+                "longitude": 6.632525
+            },
+            "commonSiteName": "L'Apogée Courchevel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.411759,
+                "longitude": 6.632525
+            },
+            "locationGUID": "29f0040e-e3dd-4126-a25f-a62a473364d8",
+            "maxPowerKw": 22,
+            "name": "L'Apogée Courchevel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

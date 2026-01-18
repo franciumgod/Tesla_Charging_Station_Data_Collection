@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Echuca",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3564",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "High St",
+                "streetNumber": "365"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.133209,
+                "longitude": 144.749089
+            },
+            "commonSiteName": "Pevensey Motor Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.133209,
+                "longitude": 144.749089
+            },
+            "locationGUID": "7d8d8d1a-9555-4d96-9552-49163d2ef714",
+            "maxPowerKw": 22,
+            "name": "Pevensey Motor Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

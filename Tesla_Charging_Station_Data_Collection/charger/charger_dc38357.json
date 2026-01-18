@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "인천시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "21058",
+                "postalExt": null,
+                "state": "인천광역시",
+                "street": "계양구 장제로",
+                "streetNumber": "807"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.5399762,
+                "longitude": 126.7343203
+            },
+            "commonSiteName": "빕스 계산점",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.5399762,
+                "longitude": 126.7343203
+            },
+            "locationGUID": "d35ce713-137d-4ac5-8bd9-ca8fccdd25bf",
+            "maxPowerKw": 7,
+            "name": "VIPS Gaesanjeom",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Durnstein",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3601",
+                "postalExt": null,
+                "state": null,
+                "street": "Durnstein",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.396349,
+                "longitude": 15.519063
+            },
+            "commonSiteName": "Hotel Schloss Durnstein",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.396349,
+                "longitude": 15.519063
+            },
+            "locationGUID": "b89af31d-ab15-4ba1-b7ba-4e0723e2dec6",
+            "maxPowerKw": 22,
+            "name": "Hotel Schloss Durnstein",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

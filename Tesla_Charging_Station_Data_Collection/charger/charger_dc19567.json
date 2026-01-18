@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madonna di Campiglio",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38086",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Monte Spinale",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.228263,
+                "longitude": 10.828825
+            },
+            "commonSiteName": "Spinale Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.228263,
+                "longitude": 10.828825
+            },
+            "locationGUID": "598b261d-9892-40cf-b6d5-e45d1d417370",
+            "maxPowerKw": 22,
+            "name": "Spinale Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

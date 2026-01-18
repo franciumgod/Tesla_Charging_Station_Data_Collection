@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Le Mesnil Amelot",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "77990",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de la Chapelle",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.02226,
+                "longitude": 2.599887
+            },
+            "commonSiteName": "Courtyard Paris Roissy CDG",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.02226,
+                "longitude": 2.599887
+            },
+            "locationGUID": "7f375cbf-8fb0-42d0-9fff-b0c7475c6d70",
+            "maxPowerKw": 17,
+            "name": "Courtyard Paris Roissy CDG",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

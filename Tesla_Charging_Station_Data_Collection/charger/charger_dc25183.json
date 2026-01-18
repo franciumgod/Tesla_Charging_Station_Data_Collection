@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Santiago de Queretaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76030",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Casa Blanca",
+                "streetNumber": "Av. Constituyentes 101 Pte"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.588506,
+                "longitude": -100.367737
+            },
+            "commonSiteName": "El Caserio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.588506,
+                "longitude": -100.367737
+            },
+            "locationGUID": "9319de0f-9975-42ff-ac59-0b5cd073fdfc",
+            "maxPowerKw": 18,
+            "name": "El Caserio",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

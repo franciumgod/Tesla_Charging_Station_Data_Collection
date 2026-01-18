@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taupo",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3333",
+                "postalExt": null,
+                "state": "Bay of Plenty",
+                "street": "Roberts Street",
+                "streetNumber": "120"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.6912,
+                "longitude": 176.077
+            },
+            "commonSiteName": "eMotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.6912,
+                "longitude": 176.077
+            },
+            "locationGUID": "6e6e51ea-119b-4a69-a295-1d7c9114f2b6",
+            "maxPowerKw": 22,
+            "name": "eMotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

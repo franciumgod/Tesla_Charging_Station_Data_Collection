@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Perpignan",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "66000",
+                "postalExt": null,
+                "state": null,
+                "street": "Rond Point Albert Donnezan",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.674058,
+                "longitude": 2.884676
+            },
+            "commonSiteName": "Villa Duflot",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.674058,
+                "longitude": 2.884676
+            },
+            "locationGUID": "ae08b1c2-10ea-44f1-bbc9-59ee0bdd6c60",
+            "maxPowerKw": 11,
+            "name": "Villa Duflot",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

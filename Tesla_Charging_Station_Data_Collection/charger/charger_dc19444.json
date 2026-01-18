@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mieders",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6142",
+                "postalExt": null,
+                "state": null,
+                "street": "Schmelzgasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.169474,
+                "longitude": 11.38203
+            },
+            "commonSiteName": "Hotel Alpenstolz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.169474,
+                "longitude": 11.38203
+            },
+            "locationGUID": "9b468804-c481-419e-b2e6-ab177694ca6f",
+            "maxPowerKw": 22,
+            "name": "Hotel Alpenstolz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

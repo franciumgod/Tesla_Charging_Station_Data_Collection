@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Durango",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34080",
+                "postalExt": null,
+                "state": "DUR",
+                "street": "Nueva Vizcaya",
+                "streetNumber": "Av. Heroico Colegio Militar 101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.0317,
+                "longitude": -104.641279
+            },
+            "commonSiteName": "Hampton Inn Durango",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.0317,
+                "longitude": -104.641279
+            },
+            "locationGUID": "64c9c62c-66e2-4b93-adcc-1f5af5c8e48e",
+            "maxPowerKw": 9,
+            "name": "Hampton Inn Durango",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

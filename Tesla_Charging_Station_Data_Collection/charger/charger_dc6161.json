@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Key West",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33040",
+                "postalExt": null,
+                "state": "FL",
+                "street": "North Roosevelt Blvd",
+                "streetNumber": "3841"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.57089,
+                "longitude": -81.751665
+            },
+            "commonSiteName": "Key West Marriott Beachside Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.57089,
+                "longitude": -81.751665
+            },
+            "locationGUID": "8fb5279b-f107-4a25-9f96-fac7baec7932",
+            "maxPowerKw": 16,
+            "name": "Key West Marriott Beachside Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

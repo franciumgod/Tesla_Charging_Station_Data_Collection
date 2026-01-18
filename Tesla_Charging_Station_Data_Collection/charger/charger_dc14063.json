@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Southampton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SO31 4NB",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "Hamble Point Marina",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.855836,
+                "longitude": -1.316898
+            },
+            "commonSiteName": "Hamble Point Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.855836,
+                "longitude": -1.316898
+            },
+            "locationGUID": "731e745b-da9f-44bb-a91f-b64806b930bb",
+            "maxPowerKw": 11,
+            "name": "Hamble Point Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

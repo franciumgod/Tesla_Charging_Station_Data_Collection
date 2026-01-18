@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10128",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 94th St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.783536,
+                "longitude": -73.949507
+            },
+            "commonSiteName": "iPark NYC The Carnegie Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.783536,
+                "longitude": -73.949507
+            },
+            "locationGUID": "496d3ddc-dbf6-4ab6-8e9f-b6fc0798e579",
+            "maxPowerKw": 8,
+            "name": "iPark NYC The Carnegie Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

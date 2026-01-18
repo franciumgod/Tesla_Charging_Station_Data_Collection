@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Norden",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26506",
+                "postalExt": null,
+                "state": null,
+                "street": "Neuer Weg",
+                "streetNumber": "53"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.59218,
+                "longitude": 7.212442
+            },
+            "commonSiteName": "Romantik Hotel Reichshof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.59218,
+                "longitude": 7.212442
+            },
+            "locationGUID": "28b61af2-d029-4dc6-9464-6c570205acd1",
+            "maxPowerKw": 22,
+            "name": "Romantik Hotel Reichshof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

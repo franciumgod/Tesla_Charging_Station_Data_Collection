@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vallsta",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82167",
+                "postalExt": null,
+                "state": null,
+                "street": "Gamla Orbadenvägen 86",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.540819,
+                "longitude": 16.368834
+            },
+            "commonSiteName": "Orbaden Spa & Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.540819,
+                "longitude": 16.368834
+            },
+            "locationGUID": "e8c9e7dc-734d-46e6-9381-983c283a9e2a",
+            "maxPowerKw": 22,
+            "name": "Orbaden Spa & Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

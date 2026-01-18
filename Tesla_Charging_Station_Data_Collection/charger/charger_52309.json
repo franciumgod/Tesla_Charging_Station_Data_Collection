@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77094",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Katy Fwy",
+                "streetNumber": "15111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.783684,
+                "longitude": -95.650532
+            },
+            "commonSiteName": "Fairfield Inn & Suites Houston Energy Corridor/Katy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.783684,
+                "longitude": -95.650532
+            },
+            "locationGUID": "7776ca39-6c69-4ae0-ae43-19e639d9dff1",
+            "maxPowerKw": 16,
+            "name": "Fairfield Inn & Suites Houston Energy Corridor/Katy",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tsim Sha Tsui",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Kowloon",
+                "street": "Austin Rd W",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.304888,
+                "longitude": 114.160424
+            },
+            "commonSiteName": "W Hong Kong",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.304888,
+                "longitude": 114.160424
+            },
+            "locationGUID": "a13c8bc8-dcb2-4b01-8d44-71759679bcf3",
+            "maxPowerKw": 21,
+            "name": "W Hong Kong",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

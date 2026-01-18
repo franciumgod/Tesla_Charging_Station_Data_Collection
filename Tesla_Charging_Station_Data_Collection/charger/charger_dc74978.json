@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Los Alamos",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93401",
+                "postalExt": null,
+                "state": "CA",
+                "street": "US Hwy 101",
+                "streetNumber": "9150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.744634,
+                "longitude": -120.271812
+            },
+            "commonSiteName": "Skyview Los Alamos Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.744634,
+                "longitude": -120.271812
+            },
+            "locationGUID": "4d8460a3-0deb-41d4-bc50-529e25864b4f",
+            "maxPowerKw": 10,
+            "name": "Skyview Los Alamos Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

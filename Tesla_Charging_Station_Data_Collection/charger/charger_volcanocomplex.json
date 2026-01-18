@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Praha 5",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "155 00",
+                "postalExt": null,
+                "state": "NA",
+                "street": "K Sopce",
+                "streetNumber": "839/3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.0453199,
+                "longitude": 14.344045
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.0453199,
+                "longitude": 14.344045
+            },
+            "locationGUID": "e1df42ff-a3bb-4aae-89bc-25e1a7293a85",
+            "maxPowerKw": 19,
+            "name": "Volcano Complex",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

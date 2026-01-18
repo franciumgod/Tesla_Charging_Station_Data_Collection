@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89109",
+                "postalExt": null,
+                "state": "NV",
+                "street": "Karen Ave",
+                "streetNumber": "455"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.139946,
+                "longitude": -115.15228
+            },
+            "commonSiteName": "Hilton Grand Vacations on Paradise",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.139946,
+                "longitude": -115.15228
+            },
+            "locationGUID": "2ad1305a-bdb5-4063-9bb2-a9dd471b1e39",
+            "maxPowerKw": 8,
+            "name": "Hilton Grand Vacations on Paradise",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

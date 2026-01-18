@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Neu-Ulm",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "89233",
+                "postalExt": null,
+                "state": null,
+                "street": "Marbacher Strasse",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.363826,
+                "longitude": 10.068962
+            },
+            "commonSiteName": "Meinl Hotel & Restaurant Peunt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.363826,
+                "longitude": 10.068962
+            },
+            "locationGUID": "dfa3aef4-fc6f-4c13-b7b8-491da57eb469",
+            "maxPowerKw": 22,
+            "name": "Meinl Hotel & Restaurant Peunt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

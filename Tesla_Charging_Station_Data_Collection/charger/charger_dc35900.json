@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nazareth",
+                "country": "Israel",
+                "countryCode": "IL",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "1710601",
+                "postalExt": null,
+                "state": null,
+                "street": "Derekh ha-Tsiyonut",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.70319,
+                "longitude": 35.31174
+            },
+            "commonSiteName": "Ramada Olivie Nazareth Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.70319,
+                "longitude": 35.31174
+            },
+            "locationGUID": "ba8217ba-17dd-4fa9-8d7c-ce827764c70e",
+            "maxPowerKw": 11,
+            "name": "Ramada Olivie Nazareth Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Jerusalem"
+        },
+        "success": true
+    }
+}

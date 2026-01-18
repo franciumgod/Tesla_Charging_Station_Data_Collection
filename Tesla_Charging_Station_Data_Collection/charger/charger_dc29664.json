@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Park City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84060",
+                "postalExt": null,
+                "state": "UT",
+                "street": "Deer Valley Dr E",
+                "streetNumber": "2300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.638098,
+                "longitude": -111.47706
+            },
+            "commonSiteName": "The St. Regis Deer Valley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.638098,
+                "longitude": -111.47706
+            },
+            "locationGUID": "50460b58-6351-40bf-940f-267e4ff1d9d9",
+            "maxPowerKw": 16,
+            "name": "The St. Regis Deer Valley",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

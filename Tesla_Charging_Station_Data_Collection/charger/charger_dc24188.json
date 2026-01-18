@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queretaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76047",
+                "postalExt": null,
+                "state": "MEX",
+                "street": "Col. Quintas del Marques",
+                "streetNumber": "Carretera Federal 57 Mexico-Queretaro #1085"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.580798,
+                "longitude": -100.369114
+            },
+            "commonSiteName": "Domun Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.580798,
+                "longitude": -100.369114
+            },
+            "locationGUID": "13b26871-594a-46aa-99d4-aa2f1cbb8981",
+            "maxPowerKw": 18,
+            "name": "Domun Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

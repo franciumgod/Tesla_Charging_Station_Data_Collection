@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Miltown Malbay",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "V95 R883",
+                "postalExt": null,
+                "state": null,
+                "street": "Spanish Point",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.845188,
+                "longitude": -9.436553
+            },
+            "commonSiteName": "Armada Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.845188,
+                "longitude": -9.436553
+            },
+            "locationGUID": "52fea792-b6c1-4ba2-b25d-88e97f787905",
+            "maxPowerKw": 7,
+            "name": "Armada Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

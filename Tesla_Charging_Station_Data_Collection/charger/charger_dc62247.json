@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "sciacca",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "92019",
+                "postalExt": null,
+                "state": null,
+                "street": "fratelli lo Boj",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.506791,
+                "longitude": 13.119341
+            },
+            "commonSiteName": "il Marchese",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.506791,
+                "longitude": 13.119341
+            },
+            "locationGUID": "75597fdb-d1a9-43a9-8075-1e044431e4ff",
+            "maxPowerKw": 17,
+            "name": "il Marchese",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

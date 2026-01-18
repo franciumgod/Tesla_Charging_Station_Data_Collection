@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tseung Kwan O",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": "00000",
+                "postalExt": null,
+                "state": "Sai Kung District",
+                "street": "Tong Yin Street",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.303517,
+                "longitude": 114.258258
+            },
+            "commonSiteName": "Greenwich Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.303517,
+                "longitude": 114.258258
+            },
+            "locationGUID": "69147e32-b908-4eff-9a4d-8e923d43cf5d",
+            "maxPowerKw": 11,
+            "name": "Alto Residences",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

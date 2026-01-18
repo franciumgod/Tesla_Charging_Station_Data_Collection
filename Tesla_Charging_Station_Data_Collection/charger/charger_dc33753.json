@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Mawes",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR2 5AN",
+                "postalExt": null,
+                "state": null,
+                "street": "Harbourside",
+                "streetNumber": "The Idle Rocks Hotel"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.15914,
+                "longitude": -5.013321
+            },
+            "commonSiteName": "The Idle Rocks Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.15914,
+                "longitude": -5.013321
+            },
+            "locationGUID": "6f7bd9fd-735f-42a9-bf66-d9e8df1c6390",
+            "maxPowerKw": 13,
+            "name": "The Idle Rocks Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

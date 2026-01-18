@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gig Harbor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98335",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Point Fosdick Dr NW",
+                "streetNumber": "5268"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.305772,
+                "longitude": -122.579191
+            },
+            "commonSiteName": "Ocean5",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.305772,
+                "longitude": -122.579191
+            },
+            "locationGUID": "c3e0e5c6-9471-47cb-927d-8ad42a411ae6",
+            "maxPowerKw": 16,
+            "name": "Ocean5",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Jose",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95131",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Seaboard Ave",
+                "streetNumber": "2585"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.378373,
+                "longitude": -121.939254
+            },
+            "commonSiteName": "La Quinta Inn & Suites San Jose Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.378373,
+                "longitude": -121.939254
+            },
+            "locationGUID": "af1cf41e-e428-436a-aaa8-e5f8382a1d17",
+            "maxPowerKw": 13,
+            "name": "La Quinta Inn & Suites San Jose Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

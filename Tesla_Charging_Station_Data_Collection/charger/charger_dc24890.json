@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waterloo",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1410",
+                "postalExt": null,
+                "state": null,
+                "street": "Chaussee de Bruxelles 35",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.730045,
+                "longitude": 4.398712
+            },
+            "commonSiteName": "Brasserie RN",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.730045,
+                "longitude": 4.398712
+            },
+            "locationGUID": "7b3b5256-fab4-47de-8d01-5dfeba67830b",
+            "maxPowerKw": 22,
+            "name": "Brasserie RN",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

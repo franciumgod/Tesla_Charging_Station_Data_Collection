@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Badajoz",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "06006",
+                "postalExt": null,
+                "state": "Extremadura",
+                "street": "Avenida de Elvas",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.884321,
+                "longitude": -7.021973
+            },
+            "commonSiteName": "Centro Comercial El Faro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.884321,
+                "longitude": -7.021973
+            },
+            "locationGUID": "c651bce8-3427-40c0-ab12-286a4d6903de",
+            "maxPowerKw": 11,
+            "name": "Centro Comercial El Faro - Universal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

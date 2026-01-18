@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 76th St",
+                "streetNumber": "35"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.77438,
+                "longitude": -73.963157
+            },
+            "commonSiteName": "The Carlyle Hotel, A Rosewood Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.77438,
+                "longitude": -73.963157
+            },
+            "locationGUID": "d39e51c2-8836-418d-8308-cbca2ddbeb1a",
+            "maxPowerKw": 8,
+            "name": "The Carlyle Hotel, A Rosewood Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

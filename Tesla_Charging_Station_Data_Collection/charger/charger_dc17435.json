@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miami Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33140",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Collins Ave",
+                "streetNumber": "4835"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.824902,
+                "longitude": -80.121682
+            },
+            "commonSiteName": "Grand Beach Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.824902,
+                "longitude": -80.121682
+            },
+            "locationGUID": "313fdf17-a45a-481f-b756-c0a544f18a78",
+            "maxPowerKw": 16,
+            "name": "Grand Beach Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

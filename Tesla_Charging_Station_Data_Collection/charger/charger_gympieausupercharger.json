@@ -1,0 +1,376 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "18:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "21:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "21:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "21:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "21:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "21:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "18:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gympie",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4570",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Nash and Monkland Street",
+                "streetNumber": "Cnr"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.23124999999999998,
+                            0.3125,
+                            0.34375,
+                            0.3839285714285714,
+                            0.359375,
+                            0.3214285714285714,
+                            0.3072916666666667,
+                            0.21875,
+                            0.15,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.125,
+                            0.23125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.328125,
+                            0.29166666666666663,
+                            0.25,
+                            0.25,
+                            0.234375,
+                            0.20703125,
+                            0.20703125,
+                            0.1875,
+                            0.1171875,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.109375
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.3125,
+                            0.34375,
+                            0.37276785714285715,
+                            0.375,
+                            0.3125,
+                            0.253125,
+                            0.1875,
+                            0.14453125,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.3125,
+                            0.33072916666666663,
+                            0.3125,
+                            0.390625,
+                            0.375,
+                            0.376953125,
+                            0.25,
+                            0.146875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.09375,
+                            0.165625,
+                            0.2942708333333333
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.3625,
+                            0.39285714285714285,
+                            0.375,
+                            0.34375,
+                            0.3125,
+                            0.28125,
+                            0.26875,
+                            0.234375,
+                            0.1484375,
+                            0.09375,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.11458333333333334,
+                            0.15625
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.234375,
+                            0.30357142857142855,
+                            0.40625,
+                            0.39285714285714285,
+                            0.34375,
+                            0.2708333333333333,
+                            0.2265625,
+                            0.203125,
+                            0.1484375,
+                            0.0859375,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.203125,
+                            0.315234375
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.36875,
+                            0.33125,
+                            0.3,
+                            0.2875,
+                            0.22083333333333333,
+                            0.2,
+                            0.15,
+                            0.17500000000000002,
+                            0.15,
+                            0.11875000000000001,
+                            0.05,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.075,
+                            0.11875,
+                            0.1875,
+                            0.29160714285714284
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 3005,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 12258,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "36000s"
+            },
+            "centroid": {
+                "latitude": -26.188674,
+                "longitude": 152.661619
+            },
+            "commonSiteName": "Goldfields Plaza",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "AUD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.52,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "AUD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "AUD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.73,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "AUD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": -26.188772,
+                "longitude": 152.661338
+            },
+            "locationGUID": "fec2b052-1d5c-4861-be87-660a59b64727",
+            "maxPowerKw": 125,
+            "name": "Gympie, QLD",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

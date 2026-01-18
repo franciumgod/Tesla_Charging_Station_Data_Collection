@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Canberra",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2601",
+                "postalExt": null,
+                "state": "Australian Capital Territory",
+                "street": "Binara St",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.282348,
+                "longitude": 149.134363
+            },
+            "commonSiteName": "Crowne Plaza Canberra",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.282348,
+                "longitude": 149.134363
+            },
+            "locationGUID": "f4b0005b-9f11-404f-bf55-4cd4a96d4bd6",
+            "maxPowerKw": 22,
+            "name": "Crowne Plaza Canberra",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

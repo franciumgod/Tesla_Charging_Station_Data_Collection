@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bloomington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55425",
+                "postalExt": null,
+                "state": "MN",
+                "street": "26th Ave S",
+                "streetNumber": "8100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.85603,
+                "longitude": -93.236595
+            },
+            "commonSiteName": "AC Hotel by Marriott Bloomington Mall of America",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.85603,
+                "longitude": -93.236595
+            },
+            "locationGUID": "54c3bfab-dca6-47bb-8755-58c437c6bc2c",
+            "maxPowerKw": 16,
+            "name": "AC Hotel by Marriott Bloomington Mall of America",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

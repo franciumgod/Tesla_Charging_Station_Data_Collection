@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Roanoke",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "46783",
+                "postalExt": null,
+                "state": "IN",
+                "street": "N Main St",
+                "streetNumber": "492"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.964868,
+                "longitude": -85.372749
+            },
+            "commonSiteName": "The Inn at Joseph Decuis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.964868,
+                "longitude": -85.372749
+            },
+            "locationGUID": "6d26aeeb-cfab-43a2-8aa0-898c4277c3cb",
+            "maxPowerKw": 16,
+            "name": "The Inn at Joseph Decuis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Indiana/Indianapolis"
+        },
+        "success": true
+    }
+}

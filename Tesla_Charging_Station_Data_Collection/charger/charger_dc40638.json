@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Heppenheim",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "64646",
+                "postalExt": null,
+                "state": null,
+                "street": "Grosser Markt",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.64136,
+                "longitude": 8.644938
+            },
+            "commonSiteName": "Hotel-Restaurant Goldener Engel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.64136,
+                "longitude": 8.644938
+            },
+            "locationGUID": "73186fdf-1579-4d31-b316-9fa146cf6f12",
+            "maxPowerKw": 11,
+            "name": "Hotel-Restaurant Goldener Engel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

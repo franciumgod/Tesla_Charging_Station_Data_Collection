@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cocoa Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32931",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Meade Ave",
+                "streetNumber": "401"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.367597,
+                "longitude": -80.603205
+            },
+            "commonSiteName": "Westgate Cocoa Beach Pier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.367597,
+                "longitude": -80.603205
+            },
+            "locationGUID": "fed37f1b-60ac-4a44-a37a-57f7ff94e6fd",
+            "maxPowerKw": 10,
+            "name": "Westgate Cocoa Beach Pier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

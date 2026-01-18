@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Palaia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "56036",
+                "postalExt": null,
+                "state": null,
+                "street": "Strada Communale di Toaino",
+                "streetNumber": "42"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.59334025,
+                "longitude": 10.8211695
+            },
+            "commonSiteName": "Villa Lena",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.59334025,
+                "longitude": 10.8211695
+            },
+            "locationGUID": "61a38f50-2f95-4b0f-976f-fb6de5592b15",
+            "maxPowerKw": 17,
+            "name": "Villa Lena",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

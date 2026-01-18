@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taipei",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "松山區",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "105",
+                "postalExt": null,
+                "state": "Taipei",
+                "street": "八德路三段",
+                "streetNumber": "76號 B4"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.048088,
+                "longitude": 121.552651
+            },
+            "commonSiteName": "阿樹國際旅店",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.048088,
+                "longitude": 121.552651
+            },
+            "locationGUID": "401faf7e-2667-467c-bda8-4f2cd07ed39b",
+            "maxPowerKw": 16,
+            "name": "arTree Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

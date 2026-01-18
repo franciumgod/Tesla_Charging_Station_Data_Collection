@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Marananga",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5355",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Seppeltsfield Rd",
+                "streetNumber": "375"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.48760745,
+                "longitude": 138.94704882
+            },
+            "commonSiteName": "The Louise and Appellation",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.48760745,
+                "longitude": 138.94704882
+            },
+            "locationGUID": "713a637d-f7d3-434c-8d63-da696a192c95",
+            "maxPowerKw": 14,
+            "name": "The Louise and Appellation",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

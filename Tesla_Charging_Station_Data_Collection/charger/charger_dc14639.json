@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Flinders",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3929",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Cook Street",
+                "streetNumber": "23-31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.474449,
+                "longitude": 145.019202
+            },
+            "commonSiteName": "Flinders Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.474449,
+                "longitude": 145.019202
+            },
+            "locationGUID": "d5f4765c-50f1-432c-aa53-17676732acf5",
+            "maxPowerKw": 9,
+            "name": "Flinders Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

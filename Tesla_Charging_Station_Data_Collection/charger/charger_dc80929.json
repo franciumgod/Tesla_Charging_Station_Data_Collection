@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Myrtle Ave",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.693476,
+                "longitude": -73.982605
+            },
+            "commonSiteName": "Enterprise Parking 150 Myrtle Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.693476,
+                "longitude": -73.982605
+            },
+            "locationGUID": "f9cf87d5-0ecc-4e88-b1a2-1ddc01cd00e5",
+            "maxPowerKw": 10,
+            "name": "Enterprise Parking 150 Myrtle Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

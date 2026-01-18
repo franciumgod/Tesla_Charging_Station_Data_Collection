@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H2L 1Y7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "boul. de Maisonneuve Est",
+                "streetNumber": "819"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.516388,
+                "longitude": -73.560316
+            },
+            "commonSiteName": "Auberge Le Pomerol",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.516388,
+                "longitude": -73.560316
+            },
+            "locationGUID": "4aa2f431-4e8c-46a9-a5ef-a0b4d394b3e7",
+            "maxPowerKw": 8,
+            "name": "Auberge Le Pomerol",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

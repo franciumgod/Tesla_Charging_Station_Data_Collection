@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Divonnes Les Bains",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1220",
+                "postalExt": null,
+                "state": null,
+                "street": "Avenue des Thermes",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.3578201,
+                "longitude": 6.13821359
+            },
+            "commonSiteName": "Domaine de Divonne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.3578201,
+                "longitude": 6.13821359
+            },
+            "locationGUID": "c34a0828-82cc-4d94-a209-4c74daf8254a",
+            "maxPowerKw": 22,
+            "name": "Domaine de Divonne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wilmington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28405",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Market St",
+                "streetNumber": "7300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.274394,
+                "longitude": -77.81613
+            },
+            "commonSiteName": "Smithfield's Chicken 'N Bar-B-Q Market Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.274394,
+                "longitude": -77.81613
+            },
+            "locationGUID": "ac63efea-4d2f-46aa-9ece-e1527862a750",
+            "maxPowerKw": 10,
+            "name": "Smithfield's Chicken 'N Bar-B-Q Market Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

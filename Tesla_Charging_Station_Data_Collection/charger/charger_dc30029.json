@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Malaga",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29002",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Calle Hilera",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.71865952,
+                "longitude": -4.43010807
+            },
+            "commonSiteName": "El Corte Ingles Malaga",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.71865952,
+                "longitude": -4.43010807
+            },
+            "locationGUID": "4fba1451-e61f-4e64-8165-7a221ddc06aa",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Malaga",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

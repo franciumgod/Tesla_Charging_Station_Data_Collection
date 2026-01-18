@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Millburn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "07078",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "John F. Kennedy Pkwy",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.742721,
+                "longitude": -74.366457
+            },
+            "commonSiteName": "Hilton Short Hills",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.742721,
+                "longitude": -74.366457
+            },
+            "locationGUID": "d050d7dd-608b-4c69-aab6-ec8032f0ac22",
+            "maxPowerKw": 8,
+            "name": "Hilton Short Hills",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

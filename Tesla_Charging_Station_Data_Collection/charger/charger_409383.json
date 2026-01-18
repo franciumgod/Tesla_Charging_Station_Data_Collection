@@ -1,0 +1,295 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brang Kruai",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Nonthaburi",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "11130",
+                "postalExt": null,
+                "state": null,
+                "street": "Nakhon In Frontage Rd",
+                "streetNumber": "888/8"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.17708333333333334,
+                            0.3125,
+                            0.375,
+                            0.4140625,
+                            0.453125,
+                            0.4375,
+                            0.39285714285714285,
+                            0.4140625,
+                            0.421875,
+                            0.3984375,
+                            0.375,
+                            0.375,
+                            0.3169642857142857,
+                            0.3169642857142857,
+                            0.28125,
+                            0.25,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.046875,
+                            0.14453125,
+                            0.24270833333333333,
+                            0.34895833333333337,
+                            0.30598958333333337,
+                            0.23124999999999998,
+                            0.2578125,
+                            0.328125,
+                            0.359375,
+                            0.3489583333333333,
+                            0.39453125,
+                            0.40625,
+                            0.4375,
+                            0.375,
+                            0.3203125,
+                            0.1484375,
+                            0.125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.1171875,
+                            0.1875,
+                            0.28125,
+                            0.296875,
+                            0.390625,
+                            0.44791666666666663,
+                            0.53125,
+                            0.5173611111111112,
+                            0.5833333333333334,
+                            0.640625,
+                            0.5234375,
+                            0.34722222222222227,
+                            0.2265625,
+                            0.234375,
+                            0.3715277777777778,
+                            0.4375,
+                            0.3541666666666667,
+                            0.22916666666666669,
+                            0.109375,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.11458333333333334,
+                            0.15625
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.0859375,
+                            0.1484375,
+                            0.2723214285714286,
+                            0.390625,
+                            0.455078125,
+                            0.453125,
+                            0.43359375,
+                            0.40625,
+                            0.45833333333333337,
+                            0.453125,
+                            0.4027777777777778,
+                            0.33072916666666663,
+                            0.375,
+                            0.4375,
+                            0.421875,
+                            0.3203125,
+                            0.20703125,
+                            0.171875,
+                            0.14583333333333331,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.037500000000000006,
+                            0.18928571428571428,
+                            0.2625,
+                            0.3666666666666667,
+                            0.375,
+                            0.44545454545454544,
+                            0.4375,
+                            0.4352272727272727,
+                            0.41500000000000004,
+                            0.44999999999999996,
+                            0.4,
+                            0.3625,
+                            0.35000000000000003,
+                            0.33125,
+                            0.37,
+                            0.375,
+                            0.28,
+                            0.15625,
+                            0.1,
+                            0.125,
+                            0.0625,
+                            0.05,
+                            0.025,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.0859375,
+                            0.1484375,
+                            0.21875,
+                            0.25,
+                            0.3169642857142857,
+                            0.390625,
+                            0.4375,
+                            0.421875,
+                            0.4107142857142857,
+                            0.375,
+                            0.3839285714285714,
+                            0.359375,
+                            0.3325892857142857,
+                            0.3125,
+                            0.3125,
+                            0.22916666666666666,
+                            0.14453125,
+                            0.0859375,
+                            0.078125,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.1171875,
+                            0.15625,
+                            0.171875,
+                            0.175,
+                            0.2924107142857143,
+                            0.40625,
+                            0.421875,
+                            0.45833333333333337,
+                            0.46875,
+                            0.375,
+                            0.28125,
+                            0.25,
+                            0.28125,
+                            0.3392857142857143,
+                            0.328125,
+                            0.2611607142857143,
+                            0.14583333333333331,
+                            0.14583333333333334,
+                            0.125,
+                            0.09375,
+                            0,
+                            0,
+                            0,
+                            0.025
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 11052672,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 409383,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 13.82361924,
+                "longitude": 100.44310285
+            },
+            "commonSiteName": "Tesla Center",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 7.48,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 12,
+                    "rateTier2": 24,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 13.82367328,
+                "longitude": 100.44327585
+            },
+            "locationGUID": "dfc5b347-be0d-4f29-bbac-fcd78ee9b2ba",
+            "maxPowerKw": 250,
+            "name": "Nonthaburi, Thailand - Tesla Centre Rama V",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

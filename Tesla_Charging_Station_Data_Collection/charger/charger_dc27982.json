@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wernigerode",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38855",
+                "postalExt": null,
+                "state": null,
+                "street": "Pfarrstrasse",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.836671,
+                "longitude": 10.785125
+            },
+            "commonSiteName": "HKK Hotel Wernigerode",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.836671,
+                "longitude": 10.785125
+            },
+            "locationGUID": "64ee6336-83f1-4998-b881-2e76f3de649d",
+            "maxPowerKw": 11,
+            "name": "HKK Hotel Wernigerode",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

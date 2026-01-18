@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bettendorf",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "52722",
+                "postalExt": null,
+                "state": "IA",
+                "street": "State St",
+                "streetNumber": "3721"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.528819,
+                "longitude": -90.481767
+            },
+            "commonSiteName": "Teriyaki Madness",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.528819,
+                "longitude": -90.481767
+            },
+            "locationGUID": "180be019-bbd0-4b15-929b-381f2773aaec",
+            "maxPowerKw": 16,
+            "name": "Teriyaki Madness",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

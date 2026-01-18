@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Halden",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1767",
+                "postalExt": null,
+                "state": "Halden",
+                "street": "Langbrygga",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.118923,
+                "longitude": 11.386441
+            },
+            "commonSiteName": "Thon Hotel Halden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.118923,
+                "longitude": 11.386441
+            },
+            "locationGUID": "8f4441a3-a656-4113-b8e8-f520eaf9022c",
+            "maxPowerKw": 6,
+            "name": "Thon Hotel Halden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Vito di Cadore",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "32046",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Ladinia",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.461027,
+                "longitude": 12.206231
+            },
+            "commonSiteName": "Parkhotel Ladinia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.461027,
+                "longitude": 12.206231
+            },
+            "locationGUID": "adf39cdf-6055-4102-bb2e-47f27a5e246b",
+            "maxPowerKw": 22,
+            "name": "Parkhotel Ladinia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

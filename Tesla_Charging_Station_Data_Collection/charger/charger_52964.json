@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sherbrooke",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J1L 1C8",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue King Ouest",
+                "streetNumber": "3131"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.395561,
+                "longitude": -71.948894
+            },
+            "commonSiteName": "Hotel Gouverneur Sherbrooke",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.395561,
+                "longitude": -71.948894
+            },
+            "locationGUID": "dbb334cf-0903-4db1-a3fc-7bb331cdb223",
+            "maxPowerKw": 8,
+            "name": "Hotel Gouverneur Sherbrooke",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

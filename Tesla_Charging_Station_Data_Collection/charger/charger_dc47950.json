@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "South Leigh",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "OX296XN",
+                "postalExt": null,
+                "state": null,
+                "street": "Mason Arms",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.774723,
+                "longitude": -1.433803
+            },
+            "commonSiteName": "Artist Residence Oxford",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.774723,
+                "longitude": -1.433803
+            },
+            "locationGUID": "7d558dc9-b2e6-4d59-83f4-cc1391d29bd9",
+            "maxPowerKw": 13,
+            "name": "Artist Residence Oxford",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

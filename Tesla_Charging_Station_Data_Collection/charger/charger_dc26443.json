@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hollywood",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33314",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Seminole Wy",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.052504,
+                "longitude": -80.212856
+            },
+            "commonSiteName": "Seminole Hard Rock Hotel & Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.052504,
+                "longitude": -80.212856
+            },
+            "locationGUID": "863db562-e1a0-41f5-bde9-2021aa5fdeb7",
+            "maxPowerKw": 16,
+            "name": "Seminole Hard Rock Hotel & Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 50,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

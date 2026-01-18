@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20009",
+                "postalExt": null,
+                "state": "DC",
+                "street": "New Hampshire Ave NW",
+                "streetNumber": "1731"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.913322,
+                "longitude": -77.039525
+            },
+            "commonSiteName": "Kimpton Carlyle Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.913322,
+                "longitude": -77.039525
+            },
+            "locationGUID": "57f7c13a-0f80-43d4-80b5-74921989f6ec",
+            "maxPowerKw": 8,
+            "name": "Kimpton Carlyle Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

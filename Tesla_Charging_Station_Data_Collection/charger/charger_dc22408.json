@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Livigno",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "23030",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Saroch",
+                "streetNumber": "1116"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.522199,
+                "longitude": 10.125415
+            },
+            "commonSiteName": "Hotel Astoria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.522199,
+                "longitude": 10.125415
+            },
+            "locationGUID": "4881e7b2-ed2d-4231-bc55-ef50f87bb16f",
+            "maxPowerKw": 22,
+            "name": "Hotel Astoria-Livigno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

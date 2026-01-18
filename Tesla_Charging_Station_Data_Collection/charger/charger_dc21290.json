@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Riviere-du-Loup",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G5R 1E2",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Fraser",
+                "streetNumber": "185"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.826939,
+                "longitude": -69.555475
+            },
+            "commonSiteName": "Motel Piloteux",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.826939,
+                "longitude": -69.555475
+            },
+            "locationGUID": "a4f963e0-ccfa-4901-8962-00342584e8ce",
+            "maxPowerKw": 16,
+            "name": "Motel Piloteux",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

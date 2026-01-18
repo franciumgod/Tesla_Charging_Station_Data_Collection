@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "St Louis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63105",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Carondelet Plaza",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.648323,
+                "longitude": -90.331685
+            },
+            "commonSiteName": "The Ritz-Carlton, St. Louis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.648323,
+                "longitude": -90.331685
+            },
+            "locationGUID": "1c2f7426-5ee3-4b6b-84bd-0aa5e68d9188",
+            "maxPowerKw": 6,
+            "name": "The Ritz-Carlton, St. Louis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

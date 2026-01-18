@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Palo Alto",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94306",
+                "postalExt": null,
+                "state": "CA",
+                "street": "El Camino Real",
+                "streetNumber": "4261"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.407771,
+                "longitude": -122.120076
+            },
+            "commonSiteName": "Dinah's Garden Hotel & Poolside Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.407771,
+                "longitude": -122.120076
+            },
+            "locationGUID": "534da026-1260-466b-9495-ce245151a36a",
+            "maxPowerKw": 16,
+            "name": "Dinah's Garden Hotel & Poolside Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

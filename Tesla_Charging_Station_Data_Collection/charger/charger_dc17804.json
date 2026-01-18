@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cogne",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11012",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Grand Paradis",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.606683,
+                "longitude": 7.355555
+            },
+            "commonSiteName": "Bellevue Hotel & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.606683,
+                "longitude": 7.355555
+            },
+            "locationGUID": "2d2c47e1-f60d-4054-9ba5-56f2da3c3f77",
+            "maxPowerKw": 22,
+            "name": "Bellevue Hotel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

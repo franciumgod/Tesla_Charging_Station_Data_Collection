@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Jolla",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92093-0946",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Campus Point Dr",
+                "streetNumber": "9415"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.87959303,
+                "longitude": -117.22181602
+            },
+            "commonSiteName": "UCSD - Athena Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.87959303,
+                "longitude": -117.22181602
+            },
+            "locationGUID": "5ec759cb-fc53-492b-90d4-a679e2381037",
+            "maxPowerKw": 16,
+            "name": "UCSD - Athena Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

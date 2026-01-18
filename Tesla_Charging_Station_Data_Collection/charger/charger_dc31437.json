@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Koelleda",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "99625",
+                "postalExt": null,
+                "state": null,
+                "street": "Battgendorfer Strasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.19059,
+                "longitude": 11.251829
+            },
+            "commonSiteName": "Hotel & Restaurant Alte Molkerei",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.19059,
+                "longitude": 11.251829
+            },
+            "locationGUID": "b83733d2-0e9b-447b-bc5c-f7a741d4aef1",
+            "maxPowerKw": 11,
+            "name": "Hotel & Restaurant Alte Molkerei",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

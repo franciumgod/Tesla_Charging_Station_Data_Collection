@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubbo",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2830",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Cobra Street",
+                "streetNumber": "95/97"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.254704,
+                "longitude": 148.608648
+            },
+            "commonSiteName": "Orana Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.254704,
+                "longitude": 148.608648
+            },
+            "locationGUID": "345fcff0-90fd-4210-9854-5c126d445ff3",
+            "maxPowerKw": 22,
+            "name": "Orana Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

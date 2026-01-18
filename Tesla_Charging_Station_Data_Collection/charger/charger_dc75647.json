@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aurach",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "91589",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.23659405,
+                "longitude": 10.33891967
+            },
+            "commonSiteName": "Hotel Wender",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.23659405,
+                "longitude": 10.33891967
+            },
+            "locationGUID": "6fd0989a-ffbb-4ed0-8474-aa9821ce169e",
+            "maxPowerKw": 11,
+            "name": "Hotel Wender",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

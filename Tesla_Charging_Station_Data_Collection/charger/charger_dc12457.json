@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sag Harbor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11963",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W Water St",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.00035,
+                "longitude": -72.301059
+            },
+            "commonSiteName": "Baron's Cove",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.00035,
+                "longitude": -72.301059
+            },
+            "locationGUID": "78113a32-d9bc-4a19-9f63-2ca2a3e436ea",
+            "maxPowerKw": 8,
+            "name": "Baron's Cove",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naples",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34103",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Seagate Dr",
+                "streetNumber": "475"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.212177,
+                "longitude": -81.81026
+            },
+            "commonSiteName": "Naples Grande Beach Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.212177,
+                "longitude": -81.81026
+            },
+            "locationGUID": "6f6de49b-9fdb-466b-b6c3-3be09a68ae72",
+            "maxPowerKw": 16,
+            "name": "Naples Grande Beach Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

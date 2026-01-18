@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ashford",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TN25 4HR",
+                "postalExt": null,
+                "state": null,
+                "street": "Eastwell Court",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.19090443,
+                "longitude": 0.88402036
+            },
+            "commonSiteName": "Eastwell Manor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.19090443,
+                "longitude": 0.88402036
+            },
+            "locationGUID": "c55c095d-860f-48df-99da-d0161ea4d5b8",
+            "maxPowerKw": 6,
+            "name": "Eastwell Manor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

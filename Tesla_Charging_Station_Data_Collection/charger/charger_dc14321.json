@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Budapest",
+                "country": "Hungary",
+                "countryCode": "HU",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1051",
+                "postalExt": null,
+                "state": null,
+                "street": "Erzsebet ter",
+                "streetNumber": "7-8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.497361,
+                "longitude": 19.052303
+            },
+            "commonSiteName": "Kempinski Hotel Corvinus Budapest",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.497361,
+                "longitude": 19.052303
+            },
+            "locationGUID": "b2ee9288-4244-450d-a276-46c752fc8a79",
+            "maxPowerKw": 6,
+            "name": "Kempinski Hotel Corvinus Budapest",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Budapest"
+        },
+        "success": true
+    }
+}

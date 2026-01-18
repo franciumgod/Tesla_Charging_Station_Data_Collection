@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Williamsburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23185",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Kingsmill Rd",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.243124,
+                "longitude": -76.659679
+            },
+            "commonSiteName": "DoubleTree by Hilton Williamsburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.243124,
+                "longitude": -76.659679
+            },
+            "locationGUID": "b70612ee-74e7-4c55-b483-6019f00a9de3",
+            "maxPowerKw": 16,
+            "name": "DoubleTree by Hilton Williamsburg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

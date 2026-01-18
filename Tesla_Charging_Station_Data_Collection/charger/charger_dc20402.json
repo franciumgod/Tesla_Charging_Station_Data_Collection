@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tampa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33605",
+                "postalExt": null,
+                "state": "FL",
+                "street": "E 7th Ave",
+                "streetNumber": "1301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.959829,
+                "longitude": -82.445018
+            },
+            "commonSiteName": "Hampton Inn & Suites Tampa/Ybor City/Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.959829,
+                "longitude": -82.445018
+            },
+            "locationGUID": "1ffbbaa4-edd9-499e-8782-d679ac3d80cd",
+            "maxPowerKw": 8,
+            "name": "Hampton Inn & Suites Tampa/Ybor City/Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

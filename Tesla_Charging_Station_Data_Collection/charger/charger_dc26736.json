@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45659",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Aeropuerto Internacional",
+                "streetNumber": "Hangar 1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.526605,
+                "longitude": -103.295413
+            },
+            "commonSiteName": "Aerotron Guadalajara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.526605,
+                "longitude": -103.295413
+            },
+            "locationGUID": "4cff972f-9637-4fb9-a927-1118fcaf69b0",
+            "maxPowerKw": 18,
+            "name": "Aerotron Guadalajara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

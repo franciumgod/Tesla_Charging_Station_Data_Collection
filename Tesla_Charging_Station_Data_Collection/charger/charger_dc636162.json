@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "고성군 죽왕면",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "강원도",
+                "street": "자작도선사길",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.3079193,
+                "longitude": 128.5413247
+            },
+            "commonSiteName": "보키하우스",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.3079193,
+                "longitude": 128.5413247
+            },
+            "locationGUID": "7a00c997-9d40-4665-8c24-fbc5a68ea454",
+            "maxPowerKw": 19,
+            "name": "Bokee House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

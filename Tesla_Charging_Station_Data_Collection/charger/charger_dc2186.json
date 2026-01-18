@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chuo Ward",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "650",
+                "postalExt": "0003",
+                "state": "Hyogo",
+                "street": "Yamamotodori",
+                "streetNumber": "3-3-20"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.697033,
+                "longitude": 135.187015
+            },
+            "commonSiteName": "神戸北野ホテル",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.697033,
+                "longitude": 135.187015
+            },
+            "locationGUID": "1167a2d8-7d0b-46ca-985e-8ce08ba30760",
+            "maxPowerKw": 0,
+            "name": "Kobe Kitano Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

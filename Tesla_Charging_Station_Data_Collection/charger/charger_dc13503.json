@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reno",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89501",
+                "postalExt": null,
+                "state": "NV",
+                "street": "Ballpark Ln",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.527251,
+                "longitude": -119.808769
+            },
+            "commonSiteName": "Courtyard Reno Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.527251,
+                "longitude": -119.808769
+            },
+            "locationGUID": "1b55acc6-4d5a-4406-81e5-a5d79c2978cc",
+            "maxPowerKw": 8,
+            "name": "Courtyard Reno Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5H 0A3",
+                "postalExt": null,
+                "state": "ON",
+                "street": "University Ave",
+                "streetNumber": "188"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.649135,
+                "longitude": -79.386237
+            },
+            "commonSiteName": "Shangri-La Hotel Toronto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.649135,
+                "longitude": -79.386237
+            },
+            "locationGUID": "8a950dc4-0a0c-4fc7-bb13-1f680d9b6888",
+            "maxPowerKw": 16,
+            "name": "Shangri-La Hotel Toronto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

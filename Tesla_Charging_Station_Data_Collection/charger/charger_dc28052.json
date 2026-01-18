@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Adro",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25030",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Fenice",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.600081,
+                "longitude": 10.000733
+            },
+            "commonSiteName": "Ronco Calino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.600081,
+                "longitude": 10.000733
+            },
+            "locationGUID": "cbcfef93-86d5-41c8-b4a6-f621671829c6",
+            "maxPowerKw": 17,
+            "name": "Ronco Calino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

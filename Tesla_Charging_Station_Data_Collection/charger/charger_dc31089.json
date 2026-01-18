@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Speicher",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9042",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptstrasse",
+                "streetNumber": "34"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.411915,
+                "longitude": 9.440953
+            },
+            "commonSiteName": "Gasthaus Krone Speicher",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.411915,
+                "longitude": 9.440953
+            },
+            "locationGUID": "1c1bc483-6b71-4153-8c89-7c3faccdb1ce",
+            "maxPowerKw": 22,
+            "name": "Gasthaus Krone Speicher",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

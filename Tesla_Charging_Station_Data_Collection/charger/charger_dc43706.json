@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newbury",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "RG20 8UE",
+                "postalExt": null,
+                "state": "Berkshire",
+                "street": "Wantage RoadChieveley",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.464135,
+                "longitude": -1.345669
+            },
+            "commonSiteName": "The Crab & Boar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.464135,
+                "longitude": -1.345669
+            },
+            "locationGUID": "49cd5874-e2c8-41f6-b4af-9febaa23f0b0",
+            "maxPowerKw": 13,
+            "name": "The Crab & Boar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

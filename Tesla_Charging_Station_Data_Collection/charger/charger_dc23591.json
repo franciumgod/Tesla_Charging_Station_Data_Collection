@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bladel",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5531 EK",
+                "postalExt": null,
+                "state": null,
+                "street": "Sniederslaan 121",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.368976,
+                "longitude": 5.23011
+            },
+            "commonSiteName": "Restaurant Crijns",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.368976,
+                "longitude": 5.23011
+            },
+            "locationGUID": "d4c28c02-efc9-4c0e-8c94-e7c9e88659db",
+            "maxPowerKw": 17,
+            "name": "Restaurant Crijns",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

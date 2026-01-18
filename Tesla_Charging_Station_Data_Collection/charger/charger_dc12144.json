@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Trelleborg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "231 62",
+                "postalExt": null,
+                "state": "Skåne län",
+                "street": "Strandgatan 32",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.374116,
+                "longitude": 13.147143
+            },
+            "commonSiteName": "Hotel Dannegarden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.374116,
+                "longitude": 13.147143
+            },
+            "locationGUID": "175825ef-6aef-4f4e-970b-aebda1c9ab89",
+            "maxPowerKw": 11,
+            "name": "Hotel Dannegarden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

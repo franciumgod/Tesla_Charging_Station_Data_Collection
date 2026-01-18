@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ingersoll",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N5C 3J8",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Harris St",
+                "streetNumber": "415"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.029847,
+                "longitude": -80.855157
+            },
+            "commonSiteName": "Elm Hurst Inn & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.029847,
+                "longitude": -80.855157
+            },
+            "locationGUID": "5d6a3bd9-a0ad-45b6-9cc7-284bcca62df8",
+            "maxPowerKw": 8,
+            "name": "Elm Hurst Inn & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

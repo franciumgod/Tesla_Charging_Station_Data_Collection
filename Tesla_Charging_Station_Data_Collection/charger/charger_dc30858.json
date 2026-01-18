@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sárvár",
+                "country": "Hungary",
+                "countryCode": "HU",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9600",
+                "postalExt": null,
+                "state": null,
+                "street": "Vadkert krt.",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.243913,
+                "longitude": 16.942967
+            },
+            "commonSiteName": "Spirit Hotel Thermal Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.243913,
+                "longitude": 16.942967
+            },
+            "locationGUID": "777063aa-f991-4a56-8af8-4ee00cacf7d1",
+            "maxPowerKw": 22,
+            "name": "Spirit Hotel Thermal Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Budapest"
+        },
+        "success": true
+    }
+}

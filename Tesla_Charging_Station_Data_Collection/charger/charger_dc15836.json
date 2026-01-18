@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Scone",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2337",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Kelly St",
+                "streetNumber": "205"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.051612,
+                "longitude": 150.867089
+            },
+            "commonSiteName": "Portman House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.051612,
+                "longitude": 150.867089
+            },
+            "locationGUID": "54a0b68b-a446-4c54-9686-29352fdfb045",
+            "maxPowerKw": 22,
+            "name": "Portman House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Spisska Nova Ves",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "052 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Stefanikovo namestie",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.946391,
+                "longitude": 20.558937
+            },
+            "commonSiteName": "Hotel Metropol",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.946391,
+                "longitude": 20.558937
+            },
+            "locationGUID": "e6474532-a241-451e-a233-ac8eb89646dc",
+            "maxPowerKw": 22,
+            "name": "Hotel Metropol",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

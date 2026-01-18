@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Andernos-Les-Bains",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33510",
+                "postalExt": null,
+                "state": null,
+                "street": "Avenue de Bordeaux",
+                "streetNumber": "Km 4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.76248972,
+                "longitude": -1.06588097
+            },
+            "commonSiteName": "Casino d'Andernos - Le Miami",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.76248972,
+                "longitude": -1.06588097
+            },
+            "locationGUID": "ed2d7e9c-6d25-4540-bd5d-416876678828",
+            "maxPowerKw": 14,
+            "name": "Casino d'Andernos - Le Miami",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

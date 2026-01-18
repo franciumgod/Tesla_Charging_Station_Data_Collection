@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pleasanton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94566",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Main St",
+                "streetNumber": "807"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.663977,
+                "longitude": -121.874814
+            },
+            "commonSiteName": "The Rose Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.663977,
+                "longitude": -121.874814
+            },
+            "locationGUID": "36a10baf-4e4e-4bd9-b2e7-b1a58a93a96e",
+            "maxPowerKw": 16,
+            "name": "The Rose Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

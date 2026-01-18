@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leogang",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5771",
+                "postalExt": null,
+                "state": null,
+                "street": "Hütten",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.440839,
+                "longitude": 12.714732
+            },
+            "commonSiteName": "Biohotel Rupertus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.440839,
+                "longitude": 12.714732
+            },
+            "locationGUID": "cf8797f5-3ae7-4cc3-9664-c5fc793a9d3d",
+            "maxPowerKw": 22,
+            "name": "Biohotel Rupertus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

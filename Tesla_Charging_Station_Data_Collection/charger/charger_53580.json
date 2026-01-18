@@ -1,0 +1,51 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Al Multaqa Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.208731,
+                "longitude": 55.260344
+            },
+            "commonSiteName": "La Ville Hotel & Suites City Walk",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.208731,
+                "longitude": 55.260344
+            },
+            "locationGUID": "152c8bb5-9fcd-4fd5-9d60-9f49f43ffd02",
+            "maxPowerKw": 13,
+            "name": "La Ville Hotel & Suites City Walk Dubai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cambria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93428",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Burton Dr",
+                "streetNumber": "2905"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.5587454,
+                "longitude": -121.0801186
+            },
+            "commonSiteName": "Cambria Pines Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.5587454,
+                "longitude": -121.0801186
+            },
+            "locationGUID": "db18a22d-5283-405a-8f20-f614aabe3985",
+            "maxPowerKw": 16,
+            "name": "Cambria Pines Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

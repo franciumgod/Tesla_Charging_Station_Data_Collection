@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rolleboise",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "78270",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de la Corniche",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.022675,
+                "longitude": 1.609376
+            },
+            "commonSiteName": "Domaine de la Corniche",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.022675,
+                "longitude": 1.609376
+            },
+            "locationGUID": "5e5f01f0-0c06-4263-bf3b-569d88610d62",
+            "maxPowerKw": 22,
+            "name": "Domaine de la Corniche",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

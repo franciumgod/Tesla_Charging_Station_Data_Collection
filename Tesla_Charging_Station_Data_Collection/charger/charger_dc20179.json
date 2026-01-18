@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Mesa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "91943",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Murray Dr",
+                "streetNumber": "9550"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.779705,
+                "longitude": -116.99169
+            },
+            "commonSiteName": "Best Western Plus La Mesa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.779705,
+                "longitude": -116.99169
+            },
+            "locationGUID": "8764fac4-1bff-48d9-b40c-993d2e4a4436",
+            "maxPowerKw": 8,
+            "name": "Best Western Plus La Mesa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

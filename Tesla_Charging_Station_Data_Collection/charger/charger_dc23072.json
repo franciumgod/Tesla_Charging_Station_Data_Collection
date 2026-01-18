@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 11th St",
+                "streetNumber": "310"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.730017,
+                "longitude": -73.985512
+            },
+            "commonSiteName": "Parkit 310 E 11th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.730017,
+                "longitude": -73.985512
+            },
+            "locationGUID": "9ee01bf0-a4a3-4a63-923e-3a1bcdd423cd",
+            "maxPowerKw": 14,
+            "name": "Parkit 310 E 11th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

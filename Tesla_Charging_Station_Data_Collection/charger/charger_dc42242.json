@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rochester",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14607",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Dartmouth St",
+                "streetNumber": "215"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.145031,
+                "longitude": -77.58624
+            },
+            "commonSiteName": "Dartmouth House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.145031,
+                "longitude": -77.58624
+            },
+            "locationGUID": "f1b8adf7-dcb0-4026-9b94-b019a8a9bece",
+            "maxPowerKw": 10,
+            "name": "Dartmouth House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

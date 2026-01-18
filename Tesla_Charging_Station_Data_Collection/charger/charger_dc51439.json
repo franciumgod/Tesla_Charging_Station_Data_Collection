@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Canmore",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "t1w0a8",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Kananaskis Wy",
+                "streetNumber": "170"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.084581,
+                "longitude": -115.340644
+            },
+            "commonSiteName": "Blackstone Mountain Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.084581,
+                "longitude": -115.340644
+            },
+            "locationGUID": "16f325ee-439c-4809-9e48-ddba47df3b91",
+            "maxPowerKw": 10,
+            "name": "Blackstone Mountain Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

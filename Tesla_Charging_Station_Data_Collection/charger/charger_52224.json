@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saltillo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25230",
+                "postalExt": null,
+                "state": "Coahuila",
+                "street": "Col virreyes Residencial",
+                "streetNumber": "Blvd Venustiano Carranza 4671 esquina con Av Egipto"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.465352,
+                "longitude": -100.981052
+            },
+            "commonSiteName": "El Meson Principal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.465352,
+                "longitude": -100.981052
+            },
+            "locationGUID": "13635229-f527-45a3-acc7-c15bec754a5f",
+            "maxPowerKw": 13,
+            "name": "El Meson Principal",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

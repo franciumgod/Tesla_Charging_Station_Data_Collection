@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leeds",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LS10 1LE",
+                "postalExt": null,
+                "state": "West Yorkshire",
+                "street": "Leeds Dock Multi-Storey Car Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.790416,
+                "longitude": -1.530348
+            },
+            "commonSiteName": "CitiPark Leeds Dock",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.790416,
+                "longitude": -1.530348
+            },
+            "locationGUID": "a318b487-b591-481e-bca5-f8cbeeca8982",
+            "maxPowerKw": 7,
+            "name": "CitiPark Leeds Dock",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

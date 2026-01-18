@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coopersburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "18036",
+                "postalExt": null,
+                "state": "PA",
+                "street": "N 3rd St",
+                "streetNumber": "301"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.514499,
+                "longitude": -75.3847914
+            },
+            "commonSiteName": "The Inside Scoop",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.514499,
+                "longitude": -75.3847914
+            },
+            "locationGUID": "a7588467-9b8d-4a4d-9c2d-2d0902a319bc",
+            "maxPowerKw": 16,
+            "name": "The Inside Scoop",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

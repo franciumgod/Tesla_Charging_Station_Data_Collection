@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10023",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Broadway",
+                "streetNumber": "2000"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.775283,
+                "longitude": -73.981627
+            },
+            "commonSiteName": "GMC Copley Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.775283,
+                "longitude": -73.981627
+            },
+            "locationGUID": "fce07c95-0c40-4fcf-95a0-c8aed113de32",
+            "maxPowerKw": 16,
+            "name": "GMC Copley Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11211",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Bedford Ave",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.719751,
+                "longitude": -73.954866
+            },
+            "commonSiteName": "imPark 101 Bedford Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.719751,
+                "longitude": -73.954866
+            },
+            "locationGUID": "de0350b0-27ab-48c2-a4f7-c7f1020a2737",
+            "maxPowerKw": 8,
+            "name": "imPark 101 Bedford Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

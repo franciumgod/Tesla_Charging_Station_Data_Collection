@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 32nd St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.744916,
+                "longitude": -73.980228
+            },
+            "commonSiteName": "Icon Parking 200 E 32nd Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.744916,
+                "longitude": -73.980228
+            },
+            "locationGUID": "ef43dfea-4f59-425f-b440-bbd2f0364dab",
+            "maxPowerKw": 16,
+            "name": "Icon Parking 200 E 32nd Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

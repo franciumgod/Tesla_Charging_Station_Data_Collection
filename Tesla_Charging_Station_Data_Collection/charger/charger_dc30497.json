@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Schoenried Gstaad",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3778",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse",
+                "streetNumber": "58"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.504419,
+                "longitude": 7.290361
+            },
+            "commonSiteName": "Hotel Kernen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.504419,
+                "longitude": 7.290361
+            },
+            "locationGUID": "e1c7b2b7-10f4-4dee-a63d-f4d38a77397b",
+            "maxPowerKw": 22,
+            "name": "Hotel Kernen",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

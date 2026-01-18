@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Flushing",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11354",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Roosevelt Ave",
+                "streetNumber": "133-59"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.758956,
+                "longitude": -73.832331
+            },
+            "commonSiteName": "LAZ Parking 133-59 Roosevelt Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.758956,
+                "longitude": -73.832331
+            },
+            "locationGUID": "d1614e07-5f53-48bb-938b-7c0328a2d4ee",
+            "maxPowerKw": 10,
+            "name": "LAZ Parking 133-59 Roosevelt Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

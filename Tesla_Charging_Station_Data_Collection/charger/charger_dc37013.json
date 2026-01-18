@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brussels",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "B",
+                "postalExt": "1050",
+                "state": null,
+                "street": "Avenue Louise/Louizalaan",
+                "streetNumber": "125"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.830013,
+                "longitude": 4.360693
+            },
+            "commonSiteName": "Thon Residence Florence",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.830013,
+                "longitude": 4.360693
+            },
+            "locationGUID": "b4bce803-f8e5-47d2-a43d-853f87c7243d",
+            "maxPowerKw": 11,
+            "name": "Thon Residence Florence",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

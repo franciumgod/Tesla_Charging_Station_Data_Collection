@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Marsilly",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17137",
+                "postalExt": null,
+                "state": null,
+                "street": "golf de la prée",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.22072703,
+                "longitude": -1.15337387
+            },
+            "commonSiteName": "Golf de la Prée la Rochelle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.22072703,
+                "longitude": -1.15337387
+            },
+            "locationGUID": "0194be34-8bd8-44f3-86bb-d4ac7b39ee15",
+            "maxPowerKw": 14,
+            "name": "Golf de la Prée la Rochelle",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

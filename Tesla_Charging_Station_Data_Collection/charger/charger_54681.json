@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oostkerke-Damme",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8340",
+                "postalExt": null,
+                "state": "West Vlaanderen",
+                "street": "Damse Vaart Oost",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.266564,
+                "longitude": 3.297812
+            },
+            "commonSiteName": "Siphon restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.266564,
+                "longitude": 3.297812
+            },
+            "locationGUID": "b36a08d8-d4f9-4ca3-b333-2e2c3e17389d",
+            "maxPowerKw": 10,
+            "name": "Siphon restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Broadstairs",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CT10 2BF",
+                "postalExt": null,
+                "state": null,
+                "street": "23 Margate Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.3579615,
+                "longitude": 1.39446066
+            },
+            "commonSiteName": "Westwood Cross Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.3579615,
+                "longitude": 1.39446066
+            },
+            "locationGUID": "bd9ad7c2-1e7f-483a-b531-c25ea981f792",
+            "maxPowerKw": 13,
+            "name": "Westwood Cross Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

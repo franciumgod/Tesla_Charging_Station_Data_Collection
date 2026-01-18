@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 57th St",
+                "streetNumber": "601"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.770709,
+                "longitude": -73.991725
+            },
+            "commonSiteName": "MTP Parking, The Helena",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.770709,
+                "longitude": -73.991725
+            },
+            "locationGUID": "f54b07ec-1030-4c48-9455-119d205121c4",
+            "maxPowerKw": 8,
+            "name": "MTP Parking, The Helena",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Taradale",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4112",
+                "postalExt": null,
+                "state": null,
+                "street": "Church Road",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -39.525515,
+                "longitude": 176.846054
+            },
+            "commonSiteName": "Church Road Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -39.525515,
+                "longitude": 176.846054
+            },
+            "locationGUID": "104a2008-c9b5-45e3-9d5f-3e44b33bbd8e",
+            "maxPowerKw": 22,
+            "name": "Church Road Winery",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Poole",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BH13 7LW",
+                "postalExt": null,
+                "state": "Dorset",
+                "street": "73 Haven Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.699218,
+                "longitude": -1.930397
+            },
+            "commonSiteName": "Harbour Heights Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.699218,
+                "longitude": -1.930397
+            },
+            "locationGUID": "5b8cae2a-056e-44a3-8acd-40c0c6d7720a",
+            "maxPowerKw": 13,
+            "name": "Harbour Heights Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

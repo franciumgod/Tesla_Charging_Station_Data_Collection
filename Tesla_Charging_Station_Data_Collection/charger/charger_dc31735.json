@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Richmond",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23236",
+                "postalExt": null,
+                "state": "VA",
+                "street": "S Providence Rd",
+                "streetNumber": "1160"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.48132,
+                "longitude": -77.555591
+            },
+            "commonSiteName": "Providence Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.48132,
+                "longitude": -77.555591
+            },
+            "locationGUID": "5f39ddbe-0a98-434e-a3e0-0b001b8fc2e3",
+            "maxPowerKw": 16,
+            "name": "Providence Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

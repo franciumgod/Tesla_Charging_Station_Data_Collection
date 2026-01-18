@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hannover",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30519",
+                "postalExt": null,
+                "state": null,
+                "street": "Wiehbergstrasse",
+                "streetNumber": "55a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.328831,
+                "longitude": 9.776066
+            },
+            "commonSiteName": "Boutiquehotel Wiehberg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.328831,
+                "longitude": 9.776066
+            },
+            "locationGUID": "aff1579e-efbd-4b06-a4d3-e94335346cf9",
+            "maxPowerKw": 22,
+            "name": "Boutiquehotel Wiehberg",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

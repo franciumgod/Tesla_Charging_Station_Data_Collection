@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Bourke St",
+                "streetNumber": "501"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.815508,
+                "longitude": 144.959338
+            },
+            "commonSiteName": "RACV City Club Melbourne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.815508,
+                "longitude": 144.959338
+            },
+            "locationGUID": "77bdbfa3-ef9d-49d9-af24-b7fd4a4c1c05",
+            "maxPowerKw": 22,
+            "name": "RACV City Club Melbourne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

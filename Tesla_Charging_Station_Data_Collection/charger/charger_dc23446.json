@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ansted",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25812",
+                "postalExt": null,
+                "state": "WV",
+                "street": "Hawks Nest Park Rd",
+                "streetNumber": "49"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.1219,
+                "longitude": -81.118854
+            },
+            "commonSiteName": "Hawks Nest State Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.1219,
+                "longitude": -81.118854
+            },
+            "locationGUID": "3dc4705a-895c-4b66-bd2a-423a6f75d7d1",
+            "maxPowerKw": 8,
+            "name": "Hawks Nest State Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

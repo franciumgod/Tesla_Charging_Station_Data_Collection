@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Predaia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38012",
+                "postalExt": null,
+                "state": null,
+                "street": "Via al santauario",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.3633255,
+                "longitude": 11.0977151
+            },
+            "commonSiteName": "Pineta Naturalmente Hotels",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.3633255,
+                "longitude": 11.0977151
+            },
+            "locationGUID": "adb82dd5-26ff-4cf1-aac2-a9117c3eb3ae",
+            "maxPowerKw": 22,
+            "name": "Pineta Naturalmente Hotels",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

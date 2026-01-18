@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "McMinnville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97128",
+                "postalExt": null,
+                "state": "OR",
+                "street": "NE Ford St",
+                "streetNumber": "375"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.210615,
+                "longitude": -123.193301
+            },
+            "commonSiteName": "Atticus Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.210615,
+                "longitude": -123.193301
+            },
+            "locationGUID": "a3df8e11-aa33-4523-b709-56f01c6633c5",
+            "maxPowerKw": 8,
+            "name": "Atticus Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

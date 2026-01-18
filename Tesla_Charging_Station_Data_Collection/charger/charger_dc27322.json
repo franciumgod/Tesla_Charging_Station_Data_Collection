@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jerte",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10612",
+                "postalExt": null,
+                "state": "Extremadura",
+                "street": "Calle Ramon Cepeda",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.223586,
+                "longitude": -5.747544
+            },
+            "commonSiteName": "Hospedería Valle Del Jerte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.223586,
+                "longitude": -5.747544
+            },
+            "locationGUID": "0a020c97-2ad5-4c93-9547-85741358e2d6",
+            "maxPowerKw": 22,
+            "name": "Hospedería Valle Del Jerte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

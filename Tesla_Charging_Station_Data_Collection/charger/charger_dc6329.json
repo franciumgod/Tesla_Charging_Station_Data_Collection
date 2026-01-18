@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Shinjuku",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "160",
+                "postalExt": "0023",
+                "state": "Tokyo",
+                "street": "Nishi shinjuku",
+                "streetNumber": "6-6-2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.6925592,
+                "longitude": 139.691135
+            },
+            "commonSiteName": "ヒルトン東京",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.6925592,
+                "longitude": 139.691135
+            },
+            "locationGUID": "9422aeb9-fd8b-4805-8443-dd236f2d7538",
+            "maxPowerKw": 13,
+            "name": "Hilton Tokyo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

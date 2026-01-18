@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paso Robles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93446",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Marquita Ave",
+                "streetNumber": "470"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.574613,
+                "longitude": -120.689693
+            },
+            "commonSiteName": "Giornata",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.574613,
+                "longitude": -120.689693
+            },
+            "locationGUID": "29b15f7a-e2a1-4d59-8b87-a4fa89e5c59f",
+            "maxPowerKw": 16,
+            "name": "Giornata",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

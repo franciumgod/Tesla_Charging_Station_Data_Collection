@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Les Houches",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74310",
+                "postalExt": null,
+                "state": null,
+                "street": "Avenue des Alpages",
+                "streetNumber": "1476"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.8975668,
+                "longitude": 6.81525024
+            },
+            "commonSiteName": "Rockypop Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.8975668,
+                "longitude": 6.81525024
+            },
+            "locationGUID": "9ed0bfee-6ec2-4ecc-ad1c-1a32614febad",
+            "maxPowerKw": 11,
+            "name": "Rockypop Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

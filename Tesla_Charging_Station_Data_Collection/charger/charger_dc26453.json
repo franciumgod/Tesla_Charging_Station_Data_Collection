@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H3G 1V9",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Drummond St",
+                "streetNumber": "1440"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.499121,
+                "longitude": -73.575765
+            },
+            "commonSiteName": "Le Mount Stephen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.499121,
+                "longitude": -73.575765
+            },
+            "locationGUID": "05b33562-0415-4a13-805e-0b27501dcff2",
+            "maxPowerKw": 14,
+            "name": "Le Mount Stephen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 7,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Goderich",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N7A 3Y1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Saltford Rd",
+                "streetNumber": "34031"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.751467,
+                "longitude": -81.6973442
+            },
+            "commonSiteName": "Samuels Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.751467,
+                "longitude": -81.6973442
+            },
+            "locationGUID": "1dc26cc4-c624-4220-baaf-b2397e8c2f9f",
+            "maxPowerKw": 13,
+            "name": "Samuels Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Custer",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "57730",
+                "postalExt": null,
+                "state": "SD",
+                "street": "N Fifth St",
+                "streetNumber": "855"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.774591,
+                "longitude": -103.608451
+            },
+            "commonSiteName": "Bavarian Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.774591,
+                "longitude": -103.608451
+            },
+            "locationGUID": "7fd625f6-49df-4fad-abe6-6e27e25f31f0",
+            "maxPowerKw": 8,
+            "name": "Bavarian Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

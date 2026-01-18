@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atlantic City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08401",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "& Brigantine Blvd",
+                "streetNumber": "Huron Ave"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.379335,
+                "longitude": -74.427382
+            },
+            "commonSiteName": "Golden Nugget Casino Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.379335,
+                "longitude": -74.427382
+            },
+            "locationGUID": "1f92a56c-049d-4515-b9b0-02d8919b303d",
+            "maxPowerKw": 16,
+            "name": "Golden Nugget Casino Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lyon",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69004",
+                "postalExt": null,
+                "state": "Rhône-Alpes",
+                "street": "Quai Joseph Gillet",
+                "streetNumber": "85"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.788991,
+                "longitude": 4.820102
+            },
+            "commonSiteName": "Hôtel Lyon Métropole",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.788991,
+                "longitude": 4.820102
+            },
+            "locationGUID": "b2157bd0-924d-44dc-b7f6-2054250466c4",
+            "maxPowerKw": 22,
+            "name": "Hôtel Lyon Métropole",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

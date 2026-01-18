@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "North Hatley",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0B 2C0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Hovey",
+                "streetNumber": "575"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.263853,
+                "longitude": -71.995409
+            },
+            "commonSiteName": "Manoir Hovey",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.263853,
+                "longitude": -71.995409
+            },
+            "locationGUID": "119f3030-8300-44d5-9750-daf04cd6cd25",
+            "maxPowerKw": 16,
+            "name": "Manoir Hovey",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

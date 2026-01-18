@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Highlands",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28741",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Main St",
+                "streetNumber": "205"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.053664,
+                "longitude": -83.200657
+            },
+            "commonSiteName": "The Park on Main",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.053664,
+                "longitude": -83.200657
+            },
+            "locationGUID": "cb2c9762-74bc-4301-8738-8324a71cf36c",
+            "maxPowerKw": 10,
+            "name": "The Park on Main",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

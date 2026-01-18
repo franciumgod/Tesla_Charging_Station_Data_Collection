@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Levico Terme",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38056",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale VIttorio Emanuele III",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.015442,
+                "longitude": 11.295516
+            },
+            "commonSiteName": "BellaVista Relax srl",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.015442,
+                "longitude": 11.295516
+            },
+            "locationGUID": "d80ab8fa-3af5-42c2-8f11-b620d124a655",
+            "maxPowerKw": 22,
+            "name": "BellaVista Relax srl",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

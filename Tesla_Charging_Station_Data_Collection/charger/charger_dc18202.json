@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Woking",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "GU23 6BB",
+                "postalExt": null,
+                "state": "Surrey",
+                "street": "High Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.301481,
+                "longitude": -0.489212
+            },
+            "commonSiteName": "The Talbot Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.301481,
+                "longitude": -0.489212
+            },
+            "locationGUID": "a890b38a-f4fe-4599-8d41-59c6dd4c10eb",
+            "maxPowerKw": 7,
+            "name": "The Talbot Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

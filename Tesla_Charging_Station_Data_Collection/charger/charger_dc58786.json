@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gizycko",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11",
+                "postalExt": "500",
+                "state": null,
+                "street": "Sw. Brunona",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.035583,
+                "longitude": 21.760281
+            },
+            "commonSiteName": "Hotel St. Bruno",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.035583,
+                "longitude": 21.760281
+            },
+            "locationGUID": "8b44f08c-ad79-4e59-a81d-ed4c5ca20659",
+            "maxPowerKw": 11,
+            "name": "Hotel St. Bruno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

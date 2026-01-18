@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Helmstadt",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "97264",
+                "postalExt": null,
+                "state": null,
+                "street": "Würzurger Strasse",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.760274,
+                "longitude": 9.710652
+            },
+            "commonSiteName": "Akzent Hotel Krone",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.760274,
+                "longitude": 9.710652
+            },
+            "locationGUID": "c8988c74-1ae9-4a96-9c88-aec044d4c53b",
+            "maxPowerKw": 11,
+            "name": "Akzent Hotel Krone",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bathurst",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2795",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Howick Street",
+                "streetNumber": "Level 1, 121"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.418442,
+                "longitude": 149.582859
+            },
+            "commonSiteName": "Bathurst Central",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.418442,
+                "longitude": 149.582859
+            },
+            "locationGUID": "d201d863-9316-4256-bdf0-0986d69d3f78",
+            "maxPowerKw": 7,
+            "name": "Bathurst Central",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

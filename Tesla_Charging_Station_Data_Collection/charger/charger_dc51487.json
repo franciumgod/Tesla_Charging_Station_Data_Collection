@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M1G 3T8",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Progress Ave",
+                "streetNumber": "941"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.787012,
+                "longitude": -79.228328
+            },
+            "commonSiteName": "Centennial College SETAS/AMAT Solar Carport Lot 5",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.787012,
+                "longitude": -79.228328
+            },
+            "locationGUID": "1bdb5efb-e159-4ac7-bd31-1f48ec6411a6",
+            "maxPowerKw": 11,
+            "name": "Centennial College SETAS/AMAT Solar Carport Lot 5",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

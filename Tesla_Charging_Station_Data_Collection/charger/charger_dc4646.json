@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Savannah",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31401",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Drayton St",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.067258,
+                "longitude": -81.094412
+            },
+            "commonSiteName": "Mansion on Forsyth Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.067258,
+                "longitude": -81.094412
+            },
+            "locationGUID": "01df9c6d-8369-41d3-b197-d57d208185f6",
+            "maxPowerKw": 8,
+            "name": "Mansion on Forsyth Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

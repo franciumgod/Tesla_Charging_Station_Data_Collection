@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Amenia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "12501",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Leedsville Rd",
+                "streetNumber": "515"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.853424,
+                "longitude": -73.51334
+            },
+            "commonSiteName": "Troutbeck",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.853424,
+                "longitude": -73.51334
+            },
+            "locationGUID": "f46149e2-7f04-4334-bdde-ba790aed71bb",
+            "maxPowerKw": 16,
+            "name": "Troutbeck",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waidhofen an der Ybbs",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3340",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Schlossplatz",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.962856,
+                "longitude": 14.775617
+            },
+            "commonSiteName": "Das Schloss an der Eisenstrasse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.962856,
+                "longitude": 14.775617
+            },
+            "locationGUID": "d2196f70-435f-47f4-989a-7e6a7f33f2cc",
+            "maxPowerKw": 22,
+            "name": "Das Schloss an der Eisenstrasse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

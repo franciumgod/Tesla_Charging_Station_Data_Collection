@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Cruz",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95060",
+                "postalExt": "9707",
+                "state": "CA",
+                "street": "pine flat rd",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.04223,
+                "longitude": -122.14922
+            },
+            "commonSiteName": "Beauregard Vineyards",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.04223,
+                "longitude": -122.14922
+            },
+            "locationGUID": "23ed93bd-b56b-4b28-b4ed-283627160592",
+            "maxPowerKw": 19,
+            "name": "Beauregard Vineyards",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

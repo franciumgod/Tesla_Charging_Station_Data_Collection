@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Isle of Capri",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4217",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Via Roma",
+                "streetNumber": "15-21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -28.011193,
+                "longitude": 153.424021
+            },
+            "commonSiteName": "Capri on Via Roma",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -28.011193,
+                "longitude": 153.424021
+            },
+            "locationGUID": "0b6b290c-ed53-4c9a-bb12-fd2793f5296c",
+            "maxPowerKw": 22,
+            "name": "Capri on Via Roma",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

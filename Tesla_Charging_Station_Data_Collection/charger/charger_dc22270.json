@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Santiago de Queretaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76100",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Jurica",
+                "streetNumber": "Paseo de Jurica No. 340 LB"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.647339,
+                "longitude": -100.433201
+            },
+            "commonSiteName": "Aires de Campo Queretaro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.647339,
+                "longitude": -100.433201
+            },
+            "locationGUID": "ac3de3f9-d051-483b-b1e0-77e405dbc68b",
+            "maxPowerKw": 12,
+            "name": "Aires de Campo Queretaro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

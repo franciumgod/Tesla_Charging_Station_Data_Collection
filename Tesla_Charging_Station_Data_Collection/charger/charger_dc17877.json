@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Baltimore",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21201",
+                "postalExt": null,
+                "state": "MD",
+                "street": "South Charles St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.284602,
+                "longitude": -76.61595
+            },
+            "commonSiteName": "Sheraton Inner Harbor Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.284602,
+                "longitude": -76.61595
+            },
+            "locationGUID": "9332d605-931c-4161-a58f-fe6c01832621",
+            "maxPowerKw": 10,
+            "name": "Sheraton Inner Harbor Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

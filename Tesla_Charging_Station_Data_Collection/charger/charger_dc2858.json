@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montgomery",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77356",
+                "postalExt": null,
+                "state": "TX",
+                "street": "La Torretta Blvd",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.395505,
+                "longitude": -95.637548
+            },
+            "commonSiteName": "La Torretta Lake Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.395505,
+                "longitude": -95.637548
+            },
+            "locationGUID": "70ab092e-a737-4fcb-ac7b-f46fd900c68c",
+            "maxPowerKw": 8,
+            "name": "La Torretta Lake Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

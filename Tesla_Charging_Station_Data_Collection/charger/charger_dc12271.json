@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cary",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27511",
+                "postalExt": null,
+                "state": "NC",
+                "street": "S Academy St",
+                "streetNumber": "301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.784968,
+                "longitude": -78.780676
+            },
+            "commonSiteName": "The Mayton Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.784968,
+                "longitude": -78.780676
+            },
+            "locationGUID": "7e2e1e91-4b38-4873-a5a4-2970fe5cb210",
+            "maxPowerKw": 16,
+            "name": "The Mayton Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

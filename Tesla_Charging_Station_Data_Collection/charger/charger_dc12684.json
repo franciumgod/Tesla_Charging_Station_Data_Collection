@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Liège",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4000",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Mont Saint Martin",
+                "streetNumber": "9-11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.644982,
+                "longitude": 5.567703
+            },
+            "commonSiteName": "Les Comtes de Mean",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.644982,
+                "longitude": 5.567703
+            },
+            "locationGUID": "05ae4ca8-04d7-4b7e-a741-8501c39c1b1f",
+            "maxPowerKw": 22,
+            "name": "Les Comtes de Mean",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

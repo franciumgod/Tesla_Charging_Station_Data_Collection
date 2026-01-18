@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Szprotawa",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67",
+                "postalExt": "300",
+                "state": null,
+                "street": "Wiechlice",
+                "streetNumber": "45b"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.568061,
+                "longitude": 15.592819
+            },
+            "commonSiteName": "Palac Wiechlice",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.568061,
+                "longitude": 15.592819
+            },
+            "locationGUID": "fb51921d-74ec-4857-80b6-3d47100c8848",
+            "maxPowerKw": 22,
+            "name": "Palac Wiechlice",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

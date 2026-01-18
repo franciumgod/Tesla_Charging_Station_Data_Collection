@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Buford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30518",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Lanier Islands Pkwy",
+                "streetNumber": "7000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.170807,
+                "longitude": -84.006031
+            },
+            "commonSiteName": "Lake Lanier Islands Lodge and Waterpark",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.170807,
+                "longitude": -84.006031
+            },
+            "locationGUID": "d4d97d3e-9a24-457a-9763-d0c1ac454ac0",
+            "maxPowerKw": 16,
+            "name": "Lake Lanier Islands Lodge and Waterpark",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 8,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

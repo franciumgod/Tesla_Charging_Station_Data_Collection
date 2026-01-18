@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64000",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Centro",
+                "streetNumber": "Miguel Hidalgo 310 Ote"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.66618,
+                "longitude": -100.313728
+            },
+            "commonSiteName": "Sheraton Ambassador Monterrey",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.66618,
+                "longitude": -100.313728
+            },
+            "locationGUID": "134b3bb3-363e-45ec-af6c-4d846fe8436c",
+            "maxPowerKw": 9,
+            "name": "Sheraton Ambassador Monterrey",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

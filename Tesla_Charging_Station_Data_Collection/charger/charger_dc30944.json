@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H3A 2N3",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Sherbrooke Ouest",
+                "streetNumber": "1155"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.501572,
+                "longitude": -73.577923
+            },
+            "commonSiteName": "Hotel Sofitel Montreal Golden Mile",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.501572,
+                "longitude": -73.577923
+            },
+            "locationGUID": "a3f56278-6a51-4884-ad7f-3520ed95fb73",
+            "maxPowerKw": 8,
+            "name": "Hotel Sofitel Montreal Golden Mile",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

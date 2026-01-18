@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Davenport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "52803",
+                "postalExt": null,
+                "state": "IA",
+                "street": "W 7th St",
+                "streetNumber": "532"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.526829,
+                "longitude": -90.58126
+            },
+            "commonSiteName": "Beiderbecke Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.526829,
+                "longitude": -90.58126
+            },
+            "locationGUID": "60edfc33-871d-4d9a-bcff-95029a7ae8d1",
+            "maxPowerKw": 13,
+            "name": "Beiderbecke Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

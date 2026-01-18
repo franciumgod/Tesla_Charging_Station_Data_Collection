@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Great Yarmouth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NR30 1EQ",
+                "postalExt": null,
+                "state": "Norfolk",
+                "street": "North Drive",
+                "streetNumber": "13-15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.613105,
+                "longitude": 1.737679
+            },
+            "commonSiteName": "Imperial Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.613105,
+                "longitude": 1.737679
+            },
+            "locationGUID": "fd0d9419-ef18-40f6-9c63-87eda3cf4b15",
+            "maxPowerKw": 11,
+            "name": "Imperial Hotel - Great Yarmouth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

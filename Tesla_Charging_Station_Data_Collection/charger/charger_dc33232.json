@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "N16 5DL",
+                "postalExt": null,
+                "state": null,
+                "street": "45-47 Amhurst ParkStamford Hill",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.574688,
+                "longitude": -0.079415
+            },
+            "commonSiteName": "Amhurst Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.574688,
+                "longitude": -0.079415
+            },
+            "locationGUID": "968c693f-ea2a-4da6-a7a1-482d04960fa6",
+            "maxPowerKw": 6,
+            "name": "Amhurst Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64780",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Las Brisas",
+                "streetNumber": "Avenida Eugenio Garza Sada 6101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.615556,
+                "longitude": -100.27446
+            },
+            "commonSiteName": "Walmart las Torres",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.615556,
+                "longitude": -100.27446
+            },
+            "locationGUID": "bd7cdcbe-56fd-4da4-b0af-549aacbdee1a",
+            "maxPowerKw": 18,
+            "name": "Walmart las Torres",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

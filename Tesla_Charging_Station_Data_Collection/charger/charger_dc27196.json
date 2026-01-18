@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "여주시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "12603",
+                "postalExt": null,
+                "state": "경기도",
+                "street": "산북면 광여로",
+                "streetNumber": "1115"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.401817,
+                "longitude": 127.422181
+            },
+            "commonSiteName": "렉스필드 CC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.401817,
+                "longitude": 127.422181
+            },
+            "locationGUID": "f977cf7a-609a-4cf1-a3d6-6428da6934fb",
+            "maxPowerKw": 16,
+            "name": "Rexfield Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

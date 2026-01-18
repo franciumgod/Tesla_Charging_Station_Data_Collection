@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seguret",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "84110",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Sablet",
+                "streetNumber": "547"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.203409,
+                "longitude": 5.01614622
+            },
+            "commonSiteName": "Domaine de Cabasse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.203409,
+                "longitude": 5.01614622
+            },
+            "locationGUID": "0cfaa12a-7e5e-4edb-a813-c8b9e7c0512b",
+            "maxPowerKw": 11,
+            "name": "Domaine de Cabasse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

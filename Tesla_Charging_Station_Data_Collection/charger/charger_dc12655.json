@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Dunham",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0E 1M0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Bruce",
+                "streetNumber": "1086"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.109722,
+                "longitude": -72.859302
+            },
+            "commonSiteName": "Vignoble de l'Orpailleur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.109722,
+                "longitude": -72.859302
+            },
+            "locationGUID": "6b37536f-f7ea-4eed-a21b-56e4e8aa1d29",
+            "maxPowerKw": 8,
+            "name": "Vignoble de l'Orpailleur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

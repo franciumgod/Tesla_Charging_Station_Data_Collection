@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 32nd St",
+                "streetNumber": "104"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.745603,
+                "longitude": -73.98185
+            },
+            "commonSiteName": "ABM Parking 475 Park Ave South LLC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.745603,
+                "longitude": -73.98185
+            },
+            "locationGUID": "03b4e2be-4b90-4c4e-b41d-438d6536d033",
+            "maxPowerKw": 8,
+            "name": "ABM Parking 475 Park Ave South LLC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

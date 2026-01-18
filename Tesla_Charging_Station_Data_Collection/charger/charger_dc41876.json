@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Dijon",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21000",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de Skopje",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.340056,
+                "longitude": 5.06103
+            },
+            "commonSiteName": "Caves Carrière",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.340056,
+                "longitude": 5.06103
+            },
+            "locationGUID": "7d91339e-83cf-4914-9184-acb55781cc57",
+            "maxPowerKw": 22,
+            "name": "Caves Carrière",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

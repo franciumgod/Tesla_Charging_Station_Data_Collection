@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hawley",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "18428",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Falls Ave",
+                "streetNumber": "119"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.472262,
+                "longitude": -75.171428
+            },
+            "commonSiteName": "Ledges Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.472262,
+                "longitude": -75.171428
+            },
+            "locationGUID": "a29ad1f6-3830-46dd-b3f3-f75e4486d654",
+            "maxPowerKw": 13,
+            "name": "Ledges Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

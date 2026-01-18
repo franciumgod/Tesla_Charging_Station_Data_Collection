@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Paso Robles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93446",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Vinedo Robles Ln",
+                "streetNumber": "3550"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.558868,
+                "longitude": -120.758446
+            },
+            "commonSiteName": "Croad Vineyards and Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.558868,
+                "longitude": -120.758446
+            },
+            "locationGUID": "7fa1a94b-6cf5-4495-849b-51d568977ccc",
+            "maxPowerKw": 16,
+            "name": "Croad Vineyards and Inn",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

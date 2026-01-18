@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Parksville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V9P 2H5",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Beachside Dr",
+                "streetNumber": "181"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.321674,
+                "longitude": -124.315069
+            },
+            "commonSiteName": "The Beach Club Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.321674,
+                "longitude": -124.315069
+            },
+            "locationGUID": "574220c8-2579-4b6b-8e06-4d3c3eaac2df",
+            "maxPowerKw": 16,
+            "name": "The Beach Club Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

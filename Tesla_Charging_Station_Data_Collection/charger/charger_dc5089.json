@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V5Z 2M9",
+                "postalExt": null,
+                "state": "BC",
+                "street": "W 41st Ave",
+                "streetNumber": "650"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.232488,
+                "longitude": -123.119316
+            },
+            "commonSiteName": "Oakridge Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.232488,
+                "longitude": -123.119316
+            },
+            "locationGUID": "f814d9f4-e4a5-40c7-aa46-96d640d79e3b",
+            "maxPowerKw": 6,
+            "name": "Oakridge Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

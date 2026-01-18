@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Highlands",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28741",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Main St",
+                "streetNumber": "445"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.052297,
+                "longitude": -83.196938
+            },
+            "commonSiteName": "Old Edwards Inn and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.052297,
+                "longitude": -83.196938
+            },
+            "locationGUID": "30e13b1e-5f0e-4f8a-92c4-9fc672d5aeac",
+            "maxPowerKw": 16,
+            "name": "Old Edwards Inn and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

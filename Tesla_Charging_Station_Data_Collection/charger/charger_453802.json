@@ -1,0 +1,300 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Sheikh Zayed Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.09375,
+                            0.0625,
+                            0.109375,
+                            0.171875,
+                            0.17708333333333334,
+                            0.1440972222222222,
+                            0.06901041666666667,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.11458333333333334,
+                            0.15625,
+                            0.15625,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.046875,
+                            0.0859375,
+                            0.09375,
+                            0.0859375,
+                            0.0859375,
+                            0.125,
+                            0.140625,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.109375,
+                            0.109375,
+                            0.0859375,
+                            0.11458333333333334,
+                            0.15625,
+                            0.1875,
+                            0.1875,
+                            0.15625,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0.0625,
+                            0.09375,
+                            0.14583333333333334,
+                            0.20937499999999998,
+                            0.234375,
+                            0.225,
+                            0.15625,
+                            0.16666666666666666,
+                            0.15625,
+                            0.14583333333333331,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0859375,
+                            0.125,
+                            0.15625,
+                            0.125,
+                            0.0859375,
+                            0.0859375,
+                            0.125,
+                            0.1875,
+                            0.21875,
+                            0.1484375,
+                            0.125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.0625,
+                            0.10416666666666666,
+                            0.171875,
+                            0.15625,
+                            0.140625,
+                            0.109375,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0.09375,
+                            0.109375,
+                            0.08854166666666667,
+                            0.09375,
+                            0.078125,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.037500000000000006,
+                            0.037500000000000006,
+                            0.025,
+                            0.025,
+                            0.05,
+                            0.0875,
+                            0.11666666666666667,
+                            0.125,
+                            0.13333333333333333,
+                            0.1375,
+                            0.15,
+                            0.12499999999999999,
+                            0.07083333333333333,
+                            0.07500000000000001,
+                            0.05,
+                            0.05,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11028960,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 453802,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "14400s"
+            },
+            "centroid": {
+                "latitude": 25.1167,
+                "longitude": 55.2001
+            },
+            "commonSiteName": "Mall of Emirates",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "AED",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 1.26,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "AED",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 25.116245,
+                "longitude": 55.200416
+            },
+            "locationGUID": "f6bb2234-70fc-4e8e-bea1-ea1991080baf",
+            "maxPowerKw": 250,
+            "name": "Dubai, UAE - Mall of Emirates",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

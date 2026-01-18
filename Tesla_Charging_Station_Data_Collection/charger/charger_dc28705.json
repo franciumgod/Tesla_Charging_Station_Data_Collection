@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8004",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avda Rius i Taulet 1-3",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.372697,
+                "longitude": 2.154707
+            },
+            "commonSiteName": "Hotel Crowne Plaza Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.372697,
+                "longitude": 2.154707
+            },
+            "locationGUID": "ecb8c13a-1961-4989-841e-1958d0574e8e",
+            "maxPowerKw": 11,
+            "name": "Hotel Crowne Plaza Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

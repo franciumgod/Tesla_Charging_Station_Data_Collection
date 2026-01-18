@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Exeter",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "EX2 8XU",
+                "postalExt": null,
+                "state": "Devon",
+                "street": "The Devon Hotel Matford",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.69202,
+                "longitude": -3.517897
+            },
+            "commonSiteName": "The Devon Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.69202,
+                "longitude": -3.517897
+            },
+            "locationGUID": "57ee3aa2-e1ef-4612-a770-215e8a86d111",
+            "maxPowerKw": 7,
+            "name": "The Devon Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

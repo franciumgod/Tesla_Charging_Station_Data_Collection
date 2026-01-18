@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10013",
+                "postalExt": null,
+                "state": "NY",
+                "street": "N Moore St",
+                "streetNumber": "27"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.719869,
+                "longitude": -74.007447
+            },
+            "commonSiteName": "Parkit 27 N Moore Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.719869,
+                "longitude": -74.007447
+            },
+            "locationGUID": "3dd77df7-da47-4be2-80fd-b98b1d0de6d4",
+            "maxPowerKw": 8,
+            "name": "Parkit 27 N Moore Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

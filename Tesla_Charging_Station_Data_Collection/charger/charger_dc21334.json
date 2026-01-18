@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cong",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Ashford Castle",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.534515,
+                "longitude": -9.28492
+            },
+            "commonSiteName": "Ashford Castle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.534515,
+                "longitude": -9.28492
+            },
+            "locationGUID": "d6e34d9d-fe5a-4eba-a334-c9f8e5dbc70c",
+            "maxPowerKw": 7,
+            "name": "Ashford Castle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

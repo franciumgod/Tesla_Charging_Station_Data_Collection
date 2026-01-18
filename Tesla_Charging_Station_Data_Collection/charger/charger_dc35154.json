@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tourgeville",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "14800",
+                "postalExt": null,
+                "state": null,
+                "street": "Chemin de l'Orgueil",
+                "streetNumber": "668"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.31626877,
+                "longitude": 0.09038177
+            },
+            "commonSiteName": "Les Manoirs Tourgeville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.31626877,
+                "longitude": 0.09038177
+            },
+            "locationGUID": "e2c6a967-d557-4a53-b0a2-8b892729d57b",
+            "maxPowerKw": 11,
+            "name": "Les Manoirs Tourgeville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

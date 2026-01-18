@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Candido",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "39038",
+                "postalExt": null,
+                "state": "Trentino-Alto Adige",
+                "street": "Via Pusteria",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.730489,
+                "longitude": 12.230035
+            },
+            "commonSiteName": "Hotel Rosengarten",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.730489,
+                "longitude": 12.230035
+            },
+            "locationGUID": "727d4655-fe0d-45aa-875c-60d8a2aad1b1",
+            "maxPowerKw": 22,
+            "name": "Hotel Rosengarten",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

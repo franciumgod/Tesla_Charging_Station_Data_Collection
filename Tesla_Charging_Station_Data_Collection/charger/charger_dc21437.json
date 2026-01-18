@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grafton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2460",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Fitzroy St",
+                "streetNumber": "27"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -29.694221,
+                "longitude": 152.937853
+            },
+            "commonSiteName": "Fitzroy Motor Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -29.694221,
+                "longitude": 152.937853
+            },
+            "locationGUID": "6f7290f9-c79c-45e7-a128-2256493360a3",
+            "maxPowerKw": 22,
+            "name": "Fitzroy Motor Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

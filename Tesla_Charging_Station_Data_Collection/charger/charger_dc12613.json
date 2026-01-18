@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Springfield",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "65804",
+                "postalExt": null,
+                "state": "MO",
+                "street": "E Republic Rd",
+                "streetNumber": "2110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.136514,
+                "longitude": -93.25634
+            },
+            "commonSiteName": "Houlihan's South",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.136514,
+                "longitude": -93.25634
+            },
+            "locationGUID": "1906cddd-203a-4813-a1c1-59631ac18eb6",
+            "maxPowerKw": 16,
+            "name": "Houlihan's South",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

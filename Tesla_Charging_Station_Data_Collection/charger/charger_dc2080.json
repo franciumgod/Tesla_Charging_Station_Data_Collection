@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94108",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Stockton St",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.7918779,
+                "longitude": -122.4071784
+            },
+            "commonSiteName": "The Ritz-Carlton Hotel San Francisco",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.7918779,
+                "longitude": -122.4071784
+            },
+            "locationGUID": "78293892-82e9-47b3-b1e1-339fa6a16ca9",
+            "maxPowerKw": 8,
+            "name": "The Ritz-Carlton Hotel San Francisco",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

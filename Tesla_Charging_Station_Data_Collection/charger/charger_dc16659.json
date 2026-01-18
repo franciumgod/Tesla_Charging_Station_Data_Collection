@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "La Ferté-Gaucher",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "77320",
+                "postalExt": null,
+                "state": null,
+                "street": "Aérodrome de la Ferté - Pôle de Loisirs Mécaniques Aérosphalte",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.75866667,
+                "longitude": 3.282656
+            },
+            "commonSiteName": "Circuits Automobiles LFG",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.75866667,
+                "longitude": 3.282656
+            },
+            "locationGUID": "aa5f009a-b4ba-4dca-980f-5cd06f5fc57b",
+            "maxPowerKw": 22,
+            "name": "Circuits Automobiles LFG",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Jean-de-Luz",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "64500",
+                "postalExt": null,
+                "state": "Aquitaine",
+                "street": "Rue Cepe",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.3971315,
+                "longitude": -1.65629963
+            },
+            "commonSiteName": "Hôtel Parc Victoria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.3971315,
+                "longitude": -1.65629963
+            },
+            "locationGUID": "86bea971-f0dd-4e22-9a36-bdb252227065",
+            "maxPowerKw": 22,
+            "name": "Hôtel Parc Victoria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

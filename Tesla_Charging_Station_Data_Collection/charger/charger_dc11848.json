@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kingston",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "K7L 3N6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Earl St",
+                "streetNumber": "284"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.228991,
+                "longitude": -76.493536
+            },
+            "commonSiteName": "Queen's Athletics & Recreation Centre (ARC)",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.228991,
+                "longitude": -76.493536
+            },
+            "locationGUID": "bdcc6b1e-baa1-40b1-afd9-e7c82950344a",
+            "maxPowerKw": 16,
+            "name": "Queen's Athletics & Recreation Centre (ARC)",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 16,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

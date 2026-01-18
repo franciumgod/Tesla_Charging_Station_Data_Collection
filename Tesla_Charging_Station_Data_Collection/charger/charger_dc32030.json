@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Victor Harbor",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5211",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "McCracken Dr",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.534346,
+                "longitude": 138.634016
+            },
+            "commonSiteName": "McCracken Country Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.534346,
+                "longitude": 138.634016
+            },
+            "locationGUID": "ff0a2ddd-4119-4cd1-99b5-9214c1c0d521",
+            "maxPowerKw": 22,
+            "name": "McCracken Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

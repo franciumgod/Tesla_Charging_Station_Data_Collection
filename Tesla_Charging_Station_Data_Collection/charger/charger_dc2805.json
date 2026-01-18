@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cary",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27513",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Woodland Pond Dr",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.82945,
+                "longitude": -78.76476
+            },
+            "commonSiteName": "The Umstead Hotel and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.82945,
+                "longitude": -78.76476
+            },
+            "locationGUID": "7f185088-378b-4882-99d6-51b86a094304",
+            "maxPowerKw": 8,
+            "name": "The Umstead Hotel and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

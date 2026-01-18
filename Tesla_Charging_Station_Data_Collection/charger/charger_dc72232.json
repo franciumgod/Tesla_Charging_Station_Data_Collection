@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taree",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2430",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Oxley Street",
+                "streetNumber": "23-25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -31.90289101,
+                "longitude": 152.4773705
+            },
+            "commonSiteName": "Alabaster Motor Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -31.90289101,
+                "longitude": 152.4773705
+            },
+            "locationGUID": "03d99aff-3e80-4ba4-8c45-a70632e1c25d",
+            "maxPowerKw": 22,
+            "name": "Alabaster Motor Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

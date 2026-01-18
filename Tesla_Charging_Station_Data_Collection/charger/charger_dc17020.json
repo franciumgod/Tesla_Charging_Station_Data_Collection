@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lac Beauport",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G3B 0X1",
+                "postalExt": null,
+                "state": "QC",
+                "street": "boulevard du Lac",
+                "streetNumber": "1021"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.937564,
+                "longitude": -71.309059
+            },
+            "commonSiteName": "Archibald Lac Beauport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.937564,
+                "longitude": -71.309059
+            },
+            "locationGUID": "978f3939-134f-4c29-9a30-8bc198136c31",
+            "maxPowerKw": 8,
+            "name": "Archibald Lac Beauport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barth",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18356",
+                "postalExt": null,
+                "state": null,
+                "street": "Hafenstrasse",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.370312,
+                "longitude": 12.722908
+            },
+            "commonSiteName": "Barth Hafen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.370312,
+                "longitude": 12.722908
+            },
+            "locationGUID": "73ec7823-295c-4015-8661-147c761a0715",
+            "maxPowerKw": 22,
+            "name": "Barth Hafen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tsim Sha Tsui",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Kowloon",
+                "street": "Prat Ave",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.2987652,
+                "longitude": 114.1747479
+            },
+            "commonSiteName": "Guang Dong Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.2987652,
+                "longitude": 114.1747479
+            },
+            "locationGUID": "cbe7631b-a396-4e9d-ad3a-9c4f61f93005",
+            "maxPowerKw": 11,
+            "name": "Guang Dong Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

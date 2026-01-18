@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waging am See",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83329",
+                "postalExt": null,
+                "state": null,
+                "street": "Angerpoint",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.940883,
+                "longitude": 12.7508314
+            },
+            "commonSiteName": "Hotel Eichenhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.940883,
+                "longitude": 12.7508314
+            },
+            "locationGUID": "2c1c45dd-71a0-4cf9-b96f-06f6fee0b224",
+            "maxPowerKw": 6,
+            "name": "Hotel Eichenhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

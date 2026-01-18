@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Liege",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4020",
+                "postalExt": null,
+                "state": null,
+                "street": "Esplanade de l'Europe",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.6311265,
+                "longitude": 5.5743027
+            },
+            "commonSiteName": "Congres Hotel Liege",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.6311265,
+                "longitude": 5.5743027
+            },
+            "locationGUID": "a7e076ce-4444-4433-9ee8-84f2e28914da",
+            "maxPowerKw": 22,
+            "name": "Congres Hotel Liege",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

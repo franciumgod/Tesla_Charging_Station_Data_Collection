@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tampa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33607",
+                "postalExt": null,
+                "state": "FL",
+                "street": "George J Bean Pkwy",
+                "streetNumber": "4200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.981481,
+                "longitude": -82.534576
+            },
+            "commonSiteName": "Tampa Airport Marriott",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.981481,
+                "longitude": -82.534576
+            },
+            "locationGUID": "c096afdc-9977-4ea6-9122-4becac4cba65",
+            "maxPowerKw": 16,
+            "name": "Tampa Airport Marriott",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

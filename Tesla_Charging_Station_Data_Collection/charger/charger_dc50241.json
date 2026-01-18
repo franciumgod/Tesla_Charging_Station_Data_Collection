@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Flagstaff",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "86004",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "Golf Club Wy",
+                "streetNumber": "625"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.91427704,
+                "longitude": -111.82287019
+            },
+            "commonSiteName": "Seven Canyons Sedona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.91427704,
+                "longitude": -111.82287019
+            },
+            "locationGUID": "25d07443-1a17-4fc3-8b48-83ef6be39987",
+            "maxPowerKw": 16,
+            "name": "Seven Canyons Sedona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

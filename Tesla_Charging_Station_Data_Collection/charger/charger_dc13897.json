@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Virginia Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23451",
+                "postalExt": null,
+                "state": "VA",
+                "street": "21st St",
+                "streetNumber": "315"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.849186,
+                "longitude": -75.977964
+            },
+            "commonSiteName": "Atrium Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.849186,
+                "longitude": -75.977964
+            },
+            "locationGUID": "085de985-1969-4c8f-bf45-e5364f32a435",
+            "maxPowerKw": 16,
+            "name": "Atrium Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

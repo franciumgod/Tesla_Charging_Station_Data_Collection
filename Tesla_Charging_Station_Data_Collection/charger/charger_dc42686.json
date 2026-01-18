@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "P.O. Box 97555",
+                "postalExt": null,
+                "state": null,
+                "street": "Sheikh Zayed Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.22657817,
+                "longitude": 55.28351724
+            },
+            "commonSiteName": "Fairmont Dubai",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.22657817,
+                "longitude": 55.28351724
+            },
+            "locationGUID": "92154f08-35a6-4d9f-b068-8ecf80c63582",
+            "maxPowerKw": 22,
+            "name": "Fairmont Dubai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

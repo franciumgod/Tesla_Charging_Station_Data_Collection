@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Robe",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5276",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Victoria Street",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.163596,
+                "longitude": 139.758332
+            },
+            "commonSiteName": "Caledonian Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.163596,
+                "longitude": 139.758332
+            },
+            "locationGUID": "e3290dd2-b0c0-4fed-b986-8b7ddaebba3f",
+            "maxPowerKw": 22,
+            "name": "Caledonian Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

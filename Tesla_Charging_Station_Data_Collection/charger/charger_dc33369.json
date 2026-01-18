@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Scheffau am wilden Kaiser",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6351",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorf",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.52658355,
+                "longitude": 12.25026937
+            },
+            "commonSiteName": "Hotel Kaiserlodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.52658355,
+                "longitude": 12.25026937
+            },
+            "locationGUID": "a88438a1-bc6f-4b9f-990e-bec3561ec7a2",
+            "maxPowerKw": 22,
+            "name": "Hotel Kaiserlodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

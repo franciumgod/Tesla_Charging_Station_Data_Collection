@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stralsund",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18437",
+                "postalExt": null,
+                "state": null,
+                "street": "Grunhufer Bogen",
+                "streetNumber": "18-20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.320073,
+                "longitude": 13.045131
+            },
+            "commonSiteName": "Wyndham Stralsund Hansedom",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.320073,
+                "longitude": 13.045131
+            },
+            "locationGUID": "d5b5c7d9-0087-4e08-8190-4de0126ef681",
+            "maxPowerKw": 14,
+            "name": "Wyndham Stralsund Hansedom",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

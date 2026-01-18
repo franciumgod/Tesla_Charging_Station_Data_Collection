@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oakville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L6J 3J3",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Argus Rd",
+                "streetNumber": "590"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.458271,
+                "longitude": -79.685514
+            },
+            "commonSiteName": "Holiday Inn Oakville (Centre)",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.458271,
+                "longitude": -79.685514
+            },
+            "locationGUID": "36348815-7a94-4d59-aec0-db8d3b127541",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Oakville (Centre)",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

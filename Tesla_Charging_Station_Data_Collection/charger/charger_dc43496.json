@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alcobendas",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28108",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Av. de Europs",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.519275,
+                "longitude": -3.656531
+            },
+            "commonSiteName": "Centro Comercial Moraleja Green",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.519275,
+                "longitude": -3.656531
+            },
+            "locationGUID": "11f55228-d351-4a51-9cdf-f3508ecf48e0",
+            "maxPowerKw": 6,
+            "name": "Centro Comercial Moraleja Green",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

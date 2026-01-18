@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Macon",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31201",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Georgia Ave",
+                "streetNumber": "1085"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.841256,
+                "longitude": -83.636497
+            },
+            "commonSiteName": "Burke Mansion",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.841256,
+                "longitude": -83.636497
+            },
+            "locationGUID": "78176279-9ac1-49ec-b1fc-b9f69f536fa4",
+            "maxPowerKw": 10,
+            "name": "Burke Mansion",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32819",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Universal Blvd",
+                "streetNumber": "5800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.47847,
+                "longitude": -81.464687
+            },
+            "commonSiteName": "Hard Rock Hotel at Universal Orlando",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.47847,
+                "longitude": -81.464687
+            },
+            "locationGUID": "dbf4d4f8-6503-4273-b37a-df5541114e3b",
+            "maxPowerKw": 16,
+            "name": "Hard Rock Hotel at Universal Orlando",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

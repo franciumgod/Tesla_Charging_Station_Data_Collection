@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5G 1L7",
+                "postalExt": null,
+                "state": "ON",
+                "street": "University Ave",
+                "streetNumber": "661"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.659,
+                "longitude": -79.389333
+            },
+            "commonSiteName": "MaRS Discovery District",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.659,
+                "longitude": -79.389333
+            },
+            "locationGUID": "66823959-053e-4225-9866-3d50e8ce6707",
+            "maxPowerKw": 16,
+            "name": "MaRS Discovery District",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 26,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

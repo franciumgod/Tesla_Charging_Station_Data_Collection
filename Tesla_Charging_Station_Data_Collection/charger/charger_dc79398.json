@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Granada",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18004",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Plaza del Guitarrista Manuel Cano",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.176648,
+                "longitude": -3.612316
+            },
+            "commonSiteName": "Sercotel Luna de Granada",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.176648,
+                "longitude": -3.612316
+            },
+            "locationGUID": "019fba55-6e24-4a64-a05e-806ab2d092a1",
+            "maxPowerKw": 22,
+            "name": "Sercotel Luna de Granada",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

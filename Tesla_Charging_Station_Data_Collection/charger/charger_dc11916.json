@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bathurst",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2795",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Ophir Rd",
+                "streetNumber": "311"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.39229,
+                "longitude": 149.51767282
+            },
+            "commonSiteName": "Abercrombie House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.39229,
+                "longitude": 149.51767282
+            },
+            "locationGUID": "5d821374-7791-4f03-b59b-930b682c34aa",
+            "maxPowerKw": 22,
+            "name": "Abercrombie House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

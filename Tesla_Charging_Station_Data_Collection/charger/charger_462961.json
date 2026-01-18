@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sharjah",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Al Juraina",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.3025629,
+                "longitude": 55.4964174
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.3025629,
+                "longitude": 55.4964174
+            },
+            "locationGUID": "40b431d7-cf1b-4a2a-88af-294e63f6c1ef",
+            "maxPowerKw": 22,
+            "name": "House of Wisdom",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

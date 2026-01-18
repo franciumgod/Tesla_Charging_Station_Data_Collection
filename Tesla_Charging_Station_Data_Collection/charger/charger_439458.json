@@ -1,0 +1,299 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phuket",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Thalang",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "83110",
+                "postalExt": null,
+                "state": "NA",
+                "street": "Srisoonthorn Rd",
+                "streetNumber": "8, 88 Moo.5"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.046875,
+                            0.0625,
+                            0.0859375,
+                            0.125,
+                            0.20937499999999998,
+                            0.25,
+                            0.253125,
+                            0.21875,
+                            0.2265625,
+                            0.203125,
+                            0.25,
+                            0.25,
+                            0.2125,
+                            0.171875,
+                            0.09375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.140625,
+                            0.19921875,
+                            0.140625,
+                            0.16666666666666666,
+                            0.1875,
+                            0.21875,
+                            0.2265625,
+                            0.203125,
+                            0.1953125,
+                            0.171875,
+                            0.20703125,
+                            0.21875,
+                            0.1875,
+                            0.1953125,
+                            0.15625,
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.09375,
+                            0.171875,
+                            0.1875,
+                            0.1875,
+                            0.125,
+                            0.140625,
+                            0.140625,
+                            0.16666666666666666,
+                            0.1875,
+                            0.203125,
+                            0.171875,
+                            0.171875,
+                            0.21875,
+                            0.1875,
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.08854166666666667,
+                            0.15625,
+                            0.20703125,
+                            0.2708333333333333,
+                            0.296875,
+                            0.234375,
+                            0.10416666666666666,
+                            0.09375,
+                            0.0625,
+                            0.1484375,
+                            0.203125,
+                            0.1875,
+                            0.125,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.025,
+                            0.03125,
+                            0.146875,
+                            0.21875,
+                            0.23124999999999998,
+                            0.20703125,
+                            0.234375,
+                            0.234375,
+                            0.2265625,
+                            0.203125,
+                            0.21875,
+                            0.203125,
+                            0.1875,
+                            0.10416666666666666,
+                            0.09375,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0859375,
+                            0.1484375,
+                            0.23125,
+                            0.265625,
+                            0.20937499999999998,
+                            0.16666666666666666,
+                            0.125,
+                            0.21875,
+                            0.1875,
+                            0.25,
+                            0.234375,
+                            0.16796875,
+                            0.08854166666666667,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.025,
+                            0.05,
+                            0.1,
+                            0.1375,
+                            0.20625,
+                            0.225,
+                            0.225,
+                            0.21666666666666667,
+                            0.225,
+                            0.20416666666666666,
+                            0.1125,
+                            0.13333333333333333,
+                            0.15,
+                            0.2,
+                            0.15,
+                            0.09166666666666666,
+                            0.037500000000000006,
+                            0.07500000000000001,
+                            0.05,
+                            0.05,
+                            0,
+                            0,
+                            0.025,
+                            0.025
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11000344,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 439458,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 7.980326,
+                "longitude": 98.362737
+            },
+            "commonSiteName": "Robinson Lifestyle",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 7.71,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 7.98035608,
+                "longitude": 98.36279162
+            },
+            "locationGUID": "a09927f7-f046-4f3f-98e2-29b9a426b3c0",
+            "maxPowerKw": 250,
+            "name": "Phuket, Thailand - Robinson Lifestyle Thalang",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

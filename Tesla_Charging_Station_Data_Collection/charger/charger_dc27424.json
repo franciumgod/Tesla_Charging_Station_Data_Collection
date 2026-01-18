@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Elgin",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "IV30 1NY",
+                "postalExt": null,
+                "state": "Moray",
+                "street": "2 Mayne Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.64584289,
+                "longitude": -3.31916947
+            },
+            "commonSiteName": "The Mansefield Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.64584289,
+                "longitude": -3.31916947
+            },
+            "locationGUID": "7ba33b38-2704-493b-aea9-1afbb80f23cd",
+            "maxPowerKw": 7,
+            "name": "The Mansefield Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Berg im Drautal",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9771",
+                "postalExt": null,
+                "state": null,
+                "street": "17-Krauterweg",
+                "streetNumber": "43"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.748803,
+                "longitude": 13.14511
+            },
+            "commonSiteName": "Hotel Glocknerhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.748803,
+                "longitude": 13.14511
+            },
+            "locationGUID": "1df541db-4f79-4652-93e7-0a9f38a5b072",
+            "maxPowerKw": 22,
+            "name": "Hotel Glocknerhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

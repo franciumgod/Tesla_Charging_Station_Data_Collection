@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mountain Village",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81435",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Mountain Village Blvd",
+                "streetNumber": "457"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.933296,
+                "longitude": -107.851414
+            },
+            "commonSiteName": "Mountain Lodge Telluride",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.933296,
+                "longitude": -107.851414
+            },
+            "locationGUID": "c4b0fe63-7b47-488f-8615-33f315908b3f",
+            "maxPowerKw": 16,
+            "name": "Mountain Lodge Telluride",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

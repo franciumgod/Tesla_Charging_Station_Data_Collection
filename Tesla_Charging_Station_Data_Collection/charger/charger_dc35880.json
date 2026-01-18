@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vysoke Tatry",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "06201",
+                "postalExt": null,
+                "state": null,
+                "street": "Novy Smokovec",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.13931,
+                "longitude": 20.21593
+            },
+            "commonSiteName": "APLEND Vila Olívia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.13931,
+                "longitude": 20.21593
+            },
+            "locationGUID": "b40c6e62-a52e-41e0-9f0b-f94cbf5b0a6d",
+            "maxPowerKw": 11,
+            "name": "APLEND Vila Olívia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

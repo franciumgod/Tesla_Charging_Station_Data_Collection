@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cleveland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44113",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Main Ave",
+                "streetNumber": "1148"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.498136,
+                "longitude": -81.707145
+            },
+            "commonSiteName": "Shooters on the Water",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.498136,
+                "longitude": -81.707145
+            },
+            "locationGUID": "aaecb307-c42b-4897-a063-505bcb6f81a6",
+            "maxPowerKw": 16,
+            "name": "Shooters on the Water",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

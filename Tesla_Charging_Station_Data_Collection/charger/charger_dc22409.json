@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Trento",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38122",
+                "postalExt": null,
+                "state": null,
+                "street": "Piazza Dante",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.070975,
+                "longitude": 11.121669
+            },
+            "commonSiteName": "Grand Hotel Trento",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.070975,
+                "longitude": 11.121669
+            },
+            "locationGUID": "0a46c6d1-e9f1-4669-b058-aee7923d3268",
+            "maxPowerKw": 22,
+            "name": "Grand Hotel Trento",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

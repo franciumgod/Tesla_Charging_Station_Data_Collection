@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Venezia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30173",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Passo Campalto",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.480228,
+                "longitude": 12.29814
+            },
+            "commonSiteName": "Trattoria Al passo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.480228,
+                "longitude": 12.29814
+            },
+            "locationGUID": "7469d3ec-44d8-411d-bac8-41a5cdf1ba96",
+            "maxPowerKw": 17,
+            "name": "Trattoria Al passo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

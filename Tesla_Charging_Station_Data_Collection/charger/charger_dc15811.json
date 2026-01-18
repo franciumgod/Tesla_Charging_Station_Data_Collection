@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phoenix",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85034",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Washington St",
+                "streetNumber": "4300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.448829,
+                "longitude": -111.988517
+            },
+            "commonSiteName": "Crowne Plaza Phoenix Airport Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.448829,
+                "longitude": -111.988517
+            },
+            "locationGUID": "dfa270a3-5f6d-407a-a16b-4831009958fe",
+            "maxPowerKw": 8,
+            "name": "Crowne Plaza Phoenix Airport Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

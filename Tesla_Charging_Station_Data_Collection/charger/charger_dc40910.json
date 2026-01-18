@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waterloo",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N2T 0A6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "The Boardwalk",
+                "streetNumber": "235"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.435851,
+                "longitude": -80.562444
+            },
+            "commonSiteName": "The Boardwalk",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.435851,
+                "longitude": -80.562444
+            },
+            "locationGUID": "f611c71a-7042-4699-aa77-1e446a4f976e",
+            "maxPowerKw": 8,
+            "name": "The Boardwalk",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

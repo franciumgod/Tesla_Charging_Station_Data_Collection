@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Graeagle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "96103",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Hwy 70",
+                "streetNumber": "72056"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.793039,
+                "longitude": -120.531491
+            },
+            "commonSiteName": "Chalet View Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.793039,
+                "longitude": -120.531491
+            },
+            "locationGUID": "bf0bbe7d-5fd5-4475-8b49-bc267f66f3b4",
+            "maxPowerKw": 8,
+            "name": "Chalet View Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

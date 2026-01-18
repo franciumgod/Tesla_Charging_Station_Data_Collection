@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chorey-les-Beaune",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21200",
+                "postalExt": null,
+                "state": null,
+                "street": "D974",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.052437,
+                "longitude": 4.857221
+            },
+            "commonSiteName": "L' Ermitage de Corton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.052437,
+                "longitude": 4.857221
+            },
+            "locationGUID": "c2acc67a-40b5-4967-b686-5dfa514aff98",
+            "maxPowerKw": 17,
+            "name": "L' Ermitage de Corton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

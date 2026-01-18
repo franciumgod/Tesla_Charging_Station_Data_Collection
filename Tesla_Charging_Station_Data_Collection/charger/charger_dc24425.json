@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lucca",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "55100",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Romana",
+                "streetNumber": "1247"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.844908,
+                "longitude": 10.533249
+            },
+            "commonSiteName": "Grand Hotel Guinigi",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.844908,
+                "longitude": 10.533249
+            },
+            "locationGUID": "242cbbb9-d0f9-49a9-89c8-7a887dad5dff",
+            "maxPowerKw": 22,
+            "name": "Grand Hotel Guinigi",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

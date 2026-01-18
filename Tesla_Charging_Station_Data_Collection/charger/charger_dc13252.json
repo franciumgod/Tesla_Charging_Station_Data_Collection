@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tsim Sha Tsui",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Kowloon",
+                "street": "Observatory Rd",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.3011139,
+                "longitude": 114.175939
+            },
+            "commonSiteName": "Observatory Road 8",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.3011139,
+                "longitude": 114.175939
+            },
+            "locationGUID": "76b06f09-d5ad-48ec-9a6a-61a86adfdbad",
+            "maxPowerKw": 12,
+            "name": "Observatory Road 8",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

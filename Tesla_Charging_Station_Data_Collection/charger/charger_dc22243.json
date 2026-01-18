@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cancale",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "35260",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue des Rimains",
+                "streetNumber": "62"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.642833,
+                "longitude": -1.871841
+            },
+            "commonSiteName": "Les Maisons de Bricourt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.642833,
+                "longitude": -1.871841
+            },
+            "locationGUID": "05940d96-6f16-46d8-8b0d-c2e59c92154f",
+            "maxPowerKw": 14,
+            "name": "Les Maisons de Bricourt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

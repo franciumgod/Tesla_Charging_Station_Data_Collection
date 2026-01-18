@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98121",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Alaskan Way",
+                "streetNumber": "2100"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.610845,
+                "longitude": -122.347258
+            },
+            "commonSiteName": "Seattle Marriott Waterfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.610845,
+                "longitude": -122.347258
+            },
+            "locationGUID": "1bb1382a-4ec6-4ab7-9d52-2ef25ace94ea",
+            "maxPowerKw": 16,
+            "name": "Seattle Marriott Waterfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

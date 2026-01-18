@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Avon",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81620",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Prater Rd",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.633279,
+                "longitude": -106.533438
+            },
+            "commonSiteName": "Beaver Creek Landing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.633279,
+                "longitude": -106.533438
+            },
+            "locationGUID": "ab6c557b-c3ef-4df8-a81b-08ffc2375f5b",
+            "maxPowerKw": 8,
+            "name": "Beaver Creek Landing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

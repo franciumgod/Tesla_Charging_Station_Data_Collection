@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Exford",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TA24 7PY",
+                "postalExt": null,
+                "state": "Somerset",
+                "street": "Exmoor National Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.133114,
+                "longitude": -3.641299
+            },
+            "commonSiteName": "The Exmoor White Horse Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.133114,
+                "longitude": -3.641299
+            },
+            "locationGUID": "13536e7b-f1b9-4801-bdbc-5e673cdc265a",
+            "maxPowerKw": 13,
+            "name": "The Exmoor White Horse Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ocean City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21842",
+                "postalExt": null,
+                "state": "MD",
+                "street": "Coastal Hwy",
+                "streetNumber": "6600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.389613,
+                "longitude": -75.064479
+            },
+            "commonSiteName": "Holiday Inn Oceanfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.389613,
+                "longitude": -75.064479
+            },
+            "locationGUID": "ccbb93f4-3629-4a2d-901c-87b05a0d56b7",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Oceanfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

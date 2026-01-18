@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Genova",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "16128",
+                "postalExt": null,
+                "state": null,
+                "street": "Calata Molo Vecchio",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.407242,
+                "longitude": 8.924711
+            },
+            "commonSiteName": "Porto Antico di Genova",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.407242,
+                "longitude": 8.924711
+            },
+            "locationGUID": "d093f0ee-bfd2-4680-816d-2e37ba07cac0",
+            "maxPowerKw": 6,
+            "name": "Porto Antico di Genova",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

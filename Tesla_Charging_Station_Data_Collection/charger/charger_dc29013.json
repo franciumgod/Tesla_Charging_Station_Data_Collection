@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Abu Dhabi",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Khor Al Maqta'a",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.40121,
+                "longitude": 54.474611
+            },
+            "commonSiteName": "Air Force Officers Club & Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.40121,
+                "longitude": 54.474611
+            },
+            "locationGUID": "bd5e0b60-28e2-4887-bfa2-c8c3acafd92e",
+            "maxPowerKw": 13,
+            "name": "Air Force Officers Club & Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

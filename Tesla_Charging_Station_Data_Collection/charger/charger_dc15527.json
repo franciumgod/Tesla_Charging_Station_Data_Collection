@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lana",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "39011",
+                "postalExt": null,
+                "state": null,
+                "street": "Schmiedgasse",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.613873,
+                "longitude": 11.148235
+            },
+            "commonSiteName": "Hotel Schwarzschmied",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.613873,
+                "longitude": 11.148235
+            },
+            "locationGUID": "6a591b92-1648-477e-b619-7382ba932787",
+            "maxPowerKw": 22,
+            "name": "Hotel Schwarzschmied",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

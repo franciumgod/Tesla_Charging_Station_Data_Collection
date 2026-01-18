@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8010",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Gran Via de les Corts Catalanes",
+                "streetNumber": "647"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.39277,
+                "longitude": 2.171705
+            },
+            "commonSiteName": "Gran Hotel Havana",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.39277,
+                "longitude": 2.171705
+            },
+            "locationGUID": "81cb8e24-d734-4255-bb4e-b5371cbded00",
+            "maxPowerKw": 14,
+            "name": "Gran Hotel Havana",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

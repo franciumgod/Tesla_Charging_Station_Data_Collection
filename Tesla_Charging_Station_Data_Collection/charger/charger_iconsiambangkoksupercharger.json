@@ -1,0 +1,337 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 7
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bangkok",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": null,
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "10600",
+                "postalExt": null,
+                "state": "NA",
+                "street": "Soi Charoen Nakhon 5",
+                "streetNumber": "299"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.03749999999999999,
+                            0.05937499999999998,
+                            0.15,
+                            0.21590909090909088,
+                            0.25625000000000003,
+                            0.27403846153846156,
+                            0.28750000000000003,
+                            0.2605769230769231,
+                            0.21761363636363634,
+                            0.1875,
+                            0.16796875,
+                            0.14107142857142857,
+                            0.11874999999999997,
+                            0.09249999999999999,
+                            0.04999999999999999,
+                            0.024999999999999994,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.024999999999999994,
+                            0.04166666666666666,
+                            0.16250000000000003,
+                            0.225,
+                            0.22499999999999998,
+                            0.16666666666666666,
+                            0.159375,
+                            0.2132497541789577,
+                            0.2791666666666667,
+                            0.27239429695181905,
+                            0.24784989316239314,
+                            0.22916666666666669,
+                            0.17261473429951693,
+                            0.09505327245053274,
+                            0.024999999999999994,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.075,
+                            0.11875,
+                            0.19305555555555556,
+                            0.24352477477477477,
+                            0.2729166666666667,
+                            0.2822072072072072,
+                            0.275,
+                            0.2572916666666667,
+                            0.23875000000000002,
+                            0.2572916666666667,
+                            0.2625,
+                            0.2,
+                            0.11875,
+                            0.04999999999999999,
+                            0.024999999999999994,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.04999999999999999,
+                            0.09999999999999999,
+                            0.18499999999999997,
+                            0.2270833333333333,
+                            0.24198232323232322,
+                            0.2637152777777777,
+                            0.2895833333333333,
+                            0.24814814814814817,
+                            0.21086601307189543,
+                            0.17904942279942282,
+                            0.22685866013071898,
+                            0.22708333333333333,
+                            0.15897331154684094,
+                            0.061594202898550734,
+                            0.026388888888888892,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.05,
+                            0.08333333333333334,
+                            0.13125,
+                            0.18124999999999997,
+                            0.2125,
+                            0.22499999999999998,
+                            0.1791666666666667,
+                            0.1375,
+                            0.14861111111111108,
+                            0.19749999999999998,
+                            0.23124999999999998,
+                            0.2025,
+                            0.1306423611111111,
+                            0.08640350877192982,
+                            0.018749999999999996,
+                            0.012499999999999997,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.024999999999999994,
+                            0.051051051051051045,
+                            0.07708333333333334,
+                            0.12867521367521367,
+                            0.12916666666666665,
+                            0.15841880341880343,
+                            0.16638888888888886,
+                            0.18125,
+                            0.15666666666666665,
+                            0.16540327978580988,
+                            0.17986111111111108,
+                            0.13681392235609102,
+                            0.07122584541062801,
+                            0.024999999999999994,
+                            0.012499999999999997,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.04222222222222222,
+                            0.09855072463768115,
+                            0.16388888888888886,
+                            0.16892512077294686,
+                            0.14159817351598172,
+                            0.1264236111111111,
+                            0.13249999999999995,
+                            0.14999999999999997,
+                            0.15499999999999997,
+                            0.16599999999999998,
+                            0.19416666666666665,
+                            0.2525,
+                            0.24,
+                            0.15875000000000003,
+                            0.0375,
+                            0.009999999999999998,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 9319,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 4006806,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 13.727102,
+                "longitude": 100.5102
+            },
+            "commonSiteName": "ICONSIAM",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 8.03,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 13.72755576,
+                "longitude": 100.50909148
+            },
+            "locationGUID": "6e6b1edf-a9d6-4d10-af4b-6f1709464b8f",
+            "maxPowerKw": 250,
+            "name": "Bangkok, Thailand - ICONSIAM",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

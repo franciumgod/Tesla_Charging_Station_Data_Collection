@@ -1,0 +1,84 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Taitung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "卑南鄉",
+                "navRegion": "tw",
+                "nearestEntrance": "富源潭行館",
+                "postalCode": "954",
+                "postalExt": null,
+                "state": "Taitung",
+                "street": "富源路",
+                "streetNumber": "165號"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.830419,
+                "longitude": 121.151713
+            },
+            "commonSiteName": "富源潭行館",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.5,
+                    "rateMinTier2": 0,
+                    "rateMinTier3": 0,
+                    "rateMinTier4": 0,
+                    "rateTier1": 0.5,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 22.830419,
+                "longitude": 121.151713
+            },
+            "locationGUID": "b5bda05e-9f6c-413a-bfdb-cefd75cb904d",
+            "maxPowerKw": 19,
+            "name": "富源潭行館",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

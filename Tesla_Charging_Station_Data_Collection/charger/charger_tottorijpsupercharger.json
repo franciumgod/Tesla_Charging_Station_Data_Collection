@@ -1,0 +1,293 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tottori",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": "Sakaemachi",
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "680",
+                "postalExt": "0831",
+                "state": "Tottori",
+                "street": "Sakaemachi",
+                "streetNumber": "503"
+            },
+            "amenities": null,
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.09375,
+                            0.0859375,
+                            0.0859375,
+                            0.09375,
+                            0.0859375,
+                            0.0625,
+                            0.0859375,
+                            0.09375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.046875,
+                            0.09375,
+                            0.09375,
+                            0.09375,
+                            0.125,
+                            0.10416666666666666,
+                            0.15625,
+                            0.14583333333333331,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.08854166666666667,
+                            0.140625,
+                            0.16666666666666666,
+                            0.140625,
+                            0.16666666666666669,
+                            0.140625,
+                            0.16666666666666666,
+                            0.15625,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.140625,
+                            0.1875,
+                            0.1875,
+                            0.171875,
+                            0.1953125,
+                            0.23125,
+                            0.234375,
+                            0.17500000000000002,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.078125,
+                            0.0859375
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.09375,
+                            0.125,
+                            0.10416666666666666,
+                            0.09375,
+                            0.03125,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.046875,
+                            0.0625,
+                            0.1171875,
+                            0.171875,
+                            0.1484375,
+                            0.140625,
+                            0.140625,
+                            0.14583333333333331,
+                            0.09375,
+                            0.09375,
+                            0.0625,
+                            0.09375,
+                            0.0859375,
+                            0.0859375,
+                            0.078125,
+                            0.0625,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.025
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.037500000000000006,
+                            0.05,
+                            0.06875,
+                            0.14,
+                            0.2,
+                            0.17000000000000004,
+                            0.09375000000000001,
+                            0.05,
+                            0.025,
+                            0.05,
+                            0.025,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 5444,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 19252,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.497024,
+                "longitude": 134.227903
+            },
+            "commonSiteName": "Sakaemachi Parking",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.49655888,
+                "longitude": 134.22872404
+            },
+            "locationGUID": "190bf988-8ae9-4a3f-8644-ba3fc936ba34",
+            "maxPowerKw": 250,
+            "name": "Tottori, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

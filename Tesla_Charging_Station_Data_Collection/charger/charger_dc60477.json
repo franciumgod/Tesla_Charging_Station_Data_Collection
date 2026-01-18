@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Midleton",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "P25YO70",
+                "postalExt": null,
+                "state": null,
+                "street": "Shanagarry",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.864838,
+                "longitude": -8.074237
+            },
+            "commonSiteName": "Ballymaloe House Hotel & Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.864838,
+                "longitude": -8.074237
+            },
+            "locationGUID": "3132e80f-90be-4b0d-b3a2-fddbf393d17f",
+            "maxPowerKw": 22,
+            "name": "Ballymaloe House Hotel & Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

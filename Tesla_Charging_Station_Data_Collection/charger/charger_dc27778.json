@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tlajomulco de Zuniga",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45643",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "La Rioja, Los Gavilanes",
+                "streetNumber": "Av. Adolfo Lopez Mateos Sur 7000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.56986,
+                "longitude": -103.457245
+            },
+            "commonSiteName": "Urban Center Guadalajara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.56986,
+                "longitude": -103.457245
+            },
+            "locationGUID": "3dd7c3c9-8fea-4991-8a6e-147b943dae6c",
+            "maxPowerKw": 18,
+            "name": "Urban Center Guadalajara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

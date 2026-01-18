@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chestertown",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21620",
+                "postalExt": null,
+                "state": "MD",
+                "street": "Cliff Rd",
+                "streetNumber": "10568"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.2687177,
+                "longitude": -76.2025573
+            },
+            "commonSiteName": "Great Oak Manor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.2687177,
+                "longitude": -76.2025573
+            },
+            "locationGUID": "cc68f548-826a-4ea3-b818-26fab211e43a",
+            "maxPowerKw": 16,
+            "name": "Great Oak Manor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

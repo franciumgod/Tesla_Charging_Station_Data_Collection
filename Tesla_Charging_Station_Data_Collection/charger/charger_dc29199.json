@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10025",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Mercer St",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.721437,
+                "longitude": -74.001238
+            },
+            "commonSiteName": "City Parking RL Mercer Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.721437,
+                "longitude": -74.001238
+            },
+            "locationGUID": "4da580b0-eda9-432a-9dc2-5bd78368aa81",
+            "maxPowerKw": 13,
+            "name": "City Parking RL Mercer Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

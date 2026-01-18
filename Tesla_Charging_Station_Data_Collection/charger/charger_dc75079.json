@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Danbury",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "06811",
+                "postalExt": null,
+                "state": "CT",
+                "street": "Mill Plain Rd",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.387479,
+                "longitude": -73.494823
+            },
+            "commonSiteName": "Mill Plain Diner",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.387479,
+                "longitude": -73.494823
+            },
+            "locationGUID": "8e77d8c7-9cfc-413e-9e0a-a78271578df0",
+            "maxPowerKw": 8,
+            "name": "Mill Plain Diner",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

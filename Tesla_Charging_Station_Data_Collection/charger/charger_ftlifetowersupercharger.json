@@ -1,0 +1,528 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:30",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kowloon Bay",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Kowloon",
+                "street": "Sheung Yuet Road",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.2604166666666667,
+                            0.28955314009661837,
+                            0.3122106481481482,
+                            0.3194444444444445,
+                            0.35698784722222227,
+                            0.40625,
+                            0.4444444444444444,
+                            0.4409722222222222,
+                            0.4499007936507936,
+                            0.4409722222222222,
+                            0.38730158730158726,
+                            0.3349358974358974,
+                            0.3410493827160494,
+                            0.3678075396825397,
+                            0.3715277777777778,
+                            0.32539682539682546,
+                            0.2934027777777778,
+                            0.23958333333333337,
+                            0.14393939393939395,
+                            0.04861111111111113,
+                            0,
+                            0,
+                            0.08333333333333333,
+                            0.12916666666666665
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.2319775132275132,
+                            0.29166666666666663,
+                            0.355510752688172,
+                            0.38541666666666674,
+                            0.3716397849462365,
+                            0.3575102880658436,
+                            0.37152777777777773,
+                            0.3785962301587301,
+                            0.3784722222222222,
+                            0.37599206349206343,
+                            0.3852969348659004,
+                            0.40647401433691754,
+                            0.3993055555555556,
+                            0.33333333333333326,
+                            0.25853587962962965,
+                            0.21609477124183005,
+                            0.20833333333333331,
+                            0.1909722222222222,
+                            0.11574074074074076,
+                            0.06944444444444445,
+                            0,
+                            0,
+                            0.09722222222222221,
+                            0.15497076023391812
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.22664141414141414,
+                            0.28381642512077293,
+                            0.3159722222222222,
+                            0.3594835069444444,
+                            0.39583333333333337,
+                            0.44663742690058483,
+                            0.5195035460992908,
+                            0.6244212962962964,
+                            0.6215277777777778,
+                            0.5390625,
+                            0.48976608187134507,
+                            0.4861111111111111,
+                            0.4470029239766082,
+                            0.35842293906810035,
+                            0.2796378968253968,
+                            0.20833333333333331,
+                            0.1923611111111111,
+                            0.1597222222222222,
+                            0.09226190476190474,
+                            0.034722222222222224,
+                            0,
+                            0,
+                            0.06250000000000001,
+                            0.09375000000000003
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.1654265873015873,
+                            0.21296296296296297,
+                            0.2680607463980067,
+                            0.32567233160481823,
+                            0.4030167098285855,
+                            0.49148527912694134,
+                            0.5379623305538954,
+                            0.5273692810457515,
+                            0.46530090023430754,
+                            0.4060368389780154,
+                            0.3784722222222222,
+                            0.3702876984126984,
+                            0.3576388888888889,
+                            0.3350694444444444,
+                            0.2986111111111111,
+                            0.2669082125603865,
+                            0.2177854938271605,
+                            0.16687091503267976,
+                            0.09343434343434347,
+                            0.05295138888888891,
+                            0.0069444444444444475,
+                            0,
+                            0.08333333333333334,
+                            0.13521241830065361
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.18741319444444446,
+                            0.22664141414141412,
+                            0.28743961352657,
+                            0.3209130236794171,
+                            0.34037319762510604,
+                            0.38390921409214096,
+                            0.43931746031746033,
+                            0.4818287037037037,
+                            0.48958333333333337,
+                            0.4685570987654321,
+                            0.40788398692810457,
+                            0.3637992831541219,
+                            0.36111111111111105,
+                            0.3506944444444444,
+                            0.296875,
+                            0.20833333333333334,
+                            0.18096405228758172,
+                            0.12152777777777779,
+                            0.07196969696969698,
+                            0.013888888888888895,
+                            0,
+                            0,
+                            0.10416666666666667,
+                            0.16493055555555555
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.2524801587301587,
+                            0.33365885416666663,
+                            0.38541666666666663,
+                            0.3914292279411765,
+                            0.38479190695886195,
+                            0.41427951388888884,
+                            0.4740853658536585,
+                            0.5347222222222222,
+                            0.5377710027100272,
+                            0.500173611111111,
+                            0.45833333333333337,
+                            0.44305555555555565,
+                            0.40625,
+                            0.3540645424836601,
+                            0.26388888888888884,
+                            0.23809523809523808,
+                            0.1875,
+                            0.14133986928104578,
+                            0.06051587301587304,
+                            0.032638888888888905,
+                            0.0069444444444444475,
+                            0,
+                            0.10416666666666667,
+                            0.18314292114695338
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.28541666666666665,
+                            0.32336601307189544,
+                            0.3388888888888889,
+                            0.38128654970760234,
+                            0.42874396135265697,
+                            0.4888888888888889,
+                            0.5111111111111111,
+                            0.5111111111111111,
+                            0.5027777777777778,
+                            0.4511473429951691,
+                            0.3941860465116279,
+                            0.37948717948717947,
+                            0.37777777777777777,
+                            0.3193019943019943,
+                            0.22577777777777774,
+                            0.19924242424242422,
+                            0.17500000000000002,
+                            0.15216049382716051,
+                            0.08492063492063492,
+                            0.05000000000000001,
+                            0,
+                            0,
+                            0.09444444444444444,
+                            0.1326388888888889
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 2460,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 10499,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 22.321348,
+                "longitude": 114.210079
+            },
+            "commonSiteName": "CTF Life Tower",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2.49,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "08:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2.33,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "04:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "00:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2.95,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "08:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "04:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2.33,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "00:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 4,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 3.48,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "08:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 3.27,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "04:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "00:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 4.12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "08:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "0,1,2,3,4,5,6",
+                    "endTime": "04:00",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": true,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 3.27,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "00:00",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "HKD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 4,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 22.321178,
+                "longitude": 114.210107
+            },
+            "locationGUID": "a0e6d066-338d-45e4-af62-d8967ad801ea",
+            "maxPowerKw": 250,
+            "name": "Kowloon Bay - CTF Life Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 18,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

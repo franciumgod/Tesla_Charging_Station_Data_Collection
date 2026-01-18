@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berlin",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10117",
+                "postalExt": null,
+                "state": null,
+                "street": "Friedrichstraße",
+                "streetNumber": "96"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.519711,
+                "longitude": 13.390212
+            },
+            "commonSiteName": "NH Collection Berlin Friedrichstrasse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.519711,
+                "longitude": 13.390212
+            },
+            "locationGUID": "4e606c39-4ada-45e2-8f1e-45cf57fa3cf4",
+            "maxPowerKw": 11,
+            "name": "NH Collection Berlin Friedrichstrasse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

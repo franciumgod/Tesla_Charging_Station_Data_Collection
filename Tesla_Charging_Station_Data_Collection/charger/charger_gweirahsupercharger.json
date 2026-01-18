@@ -1,0 +1,299 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Quweira",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "00000",
+                "postalExt": null,
+                "state": null,
+                "street": "Desert Highway",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.125,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.125,
+                            0.1875,
+                            0.21875,
+                            0.21875,
+                            0.21875,
+                            0.171875,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.125,
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.25,
+                            0.3333333333333333,
+                            0.36111111111111116,
+                            0.19791666666666666,
+                            0.1875,
+                            0.125,
+                            0.15625,
+                            0.1875,
+                            0.09375,
+                            0.125,
+                            0.22916666666666669,
+                            0.25,
+                            0.17708333333333334,
+                            0.125,
+                            0.17708333333333334
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.15625,
+                            0.34375,
+                            0.34375,
+                            0.296875,
+                            0.21875,
+                            0.296875,
+                            0.40625,
+                            0.4140625,
+                            0.3125,
+                            0.33333333333333337,
+                            0.21875,
+                            0.3125,
+                            0.20833333333333331,
+                            0.3125,
+                            0.29166666666666663,
+                            0.2916666666666667,
+                            0.34375
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.09375,
+                            0.171875,
+                            0.1875,
+                            0.28125,
+                            0.3359375,
+                            0.40625,
+                            0.34375,
+                            0.1875,
+                            0.3125,
+                            0.25,
+                            0.29166666666666663,
+                            0.21875,
+                            0.34375,
+                            0.34375,
+                            0.296875,
+                            0.171875
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.1625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.25,
+                            0.34375,
+                            0.375,
+                            0.3125,
+                            0.28125,
+                            0.296875,
+                            0.34375,
+                            0.2890625,
+                            0.09375,
+                            0.125,
+                            0.125,
+                            0.21875,
+                            0.21875,
+                            0.21875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.21875,
+                            0.25,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.09375,
+                            0.25,
+                            0.28125,
+                            0.3125,
+                            0.33333333333333337,
+                            0.3359375,
+                            0.4375,
+                            0.296875,
+                            0.25,
+                            0.09375,
+                            0.125,
+                            0.09375,
+                            0.1125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.05,
+                            0.05,
+                            0,
+                            0.1,
+                            0.125,
+                            0.1,
+                            0.1,
+                            0.14166666666666666,
+                            0.22499999999999998,
+                            0.2,
+                            0.17500000000000002,
+                            0.175,
+                            0.23333333333333334,
+                            0.275,
+                            0.27499999999999997,
+                            0.2,
+                            0.1,
+                            0.2,
+                            0.2,
+                            0.2,
+                            0.17500000000000002,
+                            0.2,
+                            0.25,
+                            0.16666666666666669
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 693,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 2108,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "10800s"
+            },
+            "centroid": {
+                "latitude": 29.825571,
+                "longitude": 35.332594
+            },
+            "commonSiteName": "Total",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JOD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "free",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JOD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 29.826059,
+                "longitude": 35.331287
+            },
+            "locationGUID": "ce71dc20-d551-48d1-bccd-4dbc9e46f0aa",
+            "maxPowerKw": 130,
+            "name": "Gweirah, Jordan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

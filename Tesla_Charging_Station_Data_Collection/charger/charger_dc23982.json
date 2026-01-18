@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arjang",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67291",
+                "postalExt": null,
+                "state": null,
+                "street": "Sjöviksvägen 91",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.360691,
+                "longitude": 12.27853
+            },
+            "commonSiteName": "Sandaholms Restaurang & Camping",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.360691,
+                "longitude": 12.27853
+            },
+            "locationGUID": "9cc3a5d4-9793-4303-ad08-54eb8e7ae8b8",
+            "maxPowerKw": 22,
+            "name": "Sandaholms Restaurang & Camping",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

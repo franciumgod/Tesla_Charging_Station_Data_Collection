@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32819",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Adventure Wy",
+                "streetNumber": "6550"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.465525,
+                "longitude": -81.473534
+            },
+            "commonSiteName": "Universal's Cabana Bay Beach Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.465525,
+                "longitude": -81.473534
+            },
+            "locationGUID": "61cb2614-66c7-4506-8b86-1e516a21e2bb",
+            "maxPowerKw": 8,
+            "name": "Universal's Cabana Bay Beach Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

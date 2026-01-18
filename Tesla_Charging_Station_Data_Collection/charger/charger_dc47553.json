@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Staten Island",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10305",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Hylan Blvd",
+                "streetNumber": "1650"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.588091,
+                "longitude": -74.089936
+            },
+            "commonSiteName": "Bruno's Bakery and Restaurant Hylan Blvd",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.588091,
+                "longitude": -74.089936
+            },
+            "locationGUID": "5eeff2e8-418b-45ac-9444-487bf97fc2e6",
+            "maxPowerKw": 10,
+            "name": "Bruno's Bakery and Restaurant Hylan Blvd",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Noosa Heads",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4567",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Noosa Dr",
+                "streetNumber": "94"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -26.401028,
+                "longitude": 153.083794
+            },
+            "commonSiteName": "RACV Noosa Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -26.401028,
+                "longitude": 153.083794
+            },
+            "locationGUID": "8f549f83-7755-4b3b-9963-76fb40ef0201",
+            "maxPowerKw": 6,
+            "name": "RACV Noosa Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

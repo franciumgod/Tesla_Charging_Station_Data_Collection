@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10017",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 49th St",
+                "streetNumber": "430"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.752641,
+                "longitude": -73.965187
+            },
+            "commonSiteName": "ABM Parking 866 UN Plaza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.752641,
+                "longitude": -73.965187
+            },
+            "locationGUID": "3d289c98-8e5c-46ad-b599-960b0a154627",
+            "maxPowerKw": 8,
+            "name": "ABM Parking 866 UN Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

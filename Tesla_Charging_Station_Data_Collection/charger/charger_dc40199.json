@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salt Lake City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84116",
+                "postalExt": null,
+                "state": "UT",
+                "street": "N Tommy Thompson Rd",
+                "streetNumber": "52"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.770949,
+                "longitude": -112.001782
+            },
+            "commonSiteName": "Hyatt Place Salt Lake City Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.770949,
+                "longitude": -112.001782
+            },
+            "locationGUID": "eaad1d40-d052-4e21-a2c1-16c02bc70f8f",
+            "maxPowerKw": 13,
+            "name": "Hyatt Place Salt Lake City Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

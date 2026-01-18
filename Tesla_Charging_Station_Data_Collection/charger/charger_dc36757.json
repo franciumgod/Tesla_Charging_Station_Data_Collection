@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Maitland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32751",
+                "postalExt": null,
+                "state": "FL",
+                "street": "N Lake Destiny Rd",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.632069,
+                "longitude": -81.39111
+            },
+            "commonSiteName": "Sheraton Orlando North",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.632069,
+                "longitude": -81.39111
+            },
+            "locationGUID": "d9540108-56f3-4f15-8598-d539d27a41f4",
+            "maxPowerKw": 16,
+            "name": "Sheraton Orlando North",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

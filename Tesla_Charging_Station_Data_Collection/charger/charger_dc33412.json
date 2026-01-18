@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11560",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Lomas de Chapultepec V Secc",
+                "streetNumber": "Av. Paseo de las Palmas 781"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.42923,
+                "longitude": -99.216578
+            },
+            "commonSiteName": "Torre Carso Palmas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.42923,
+                "longitude": -99.216578
+            },
+            "locationGUID": "7a197d58-092c-474c-ab17-a2f2d87042c8",
+            "maxPowerKw": 18,
+            "name": "Torre Carso Palmas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

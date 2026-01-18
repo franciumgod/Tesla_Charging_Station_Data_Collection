@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SW1X 7LA",
+                "postalExt": null,
+                "state": null,
+                "street": "66 Knightsbridge",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.502148,
+                "longitude": -0.159996
+            },
+            "commonSiteName": "Mandarin Oriental Hyde Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.502148,
+                "longitude": -0.159996
+            },
+            "locationGUID": "6d53c9f4-381c-4271-b2f7-28fd6f33cebd",
+            "maxPowerKw": 22,
+            "name": "Mandarin Oriental Hyde Park",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

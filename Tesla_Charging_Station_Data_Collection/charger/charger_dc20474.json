@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toluca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "50000",
+                "postalExt": null,
+                "state": "MEX",
+                "street": "Centro",
+                "streetNumber": "Calle Ignacio Allende Sur #124"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.288437,
+                "longitude": -99.655865
+            },
+            "commonSiteName": "Fiesta Inn Toluca Centro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.288437,
+                "longitude": -99.655865
+            },
+            "locationGUID": "66fa3f03-8dc9-42e3-a981-1acb74ace51a",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Toluca Centro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

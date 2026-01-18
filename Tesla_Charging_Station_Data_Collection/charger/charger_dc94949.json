@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grand Rapids",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55744",
+                "postalExt": null,
+                "state": "MN",
+                "street": "SE 17th St",
+                "streetNumber": "144"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.213323,
+                "longitude": -93.52725
+            },
+            "commonSiteName": "Timberlake Lodge Hotel & 17th Street Grill",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.213323,
+                "longitude": -93.52725
+            },
+            "locationGUID": "c71522f2-a24d-4279-92b3-686a2f8c169d",
+            "maxPowerKw": 16,
+            "name": "Timberlake Lodge Hotel & 17th Street Grill",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

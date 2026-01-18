@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Caorle",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30021",
+                "postalExt": null,
+                "state": null,
+                "street": "Lungomare Trieste",
+                "streetNumber": "66"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.609711,
+                "longitude": 12.898499
+            },
+            "commonSiteName": "Hotel Panoramic",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.609711,
+                "longitude": 12.898499
+            },
+            "locationGUID": "0861e0f5-ff9a-462f-a74c-3843aa32c178",
+            "maxPowerKw": 14,
+            "name": "Hotel Panoramic",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

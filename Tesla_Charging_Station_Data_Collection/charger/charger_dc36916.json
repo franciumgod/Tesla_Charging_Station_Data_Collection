@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Narvik",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8514",
+                "postalExt": null,
+                "state": null,
+                "street": "Kongensgate",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 68.4369965,
+                "longitude": 17.4250748
+            },
+            "commonSiteName": "Parkhallen Parkering",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 68.4369965,
+                "longitude": 17.4250748
+            },
+            "locationGUID": "7171a10d-5ee1-44fc-8b57-35c64178f2cf",
+            "maxPowerKw": 22,
+            "name": "Parkhallen Parkering",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brancaster",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "PE31 8AP",
+                "postalExt": null,
+                "state": null,
+                "street": "Main Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.962966,
+                "longitude": 0.638358
+            },
+            "commonSiteName": "The Ship Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.962966,
+                "longitude": 0.638358
+            },
+            "locationGUID": "dca8e1a0-413b-4a6e-883e-a25ac2bf42e1",
+            "maxPowerKw": 11,
+            "name": "The Ship Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

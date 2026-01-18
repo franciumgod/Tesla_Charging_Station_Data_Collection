@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bairnsdale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3875",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Nicholson Street",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.824451,
+                "longitude": 147.633664
+            },
+            "commonSiteName": "Riversleigh Bairnsdale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.824451,
+                "longitude": 147.633664
+            },
+            "locationGUID": "138aa318-91a2-406c-a73d-e29e4d49900d",
+            "maxPowerKw": 22,
+            "name": "Riversleigh Bairnsdale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

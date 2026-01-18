@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Docklands",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3008",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Docklands Dr",
+                "streetNumber": "440"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.812753,
+                "longitude": 144.939872
+            },
+            "commonSiteName": "Harbour Town Shopping (East Carpark) L2 Yellow",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.812753,
+                "longitude": 144.939872
+            },
+            "locationGUID": "b2f774c2-737e-4149-b6a8-d1ea04633a6e",
+            "maxPowerKw": 22,
+            "name": "Harbour Town Shopping (East Carpark) L2 Yellow",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

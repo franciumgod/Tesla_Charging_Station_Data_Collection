@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Sauveur",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0R 1R3",
+                "postalExt": null,
+                "state": "QC",
+                "street": "chemin du Lac-Millette",
+                "streetNumber": "246"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.890056,
+                "longitude": -74.152924
+            },
+            "commonSiteName": "Manoir Saint-Sauveur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.890056,
+                "longitude": -74.152924
+            },
+            "locationGUID": "0a9c6840-f1ac-434a-b0d9-21012e50f5af",
+            "maxPowerKw": 16,
+            "name": "Manoir Saint-Sauveur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

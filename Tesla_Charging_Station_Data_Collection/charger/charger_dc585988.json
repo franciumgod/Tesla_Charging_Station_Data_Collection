@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "청주시 상당구",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "28195",
+                "postalExt": null,
+                "state": "충청북도",
+                "street": "대신 2길",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.68284382,
+                "longitude": 127.60396694
+            },
+            "commonSiteName": "이븐데일 컨트리클럽",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.689536,
+                "longitude": 127.604601
+            },
+            "locationGUID": "1eb68726-03c7-46dd-ac4c-20596df8e79f",
+            "maxPowerKw": 19,
+            "name": "EvenDale C.C",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

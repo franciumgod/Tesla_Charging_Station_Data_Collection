@@ -1,0 +1,299 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Otsu",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "520",
+                "postalExt": "2101",
+                "state": "Shiga",
+                "street": "Aoyama",
+                "streetNumber": "5-13-1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.140625,
+                            0.1875,
+                            0.2942708333333333,
+                            0.328125,
+                            0.25,
+                            0.21875,
+                            0.23125,
+                            0.28125,
+                            0.26875,
+                            0.25,
+                            0.2916666666666667,
+                            0.3125,
+                            0.2708333333333333,
+                            0.1875,
+                            0.125,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.175
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.171875,
+                            0.20703125,
+                            0.234375,
+                            0.3169642857142857,
+                            0.34375,
+                            0.3169642857142857,
+                            0.234375,
+                            0.2265625,
+                            0.25,
+                            0.25,
+                            0.175,
+                            0.0859375,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.146875,
+                            0.21875
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.234375,
+                            0.26875,
+                            0.26875,
+                            0.3802083333333333,
+                            0.46875,
+                            0.4756944444444445,
+                            0.4756944444444445,
+                            0.515625,
+                            0.5,
+                            0.4375,
+                            0.3214285714285714,
+                            0.28125,
+                            0.2723214285714286,
+                            0.3125,
+                            0.23214285714285715,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.09375,
+                            0.0859375,
+                            0.046875,
+                            0.09375,
+                            0.10416666666666666,
+                            0.171875
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.296875,
+                            0.2875,
+                            0.28125,
+                            0.3392857142857143,
+                            0.375,
+                            0.3571428571428571,
+                            0.2708333333333333,
+                            0.2265625,
+                            0.25,
+                            0.25,
+                            0.25,
+                            0.203125,
+                            0.2265625,
+                            0.21875,
+                            0.20703125,
+                            0.15625,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.09375,
+                            0.109375,
+                            0.125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.08854166666666667,
+                            0.140625,
+                            0.2552083333333333,
+                            0.265625,
+                            0.328125,
+                            0.3125,
+                            0.33072916666666663,
+                            0.33072916666666663,
+                            0.34375,
+                            0.27604166666666663,
+                            0.175,
+                            0.0859375,
+                            0.11458333333333334,
+                            0.140625,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.109375
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.23124999999999998,
+                            0.1875,
+                            0.23124999999999998,
+                            0.2942708333333333,
+                            0.328125,
+                            0.29166666666666663,
+                            0.25,
+                            0.26875,
+                            0.3325892857142857,
+                            0.328125,
+                            0.20535714285714285,
+                            0.09375,
+                            0.08854166666666667,
+                            0.109375,
+                            0.125,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.05
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.07500000000000001,
+                            0.1,
+                            0.1375,
+                            0.21785714285714283,
+                            0.32187499999999997,
+                            0.35,
+                            0.28437500000000004,
+                            0.18500000000000003,
+                            0.17500000000000002,
+                            0.2,
+                            0.25,
+                            0.21666666666666667,
+                            0.15,
+                            0.11666666666666667,
+                            0.08750000000000001,
+                            0.06875,
+                            0.05,
+                            0.05,
+                            0.05,
+                            0.05,
+                            0.037500000000000006,
+                            0.05,
+                            0.025,
+                            0.05625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 5775,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 20607,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 34.978505,
+                "longitude": 135.969247
+            },
+            "commonSiteName": "Promenade Aoyama",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 34.97916438,
+                "longitude": 135.96945779
+            },
+            "locationGUID": "609d93f4-3a21-40b2-8f0b-4f3d8fff9c10",
+            "maxPowerKw": 250,
+            "name": "Otsu, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

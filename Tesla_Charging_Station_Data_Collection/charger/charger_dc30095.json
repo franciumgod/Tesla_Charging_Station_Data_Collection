@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vail",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81657",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Vail Rd",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.639798,
+                "longitude": -106.375328
+            },
+            "commonSiteName": "Lodge Tower",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.639798,
+                "longitude": -106.375328
+            },
+            "locationGUID": "771fc2ee-9736-4b75-bd37-34a1e7692100",
+            "maxPowerKw": 16,
+            "name": "Lodge Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

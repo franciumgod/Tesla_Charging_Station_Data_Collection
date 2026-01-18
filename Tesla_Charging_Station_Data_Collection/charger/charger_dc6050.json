@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Lafayette St",
+                "streetNumber": "403"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.728287,
+                "longitude": -73.992746
+            },
+            "commonSiteName": "Parkit 403 Lafayette St.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.728287,
+                "longitude": -73.992746
+            },
+            "locationGUID": "7932caa8-e2ec-4777-8670-b8c32c6d7380",
+            "maxPowerKw": 8,
+            "name": "Parkit 403 Lafayette St.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

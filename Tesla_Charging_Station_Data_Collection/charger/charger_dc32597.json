@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lucca",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "55100",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale san Concordio",
+                "streetNumber": "1311"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.826572,
+                "longitude": 10.495993
+            },
+            "commonSiteName": "Leos",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.826572,
+                "longitude": 10.495993
+            },
+            "locationGUID": "61921a09-75d2-4284-82df-b97e3a7443ca",
+            "maxPowerKw": 22,
+            "name": "Leos",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

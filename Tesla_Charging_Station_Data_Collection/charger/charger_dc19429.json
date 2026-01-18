@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44460",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Colinas de San Javier",
+                "streetNumber": "Paseo de Las Penas 3500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.704411,
+                "longitude": -103.397804
+            },
+            "commonSiteName": "Club Privado San Javier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.704411,
+                "longitude": -103.397804
+            },
+            "locationGUID": "67bcc9c5-d750-44fd-bb24-1b6eec5e219d",
+            "maxPowerKw": 18,
+            "name": "Club Privado San Javier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

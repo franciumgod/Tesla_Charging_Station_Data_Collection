@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arlington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22201",
+                "postalExt": null,
+                "state": "VA",
+                "street": "N Courthouse Rd",
+                "streetNumber": "1320"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.8887622,
+                "longitude": -77.0842467
+            },
+            "commonSiteName": "1320 N Courthouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.8887622,
+                "longitude": -77.0842467
+            },
+            "locationGUID": "5a5ce25c-1951-4a58-9cbd-ae000b8ecb10",
+            "maxPowerKw": 16,
+            "name": "1320 N Courthouse Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

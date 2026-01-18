@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Olomouc",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "779 00",
+                "postalExt": null,
+                "state": null,
+                "street": "Kozeluzská",
+                "streetNumber": "945/31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.59769,
+                "longitude": 17.258521
+            },
+            "commonSiteName": "Long Story Short - hostel & café",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.59769,
+                "longitude": 17.258521
+            },
+            "locationGUID": "b395ef71-c5f8-4c47-b111-23f4e5c69f39",
+            "maxPowerKw": 22,
+            "name": "Long Story Short - hostel & café",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Annemasse",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74100",
+                "postalExt": null,
+                "state": null,
+                "street": "avenue de l'Europe",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.180421,
+                "longitude": 6.235034
+            },
+            "commonSiteName": "Le Grand Casino d'Annemasse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.180421,
+                "longitude": 6.235034
+            },
+            "locationGUID": "56c913fa-d679-4c15-a746-b3a2530cec39",
+            "maxPowerKw": 17,
+            "name": "Le Grand Casino d'Annemasse",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

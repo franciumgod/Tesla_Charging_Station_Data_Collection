@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Phoenix",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85018",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Camelback Rd",
+                "streetNumber": "5200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.504236,
+                "longitude": -111.969247
+            },
+            "commonSiteName": "Royal Palms Resort and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.504236,
+                "longitude": -111.969247
+            },
+            "locationGUID": "94c70498-2333-4c25-a519-9bb9383e53dc",
+            "maxPowerKw": 8,
+            "name": "Royal Palms Resort and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

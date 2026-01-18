@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pokolbin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2320",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "CNR Hermitage Rd and Mistletow Ln",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.72775,
+                "longitude": 151.260612
+            },
+            "commonSiteName": "Hunter Valley Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.72775,
+                "longitude": 151.260612
+            },
+            "locationGUID": "c5f41970-4ad6-4d6e-843a-6a5981cf7501",
+            "maxPowerKw": 17,
+            "name": "Hunter Valley Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

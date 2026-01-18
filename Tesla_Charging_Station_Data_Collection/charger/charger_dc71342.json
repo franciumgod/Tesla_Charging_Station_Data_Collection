@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Uddevalla",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "45198",
+                "postalExt": null,
+                "state": null,
+                "street": "Svälte 230",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.343612,
+                "longitude": 11.701074
+            },
+            "commonSiteName": "Stallgården",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.343612,
+                "longitude": 11.701074
+            },
+            "locationGUID": "a4dfecb3-71d8-4c78-a7c6-23a528adae03",
+            "maxPowerKw": 11,
+            "name": "Stallgården",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

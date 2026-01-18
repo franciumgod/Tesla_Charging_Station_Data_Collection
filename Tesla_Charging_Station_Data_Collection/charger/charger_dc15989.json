@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salzburg",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5084",
+                "postalExt": null,
+                "state": null,
+                "street": "Salzburger Strasse",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.724528,
+                "longitude": 12.906581
+            },
+            "commonSiteName": "Hotel Restaurant Vötterl",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.724528,
+                "longitude": 12.906581
+            },
+            "locationGUID": "28366e44-2d6f-497f-8451-d1caeb4f3b51",
+            "maxPowerKw": 22,
+            "name": "Hotel Restaurant Voetterl",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

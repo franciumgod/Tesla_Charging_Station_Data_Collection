@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Quebec City",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G1R 4P5",
+                "postalExt": null,
+                "state": "QC",
+                "street": "des Carrieres",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.812316,
+                "longitude": -71.205031
+            },
+            "commonSiteName": "Fairmont Chateau Frontenac",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.812316,
+                "longitude": -71.205031
+            },
+            "locationGUID": "1b862d18-b91f-4d0d-b760-7c5195b3a73c",
+            "maxPowerKw": 10,
+            "name": "Fairmont Chateau Frontenac",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 10,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

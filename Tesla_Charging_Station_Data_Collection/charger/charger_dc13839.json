@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montecatini Terme",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "51016",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Felice Cavallotti, 135",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.885,
+                "longitude": 10.775395
+            },
+            "commonSiteName": "Hotel Parma e Oriente",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.885,
+                "longitude": 10.775395
+            },
+            "locationGUID": "514b18a8-720e-41b6-a44d-72db18974b62",
+            "maxPowerKw": 11,
+            "name": "Hotel Parma e Oriente",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

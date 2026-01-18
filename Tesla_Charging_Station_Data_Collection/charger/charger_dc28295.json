@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20005",
+                "postalExt": null,
+                "state": "DC",
+                "street": "Thomas Cir NW",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.906456,
+                "longitude": -77.031163
+            },
+            "commonSiteName": "Washington Plaza Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.906456,
+                "longitude": -77.031163
+            },
+            "locationGUID": "1d1cf378-1a07-469e-901c-8505a5f1c6f4",
+            "maxPowerKw": 16,
+            "name": "Washington Plaza Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 18,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

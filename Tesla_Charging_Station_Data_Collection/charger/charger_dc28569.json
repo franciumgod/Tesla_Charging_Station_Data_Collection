@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Luis Potosi",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78399",
+                "postalExt": null,
+                "state": "SLP",
+                "street": "Fracc. Industrias",
+                "streetNumber": "Carr. Central Mexico -, Blvd. San Luis 2150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.130029,
+                "longitude": -100.927518
+            },
+            "commonSiteName": "City Express San Luis Potos├¡ Zona Industrial",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.130029,
+                "longitude": -100.927518
+            },
+            "locationGUID": "bb2b2348-d90e-48dc-a868-9e0171dd4b84",
+            "maxPowerKw": 18,
+            "name": "City Express San Luis Potosi Zona Industrial",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Westminster",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80023",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Orchard Pkwy",
+                "streetNumber": "14355"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.958739,
+                "longitude": -104.99283
+            },
+            "commonSiteName": "Courtyard Denver North/Westminster",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.958739,
+                "longitude": -104.99283
+            },
+            "locationGUID": "b1d1a1b3-e912-4b7d-9781-f70ea11e30dd",
+            "maxPowerKw": 16,
+            "name": "Courtyard Denver North/Westminster",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

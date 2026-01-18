@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arantza",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31790",
+                "postalExt": null,
+                "state": "Navarra",
+                "street": "Aientsa Auzoa",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.189692,
+                "longitude": -1.74360667
+            },
+            "commonSiteName": "Arantza Hotela",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.189692,
+                "longitude": -1.74360667
+            },
+            "locationGUID": "80b66332-952d-446d-bb79-9d5116045b4c",
+            "maxPowerKw": 11,
+            "name": "Arantza Hotela",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Come",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0K 2B0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Val Saint-Come",
+                "streetNumber": "501"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.272513,
+                "longitude": -73.869542
+            },
+            "commonSiteName": "Station Touristique Val Saint-Come",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.272513,
+                "longitude": -73.869542
+            },
+            "locationGUID": "54a03fad-dc10-417a-a9b5-471dc393ce16",
+            "maxPowerKw": 16,
+            "name": "Station Touristique Val Saint-Come",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

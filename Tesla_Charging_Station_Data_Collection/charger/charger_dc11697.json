@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Freiburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "79098",
+                "postalExt": null,
+                "state": null,
+                "street": "Eisenbahnstraße",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.996917,
+                "longitude": 7.845582
+            },
+            "commonSiteName": "Best Western Premier Hotel Victoria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.996917,
+                "longitude": 7.845582
+            },
+            "locationGUID": "805cd2cb-d1de-4a48-89d7-a65f2b4358f1",
+            "maxPowerKw": 14,
+            "name": "Best Western Premier Hotel Victoria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

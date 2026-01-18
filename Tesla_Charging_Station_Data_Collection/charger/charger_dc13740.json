@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Richmond",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23230",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Broad St",
+                "streetNumber": "6631"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.604272,
+                "longitude": -77.518319
+            },
+            "commonSiteName": "The Westin Richmond",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.604272,
+                "longitude": -77.518319
+            },
+            "locationGUID": "5722f18a-b0b9-41d2-9787-3eb8786a747b",
+            "maxPowerKw": 8,
+            "name": "The Westin Richmond",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

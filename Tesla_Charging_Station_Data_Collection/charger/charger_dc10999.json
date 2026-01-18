@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Raleigh",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27607",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Hillsborough St",
+                "streetNumber": "2100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.786773,
+                "longitude": -78.663311
+            },
+            "commonSiteName": "Aloft Raleigh",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.786773,
+                "longitude": -78.663311
+            },
+            "locationGUID": "6aee839c-ebb2-477e-9c5a-09b868c18648",
+            "maxPowerKw": 16,
+            "name": "Aloft Raleigh",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

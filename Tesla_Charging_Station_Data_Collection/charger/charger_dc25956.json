@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gothenburg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "41136",
+                "postalExt": null,
+                "state": null,
+                "street": "Kungsportsavenyn 6",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.701481,
+                "longitude": 11.973556
+            },
+            "commonSiteName": "Hotel & Ristorante Bellora",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.701481,
+                "longitude": 11.973556
+            },
+            "locationGUID": "8540af16-09a3-4b87-825e-cc0430167a8b",
+            "maxPowerKw": 11,
+            "name": "Hotel & Ristorante Bellora",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

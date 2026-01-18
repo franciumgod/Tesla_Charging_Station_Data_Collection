@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mawgan Porth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR8 4DQ",
+                "postalExt": null,
+                "state": "Cornwall",
+                "street": "Tredragon Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.468163,
+                "longitude": -5.02977
+            },
+            "commonSiteName": "The Scarlet Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.468163,
+                "longitude": -5.02977
+            },
+            "locationGUID": "b623c65e-8f1c-49c2-aee4-42c8e45a3494",
+            "maxPowerKw": 22,
+            "name": "The Scarlet Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

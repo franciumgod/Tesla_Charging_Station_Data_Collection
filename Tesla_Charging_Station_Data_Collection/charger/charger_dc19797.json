@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bristol",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BS49 5AD",
+                "postalExt": null,
+                "state": null,
+                "street": "Frost Hill",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.381069,
+                "longitude": -2.808293
+            },
+            "commonSiteName": "The Club and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.381069,
+                "longitude": -2.808293
+            },
+            "locationGUID": "ecf1bb4e-1b0d-43bd-870e-998ba4e2f4f7",
+            "maxPowerKw": 7,
+            "name": "The Club and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Virginia City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89440",
+                "postalExt": null,
+                "state": "NV",
+                "street": "S Main St",
+                "streetNumber": "1540"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.292319,
+                "longitude": -119.657538
+            },
+            "commonSiteName": "Gold Hill Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.292319,
+                "longitude": -119.657538
+            },
+            "locationGUID": "2d7aabdd-7b08-4386-b5b1-90554006ecf2",
+            "maxPowerKw": 6,
+            "name": "Gold Hill Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

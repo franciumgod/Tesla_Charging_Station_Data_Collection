@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Virginia Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23454",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Laskin Rd",
+                "streetNumber": "1805"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.848934,
+                "longitude": -76.027545
+            },
+            "commonSiteName": "Wasserhund Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.848934,
+                "longitude": -76.027545
+            },
+            "locationGUID": "4d3bf6b7-2b42-4338-8af9-29901914f412",
+            "maxPowerKw": 16,
+            "name": "Wasserhund Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

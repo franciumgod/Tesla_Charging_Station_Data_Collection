@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jackson",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95642",
+                "postalExt": null,
+                "state": "CA",
+                "street": "New York Ranch Rd",
+                "streetNumber": "12222"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.3854639,
+                "longitude": -120.73275658
+            },
+            "commonSiteName": "Jackson Rancheria Casino Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.3854639,
+                "longitude": -120.73275658
+            },
+            "locationGUID": "e805063b-8d86-4fe5-b859-2b6f74b0f5cc",
+            "maxPowerKw": 7,
+            "name": "Jackson Rancheria Casino Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

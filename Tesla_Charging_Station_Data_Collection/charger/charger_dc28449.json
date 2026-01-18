@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Banyeres de Mariola",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3450",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Camino La Mallaeta",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.720341,
+                "longitude": -0.638254
+            },
+            "commonSiteName": "MASQI, The Energy House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.720341,
+                "longitude": -0.638254
+            },
+            "locationGUID": "babd3c04-f532-4628-b845-5b72233382cc",
+            "maxPowerKw": 11,
+            "name": "Masqi, The Energy House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

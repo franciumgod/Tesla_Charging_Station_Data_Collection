@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bankstown",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2200",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Greenfield Parade, Bankstown",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.919565,
+                "longitude": 151.033665
+            },
+            "commonSiteName": "Bankstown Sports Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.919565,
+                "longitude": 151.033665
+            },
+            "locationGUID": "82974712-e66a-4747-9d6d-477083041e5e",
+            "maxPowerKw": 6,
+            "name": "Bankstown Sports Club",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

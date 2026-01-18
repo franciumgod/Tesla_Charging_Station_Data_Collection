@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22785",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Col. Valle de Guadalupe",
+                "streetNumber": "Calle Francisco Zarco S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.094846,
+                "longitude": -116.58668017
+            },
+            "commonSiteName": "Monte Xanic Bodega Vini-cola",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.094846,
+                "longitude": -116.58668017
+            },
+            "locationGUID": "6a30f317-948e-4d9c-860c-9bbdc6bb795c",
+            "maxPowerKw": 18,
+            "name": "Monte Xanic Bodega Vini-cola",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bunchrew",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "IV3 8TA",
+                "postalExt": null,
+                "state": "Invernesshire",
+                "street": "Inverness",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.482542,
+                "longitude": -4.300654
+            },
+            "commonSiteName": "Bunchrew House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.482542,
+                "longitude": -4.300654
+            },
+            "locationGUID": "d74de67a-9bee-4895-b60b-278329a9150b",
+            "maxPowerKw": 7,
+            "name": "Bunchrew House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

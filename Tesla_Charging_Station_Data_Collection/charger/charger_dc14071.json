@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Strood",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "ME2 2NU",
+                "postalExt": null,
+                "state": "Kent",
+                "street": "Roman Way",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.38258,
+                "longitude": 0.478702
+            },
+            "commonSiteName": "Diggerland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.38258,
+                "longitude": 0.478702
+            },
+            "locationGUID": "51846079-b2d0-45f2-9a67-ec3defe8694d",
+            "maxPowerKw": 11,
+            "name": "Diggerland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

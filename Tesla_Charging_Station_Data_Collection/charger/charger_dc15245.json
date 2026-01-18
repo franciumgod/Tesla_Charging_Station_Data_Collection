@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8011",
+                "postalExt": null,
+                "state": "Barcelona",
+                "street": "Villarroel",
+                "streetNumber": "106"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.385704,
+                "longitude": 2.157248
+            },
+            "commonSiteName": "Hotel Acevi Villarroel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.385704,
+                "longitude": 2.157248
+            },
+            "locationGUID": "840e6988-6721-4444-949d-9b6c27a7cdb6",
+            "maxPowerKw": 11,
+            "name": "Hotel Acevi Villarroel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

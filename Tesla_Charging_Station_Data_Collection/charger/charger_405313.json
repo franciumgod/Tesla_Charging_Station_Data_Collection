@@ -1,0 +1,300 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chiang Rai",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Mueang",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "57000",
+                "postalExt": null,
+                "state": "NA",
+                "street": "Phahonyothin Rd",
+                "streetNumber": "99/9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.1484375,
+                            0.203125,
+                            0.253125,
+                            0.3125,
+                            0.34375,
+                            0.2611607142857143,
+                            0.125,
+                            0.109375,
+                            0.09375,
+                            0.140625,
+                            0.15625,
+                            0.171875,
+                            0.10416666666666666,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.0625,
+                            0.109375,
+                            0.2,
+                            0.25,
+                            0.3125,
+                            0.28125,
+                            0.22916666666666669,
+                            0.14583333333333334,
+                            0.1875,
+                            0.1875,
+                            0.171875,
+                            0.078125,
+                            0.09375,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.03125,
+                            0.1171875,
+                            0.171875,
+                            0.21875,
+                            0.23125,
+                            0.25,
+                            0.25,
+                            0.203125,
+                            0.1875,
+                            0.125,
+                            0.109375,
+                            0.078125,
+                            0.09375,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0859375,
+                            0.1484375,
+                            0.203125,
+                            0.20703125,
+                            0.20703125,
+                            0.21875,
+                            0.16796875,
+                            0.16666666666666669,
+                            0.1875,
+                            0.28125,
+                            0.25,
+                            0.17500000000000002,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.078125,
+                            0.0859375,
+                            0.0859375,
+                            0.125,
+                            0.171875,
+                            0.171875,
+                            0.125,
+                            0.171875,
+                            0.140625,
+                            0.1875,
+                            0.09375,
+                            0.14583333333333334,
+                            0.171875,
+                            0.15625,
+                            0.11458333333333334,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0.125,
+                            0.1875,
+                            0.234375,
+                            0.28125,
+                            0.3125,
+                            0.27604166666666663,
+                            0.25,
+                            0.1875,
+                            0.1953125,
+                            0.15625,
+                            0.225,
+                            0.234375,
+                            0.1875,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.05
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.1375,
+                            0.125,
+                            0.1375,
+                            0.1,
+                            0.1375,
+                            0.20625,
+                            0.225,
+                            0.225,
+                            0.1875,
+                            0.18750000000000003,
+                            0.15,
+                            0.1,
+                            0.11249999999999999,
+                            0.15,
+                            0.1625,
+                            0.15,
+                            0.025,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11087,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 405313,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 19.885841,
+                "longitude": 99.834916
+            },
+            "commonSiteName": "Central Chiang Rai",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 6.73,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 19.88701408,
+                "longitude": 99.83536021
+            },
+            "locationGUID": "d0c86d58-8239-4b38-8aa4-a6fea90479c1",
+            "maxPowerKw": 250,
+            "name": "Chiang Rai, Thailand - Central Chiang Rai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

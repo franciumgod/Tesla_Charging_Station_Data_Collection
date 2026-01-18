@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taupo",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3330",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Napier-Taupo",
+                "streetNumber": "76"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.703534,
+                "longitude": 176.099035
+            },
+            "commonSiteName": "Taupo DeBretts",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.703534,
+                "longitude": 176.099035
+            },
+            "locationGUID": "36249d95-f665-4461-a600-298229e6b211",
+            "maxPowerKw": 6,
+            "name": "Taupo DeBretts",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

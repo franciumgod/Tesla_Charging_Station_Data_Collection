@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Briollay",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "49125",
+                "postalExt": null,
+                "state": null,
+                "street": "route du Moulin",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.575406,
+                "longitude": -0.4695075
+            },
+            "commonSiteName": "Château de Noirieux",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.575406,
+                "longitude": -0.4695075
+            },
+            "locationGUID": "ac05e8e5-405c-47f9-9585-8b0f33ff24ec",
+            "maxPowerKw": 22,
+            "name": "Château de Noirieux",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

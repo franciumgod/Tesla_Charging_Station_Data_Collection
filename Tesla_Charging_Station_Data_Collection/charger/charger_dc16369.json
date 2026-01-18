@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Freiburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "79111",
+                "postalExt": null,
+                "state": null,
+                "street": "An den Heilquellen",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.984545,
+                "longitude": 7.768489
+            },
+            "commonSiteName": "Gesundheitsresort Freiburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.984545,
+                "longitude": 7.768489
+            },
+            "locationGUID": "ff0a6a92-a887-4ae4-a39d-a54dc452c6eb",
+            "maxPowerKw": 22,
+            "name": "Gesundheitsresort Freiburg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Starkville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39759",
+                "postalExt": null,
+                "state": "MS",
+                "street": "Russell St",
+                "streetNumber": "801"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.45859,
+                "longitude": -88.800423
+            },
+            "commonSiteName": "Comfort Suites Starkville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.45859,
+                "longitude": -88.800423
+            },
+            "locationGUID": "17c1a0f9-2f8a-439b-8b29-1ef96c12b4de",
+            "maxPowerKw": 8,
+            "name": "Comfort Suites Starkville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

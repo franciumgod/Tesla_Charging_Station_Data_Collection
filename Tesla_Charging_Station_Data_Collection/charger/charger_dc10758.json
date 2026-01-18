@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Valencia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46004",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Avinguda de Navarro Reverter",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.470993,
+                "longitude": -0.366654
+            },
+            "commonSiteName": "Hotel Hospes Palau de la Mar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.470993,
+                "longitude": -0.366654
+            },
+            "locationGUID": "49409b97-a0b7-4c1f-be31-035efad0c942",
+            "maxPowerKw": 22,
+            "name": "Hotel Hospes Palau de la Mar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

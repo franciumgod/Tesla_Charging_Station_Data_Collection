@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hawley",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "18428",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Main Ave",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.481545,
+                "longitude": -75.183188
+            },
+            "commonSiteName": "The Settlers Inn, a Select Registry Property",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.481545,
+                "longitude": -75.183188
+            },
+            "locationGUID": "31b83a9e-8ce5-4655-b4b6-bcac0b517352",
+            "maxPowerKw": 16,
+            "name": "The Settlers Inn, a Select Registry Property",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

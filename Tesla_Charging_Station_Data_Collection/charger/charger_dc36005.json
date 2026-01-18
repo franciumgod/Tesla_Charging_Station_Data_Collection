@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mölle",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26377",
+                "postalExt": null,
+                "state": null,
+                "street": "Bökebolsvägen 11",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.28774879,
+                "longitude": 12.49283936
+            },
+            "commonSiteName": "Grand Hotell Mölle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.28774879,
+                "longitude": 12.49283936
+            },
+            "locationGUID": "c21a6234-b030-4412-be8e-008c7fe148c1",
+            "maxPowerKw": 6,
+            "name": "Grand Hotell Mölle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

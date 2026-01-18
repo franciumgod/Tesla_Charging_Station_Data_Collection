@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Furnes",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2324",
+                "postalExt": null,
+                "state": null,
+                "street": "Krokstadvegen 4",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.840452,
+                "longitude": 11.058006
+            },
+            "commonSiteName": "IKEA Ringsaker",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.840452,
+                "longitude": 11.058006
+            },
+            "locationGUID": "1ecfd203-eec3-4cfe-9ff4-f3483f2b909f",
+            "maxPowerKw": 22,
+            "name": "IKEA Ringsaker",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

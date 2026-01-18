@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H1E 2Z6",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Henri Bourassa Est",
+                "streetNumber": "7301"
+            },
+            "amenities": [
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.617271,
+                "longitude": -73.594169
+            },
+            "commonSiteName": "Restaurant Prima Luna",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.617271,
+                "longitude": -73.594169
+            },
+            "locationGUID": "f96baa8c-92ed-41a2-a707-9dce1cb474ca",
+            "maxPowerKw": 8,
+            "name": "Restaurant Prima Luna",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

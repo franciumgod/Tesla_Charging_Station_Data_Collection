@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montmelo",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8160",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Camino Mas Moreneta",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.57014,
+                "longitude": 2.258753
+            },
+            "commonSiteName": "Circuit de Barcelona-Catalunya",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.57014,
+                "longitude": 2.258753
+            },
+            "locationGUID": "13920e4f-4db9-4330-90e5-805db3bd32ff",
+            "maxPowerKw": 22,
+            "name": "Circuit de Barcelona-Catalunya",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

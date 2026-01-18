@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Annecy",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74000",
+                "postalExt": null,
+                "state": null,
+                "street": "Allee de L'Imperial",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.904044,
+                "longitude": 6.144433
+            },
+            "commonSiteName": "L'Imperial Palace",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.904044,
+                "longitude": 6.144433
+            },
+            "locationGUID": "efae0e0d-0cb1-4358-b148-f4515a110f82",
+            "maxPowerKw": 17,
+            "name": "L'Imperial Palace",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

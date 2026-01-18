@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "W1J 7QY",
+                "postalExt": null,
+                "state": null,
+                "street": "1 Hamilton Place",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.503851,
+                "longitude": -0.150187
+            },
+            "commonSiteName": "Intercontinental London Park Lane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.503851,
+                "longitude": -0.150187
+            },
+            "locationGUID": "0dc68bb7-4324-417b-8c17-f87874ed46a2",
+            "maxPowerKw": 13,
+            "name": "Intercontinental London Park Lane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

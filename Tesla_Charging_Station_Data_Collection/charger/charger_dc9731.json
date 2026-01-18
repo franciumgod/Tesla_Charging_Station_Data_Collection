@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ramatuelle",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83350",
+                "postalExt": null,
+                "state": null,
+                "street": "Chemin de la Quessine",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.192395,
+                "longitude": 6.647701
+            },
+            "commonSiteName": "La Réserve Ramatuelle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.192395,
+                "longitude": 6.647701
+            },
+            "locationGUID": "b4f3db8a-8300-4d89-ba4a-61a7ebe227a6",
+            "maxPowerKw": 22,
+            "name": "La Réserve Ramatuelle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

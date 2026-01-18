@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pointe-a-la-Croix",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0C 1L0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boul Perron Ouest",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.0325,
+                "longitude": -66.705124
+            },
+            "commonSiteName": "Restaurant Pastali",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.0325,
+                "longitude": -66.705124
+            },
+            "locationGUID": "c2b4b371-150b-4dec-93eb-27a447673ce7",
+            "maxPowerKw": 13,
+            "name": "Restaurant Pastali",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

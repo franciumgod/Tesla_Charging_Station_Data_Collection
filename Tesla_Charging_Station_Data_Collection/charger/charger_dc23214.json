@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10005",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Exchange Pl",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.705922,
+                "longitude": -74.010175
+            },
+            "commonSiteName": "Icon Parking Wall Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.705922,
+                "longitude": -74.010175
+            },
+            "locationGUID": "3fe92a97-96f0-4352-a2b0-a7c224a9c3ee",
+            "maxPowerKw": 16,
+            "name": "Icon Parking Wall Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

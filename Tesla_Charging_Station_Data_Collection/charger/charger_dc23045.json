@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Candé sur Beuvron",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "41120",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue du Château",
+                "streetNumber": "53"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.496607,
+                "longitude": 1.254974
+            },
+            "commonSiteName": "Château Laborde Saint-Martin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.496607,
+                "longitude": 1.254974
+            },
+            "locationGUID": "78d5e0e8-c912-4bbc-a924-d71135bc01cb",
+            "maxPowerKw": 14,
+            "name": "Château Laborde Saint-Martin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

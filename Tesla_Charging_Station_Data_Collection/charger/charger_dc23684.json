@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Agerbæk",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6753",
+                "postalExt": null,
+                "state": null,
+                "street": "Storegade",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.600119,
+                "longitude": 8.802662
+            },
+            "commonSiteName": "Agerbæk Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.600119,
+                "longitude": 8.802662
+            },
+            "locationGUID": "0d73306d-d6ae-4bdd-b310-1143efba5cd9",
+            "maxPowerKw": 17,
+            "name": "Agerbæk Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

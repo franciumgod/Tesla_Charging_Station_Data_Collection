@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Port Fairy",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3284",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Gipps Street",
+                "streetNumber": "96-98"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.382019,
+                "longitude": 142.239768
+            },
+            "commonSiteName": "The Drift House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.382019,
+                "longitude": 142.239768
+            },
+            "locationGUID": "be1863ce-3f6b-437a-b562-25b2e223fba0",
+            "maxPowerKw": 16,
+            "name": "The Drift House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

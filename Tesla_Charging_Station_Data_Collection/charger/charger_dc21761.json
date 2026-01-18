@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cheltenham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "GL54 2JD",
+                "postalExt": null,
+                "state": null,
+                "street": "Upper Slaughter",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.90671289,
+                "longitude": -1.77559926
+            },
+            "commonSiteName": "Lords of the Manor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.90671289,
+                "longitude": -1.77559926
+            },
+            "locationGUID": "b7ec73c4-2f26-4722-b1ee-5e448723c99e",
+            "maxPowerKw": 13,
+            "name": "Lords of the Manor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

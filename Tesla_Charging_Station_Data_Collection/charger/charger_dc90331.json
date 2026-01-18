@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oakville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94562",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Oakville Cross Rd",
+                "streetNumber": "750"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.448967,
+                "longitude": -122.379919
+            },
+            "commonSiteName": "Groth Vineyards & Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.448967,
+                "longitude": -122.379919
+            },
+            "locationGUID": "c1058fa5-c36e-4207-8faa-1e4afb8ba8a4",
+            "maxPowerKw": 8,
+            "name": "Groth Vineyards & Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

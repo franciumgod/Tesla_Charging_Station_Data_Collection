@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Helsinki",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "210",
+                "postalExt": null,
+                "state": null,
+                "street": "Vattuniemen puistotie 1",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.151746,
+                "longitude": 24.891274
+            },
+            "commonSiteName": "Blue Peter Seaside Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.151746,
+                "longitude": 24.891274
+            },
+            "locationGUID": "67d11731-a7a5-4d7d-888e-1eecdcc30fb1",
+            "maxPowerKw": 11,
+            "name": "Blue Peter Seaside Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bergamo",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24126",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Ravizza",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.67834559,
+                "longitude": 9.65810514
+            },
+            "commonSiteName": "IceLab Bergamo Palaghiaccio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.67834559,
+                "longitude": 9.65810514
+            },
+            "locationGUID": "4b5f1aa8-deba-468d-8c0e-3419d1622765",
+            "maxPowerKw": 22,
+            "name": "IceLab Bergamo Palaghiaccio",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

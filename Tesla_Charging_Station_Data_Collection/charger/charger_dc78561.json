@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10030",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 135 St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.816777,
+                "longitude": -73.947435
+            },
+            "commonSiteName": "300 W 135 St - Little Man Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.816777,
+                "longitude": -73.947435
+            },
+            "locationGUID": "7ae61d1a-0253-407f-b82a-dd7a0446528a",
+            "maxPowerKw": 10,
+            "name": "300 W 135 St - Little Man Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

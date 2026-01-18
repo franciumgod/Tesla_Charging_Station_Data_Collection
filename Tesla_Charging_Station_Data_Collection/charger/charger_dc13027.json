@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "East 29th St",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.744244,
+                "longitude": -73.984116
+            },
+            "commonSiteName": "Parkright 39 E 29th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.744244,
+                "longitude": -73.984116
+            },
+            "locationGUID": "b3346be5-dc63-4e6e-938c-7a1950cf19f6",
+            "maxPowerKw": 8,
+            "name": "Parkright 39 E 29th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

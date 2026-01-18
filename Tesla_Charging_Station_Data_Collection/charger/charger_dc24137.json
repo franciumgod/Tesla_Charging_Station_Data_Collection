@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sant Carles de la Rapita",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "43540",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Ctra Poble Nou",
+                "streetNumber": "sn"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.620283,
+                "longitude": 0.599122
+            },
+            "commonSiteName": "Sant Carles Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.620283,
+                "longitude": 0.599122
+            },
+            "locationGUID": "37cd9cf9-49d1-470e-b375-5415d3ab699e",
+            "maxPowerKw": 22,
+            "name": "Sant Carles Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

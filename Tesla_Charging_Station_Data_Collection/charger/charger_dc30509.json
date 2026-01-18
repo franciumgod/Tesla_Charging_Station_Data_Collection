@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mesa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85206",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "S Higley Rd",
+                "streetNumber": "1825"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.382957,
+                "longitude": -111.718783
+            },
+            "commonSiteName": "Hampton Inn Gilbert",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.382957,
+                "longitude": -111.718783
+            },
+            "locationGUID": "c7513166-62ba-43ac-ac0d-c1e4a2c53806",
+            "maxPowerKw": 16,
+            "name": "Hampton Inn Gilbert",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

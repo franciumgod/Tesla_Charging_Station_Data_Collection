@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Voss",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5704",
+                "postalExt": null,
+                "state": null,
+                "street": "Evangervegen",
+                "streetNumber": "13"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.628744,
+                "longitude": 6.408562
+            },
+            "commonSiteName": "Fleischer's Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.628744,
+                "longitude": 6.408562
+            },
+            "locationGUID": "637ead57-6da9-4831-a7a1-ba32ff283be9",
+            "maxPowerKw": 6,
+            "name": "Fleischer's Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Palm Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92262",
+                "postalExt": null,
+                "state": "CA",
+                "street": "N Indian Canyon Dr",
+                "streetNumber": "572"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.831533,
+                "longitude": -116.545469
+            },
+            "commonSiteName": "Colony Palms Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.831533,
+                "longitude": -116.545469
+            },
+            "locationGUID": "19740af8-cbd4-41c6-ba48-b4babdf24962",
+            "maxPowerKw": 13,
+            "name": "Colony Palms Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

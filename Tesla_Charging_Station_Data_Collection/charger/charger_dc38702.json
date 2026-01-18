@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Giovanni Lupatoto",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37057",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Monte Pastello",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.39900519,
+                "longitude": 11.01615442
+            },
+            "commonSiteName": "Best Western CTC Hotel Verona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.39900519,
+                "longitude": 11.01615442
+            },
+            "locationGUID": "13ef532a-dcd7-42e7-9617-234e6227d895",
+            "maxPowerKw": 11,
+            "name": "Best Western CTC Hotel Verona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tupper Lake",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "12986",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main St",
+                "streetNumber": "151"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.2437641,
+                "longitude": -74.48741
+            },
+            "commonSiteName": "Faust Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.2437641,
+                "longitude": -74.48741
+            },
+            "locationGUID": "983aae90-e5da-4179-9b10-9b6b90550483",
+            "maxPowerKw": 16,
+            "name": "Faust Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

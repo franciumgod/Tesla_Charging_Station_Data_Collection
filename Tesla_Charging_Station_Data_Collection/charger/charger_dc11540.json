@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brisbane",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4000",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Queen St",
+                "streetNumber": "72"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.470107,
+                "longitude": 153.023998
+            },
+            "commonSiteName": "Next Hotel Brisbane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.470107,
+                "longitude": 153.023998
+            },
+            "locationGUID": "a99ce453-45d2-45c4-ba5d-fe97588c139a",
+            "maxPowerKw": 8,
+            "name": "Next Hotel Brisbane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tupelo",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "38804",
+                "postalExt": null,
+                "state": "MS",
+                "street": "E Main St",
+                "streetNumber": "363"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.258153,
+                "longitude": -88.699982
+            },
+            "commonSiteName": "Hilton Garden Inn Tupelo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.258153,
+                "longitude": -88.699982
+            },
+            "locationGUID": "d639fd08-a472-485e-a951-edbd8cf65fd1",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Tupelo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

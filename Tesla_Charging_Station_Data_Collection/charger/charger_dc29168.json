@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reno",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89502",
+                "postalExt": null,
+                "state": "NV",
+                "street": "S Rock Blvd",
+                "streetNumber": "655"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.502036,
+                "longitude": -119.763713
+            },
+            "commonSiteName": "Atlantic Aviation Reno",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.502036,
+                "longitude": -119.763713
+            },
+            "locationGUID": "fa46e604-1c1a-4b80-b2d3-369be35dad5a",
+            "maxPowerKw": 16,
+            "name": "Atlantic Aviation Reno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

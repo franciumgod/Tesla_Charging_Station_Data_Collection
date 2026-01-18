@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45055",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Rinconada del Sol",
+                "streetNumber": "Avenida Mariano Otero 1390"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.651775,
+                "longitude": -103.397932
+            },
+            "commonSiteName": "City Express Plus Guadalajara Expo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.651775,
+                "longitude": -103.397932
+            },
+            "locationGUID": "79feb14c-396f-491f-ba5e-03fab3b447a9",
+            "maxPowerKw": 18,
+            "name": "City Express Plus Guadalajara Expo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

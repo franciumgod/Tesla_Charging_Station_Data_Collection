@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Farnborough",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "GU14 0LJ",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "The Terminal, Farnborough Airport",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.28372367,
+                "longitude": -0.77711269
+            },
+            "commonSiteName": "TAG Farnborough Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.28372367,
+                "longitude": -0.77711269
+            },
+            "locationGUID": "a269ae4b-0509-4103-a5e7-3546f1697780",
+            "maxPowerKw": 22,
+            "name": "TAG Farnborough Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

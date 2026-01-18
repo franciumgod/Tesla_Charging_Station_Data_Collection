@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geyserville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95441",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Hwy 128 E",
+                "streetNumber": "3250"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.703551,
+                "longitude": -122.858096
+            },
+            "commonSiteName": "River Rock Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.703551,
+                "longitude": -122.858096
+            },
+            "locationGUID": "d9be698c-0444-41fd-bf93-26279553c683",
+            "maxPowerKw": 16,
+            "name": "River Rock Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

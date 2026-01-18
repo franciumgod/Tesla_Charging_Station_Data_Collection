@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "台北市",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "111",
+                "postalExt": null,
+                "state": "Taipei",
+                "street": "士林區天母東路",
+                "streetNumber": "68號"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.117765,
+                "longitude": 121.534203
+            },
+            "commonSiteName": "新光三越 台北天母店",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.117765,
+                "longitude": 121.534203
+            },
+            "locationGUID": "9b7d3f4b-54f8-4ad5-a9ea-3ddf3b69b16c",
+            "maxPowerKw": 8,
+            "name": "新光三越 台北天母店",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

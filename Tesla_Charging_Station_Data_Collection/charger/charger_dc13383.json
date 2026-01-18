@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mallemort",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "13370",
+                "postalExt": null,
+                "state": null,
+                "street": "RN 7 Domaine et golf de Pont Royal",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.70465,
+                "longitude": 5.206219
+            },
+            "commonSiteName": "Le Moulin de Vernègues",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.70465,
+                "longitude": 5.206219
+            },
+            "locationGUID": "657f5fcc-1428-4f43-a68c-8fda3c809da2",
+            "maxPowerKw": 17,
+            "name": "Le Moulin de Vernègues",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

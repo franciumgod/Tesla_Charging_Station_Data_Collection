@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nelson Bay",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2315",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Government Road",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.720737,
+                "longitude": 152.142983
+            },
+            "commonSiteName": "The Nelson",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.720737,
+                "longitude": 152.142983
+            },
+            "locationGUID": "6857485e-66e5-4133-aec0-1e0a6fdf9d02",
+            "maxPowerKw": 7,
+            "name": "The Nelson",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

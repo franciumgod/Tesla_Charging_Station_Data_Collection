@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queretaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76230",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Residencial Caletto",
+                "streetNumber": "Blvd Jurica La Campana 899"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.705796,
+                "longitude": -100.444234
+            },
+            "commonSiteName": "Urban Center Juriquilla",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.705796,
+                "longitude": -100.444234
+            },
+            "locationGUID": "e327b884-6f9e-4951-8489-14f49bd08f90",
+            "maxPowerKw": 18,
+            "name": "Urban Center Juriquilla",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

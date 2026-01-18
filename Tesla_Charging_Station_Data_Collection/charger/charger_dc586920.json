@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Piestany",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "921 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Hlboka 92",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.578492,
+                "longitude": 17.816443
+            },
+            "commonSiteName": "HS Centrum",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.578492,
+                "longitude": 17.816443
+            },
+            "locationGUID": "2a1ce061-9682-464e-9851-dd3c1e7d668e",
+            "maxPowerKw": 11,
+            "name": "HS Centrum",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

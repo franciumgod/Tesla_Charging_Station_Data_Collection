@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30326",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Peachtree Rd NE",
+                "streetNumber": "3376"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.84892,
+                "longitude": -84.36607
+            },
+            "commonSiteName": "Mandarin Oriental, Atlanta",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.84892,
+                "longitude": -84.36607
+            },
+            "locationGUID": "28121b02-bcb9-4284-826e-65c9b1f4035f",
+            "maxPowerKw": 16,
+            "name": "Mandarin Oriental, Atlanta",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

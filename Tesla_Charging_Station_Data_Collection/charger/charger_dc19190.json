@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kassel",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "34131",
+                "postalExt": null,
+                "state": null,
+                "street": "Schlosspark",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.317404,
+                "longitude": 9.415515
+            },
+            "commonSiteName": "Schlosshotel Kassel - Bad Wilhelmshöhe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.317404,
+                "longitude": 9.415515
+            },
+            "locationGUID": "bea752a3-31b0-4229-83fd-d47fce1f2e34",
+            "maxPowerKw": 22,
+            "name": "Schlosshotel Kassel - Bad Wilhelmshoehe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

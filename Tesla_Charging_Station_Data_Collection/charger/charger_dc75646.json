@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zurndorf",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2424",
+                "postalExt": null,
+                "state": null,
+                "street": "Roemerstrasse",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.948863,
+                "longitude": 16.941328
+            },
+            "commonSiteName": "Restaurant und Hotel am Friedrichshof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.948863,
+                "longitude": 16.941328
+            },
+            "locationGUID": "79a55eeb-997e-4e34-9b96-c7920c1afad5",
+            "maxPowerKw": 22,
+            "name": "Restaurant und Hotel am Friedrichshof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

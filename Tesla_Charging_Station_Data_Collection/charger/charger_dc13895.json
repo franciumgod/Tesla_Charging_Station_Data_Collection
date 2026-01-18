@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92101",
+                "postalExt": null,
+                "state": "CA",
+                "street": "1st Ave",
+                "streetNumber": "1055"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.716655,
+                "longitude": -117.163677
+            },
+            "commonSiteName": "The Bristol Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.716655,
+                "longitude": -117.163677
+            },
+            "locationGUID": "28111da4-0ee9-4a46-b85a-2d344b06b256",
+            "maxPowerKw": 16,
+            "name": "The Bristol Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

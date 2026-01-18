@@ -1,0 +1,296 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pingtung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "Hengchun",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "946",
+                "postalExt": null,
+                "state": "Pingtung",
+                "street": "Kenting Road",
+                "streetNumber": "No. 330-6,"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.0625,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.21875,
+                            0.171875,
+                            0.171875,
+                            0.1875,
+                            0.125,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.1,
+                            0.125,
+                            0.15625,
+                            0.125,
+                            0.0625,
+                            0,
+                            0.0625,
+                            0.125,
+                            0.1875,
+                            0.171875,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.09375,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.05,
+                            0.05,
+                            0.05,
+                            0,
+                            0,
+                            0,
+                            0.05,
+                            0.07500000000000001,
+                            0.07500000000000001,
+                            0.05,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.1,
+                            0.1
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 7309,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 36218,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 21.949521,
+                "longitude": 120.790784
+            },
+            "commonSiteName": "Kenting Maya House",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 5,
+                    "rateMinTier2": 11,
+                    "rateMinTier3": 17,
+                    "rateMinTier4": 28,
+                    "rateTier1": 5,
+                    "rateTier2": 11,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 15,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 21.949532,
+                "longitude": 120.790727
+            },
+            "locationGUID": "7799cb82-2e6a-4384-b74a-05578e6b5f91",
+            "maxPowerKw": 120,
+            "name": "Pingtung , Hengchun - Kenting Maya House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

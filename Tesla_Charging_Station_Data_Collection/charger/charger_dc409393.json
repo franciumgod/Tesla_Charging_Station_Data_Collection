@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Helena",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Napa County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94574",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Main St",
+                "streetNumber": "738"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.5011083,
+                "longitude": -122.4631773
+            },
+            "commonSiteName": "Farmstead at Long Meadow Ranch",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.5011083,
+                "longitude": -122.4631773
+            },
+            "locationGUID": "e03b5f18-90c7-43f5-937c-706400346152",
+            "maxPowerKw": 11,
+            "name": "Farmstead at Long Meadow Ranch",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

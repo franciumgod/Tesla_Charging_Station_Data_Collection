@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cervantes",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6511",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Cadiz St",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -30.500446,
+                "longitude": 115.069176
+            },
+            "commonSiteName": "Pinnacles Edge Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -30.500446,
+                "longitude": 115.069176
+            },
+            "locationGUID": "6060f33e-d462-4757-b10f-c0692e93406a",
+            "maxPowerKw": 22,
+            "name": "Pinnacles Edge Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

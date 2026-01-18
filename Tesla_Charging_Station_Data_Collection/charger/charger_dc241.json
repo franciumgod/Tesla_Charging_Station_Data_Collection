@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Scottsdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85251",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Camelback  Rd",
+                "streetNumber": "6000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.502098,
+                "longitude": -111.951982
+            },
+            "commonSiteName": "The Phoenician",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.502098,
+                "longitude": -111.951982
+            },
+            "locationGUID": "4ed1c256-2473-4b04-b04e-8ae79748de17",
+            "maxPowerKw": 8,
+            "name": "The Phoenician",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Philadelphia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19131",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Presidential Blvd.",
+                "streetNumber": "4100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.006896,
+                "longitude": -75.210763
+            },
+            "commonSiteName": "Courtyard Philadelphia City Avenue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.006896,
+                "longitude": -75.210763
+            },
+            "locationGUID": "ac445065-864e-40c1-bed6-94d7af3753ba",
+            "maxPowerKw": 16,
+            "name": "Courtyard Philadelphia City Avenue",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wick",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "KW1 5ED",
+                "postalExt": null,
+                "state": "Caithness",
+                "street": "Union Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.44074675,
+                "longitude": -3.09324063
+            },
+            "commonSiteName": "Mackays  Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.44074675,
+                "longitude": -3.09324063
+            },
+            "locationGUID": "590e476a-b38d-42e2-81ef-b9176595d92c",
+            "maxPowerKw": 6,
+            "name": "Mackays Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

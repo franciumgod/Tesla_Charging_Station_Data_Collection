@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22800",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Col. Centro",
+                "streetNumber": "Blancarte No. 151"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.861633,
+                "longitude": -116.621655
+            },
+            "commonSiteName": "Holiday Inn Ensenada",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.861633,
+                "longitude": -116.621655
+            },
+            "locationGUID": "26738cb8-946c-4072-884e-595b6cb01f86",
+            "maxPowerKw": 11,
+            "name": "Holiday Inn Ensenada",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

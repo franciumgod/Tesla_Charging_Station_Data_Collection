@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Knokke-Zoute",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "B",
+                "postalExt": "8300",
+                "state": null,
+                "street": "Elizabetlaan",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.354136,
+                "longitude": 3.299234
+            },
+            "commonSiteName": "Memlinc Palace Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.354136,
+                "longitude": 3.299234
+            },
+            "locationGUID": "2de153ab-376e-4e20-a83f-614bd9e0436d",
+            "maxPowerKw": 11,
+            "name": "Memlinc Palace Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

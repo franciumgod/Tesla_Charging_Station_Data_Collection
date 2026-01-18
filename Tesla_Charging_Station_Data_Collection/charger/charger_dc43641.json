@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Auersthal",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2214",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptstr.",
+                "streetNumber": "112"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.372668,
+                "longitude": 16.639422
+            },
+            "commonSiteName": "Felix Sommer Hotel - Restaurant - Vinothek",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.372668,
+                "longitude": 16.639422
+            },
+            "locationGUID": "11136053-aab0-40af-be01-2b0830999ea2",
+            "maxPowerKw": 14,
+            "name": "Felix Sommer Hotel - Restaurant - Vinothek",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8003",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Via Laet",
+                "streetNumber": "Via Laetana 69,"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.388003,
+                "longitude": 2.173182
+            },
+            "commonSiteName": "Hotel H10 Cubik",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.388003,
+                "longitude": 2.173182
+            },
+            "locationGUID": "00ff67e9-3346-417b-ae5f-443d92cfa8d1",
+            "maxPowerKw": 22,
+            "name": "Hotel H10 Cubik",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

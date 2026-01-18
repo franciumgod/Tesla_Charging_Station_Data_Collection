@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Amman",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "King Abdulla II Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.979682,
+                "longitude": 35.836956
+            },
+            "commonSiteName": "Citi Mall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.979682,
+                "longitude": 35.836956
+            },
+            "locationGUID": "9089e279-fed6-4f4b-a0d0-7445e1429087",
+            "maxPowerKw": 22,
+            "name": "Citi Mall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

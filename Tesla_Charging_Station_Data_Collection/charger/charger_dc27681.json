@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Maribor",
+                "country": "Slovenia",
+                "countryCode": "SI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2000",
+                "postalExt": null,
+                "state": null,
+                "street": "Osojnikova ulica",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.554505,
+                "longitude": 15.666355
+            },
+            "commonSiteName": "Mak Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.554505,
+                "longitude": 15.666355
+            },
+            "locationGUID": "035e3de7-2649-4835-b6f2-0fbeefff1f13",
+            "maxPowerKw": 22,
+            "name": "Mak Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Ljubljana"
+        },
+        "success": true
+    }
+}

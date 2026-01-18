@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rotterdam",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3012 CM",
+                "postalExt": null,
+                "state": null,
+                "street": "Weena 10",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.923506,
+                "longitude": 4.47707
+            },
+            "commonSiteName": "Hilton Rotterdam",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.923506,
+                "longitude": 4.47707
+            },
+            "locationGUID": "8ff07324-e229-4d32-bc96-822abcb98189",
+            "maxPowerKw": 22,
+            "name": "Hilton Rotterdam",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

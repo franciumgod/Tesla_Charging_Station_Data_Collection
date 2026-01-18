@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rovaniemi",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "96200",
+                "postalExt": null,
+                "state": null,
+                "street": "Valtakatu",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 66.501339,
+                "longitude": 25.734453
+            },
+            "commonSiteName": "Arctic Light Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 66.501339,
+                "longitude": 25.734453
+            },
+            "locationGUID": "78226063-4e6f-4988-943e-f1e025fe3749",
+            "maxPowerKw": 22,
+            "name": "Arctic Light Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

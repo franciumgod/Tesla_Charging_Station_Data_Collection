@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brake",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26919",
+                "postalExt": null,
+                "state": null,
+                "street": "MItteldeichstr.",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.326744,
+                "longitude": 8.485892
+            },
+            "commonSiteName": "Wiechmanns Weserhotel GbR",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.326744,
+                "longitude": 8.485892
+            },
+            "locationGUID": "3ae9fa63-47a6-4c38-be4e-95f758d50dc0",
+            "maxPowerKw": 11,
+            "name": "Wiechmanns Weserhotel GbR",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

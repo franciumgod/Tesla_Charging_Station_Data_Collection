@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66226",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Los Sabinos",
+                "streetNumber": "Avenida Jose Vasconselos 755 Pte"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.657484,
+                "longitude": -100.389138
+            },
+            "commonSiteName": "Avanta Gardens Monterrey",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.657484,
+                "longitude": -100.389138
+            },
+            "locationGUID": "24943ae1-5038-42aa-bd9d-d1fcdb875553",
+            "maxPowerKw": 18,
+            "name": "Avanta Gardens Monterrey",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

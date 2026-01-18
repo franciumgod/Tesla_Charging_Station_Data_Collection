@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Hartford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "06107",
+                "postalExt": null,
+                "state": "CT",
+                "street": "Memorial Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.759839,
+                "longitude": -72.738912
+            },
+            "commonSiteName": "Delamar West Hartford",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.759839,
+                "longitude": -72.738912
+            },
+            "locationGUID": "c1ac0dbf-a2a1-4a90-8725-88bd89caa6ed",
+            "maxPowerKw": 16,
+            "name": "Delamar West Hartford",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

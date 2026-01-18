@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Osek",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "417 05",
+                "postalExt": null,
+                "state": null,
+                "street": "Vilova",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.623245,
+                "longitude": 13.690039
+            },
+            "commonSiteName": "Restaurace & Pivovar Cerny Orel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.623245,
+                "longitude": 13.690039
+            },
+            "locationGUID": "cc71413e-3b91-4171-9a55-ed2ea481ac67",
+            "maxPowerKw": 11,
+            "name": "Restaurace & Pivovar Cerny Orel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

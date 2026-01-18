@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10012",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Ludlow St",
+                "streetNumber": "169"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.721713,
+                "longitude": -73.987533
+            },
+            "commonSiteName": "Parkright 169 Ludlow Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.721713,
+                "longitude": -73.987533
+            },
+            "locationGUID": "2687d5f7-cf9a-4f07-9e27-1d0da2d2bf98",
+            "maxPowerKw": 10,
+            "name": "Parkright 169 Ludlow Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

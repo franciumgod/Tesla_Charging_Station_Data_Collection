@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Louis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63102",
+                "postalExt": null,
+                "state": "MO",
+                "street": "N 2nd St",
+                "streetNumber": "999"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.633716,
+                "longitude": -90.183986
+            },
+            "commonSiteName": "Four Seasons Hotel St. Louis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.633716,
+                "longitude": -90.183986
+            },
+            "locationGUID": "9d068dc8-1f33-4832-b255-27463daacc66",
+            "maxPowerKw": 16,
+            "name": "Four Seasons Hotel St. Louis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

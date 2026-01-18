@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lyndoch",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5351",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Hermann Thumm Drive",
+                "streetNumber": "159"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.574733,
+                "longitude": 138.874809
+            },
+            "commonSiteName": "Chateau Yaldara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.574733,
+                "longitude": 138.874809
+            },
+            "locationGUID": "257fa9ed-76dd-4b89-ae06-c616f0764f34",
+            "maxPowerKw": 22,
+            "name": "Chateau Yaldara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

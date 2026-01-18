@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saltillo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25279",
+                "postalExt": null,
+                "state": "Coahuila",
+                "street": "Los Parques",
+                "streetNumber": "Blvd. Galerias 375"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.455,
+                "longitude": -100.981895
+            },
+            "commonSiteName": "Centro Gastr├│nomico il Mercato",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.455,
+                "longitude": -100.981895
+            },
+            "locationGUID": "d9d62356-8b37-449c-839a-7a57332485b2",
+            "maxPowerKw": 18,
+            "name": "Centro Gastronomico il Mercato",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

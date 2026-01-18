@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Warrnambool",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3280",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Pertobe Rd",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.3970302,
+                "longitude": 142.4726156
+            },
+            "commonSiteName": "Lady Bay Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.3970302,
+                "longitude": 142.4726156
+            },
+            "locationGUID": "d6ac7447-5cae-4ed8-a2f9-8c080ebfb66c",
+            "maxPowerKw": 22,
+            "name": "Lady Bay Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

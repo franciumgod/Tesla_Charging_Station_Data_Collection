@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Colorado Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80906",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Lake Ave",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.791226,
+                "longitude": -104.850101
+            },
+            "commonSiteName": "The Broadmoor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.791226,
+                "longitude": -104.850101
+            },
+            "locationGUID": "eb044df9-04f4-4f7a-b268-632ffe965b47",
+            "maxPowerKw": 8,
+            "name": "The Broadmoor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

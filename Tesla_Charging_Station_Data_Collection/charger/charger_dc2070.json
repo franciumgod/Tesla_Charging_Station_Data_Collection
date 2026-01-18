@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mongtomery",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "36117",
+                "postalExt": null,
+                "state": "AL",
+                "street": "EastChase Pkwy",
+                "streetNumber": "7665"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.361294,
+                "longitude": -86.158811
+            },
+            "commonSiteName": "Hilton Garden Inn Montgomery - EastChase",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.361294,
+                "longitude": -86.158811
+            },
+            "locationGUID": "7c9a2120-ccec-470f-afcb-4d691975a61f",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Montgomery - EastChase",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

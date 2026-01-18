@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tukwila",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98188",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Andover Park E",
+                "streetNumber": "223"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.457152,
+                "longitude": -122.251628
+            },
+            "commonSiteName": "Hotel Interurban",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.457152,
+                "longitude": -122.251628
+            },
+            "locationGUID": "146bc018-5848-4a01-b1a5-27537351e290",
+            "maxPowerKw": 16,
+            "name": "Hotel Interurban",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

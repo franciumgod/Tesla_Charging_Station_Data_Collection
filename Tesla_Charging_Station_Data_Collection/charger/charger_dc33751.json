@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kahl am Main",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "63796",
+                "postalExt": null,
+                "state": null,
+                "street": "Aschaffenburger Strasse",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.06804323,
+                "longitude": 9.00553823
+            },
+            "commonSiteName": "Zeller - Hotel + Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.06804323,
+                "longitude": 9.00553823
+            },
+            "locationGUID": "6cd8357f-62c9-4a64-81f6-3001be2bd5e6",
+            "maxPowerKw": 11,
+            "name": "Zeller - Hotel + Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Liberec",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "460 07",
+                "postalExt": null,
+                "state": null,
+                "street": "1. maje",
+                "streetNumber": "757/29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.764038,
+                "longitude": 15.050228
+            },
+            "commonSiteName": "Pytloun Grand Hotel Imperial",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.764038,
+                "longitude": 15.050228
+            },
+            "locationGUID": "30075a5c-b4dd-4fde-933a-5f4b87107970",
+            "maxPowerKw": 17,
+            "name": "Pytloun Grand Hotel Imperial",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

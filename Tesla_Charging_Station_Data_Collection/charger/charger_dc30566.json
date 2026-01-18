@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Portet-sur-Garonne",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31120",
+                "postalExt": null,
+                "state": null,
+                "street": "Avenue des Palanques",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.536844,
+                "longitude": 1.403825
+            },
+            "commonSiteName": "L'Atelier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.536844,
+                "longitude": 1.403825
+            },
+            "locationGUID": "9ebcf18e-a5d3-4b81-925d-d7a515ceccd9",
+            "maxPowerKw": 11,
+            "name": "L'Atelier",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

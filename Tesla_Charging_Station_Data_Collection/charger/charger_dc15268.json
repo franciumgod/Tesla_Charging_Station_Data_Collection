@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sirolo",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "60020",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Monteconero n. 26",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.547249,
+                "longitude": 13.615222
+            },
+            "commonSiteName": "Hotel Monteconero",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.547249,
+                "longitude": 13.615222
+            },
+            "locationGUID": "7e85312e-06a5-4d05-a3d6-09aa09c63fd8",
+            "maxPowerKw": 11,
+            "name": "Hotel Monteconero",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Campo",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22450",
+                "postalExt": null,
+                "state": "Aragón",
+                "street": "Calle Nugueret",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.407936,
+                "longitude": 0.397881
+            },
+            "commonSiteName": "Hotel Los Nogales",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.407936,
+                "longitude": 0.397881
+            },
+            "locationGUID": "3bd2245b-527b-46b0-b83b-7814f12fac59",
+            "maxPowerKw": 11,
+            "name": "Hotel Los Nogales",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

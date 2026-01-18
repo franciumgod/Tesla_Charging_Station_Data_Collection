@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zermatt",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3920",
+                "postalExt": null,
+                "state": null,
+                "street": "Spissstrasse",
+                "streetNumber": "52"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.0672,
+                "longitude": 7.77619
+            },
+            "commonSiteName": "Alpen Resort Hotel Zermatt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.0672,
+                "longitude": 7.77619
+            },
+            "locationGUID": "becc861c-45ac-499f-838f-d719fa25b234",
+            "maxPowerKw": 11,
+            "name": "Alpen Resort Hotel Zermatt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

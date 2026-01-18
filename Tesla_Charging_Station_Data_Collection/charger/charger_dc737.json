@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beverly Hills",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90212",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Wilshire Blvd",
+                "streetNumber": "9500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.0666534,
+                "longitude": -118.4010018
+            },
+            "commonSiteName": "Beverly Wilshire, a Four Seasons Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.0666534,
+                "longitude": -118.4010018
+            },
+            "locationGUID": "2530b785-b5c6-4c58-bad0-1895d029f052",
+            "maxPowerKw": 16,
+            "name": "Beverly Wilshire, a Four Seasons Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

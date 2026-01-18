@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Fislisbach",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": "Baden",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5442",
+                "postalExt": null,
+                "state": "Argovia",
+                "street": "Niederrohrdorferstrasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.435325,
+                "longitude": 8.291608
+            },
+            "commonSiteName": "Hotel Linde Fislisbach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.435325,
+                "longitude": 8.291608
+            },
+            "locationGUID": "d6da052d-2333-4937-a20e-b17d3ded90ff",
+            "maxPowerKw": 11,
+            "name": "Hotel Linde Fislisbach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

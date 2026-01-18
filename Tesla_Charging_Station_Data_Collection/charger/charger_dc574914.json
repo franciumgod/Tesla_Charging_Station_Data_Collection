@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Clayton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3168",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Dandenong Road",
+                "streetNumber": "2107-2125"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.92145824,
+                "longitude": 145.13975624
+            },
+            "commonSiteName": "M-City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.92145824,
+                "longitude": 145.13975624
+            },
+            "locationGUID": "1a1ef53b-146a-49ac-ae1a-c516e3ec0456",
+            "maxPowerKw": 19,
+            "name": "M-City",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

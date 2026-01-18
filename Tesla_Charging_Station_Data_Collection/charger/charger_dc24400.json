@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pickering",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "YO18 7AA",
+                "postalExt": null,
+                "state": "North Yorkshire",
+                "street": "The White Swan Inn",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.245886,
+                "longitude": -0.777369
+            },
+            "commonSiteName": "The White Swan Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.245886,
+                "longitude": -0.777369
+            },
+            "locationGUID": "6c4cfe85-9ae7-4a75-9593-42ee084fc5a1",
+            "maxPowerKw": 7,
+            "name": "The White Swan Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

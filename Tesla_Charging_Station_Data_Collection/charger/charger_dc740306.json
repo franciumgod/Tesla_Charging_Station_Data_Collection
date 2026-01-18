@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Springvale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": "P1",
+                "postalCode": "3191",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Princes Highway",
+                "streetNumber": "P1, 917"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.927427,
+                "longitude": 145.143999
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.927427,
+                "longitude": 145.143999
+            },
+            "locationGUID": "e08b5d93-d16b-45e3-95fc-abf2643ee5ee",
+            "maxPowerKw": 19,
+            "name": "Springvale Homemaker Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Brussels",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1050",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de Livourne",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.831526,
+                "longitude": 4.359258
+            },
+            "commonSiteName": "Thon Hotel Bristol Stephanie",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.831526,
+                "longitude": 4.359258
+            },
+            "locationGUID": "70c6ebc4-be27-4f79-a7f2-bcd1fdf63b5e",
+            "maxPowerKw": 11,
+            "name": "Thon Hotel Bristol Stephanie",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

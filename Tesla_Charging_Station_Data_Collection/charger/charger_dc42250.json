@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Helier",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "JE2 3ZA",
+                "postalExt": null,
+                "state": null,
+                "street": "37 Rouge Bouillon",
+                "streetNumber": "The Savoy Hotel"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.191688,
+                "longitude": -2.109773
+            },
+            "commonSiteName": "The Savoy Jersey",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.191688,
+                "longitude": -2.109773
+            },
+            "locationGUID": "cfe34903-404a-49a7-8718-63fe52fd216b",
+            "maxPowerKw": 13,
+            "name": "The Savoy Jersey",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Jersey"
+        },
+        "success": true
+    }
+}

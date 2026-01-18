@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H2X 4C9",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Sherbrooke Ouest",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.512413,
+                "longitude": -73.569565
+            },
+            "commonSiteName": "Hotel 10",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.512413,
+                "longitude": -73.569565
+            },
+            "locationGUID": "1a26dbf0-464e-4c8b-9bea-d7bf0f9029b8",
+            "maxPowerKw": 11,
+            "name": "Hotel 10",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

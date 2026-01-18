@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Luis Potosi",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78216",
+                "postalExt": null,
+                "state": "SLP",
+                "street": "Fraccionamiento Lomas del Tecnologico",
+                "streetNumber": "Blvd. Periferico Sur Antonio Rocha Cordero #700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.12750929,
+                "longitude": -101.02977803
+            },
+            "commonSiteName": "Plaza San Luis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.12750929,
+                "longitude": -101.02977803
+            },
+            "locationGUID": "f3335dde-22c6-4bc2-9951-912e34f8bc4c",
+            "maxPowerKw": 18,
+            "name": "Plaza San Luis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

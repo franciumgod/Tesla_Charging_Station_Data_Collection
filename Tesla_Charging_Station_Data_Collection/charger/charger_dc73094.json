@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Karak",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Karak",
+                "street": "Pr. Bandar Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.173937,
+                "longitude": 35.711063
+            },
+            "commonSiteName": "Day by Day Cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.173937,
+                "longitude": 35.711063
+            },
+            "locationGUID": "64f490d1-582a-4c9b-a51d-6d672b2d846e",
+            "maxPowerKw": 22,
+            "name": "Day by Day Cafe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

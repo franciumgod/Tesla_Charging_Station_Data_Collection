@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bremerhaven",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "27568",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Leuchtturm",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.547334,
+                "longitude": 8.569261
+            },
+            "commonSiteName": "im-jaich boardinghouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.547334,
+                "longitude": 8.569261
+            },
+            "locationGUID": "46717b03-137f-423a-bb9c-eb860c11538e",
+            "maxPowerKw": 22,
+            "name": "Im-Jaich Boardinghouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

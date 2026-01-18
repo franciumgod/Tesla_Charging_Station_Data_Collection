@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "L'Epine",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "51460",
+                "postalExt": null,
+                "state": null,
+                "street": "avenue du Luxembourg",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.97771377,
+                "longitude": 4.46888852
+            },
+            "commonSiteName": "Armes de champagne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.97771377,
+                "longitude": 4.46888852
+            },
+            "locationGUID": "c65eb748-4c81-4483-8580-c8374bf5532d",
+            "maxPowerKw": 22,
+            "name": "Armes de champagne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

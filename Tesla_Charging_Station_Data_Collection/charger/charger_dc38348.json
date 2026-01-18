@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jamesport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11947",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main Rd",
+                "streetNumber": "1216"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.9486585,
+                "longitude": -72.5973094
+            },
+            "commonSiteName": "Jamesport Vineyards",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.9486585,
+                "longitude": -72.5973094
+            },
+            "locationGUID": "44b9bc28-2980-4ed4-841c-e92f12ed6855",
+            "maxPowerKw": 16,
+            "name": "Jamesport Vineyards",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

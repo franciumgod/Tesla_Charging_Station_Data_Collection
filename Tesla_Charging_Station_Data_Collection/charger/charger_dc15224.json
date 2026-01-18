@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Katy",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77449",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Westborough Dr",
+                "streetNumber": "1549"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.793368,
+                "longitude": -95.729374
+            },
+            "commonSiteName": "Best Western Premier Energy Corridor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.793368,
+                "longitude": -95.729374
+            },
+            "locationGUID": "7d25ee18-8a47-4a1c-9e6b-6972244c49d4",
+            "maxPowerKw": 8,
+            "name": "Best Western Premier Energy Corridor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

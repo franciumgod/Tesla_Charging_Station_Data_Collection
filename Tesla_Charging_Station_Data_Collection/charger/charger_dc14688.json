@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Adventure Bay",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7150",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Main Rd",
+                "streetNumber": "712"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -43.360907,
+                "longitude": 147.328518
+            },
+            "commonSiteName": "Adventure Bay General Store",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -43.360907,
+                "longitude": 147.328518
+            },
+            "locationGUID": "bb050b72-7994-404a-ad19-fc166687aa43",
+            "maxPowerKw": 22,
+            "name": "Adventure Bay General Store",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Hobart"
+        },
+        "success": true
+    }
+}

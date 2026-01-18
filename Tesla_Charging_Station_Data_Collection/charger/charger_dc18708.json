@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seebad Ueckermunde",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17373",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse",
+                "streetNumber": "35"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.736613,
+                "longitude": 14.120793
+            },
+            "commonSiteName": "Haffhus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.736613,
+                "longitude": 14.120793
+            },
+            "locationGUID": "fc7fc3b1-ad9e-4a87-956a-a8a6afdcbd85",
+            "maxPowerKw": 22,
+            "name": "Haffhus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

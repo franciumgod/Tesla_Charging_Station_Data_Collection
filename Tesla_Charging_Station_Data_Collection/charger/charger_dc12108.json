@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03909",
+                "postalExt": null,
+                "state": "ME",
+                "street": "York St",
+                "streetNumber": "480"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.134025,
+                "longitude": -70.638056
+            },
+            "commonSiteName": "York Harbor Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.134025,
+                "longitude": -70.638056
+            },
+            "locationGUID": "f2dece87-b9e2-4701-93c2-c8181c61e8c0",
+            "maxPowerKw": 13,
+            "name": "York Harbor Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

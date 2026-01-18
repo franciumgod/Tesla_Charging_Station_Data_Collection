@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reno",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89521",
+                "postalExt": null,
+                "state": "NV",
+                "street": "Steamboat Pkwy",
+                "streetNumber": "1101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.423515,
+                "longitude": -119.739984
+            },
+            "commonSiteName": "Flex Appeal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.423515,
+                "longitude": -119.739984
+            },
+            "locationGUID": "10a1983f-0f62-45c9-b723-571628c2a8b5",
+            "maxPowerKw": 8,
+            "name": "Flex Appeal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

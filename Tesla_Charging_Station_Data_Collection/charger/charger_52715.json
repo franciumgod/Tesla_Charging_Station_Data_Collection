@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salt Lake City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84101",
+                "postalExt": null,
+                "state": "UT",
+                "street": "S W Temple",
+                "streetNumber": "255"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.7639,
+                "longitude": -111.893096
+            },
+            "commonSiteName": "Hilton Salt Lake City Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.7639,
+                "longitude": -111.893096
+            },
+            "locationGUID": "677e8af3-3929-44ce-98a6-a2c83a78b449",
+            "maxPowerKw": 16,
+            "name": "Hilton Salt Lake City Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

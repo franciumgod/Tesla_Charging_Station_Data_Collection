@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Massignac",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "16310",
+                "postalExt": null,
+                "state": "Poitou-Charentes",
+                "street": "Domaine des Etangs",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.775263,
+                "longitude": 0.64326
+            },
+            "commonSiteName": "Domaine des Etangs",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.775263,
+                "longitude": 0.64326
+            },
+            "locationGUID": "7395a139-1b6d-400e-a14e-1ad71ebc0945",
+            "maxPowerKw": 0,
+            "name": "Domaine des Etangs",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

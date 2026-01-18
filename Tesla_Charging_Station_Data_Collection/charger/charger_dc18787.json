@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43235",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Vantage Dr",
+                "streetNumber": "7490"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.115967,
+                "longitude": -83.013604
+            },
+            "commonSiteName": "Hyatt Place Columbus/Worthington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.115967,
+                "longitude": -83.013604
+            },
+            "locationGUID": "b3262653-4d49-400f-b6e6-e9d1da27e844",
+            "maxPowerKw": 8,
+            "name": "Hyatt Place Columbus/Worthington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

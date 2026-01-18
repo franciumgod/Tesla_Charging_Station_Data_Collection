@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30326",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Lenox Rd NE",
+                "streetNumber": "3405"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.848176,
+                "longitude": -84.359664
+            },
+            "commonSiteName": "Atlanta Marriott Buckhead Hotel & Conference Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.848176,
+                "longitude": -84.359664
+            },
+            "locationGUID": "4b1df6e6-e88b-4b5e-878a-ac18adad1e7c",
+            "maxPowerKw": 8,
+            "name": "Atlanta Marriott Buckhead Hotel & Conference Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

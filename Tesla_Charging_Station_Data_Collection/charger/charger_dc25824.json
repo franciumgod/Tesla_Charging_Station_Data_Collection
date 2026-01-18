@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Pittsburgh",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "15237",
+                "postalExt": null,
+                "state": "PA",
+                "street": "McKnight Rd",
+                "streetNumber": "8013"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.552182,
+                "longitude": -80.020224
+            },
+            "commonSiteName": "The Block Northway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.552182,
+                "longitude": -80.020224
+            },
+            "locationGUID": "2bf54661-411c-4ed5-bdcc-30e8194ee158",
+            "maxPowerKw": 12,
+            "name": "The Block Northway",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

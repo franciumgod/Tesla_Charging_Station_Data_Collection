@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vevey",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1800",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue d'Italie, 49",
+                "streetNumber": "49"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.45853,
+                "longitude": 6.847856
+            },
+            "commonSiteName": "Hotel des Trois Couronnes et Destination Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.45853,
+                "longitude": 6.847856
+            },
+            "locationGUID": "ed96666f-00c9-4f0f-8f0a-8658f5fbb129",
+            "maxPowerKw": 22,
+            "name": "Hotel des Trois Couronnes et Destination Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

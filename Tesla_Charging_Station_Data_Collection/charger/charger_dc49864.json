@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Garza Garcia,",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66220",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Colonia del Valle, San Pedro",
+                "streetNumber": "Av. Humberto Lobo 540"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.665415,
+                "longitude": -100.382519
+            },
+            "commonSiteName": "Innovasport HQ",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.665415,
+                "longitude": -100.382519
+            },
+            "locationGUID": "c7ff030e-b509-4c66-8171-def28cea9f45",
+            "maxPowerKw": 18,
+            "name": "Innovasport HQ",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

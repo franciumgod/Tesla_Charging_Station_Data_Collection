@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jacksonville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32216",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Lenoir Ave E",
+                "streetNumber": "4681"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.249266,
+                "longitude": -81.5981
+            },
+            "commonSiteName": "Hampton Inn Jacksonville South/I-95 at JTB",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.249266,
+                "longitude": -81.5981
+            },
+            "locationGUID": "29134ff6-0ce9-4c39-b08e-d6f92dad22e1",
+            "maxPowerKw": 8,
+            "name": "Hampton Inn Jacksonville South/I-95 at JTB",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

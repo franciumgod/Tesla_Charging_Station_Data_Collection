@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Collins St",
+                "streetNumber": "123"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.814844,
+                "longitude": 144.969685
+            },
+            "commonSiteName": "Grand Hyatt Melbourne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.814844,
+                "longitude": 144.969685
+            },
+            "locationGUID": "ed9cb3e9-2b06-412a-896b-561b75d8c30b",
+            "maxPowerKw": 22,
+            "name": "Grand Hyatt Melbourne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

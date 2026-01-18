@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 73rd St",
+                "streetNumber": "524"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.766736,
+                "longitude": -73.951891
+            },
+            "commonSiteName": "Icon Parking 524 East 73rd",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.766736,
+                "longitude": -73.951891
+            },
+            "locationGUID": "e231058a-17f9-4ae0-af78-cf590b9da6e2",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 524 East 73rd",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

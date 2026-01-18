@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miami Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33140",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Colins Ave",
+                "streetNumber": "3201"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.80743505,
+                "longitude": -80.12351452
+            },
+            "commonSiteName": "Faena Miami Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.80743505,
+                "longitude": -80.12351452
+            },
+            "locationGUID": "ee7c4116-a66e-44d9-bb75-10c369275d3d",
+            "maxPowerKw": 10,
+            "name": "Faena Miami Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

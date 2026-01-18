@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ivoy le pré",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18380",
+                "postalExt": null,
+                "state": null,
+                "street": "Chateau de Moison, Route du gué de la pierre",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.35339244,
+                "longitude": 2.48179611
+            },
+            "commonSiteName": "Chateau de Moison",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.35339244,
+                "longitude": 2.48179611
+            },
+            "locationGUID": "2f2b661f-91bc-41d6-aef0-236a52ece3d8",
+            "maxPowerKw": 11,
+            "name": "Chateau de Moison",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

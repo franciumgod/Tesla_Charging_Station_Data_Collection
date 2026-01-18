@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jorvas",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2420",
+                "postalExt": null,
+                "state": null,
+                "street": "Hirsalantie",
+                "streetNumber": "215"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.118454,
+                "longitude": 24.523133
+            },
+            "commonSiteName": "Hirsala Golf",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.118454,
+                "longitude": 24.523133
+            },
+            "locationGUID": "eda721f0-9bd9-4929-b8bd-987515bbdfc8",
+            "maxPowerKw": 11,
+            "name": "Hirsala Golf",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

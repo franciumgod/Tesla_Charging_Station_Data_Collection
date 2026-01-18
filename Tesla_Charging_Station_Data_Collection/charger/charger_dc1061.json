@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Calgary",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T2G 5P6",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Centre Street SE",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.0461809,
+                "longitude": -114.062747
+            },
+            "commonSiteName": "Hyatt Regency Calgary",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.0461809,
+                "longitude": -114.062747
+            },
+            "locationGUID": "83ef4f74-9af2-4bf5-af11-9622b19d36f4",
+            "maxPowerKw": 8,
+            "name": "Hyatt Regency Calgary",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

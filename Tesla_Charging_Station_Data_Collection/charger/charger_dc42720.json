@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Xochimilco",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14620",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "San Buenaventura",
+                "streetNumber": "Glorieta Sur 64"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.2785139,
+                "longitude": -99.15891626
+            },
+            "commonSiteName": "Club de Golf Mexico",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.2785139,
+                "longitude": -99.15891626
+            },
+            "locationGUID": "73535592-752d-4c20-b8e0-0dcbb355cb3d",
+            "maxPowerKw": 18,
+            "name": "Club de Golf Mexico",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

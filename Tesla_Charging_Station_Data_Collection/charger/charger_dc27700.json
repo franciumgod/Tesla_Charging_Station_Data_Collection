@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Foix",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9000",
+                "postalExt": null,
+                "state": null,
+                "street": "Le Couloumié - Labarre - Route Nationale 20",
+                "streetNumber": "-"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.991237,
+                "longitude": 1.614588
+            },
+            "commonSiteName": "Hotel du Lac",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.991237,
+                "longitude": 1.614588
+            },
+            "locationGUID": "c9d111cf-f301-4c7f-a8ad-6aa2c2ef756e",
+            "maxPowerKw": 11,
+            "name": "Hotel du Lac",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

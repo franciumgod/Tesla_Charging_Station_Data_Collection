@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cullera",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46400",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Avenida del Raco",
+                "streetNumber": "27"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.17723834,
+                "longitude": -0.24262171
+            },
+            "commonSiteName": "Hotel Cullera Holiday",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.17723834,
+                "longitude": -0.24262171
+            },
+            "locationGUID": "51d04b97-fc65-4795-8bc1-460cc1db9599",
+            "maxPowerKw": 22,
+            "name": "Hotel Cullera Holiday",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

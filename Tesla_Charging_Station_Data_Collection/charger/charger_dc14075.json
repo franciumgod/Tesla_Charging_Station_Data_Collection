@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Southampton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SO14 5QL",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "William Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.909757,
+                "longitude": -1.38154
+            },
+            "commonSiteName": "Shamrock Quay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.909757,
+                "longitude": -1.38154
+            },
+            "locationGUID": "4ab12133-359f-4d8f-9f98-a602e89cd0bf",
+            "maxPowerKw": 22,
+            "name": "Shamrock Quay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

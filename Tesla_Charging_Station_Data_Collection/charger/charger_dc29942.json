@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Plymouth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "PL7 4DP",
+                "postalExt": null,
+                "state": null,
+                "street": "Boringdon Hill",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.4012601,
+                "longitude": -4.05729035
+            },
+            "commonSiteName": "Boringdon Hall Hotel and Gaia Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.4012601,
+                "longitude": -4.05729035
+            },
+            "locationGUID": "05c57e67-c189-4921-a3a5-0309fa8ed64d",
+            "maxPowerKw": 13,
+            "name": "Boringdon Hall Hotel and Gaia Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

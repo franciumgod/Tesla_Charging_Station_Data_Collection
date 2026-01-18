@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "三豊市",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": "SENJA",
+                "postalCode": "769",
+                "postalExt": "1404",
+                "state": "香川県",
+                "street": "仁尾町仁尾乙南草木",
+                "streetNumber": "213"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.18288,
+                "longitude": 133.64745
+            },
+            "commonSiteName": "SENJA",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.18288,
+                "longitude": 133.64745
+            },
+            "locationGUID": "9bce7b61-354f-4f59-bca4-3302790b99af",
+            "maxPowerKw": 3,
+            "name": "SENJA",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naramata",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0H 1N0",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Mill Rd",
+                "streetNumber": "4275"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.60157,
+                "longitude": -119.59738
+            },
+            "commonSiteName": "Sandy Beach Lodge & Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.60157,
+                "longitude": -119.59738
+            },
+            "locationGUID": "f25e66fe-377f-4d3b-87f7-218deb5cbce9",
+            "maxPowerKw": 16,
+            "name": "Sandy Beach Lodge & Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

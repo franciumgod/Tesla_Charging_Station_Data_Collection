@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chichester",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "PO18 8DL",
+                "postalExt": null,
+                "state": null,
+                "street": "Ratham Ln",
+                "streetNumber": "Ratham House"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.851885,
+                "longitude": -0.848095
+            },
+            "commonSiteName": "Concierge Camping",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.851885,
+                "longitude": -0.848095
+            },
+            "locationGUID": "549a33d2-c312-43a4-819b-3956b139fb01",
+            "maxPowerKw": 6,
+            "name": "Concierge Camping",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

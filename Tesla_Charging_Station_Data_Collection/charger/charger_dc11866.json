@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Ives",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR26 2NQ",
+                "postalExt": null,
+                "state": null,
+                "street": "Boskerris Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.196282,
+                "longitude": -5.465052
+            },
+            "commonSiteName": "Boskerris Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.196282,
+                "longitude": -5.465052
+            },
+            "locationGUID": "bacbfd1d-eb1d-46db-b1b0-470f82a382b5",
+            "maxPowerKw": 22,
+            "name": "Boskerris Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

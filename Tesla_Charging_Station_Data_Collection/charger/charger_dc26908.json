@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monpazier",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24540",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue St Pierre",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.678976,
+                "longitude": 0.893168
+            },
+            "commonSiteName": "Hôtel Restaurant Edward 1er",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.678976,
+                "longitude": 0.893168
+            },
+            "locationGUID": "ba237788-e21e-4fe8-ba24-89704fa90e95",
+            "maxPowerKw": 7,
+            "name": "Hôtel Restaurant Edward 1er",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

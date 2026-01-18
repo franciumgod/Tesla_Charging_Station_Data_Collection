@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jindabyne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2627",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Nettin Circuit",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.417329,
+                "longitude": 148.607656
+            },
+            "commonSiteName": "Panorama Jindabyne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.417329,
+                "longitude": 148.607656
+            },
+            "locationGUID": "c87a69f5-73ea-4c05-8113-1288e04166c1",
+            "maxPowerKw": 22,
+            "name": "Panorama Jindabyne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Genk",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3600",
+                "postalExt": null,
+                "state": null,
+                "street": "Albert Remansstraat",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.964693,
+                "longitude": 5.506416
+            },
+            "commonSiteName": "M hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.964693,
+                "longitude": 5.506416
+            },
+            "locationGUID": "fc7d1a75-3d47-4ff4-b644-6b5d6f748cc4",
+            "maxPowerKw": 17,
+            "name": "M hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

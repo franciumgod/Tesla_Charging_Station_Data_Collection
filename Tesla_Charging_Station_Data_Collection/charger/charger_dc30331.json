@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Wanaka",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9381",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Studholme Rd",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -44.7145448,
+                "longitude": 169.13542641
+            },
+            "commonSiteName": "Oakridge Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -44.7145448,
+                "longitude": 169.13542641
+            },
+            "locationGUID": "98c9a263-d19e-4683-810d-fab7f6919f2c",
+            "maxPowerKw": 22,
+            "name": "Oakridge Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

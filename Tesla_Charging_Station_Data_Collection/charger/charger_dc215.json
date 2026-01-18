@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Los Angeles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "09048",
+                "postalExt": null,
+                "state": "CA",
+                "street": "South Doheny Dr",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.072883,
+                "longitude": -118.389618
+            },
+            "commonSiteName": "Four Seasons Hotel Los Angeles at Beverly Hills",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.072883,
+                "longitude": -118.389618
+            },
+            "locationGUID": "15f7b442-fb5f-4e5d-b117-fc3e9c46d823",
+            "maxPowerKw": 16,
+            "name": "Four Seasons Hotel Los Angeles at Beverly Hills",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

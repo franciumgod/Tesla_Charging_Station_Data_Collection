@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "W8 7NX",
+                "postalExt": null,
+                "state": null,
+                "street": "Hornton Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.502018,
+                "longitude": -0.194711
+            },
+            "commonSiteName": "Indigo Kensington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.502018,
+                "longitude": -0.194711
+            },
+            "locationGUID": "eb02a4f6-07f1-47bd-8163-e5f39735f872",
+            "maxPowerKw": 22,
+            "name": "Indigo Kensington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

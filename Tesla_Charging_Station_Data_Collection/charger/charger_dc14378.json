@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Benowa",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4217",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Ross Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -28.004566,
+                "longitude": 153.37595
+            },
+            "commonSiteName": "RACV Royal Pines Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -28.004566,
+                "longitude": 153.37595
+            },
+            "locationGUID": "4c03debc-47bd-4920-9067-2fe209cb1901",
+            "maxPowerKw": 7,
+            "name": "RACV Royal Pines Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

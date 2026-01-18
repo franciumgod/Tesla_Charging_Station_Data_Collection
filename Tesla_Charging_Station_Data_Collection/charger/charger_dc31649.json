@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "McLaren Vale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5171",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Cnr of Olivers Rd & Chalk Hill Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.207548,
+                "longitude": 138.542557
+            },
+            "commonSiteName": "Maxwell Wines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.207548,
+                "longitude": 138.542557
+            },
+            "locationGUID": "e75d751e-aaa5-4f27-8f58-ee9bb8a18817",
+            "maxPowerKw": 22,
+            "name": "Maxwell Wines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Reno",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89501",
+                "postalExt": null,
+                "state": "NV",
+                "street": "N Virginia St",
+                "streetNumber": "255"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.52788,
+                "longitude": -119.813754
+            },
+            "commonSiteName": "Whitney Peak Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.52788,
+                "longitude": -119.813754
+            },
+            "locationGUID": "7e1ae3cc-2821-47a0-97fe-5f667b0d59b5",
+            "maxPowerKw": 9,
+            "name": "Whitney Peak Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

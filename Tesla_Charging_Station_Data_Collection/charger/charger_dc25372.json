@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cheserex",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1275",
+                "postalExt": null,
+                "state": "VAUD",
+                "street": "Route de Bonmont",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.402679,
+                "longitude": 6.149496
+            },
+            "commonSiteName": "Château de Bonmont",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.402679,
+                "longitude": 6.149496
+            },
+            "locationGUID": "6bfd9b99-bf46-4c4c-80d9-9942c52c31c9",
+            "maxPowerKw": 6,
+            "name": "Château de Bonmont",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Vernon",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V1T5Y9",
+                "postalExt": null,
+                "state": "BC",
+                "street": "34th St",
+                "streetNumber": "4716"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.281166,
+                "longitude": -119.276536
+            },
+            "commonSiteName": "Holiday Inn Express and Suites Vernon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.281166,
+                "longitude": -119.276536
+            },
+            "locationGUID": "4037240c-9237-438a-b2be-601f7589f21e",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Express and Suites Vernon",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

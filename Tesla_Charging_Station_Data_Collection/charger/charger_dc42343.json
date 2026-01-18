@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cathedral City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92234",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Gay Resort Dr",
+                "streetNumber": "68300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.780004,
+                "longitude": -116.469577
+            },
+            "commonSiteName": "CCBC Resort Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.780004,
+                "longitude": -116.469577
+            },
+            "locationGUID": "01c8382e-09ee-4a9b-947e-a60862ea21f3",
+            "maxPowerKw": 16,
+            "name": "CCBC Resort Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

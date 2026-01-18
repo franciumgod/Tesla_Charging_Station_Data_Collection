@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wadsworth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44281",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Park Center Dr",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.047512,
+                "longitude": -81.725494
+            },
+            "commonSiteName": "Comfort Inn & Suites Wadsworth",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.047512,
+                "longitude": -81.725494
+            },
+            "locationGUID": "62eaaa3a-5af0-4620-baf7-56cc2702efdf",
+            "maxPowerKw": 16,
+            "name": "Comfort Inn & Suites Wadsworth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 50th St",
+                "streetNumber": "285"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.762411,
+                "longitude": -73.984495
+            },
+            "commonSiteName": "ABM Parking Services 285 W 50th Street LLC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.762411,
+                "longitude": -73.984495
+            },
+            "locationGUID": "bd896a47-2982-4112-b917-cc20fdb73d6d",
+            "maxPowerKw": 8,
+            "name": "ABM Parking Services 285 W 50th Street LLC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

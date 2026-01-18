@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newhaven",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3925",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Churchill Rd",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.510632,
+                "longitude": 145.335305
+            },
+            "commonSiteName": "Island Bay Ranch",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.510632,
+                "longitude": 145.335305
+            },
+            "locationGUID": "e2107ec7-41aa-4db6-ae9d-e47fd18b24fd",
+            "maxPowerKw": 22,
+            "name": "Island Bay Ranch",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

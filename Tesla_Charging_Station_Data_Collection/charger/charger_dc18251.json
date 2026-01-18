@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pfronten",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "87459",
+                "postalExt": null,
+                "state": null,
+                "street": "Auf dem Falkenstein",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.570013,
+                "longitude": 10.592119
+            },
+            "commonSiteName": "Das Burghotel Falkenstein Allgau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.570013,
+                "longitude": 10.592119
+            },
+            "locationGUID": "5346dec3-bb82-4f26-b408-da6b20d46ce2",
+            "maxPowerKw": 22,
+            "name": "Das Burghotel Falkenstein Allgau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

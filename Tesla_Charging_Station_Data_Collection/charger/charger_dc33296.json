@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tampa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33625",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Citrus Park Ln",
+                "streetNumber": "12730"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.06173905,
+                "longitude": -82.57073138
+            },
+            "commonSiteName": "Courtyard Tampa Northwest/Veterans Expressway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.06173905,
+                "longitude": -82.57073138
+            },
+            "locationGUID": "709b6f56-ea2f-4595-be6c-105071a3086b",
+            "maxPowerKw": 16,
+            "name": "Courtyard Tampa Northwest/Veterans Expressway",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

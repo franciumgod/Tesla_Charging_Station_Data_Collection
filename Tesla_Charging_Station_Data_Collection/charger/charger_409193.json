@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eugene",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Lane County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97405",
+                "postalExt": null,
+                "state": "OR",
+                "street": "Territorial Hwy",
+                "streetNumber": "80854"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.85372659,
+                "longitude": -123.2469238
+            },
+            "commonSiteName": "King Estate Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.85372659,
+                "longitude": -123.2469238
+            },
+            "locationGUID": "e5a5e206-bd29-4240-9395-63cf3857d9a3",
+            "maxPowerKw": 6,
+            "name": "King Estate Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

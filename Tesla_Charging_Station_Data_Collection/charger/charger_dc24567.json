@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Orleans",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70130",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Tchoupitoulas St",
+                "streetNumber": "1645"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.92985,
+                "longitude": -90.066989
+            },
+            "commonSiteName": "Urban South Brewery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.92985,
+                "longitude": -90.066989
+            },
+            "locationGUID": "32bea053-f710-473f-8cee-0a64350a5116",
+            "maxPowerKw": 16,
+            "name": "Urban South Brewery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

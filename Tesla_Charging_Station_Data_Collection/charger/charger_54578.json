@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alta",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9509",
+                "postalExt": null,
+                "state": null,
+                "street": "Løkkeveien",
+                "streetNumber": "61"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 69.966009,
+                "longitude": 23.268338
+            },
+            "commonSiteName": "Scandic Alta",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 69.966009,
+                "longitude": 23.268338
+            },
+            "locationGUID": "7c822f38-fdd9-472d-ba6c-2169ae03df0c",
+            "maxPowerKw": 10,
+            "name": "Scandic Alta",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

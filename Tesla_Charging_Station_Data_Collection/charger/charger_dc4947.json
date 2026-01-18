@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10014",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Jane St",
+                "streetNumber": "61"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.738733,
+                "longitude": -74.006009
+            },
+            "commonSiteName": "iPark NYC 61 Jane Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.738733,
+                "longitude": -74.006009
+            },
+            "locationGUID": "1ae2d939-c298-4aa1-bf2d-c15c515566ba",
+            "maxPowerKw": 8,
+            "name": "iPark NYC 61 Jane Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

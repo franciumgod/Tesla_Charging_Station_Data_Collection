@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10005",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Wall St",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.705115,
+                "longitude": -74.008089
+            },
+            "commonSiteName": "Andaz Wall Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.705115,
+                "longitude": -74.008089
+            },
+            "locationGUID": "5ddea38e-8dff-48d5-8430-5e236f2bed3d",
+            "maxPowerKw": 8,
+            "name": "Andaz Wall Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

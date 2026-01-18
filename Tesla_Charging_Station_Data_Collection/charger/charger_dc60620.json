@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miedzyzdroje",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "72",
+                "postalExt": "500",
+                "state": null,
+                "street": "Promenada Gwiazd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.933668,
+                "longitude": 14.451784
+            },
+            "commonSiteName": "Vienna House Amber Baltic",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.933668,
+                "longitude": 14.451784
+            },
+            "locationGUID": "8dabe9ed-c346-472c-b2b2-171b3b9398a7",
+            "maxPowerKw": 22,
+            "name": "Vienna House Amber Baltic",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

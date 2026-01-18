@@ -1,0 +1,299 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Al Qatrana",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "00000",
+                "postalExt": null,
+                "state": null,
+                "street": "Desert Highway",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.1875,
+                            0.25,
+                            0.125,
+                            0.125,
+                            0,
+                            0.125,
+                            0.125,
+                            0.25,
+                            0.1875,
+                            0.1875,
+                            0.25,
+                            0.1875,
+                            0.34375,
+                            0.3125,
+                            0.375,
+                            0.1875,
+                            0.1875,
+                            0.25,
+                            0.25,
+                            0.375,
+                            0.6875,
+                            0.6875,
+                            0.6875,
+                            0.375
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.125,
+                            0.4375,
+                            0.375,
+                            0.375,
+                            0.125,
+                            0.25,
+                            0.375,
+                            0.34375,
+                            0.1875,
+                            0.25,
+                            0.3541666666666667,
+                            0.625,
+                            0.6875,
+                            0.5,
+                            0.34375,
+                            0.4,
+                            0.5,
+                            0.5375,
+                            0.5833333333333334,
+                            0.5,
+                            0.5,
+                            0.125,
+                            0.25
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.375,
+                            0.1875,
+                            0.1875,
+                            0.125,
+                            0,
+                            0.25,
+                            0.25,
+                            0.25,
+                            0,
+                            0.125,
+                            0.3541666666666667,
+                            0.5625,
+                            0.6666666666666666,
+                            0.5625,
+                            0.6666666666666667,
+                            0.671875,
+                            0.6875,
+                            0.875,
+                            0.5625,
+                            0.6875,
+                            0.41666666666666663,
+                            0.375,
+                            0.125,
+                            0.125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.1875,
+                            0.25,
+                            0.25,
+                            0.4375,
+                            0.5,
+                            0.4375,
+                            0.25,
+                            0.5,
+                            0.4375,
+                            0.5625,
+                            0.3125,
+                            0.625,
+                            0.59375,
+                            0.9375,
+                            0.9375,
+                            0.828125,
+                            0.75,
+                            0.75,
+                            0.75,
+                            0.6875,
+                            0.41666666666666663,
+                            0.375,
+                            0.125,
+                            0.25
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.25,
+                            0.15625,
+                            0.171875,
+                            0.2890625,
+                            0.375,
+                            0.453125,
+                            0.375,
+                            0.2890625,
+                            0.2890625,
+                            0.375,
+                            0.5625,
+                            0.625,
+                            0.6979166666666666,
+                            0.6875,
+                            0.6979166666666666,
+                            0.59375,
+                            0.6666666666666667,
+                            0.5625,
+                            0.6666666666666666,
+                            0.625,
+                            0.41666666666666663,
+                            0.5,
+                            0.3125,
+                            0.34375
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.25,
+                            0.3125,
+                            0.375,
+                            0.1875,
+                            0.1875,
+                            0.25,
+                            0.1875,
+                            0.1875,
+                            0.25,
+                            0.1875,
+                            0.25,
+                            0.25,
+                            0.25,
+                            0.25,
+                            0.578125,
+                            0.75,
+                            0.75,
+                            0.5833333333333333,
+                            0.4375,
+                            0.34375,
+                            0.1875,
+                            0.25,
+                            0.1875,
+                            0.25
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.25,
+                            0.1875,
+                            0.25,
+                            0.25,
+                            0.375,
+                            0.25,
+                            0.25,
+                            0.1875,
+                            0.34375,
+                            0.4375,
+                            0.4375,
+                            0.5625,
+                            0.671875,
+                            0.9375,
+                            1,
+                            0.8125,
+                            0.796875,
+                            0.625,
+                            0.6875,
+                            0.5,
+                            0.34375,
+                            0.1875,
+                            0.25,
+                            0.125
+                        ]
+                    }
+                },
+                "createdTimestamp": "2025-12-19T00:00:00Z",
+                "siteId": {
+                    "id": 692,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 2105,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "10800s"
+            },
+            "centroid": {
+                "latitude": 31.276458,
+                "longitude": 36.054655
+            },
+            "commonSiteName": "Manaseer",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JOD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "free",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JOD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 31.27541,
+                "longitude": 36.05371
+            },
+            "locationGUID": "3f55ffe7-1748-4d0e-8a71-c7132ed021de",
+            "maxPowerKw": 130,
+            "name": "Al Qatranah, Jordan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Emerald",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4720",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Hospital Rd",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -23.522791,
+                "longitude": 148.158158
+            },
+            "commonSiteName": "Midlander Motor Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -23.522791,
+                "longitude": 148.158158
+            },
+            "locationGUID": "444a86d5-231a-430b-ac1d-d8bb2c99fc4d",
+            "maxPowerKw": 22,
+            "name": "Midlander Motor Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

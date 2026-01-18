@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lake Elsinore",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92530",
+                "postalExt": null,
+                "state": "CA",
+                "street": "E Lakeshore Dr",
+                "streetNumber": "2501"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.6601961,
+                "longitude": -117.302192
+            },
+            "commonSiteName": "Lake Elsinore Valley Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.6601961,
+                "longitude": -117.302192
+            },
+            "locationGUID": "4ad34bf9-1246-4e05-a6d5-f81ad3c3b591",
+            "maxPowerKw": 16,
+            "name": "Lake Elsinore Valley Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

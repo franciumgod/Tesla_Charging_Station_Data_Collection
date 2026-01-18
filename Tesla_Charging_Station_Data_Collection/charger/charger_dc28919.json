@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lasko",
+                "country": "Slovenia",
+                "countryCode": "SI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3270",
+                "postalExt": null,
+                "state": null,
+                "street": "Cesta na Svetino",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.15748486,
+                "longitude": 15.23775043
+            },
+            "commonSiteName": "Restaurant Pavus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.15748486,
+                "longitude": 15.23775043
+            },
+            "locationGUID": "79f80597-2c48-48cc-bb3b-d054a6c2bcc4",
+            "maxPowerKw": 22,
+            "name": "Restaurant Pavus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Ljubljana"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "State College",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "16803",
+                "postalExt": null,
+                "state": "PA",
+                "street": "S Pugh St",
+                "streetNumber": "240"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.793522,
+                "longitude": -77.858385
+            },
+            "commonSiteName": "Days Inn State College",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.793522,
+                "longitude": -77.858385
+            },
+            "locationGUID": "6af0d058-1114-4ad5-acc4-14fd95e1135a",
+            "maxPowerKw": 16,
+            "name": "Days Inn State College",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

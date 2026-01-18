@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Te Aro",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6011",
+                "postalExt": null,
+                "state": "Wellington",
+                "street": "Cuba Street",
+                "streetNumber": "223"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -41.29543,
+                "longitude": 174.774785
+            },
+            "commonSiteName": "CQ Hotel Wellington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -41.29543,
+                "longitude": 174.774785
+            },
+            "locationGUID": "a9b2afbf-6fbb-4a27-a349-372349e7ba25",
+            "maxPowerKw": 22,
+            "name": "CQ Hotel Wellington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sopron",
+                "country": "Hungary",
+                "countryCode": "HU",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9400",
+                "postalExt": null,
+                "state": null,
+                "street": "Varkerulet",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.68348595,
+                "longitude": 16.59301337
+            },
+            "commonSiteName": "Pannonia Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.68348595,
+                "longitude": 16.59301337
+            },
+            "locationGUID": "2b9c9c8b-6924-4fcb-80f2-1231ed9c4db2",
+            "maxPowerKw": 22,
+            "name": "Pannonia Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Budapest"
+        },
+        "success": true
+    }
+}

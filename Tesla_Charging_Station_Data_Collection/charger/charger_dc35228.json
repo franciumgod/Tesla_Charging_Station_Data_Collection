@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Victoria",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V9A 1L4",
+                "postalExt": null,
+                "state": "BC",
+                "street": "E Gorge Rd",
+                "streetNumber": "136"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.443657,
+                "longitude": -123.384541
+            },
+            "commonSiteName": "Robin Hood Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.443657,
+                "longitude": -123.384541
+            },
+            "locationGUID": "a462e66f-e6d1-4257-b538-aaaf9cf3c5c5",
+            "maxPowerKw": 10,
+            "name": "Robin Hood Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

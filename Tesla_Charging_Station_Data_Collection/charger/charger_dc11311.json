@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Napierville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0J 1L0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue de la Gare",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.187538,
+                "longitude": -73.407642
+            },
+            "commonSiteName": "Municipalite de Napierville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.187538,
+                "longitude": -73.407642
+            },
+            "locationGUID": "dcb6ffe2-d55c-400d-96b4-63adc0f3f249",
+            "maxPowerKw": 13,
+            "name": "Municipalite de Napierville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

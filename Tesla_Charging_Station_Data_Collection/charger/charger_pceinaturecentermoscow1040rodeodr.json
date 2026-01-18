@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Moscow",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "83843",
+                "postalExt": null,
+                "state": "ID",
+                "street": "Rodeo Drive",
+                "streetNumber": "1040"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.745064,
+                "longitude": -116.99076
+            },
+            "commonSiteName": "PCEI Nature Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.745064,
+                "longitude": -116.99076
+            },
+            "locationGUID": "d8c85159-6fee-4c90-9bd3-1e20260acf25",
+            "maxPowerKw": 11,
+            "name": "PCEI Nature Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 34th St",
+                "streetNumber": "155"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.746022,
+                "longitude": -73.978693
+            },
+            "commonSiteName": "City Parking Garment One Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.746022,
+                "longitude": -73.978693
+            },
+            "locationGUID": "85815349-3b63-4798-8278-6d5390bd9854",
+            "maxPowerKw": 13,
+            "name": "City Parking Garment One Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Riva del Garda",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38066",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Carducci",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.883291,
+                "longitude": 10.847261
+            },
+            "commonSiteName": "Lido Palace",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.883291,
+                "longitude": 10.847261
+            },
+            "locationGUID": "b3b3529c-b083-4535-9284-e0a50255d90a",
+            "maxPowerKw": 22,
+            "name": "Lido Palace",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

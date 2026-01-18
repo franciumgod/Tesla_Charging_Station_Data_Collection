@@ -1,0 +1,335 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Higashi Kurume",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": "AEON MALL Higashi Kurume",
+                "postalCode": "203",
+                "postalExt": "0023",
+                "state": "Tokyo",
+                "street": "MInamisawa",
+                "streetNumber": "5-17-62"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.078125,
+                            0.109375,
+                            0.109375,
+                            0.09375,
+                            0.125,
+                            0.09375,
+                            0.2,
+                            0.21875,
+                            0.225,
+                            0.171875,
+                            0.20703125,
+                            0.1875,
+                            0.1171875,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.1171875
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.0625,
+                            0.08854166666666667,
+                            0.140625,
+                            0.14583333333333331,
+                            0.109375,
+                            0.171875,
+                            0.2986111111111111,
+                            0.359375,
+                            0.2986111111111111,
+                            0.0859375,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.1875,
+                            0.28125,
+                            0.3125,
+                            0.27604166666666663,
+                            0.3072916666666667,
+                            0.296875,
+                            0.3489583333333333,
+                            0.34375,
+                            0.27604166666666663,
+                            0.275,
+                            0.25,
+                            0.23125,
+                            0.1484375,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.1171875,
+                            0.203125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.2,
+                            0.25,
+                            0.2875,
+                            0.265625,
+                            0.23124999999999998,
+                            0.2578125,
+                            0.3125,
+                            0.3489583333333333,
+                            0.359375,
+                            0.34375,
+                            0.2708333333333333,
+                            0.1875,
+                            0.14583333333333331,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.125,
+                            0.21875,
+                            0.203125,
+                            0.14453125,
+                            0.0859375,
+                            0.125,
+                            0.171875,
+                            0.1875,
+                            0.20703125,
+                            0.21875,
+                            0.28125,
+                            0.265625,
+                            0.22916666666666669,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.171875,
+                            0.203125,
+                            0.234375,
+                            0.253125,
+                            0.265625,
+                            0.23125,
+                            0.171875,
+                            0.125,
+                            0.171875,
+                            0.1875,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.059375
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.053750000000000006,
+                            0.05,
+                            0.09166666666666666,
+                            0.125,
+                            0.275,
+                            0.35,
+                            0.38055555555555554,
+                            0.32499999999999996,
+                            0.2660714285714285,
+                            0.21500000000000002,
+                            0.18750000000000003,
+                            0.11875,
+                            0.1,
+                            0.025,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11029237,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 59277,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.745422,
+                "longitude": 139.525571
+            },
+            "commonSiteName": "AEON MALL Higashi Kurume",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.744949,
+                "longitude": 139.526052
+            },
+            "locationGUID": "c57e494a-5470-4a96-86f1-532da2b38f09",
+            "maxPowerKw": 250,
+            "name": "Higashi Kurume, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

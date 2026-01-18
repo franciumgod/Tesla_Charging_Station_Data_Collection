@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22860",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Zona Playitas",
+                "streetNumber": "Carretera Tijuana-Ensenada Km.103 #3421"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.86523,
+                "longitude": -116.662313
+            },
+            "commonSiteName": "Hotel Coral & Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.86523,
+                "longitude": -116.662313
+            },
+            "locationGUID": "264ca21e-bc66-4219-a524-f90e5cb8ce92",
+            "maxPowerKw": 18,
+            "name": "Hotel Coral & Marina",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

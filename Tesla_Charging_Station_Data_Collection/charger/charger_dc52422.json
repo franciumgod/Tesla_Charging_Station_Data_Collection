@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Armidale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2350",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Glen Innes Rd",
+                "streetNumber": "66"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -30.495085,
+                "longitude": 151.669644
+            },
+            "commonSiteName": "Armidale Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -30.495085,
+                "longitude": 151.669644
+            },
+            "locationGUID": "b0c232f4-3c84-45c9-9e32-cc4ab93065e1",
+            "maxPowerKw": 11,
+            "name": "Armidale Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

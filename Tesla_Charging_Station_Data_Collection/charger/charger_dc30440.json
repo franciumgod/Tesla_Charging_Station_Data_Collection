@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ellmau",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6352",
+                "postalExt": null,
+                "state": "Tirol",
+                "street": "Auwinkl",
+                "streetNumber": "10b/c"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.519865,
+                "longitude": 12.275659
+            },
+            "commonSiteName": "Greenstorm E-Bikes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.519865,
+                "longitude": 12.275659
+            },
+            "locationGUID": "1c0a8f24-2cb2-4c70-9810-780b7762ff5f",
+            "maxPowerKw": 11,
+            "name": "Greenstorm E-Bikes",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

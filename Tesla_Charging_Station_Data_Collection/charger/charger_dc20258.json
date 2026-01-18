@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Neuvic",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "19160",
+                "postalExt": null,
+                "state": null,
+                "street": "Route d'Egletons",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.383336,
+                "longitude": 2.228345
+            },
+            "commonSiteName": "Domaine de Mialaret",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.383336,
+                "longitude": 2.228345
+            },
+            "locationGUID": "cb39c62d-667d-4346-a63c-27056975a8b0",
+            "maxPowerKw": 17,
+            "name": "Domaine de Mialaret",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

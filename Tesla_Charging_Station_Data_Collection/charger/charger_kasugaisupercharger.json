@@ -1,0 +1,333 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "23:00",
+                        "weekday": 7
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kasugai",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "486",
+                "postalExt": "0917",
+                "state": "Aichi",
+                "street": "Minoucho",
+                "streetNumber": "2-3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.21875,
+                            0.2723214285714286,
+                            0.375,
+                            0.4107142857142857,
+                            0.40625,
+                            0.375,
+                            0.37276785714285715,
+                            0.390625,
+                            0.43359375,
+                            0.453125,
+                            0.40234375,
+                            0.29464285714285715,
+                            0.16796875,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.08854166666666667
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.12700320512820515,
+                            0.21354166666666669,
+                            0.3701923076923077,
+                            0.47145061728395066,
+                            0.5932765151515151,
+                            0.6354166666666667,
+                            0.5399305555555556,
+                            0.44971264367816094,
+                            0.33333333333333337,
+                            0.32839912280701755,
+                            0.3465909090909091,
+                            0.375,
+                            0.3106060606060606,
+                            0.1597222222222222,
+                            0.10416666666666667,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.07291666666666667
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.16796875,
+                            0.2708333333333333,
+                            0.375,
+                            0.4375,
+                            0.43359375,
+                            0.421875,
+                            0.4984375,
+                            0.484375,
+                            0.475,
+                            0.359375,
+                            0.39285714285714285,
+                            0.359375,
+                            0.29464285714285715,
+                            0.16796875,
+                            0.08854166666666667,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.2,
+                            0.2760416666666667,
+                            0.328125,
+                            0.36160714285714285,
+                            0.40234375,
+                            0.484375,
+                            0.421875,
+                            0.416015625,
+                            0.34375,
+                            0.3727678571428571,
+                            0.359375,
+                            0.359375,
+                            0.27604166666666663,
+                            0.175,
+                            0.11979166666666667,
+                            0.10416666666666667,
+                            0.07068452380952381,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.1307692307692308,
+                            0.22181372549019607,
+                            0.2785416666666667,
+                            0.28750000000000003,
+                            0.30909090909090914,
+                            0.2625,
+                            0.2918560606060606,
+                            0.23750000000000002,
+                            0.31666666666666665,
+                            0.3853448275862069,
+                            0.4041666666666667,
+                            0.4477864583333334,
+                            0.40416666666666673,
+                            0.29401041666666666,
+                            0.16458333333333333,
+                            0.037500000000000006,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.09143518518518519,
+                            0.14583333333333334,
+                            0.2755208333333333,
+                            0.34375,
+                            0.375,
+                            0.3375,
+                            0.3273026315789474,
+                            0.34895833333333337,
+                            0.29824561403508776,
+                            0.2607886904761905,
+                            0.3048245614035088,
+                            0.36979166666666674,
+                            0.3177083333333333,
+                            0.2138157894736842,
+                            0.07552083333333334,
+                            0.05729166666666667,
+                            0.04166666666666667,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.10416666666666667
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.244375,
+                            0.3489583333333333,
+                            0.4000000000000001,
+                            0.28645833333333337,
+                            0.3125,
+                            0.2916666666666667,
+                            0.2737630208333333,
+                            0.17777777777777778,
+                            0.3275240384615385,
+                            0.429513888888889,
+                            0.5677083333333334,
+                            0.5048611111111111,
+                            0.3754528985507246,
+                            0.20833333333333334,
+                            0.10416666666666667,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.08333333333333334
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 7373,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 34264,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.23903,
+                "longitude": 136.942475
+            },
+            "commonSiteName": "TSUTAYA",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.239885,
+                "longitude": 136.9429
+            },
+            "locationGUID": "e6be6f02-2b85-4b59-b70a-8434e008e7a8",
+            "maxPowerKw": 250,
+            "name": "Kasugai, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

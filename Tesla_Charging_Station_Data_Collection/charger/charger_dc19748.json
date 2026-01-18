@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Söderköping",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "61492",
+                "postalExt": null,
+                "state": null,
+                "street": "Thorstorp",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.4834635,
+                "longitude": 16.27460825
+            },
+            "commonSiteName": "Thorstorps Gård B&B",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.4834635,
+                "longitude": 16.27460825
+            },
+            "locationGUID": "ca48dbb5-72b2-47a0-8bbf-e9fda34ee587",
+            "maxPowerKw": 17,
+            "name": "Thorstorps Gård B&B",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

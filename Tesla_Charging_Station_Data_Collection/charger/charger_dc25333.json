@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 58th St",
+                "streetNumber": "58"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.76476,
+                "longitude": -73.976153
+            },
+            "commonSiteName": "Standard Parking 58 W 58th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.76476,
+                "longitude": -73.976153
+            },
+            "locationGUID": "9244afb1-ac6b-49c4-85cb-7ab9f6c1be73",
+            "maxPowerKw": 8,
+            "name": "Standard Parking 58 W 58th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

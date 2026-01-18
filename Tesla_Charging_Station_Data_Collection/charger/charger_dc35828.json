@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Menlo Park",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94025",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Independence Dr",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.482386,
+                "longitude": -122.176522
+            },
+            "commonSiteName": "Hotel Nia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.482386,
+                "longitude": -122.176522
+            },
+            "locationGUID": "5cccf9cf-4b89-4614-bafe-25dfa5d78ab2",
+            "maxPowerKw": 16,
+            "name": "Hotel Nia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

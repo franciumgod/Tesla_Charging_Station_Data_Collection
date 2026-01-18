@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "French Lick",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "47432",
+                "postalExt": null,
+                "state": "IN",
+                "street": "Hwy 56",
+                "streetNumber": "8670"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.554096,
+                "longitude": -86.620169
+            },
+            "commonSiteName": "French Lick Springs Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.554096,
+                "longitude": -86.620169
+            },
+            "locationGUID": "d4a12418-7767-4ab7-9309-80da525c389e",
+            "maxPowerKw": 13,
+            "name": "French Lick Springs Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Indiana/Indianapolis"
+        },
+        "success": true
+    }
+}

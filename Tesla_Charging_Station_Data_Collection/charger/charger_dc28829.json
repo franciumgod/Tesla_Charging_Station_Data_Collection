@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Ramon",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94583",
+                "postalExt": null,
+                "state": "CA",
+                "street": "San Ramon Valley Blvd",
+                "streetNumber": "2323"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.777919,
+                "longitude": -121.977858
+            },
+            "commonSiteName": "Hyatt House San Ramon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.777919,
+                "longitude": -121.977858
+            },
+            "locationGUID": "f182c7ef-70d3-4c37-80b2-32032388dd40",
+            "maxPowerKw": 16,
+            "name": "Hyatt House San Ramon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

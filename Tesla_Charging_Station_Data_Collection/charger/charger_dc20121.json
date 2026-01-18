@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Monarch",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81227",
+                "postalExt": null,
+                "state": "CO",
+                "street": "W Hwy 50",
+                "streetNumber": "23715"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.512443,
+                "longitude": -106.331987
+            },
+            "commonSiteName": "Monarch Mountain",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.512443,
+                "longitude": -106.331987
+            },
+            "locationGUID": "ffb7e404-aed1-4383-99de-65522967d19c",
+            "maxPowerKw": 8,
+            "name": "Monarch Mountain",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

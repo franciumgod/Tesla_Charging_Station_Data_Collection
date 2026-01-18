@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Amsterdam",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1081KC",
+                "postalExt": null,
+                "state": null,
+                "street": "Jollenpad",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.335616,
+                "longitude": 4.848441
+            },
+            "commonSiteName": "Het Bosch @ the Waterfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.335616,
+                "longitude": 4.848441
+            },
+            "locationGUID": "8c7a0513-1d01-4cf0-b95a-48c419bf1b43",
+            "maxPowerKw": 22,
+            "name": "Het Bosch @ the Waterfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

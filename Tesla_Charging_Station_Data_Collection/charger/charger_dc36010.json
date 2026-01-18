@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Basel",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4056",
+                "postalExt": null,
+                "state": null,
+                "street": "Flughafenstrasse",
+                "streetNumber": "215"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.573774,
+                "longitude": 7.563809
+            },
+            "commonSiteName": "Airport Hotel Basel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.573774,
+                "longitude": 7.563809
+            },
+            "locationGUID": "387738a2-0bd1-4b05-9544-be308a267355",
+            "maxPowerKw": 22,
+            "name": "Airport Hotel Basel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

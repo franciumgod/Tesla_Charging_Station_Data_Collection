@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Warrnambool",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3280",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Worm Bay Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.397044,
+                "longitude": 142.473409
+            },
+            "commonSiteName": "Deep Blue Hotel & Hot Springs",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.397044,
+                "longitude": 142.473409
+            },
+            "locationGUID": "45c77d74-633d-413d-ac72-891c1580ca29",
+            "maxPowerKw": 22,
+            "name": "Deep Blue Hotel & Hot Springs",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

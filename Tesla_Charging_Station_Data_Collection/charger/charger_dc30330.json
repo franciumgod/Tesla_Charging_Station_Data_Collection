@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wanaka",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9305",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Sargood Drive",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -44.6948402,
+                "longitude": 169.1121484
+            },
+            "commonSiteName": "Edgewater",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -44.6948402,
+                "longitude": 169.1121484
+            },
+            "locationGUID": "97e4e2e3-6e47-4010-8a11-cc20b4dab45b",
+            "maxPowerKw": 7,
+            "name": "Edgewater",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

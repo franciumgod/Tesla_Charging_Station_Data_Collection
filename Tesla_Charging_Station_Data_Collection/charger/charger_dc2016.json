@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Catharines",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L2R 1A2",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Dunlop Dr",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.175264,
+                "longitude": -79.245468
+            },
+            "commonSiteName": "Comfort Inn St Catharines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.175264,
+                "longitude": -79.245468
+            },
+            "locationGUID": "f444c243-5251-48ff-bd3c-a8827c62522c",
+            "maxPowerKw": 8,
+            "name": "Comfort Inn St Catharines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Livigno",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "23030",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Plan",
+                "streetNumber": "114"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.539695,
+                "longitude": 10.136541
+            },
+            "commonSiteName": "Hotel Concordia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.539695,
+                "longitude": 10.136541
+            },
+            "locationGUID": "24488f89-a3d5-4886-a639-c036cb1e6e5f",
+            "maxPowerKw": 17,
+            "name": "Hotel Concordia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

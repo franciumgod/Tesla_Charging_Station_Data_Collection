@@ -1,0 +1,129 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Taipei",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "中和區",
+                "navRegion": "tw",
+                "nearestEntrance": "B3F & 5F",
+                "postalCode": "235",
+                "postalExt": null,
+                "state": "New Taipei",
+                "street": "Zhongshan Rd. Sec. 3",
+                "streetNumber": "122"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.006733,
+                "longitude": 121.474945
+            },
+            "commonSiteName": "Global Mall 新北中和",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.7,
+                    "rateMinTier2": 0.7,
+                    "rateMinTier3": 0.7,
+                    "rateMinTier4": 0.7,
+                    "rateTier1": 0.7,
+                    "rateTier2": 0.7,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.7,
+                    "rateMinTier2": 0.7,
+                    "rateMinTier3": 0.7,
+                    "rateMinTier4": 0.7,
+                    "rateTier1": 0.7,
+                    "rateTier2": 0.7,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 25.006733,
+                "longitude": 121.474945
+            },
+            "locationGUID": "6b706da3-fa15-4a3c-8d93-320a5c21af23",
+            "maxPowerKw": 5,
+            "name": "New Taipei - Global Mall Zhonghe",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 9,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

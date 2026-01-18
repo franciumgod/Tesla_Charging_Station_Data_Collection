@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kaprun",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5710",
+                "postalExt": null,
+                "state": "Salzburg",
+                "street": "Schlossstr.",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.273099,
+                "longitude": 12.762005
+            },
+            "commonSiteName": "Hotel Sonnblick Kaprun",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.273099,
+                "longitude": 12.762005
+            },
+            "locationGUID": "6cda4285-2d44-4894-b716-c8baa84465b8",
+            "maxPowerKw": 11,
+            "name": "Hotel Sonnblick Kaprun",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chihuahua",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31215",
+                "postalExt": null,
+                "state": "CHH",
+                "street": "Haciendas Sta Fe",
+                "streetNumber": "Periferico de La Juventud 990"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.626756,
+                "longitude": -106.114846
+            },
+            "commonSiteName": "Alsuper Freshmarket Santa Fe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.626756,
+                "longitude": -106.114846
+            },
+            "locationGUID": "0f4d74b1-04f4-4ff0-b1d1-92231dca96e3",
+            "maxPowerKw": 9,
+            "name": "Alsuper Freshmarket Santa Fe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chihuahua"
+        },
+        "success": true
+    }
+}

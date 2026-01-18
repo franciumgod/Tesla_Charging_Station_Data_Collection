@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Biloxi",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39530",
+                "postalExt": null,
+                "state": "MS",
+                "street": "Beach Blvd",
+                "streetNumber": "280"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.392769,
+                "longitude": -88.865965
+            },
+            "commonSiteName": "Harrah's Gulf Coast",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.392769,
+                "longitude": -88.865965
+            },
+            "locationGUID": "cbbb7716-746d-466f-8904-4072718814b4",
+            "maxPowerKw": 16,
+            "name": "Harrah's Gulf Coast",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

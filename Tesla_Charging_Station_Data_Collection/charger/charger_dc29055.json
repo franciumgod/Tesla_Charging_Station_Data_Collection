@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 57th St",
+                "streetNumber": "625"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.77108,
+                "longitude": -73.993142
+            },
+            "commonSiteName": "MTP 625 W 57th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.77108,
+                "longitude": -73.993142
+            },
+            "locationGUID": "bdae527e-8b3b-4849-9fed-c5270007259e",
+            "maxPowerKw": 16,
+            "name": "MTP 625 W 57th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

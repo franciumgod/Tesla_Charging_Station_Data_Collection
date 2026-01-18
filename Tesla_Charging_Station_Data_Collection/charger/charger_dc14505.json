@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8022",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Av Tibidabo",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.410773,
+                "longitude": 2.13634
+            },
+            "commonSiteName": "Restaurant Hotel ABaC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.410773,
+                "longitude": 2.13634
+            },
+            "locationGUID": "f07198c0-850f-4d1f-a95b-28130d19cc51",
+            "maxPowerKw": 22,
+            "name": "Restaurant Hotel ABaC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lenk",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3775",
+                "postalExt": null,
+                "state": null,
+                "street": "Aegertenstrasse",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.460457,
+                "longitude": 7.43687
+            },
+            "commonSiteName": "Hotel Waldrand",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.460457,
+                "longitude": 7.43687
+            },
+            "locationGUID": "ebe0c70f-d261-4ea8-9f63-32cbd48c3036",
+            "maxPowerKw": 11,
+            "name": "Hotel Waldrand",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

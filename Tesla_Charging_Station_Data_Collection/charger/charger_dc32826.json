@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dunham",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0E 1M0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Principale",
+                "streetNumber": "3809"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.130539,
+                "longitude": -72.800473
+            },
+            "commonSiteName": "Brasserie Dunham",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.130539,
+                "longitude": -72.800473
+            },
+            "locationGUID": "0ae96baf-97ca-465c-a3db-ed73af9a4085",
+            "maxPowerKw": 16,
+            "name": "Brasserie Dunham",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

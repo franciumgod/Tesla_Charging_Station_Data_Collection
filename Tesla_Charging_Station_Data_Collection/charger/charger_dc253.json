@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Antonio",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78205",
+                "postalExt": null,
+                "state": "TX",
+                "street": "E Market St",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.422161,
+                "longitude": -98.484552
+            },
+            "commonSiteName": "Grand Hyatt San Antonio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.422161,
+                "longitude": -98.484552
+            },
+            "locationGUID": "79e1d2ca-053d-4ee8-b492-d44a48aba5d5",
+            "maxPowerKw": 16,
+            "name": "Grand Hyatt San Antonio",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

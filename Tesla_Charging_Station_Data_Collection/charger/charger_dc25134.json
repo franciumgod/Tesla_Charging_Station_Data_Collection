@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Harzburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38667",
+                "postalExt": null,
+                "state": null,
+                "street": "Herzog-Wilhelm Strasse",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.882325,
+                "longitude": 10.559547
+            },
+            "commonSiteName": "Romantik Hotel Braunschweiger Hof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.882325,
+                "longitude": 10.559547
+            },
+            "locationGUID": "3b4338be-a715-4077-91cf-ef94335a2ae7",
+            "maxPowerKw": 22,
+            "name": "Romantik Hotel Braunschweiger Hof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

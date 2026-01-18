@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5C 3H1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Adelaide Street East",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.651448,
+                "longitude": -79.376162
+            },
+            "commonSiteName": "State Street Financial Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.651448,
+                "longitude": -79.376162
+            },
+            "locationGUID": "ea06866b-e9bd-4f94-98d6-d7ad26403e80",
+            "maxPowerKw": 16,
+            "name": "State Street Financial Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 60,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

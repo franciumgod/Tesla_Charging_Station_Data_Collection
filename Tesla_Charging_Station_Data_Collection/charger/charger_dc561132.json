@@ -1,0 +1,84 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Changhua",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "鹿港鎮",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "505",
+                "postalExt": null,
+                "state": "Changhua",
+                "street": "自由路329巷",
+                "streetNumber": "69號"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.063851,
+                "longitude": 120.437113
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.5,
+                    "rateMinTier2": 0,
+                    "rateMinTier3": 0,
+                    "rateMinTier4": 0,
+                    "rateTier1": 0.5,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.063851,
+                "longitude": 120.437113
+            },
+            "locationGUID": "75da3f32-b7e4-4809-9bfd-81c101245ad1",
+            "maxPowerKw": 6,
+            "name": "頌謙文旅",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Grimaud",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83310",
+                "postalExt": null,
+                "state": null,
+                "street": "route du Littoral",
+                "streetNumber": "1910"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.280831,
+                "longitude": 6.582468
+            },
+            "commonSiteName": "Les Prairies de la Mer",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.280831,
+                "longitude": 6.582468
+            },
+            "locationGUID": "8c28dae9-9fb9-48a3-bb11-9371cd1be9fd",
+            "maxPowerKw": 22,
+            "name": "Les Prairies de la Mer",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

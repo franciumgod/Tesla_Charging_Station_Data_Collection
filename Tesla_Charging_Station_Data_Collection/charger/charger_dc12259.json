@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Braddon",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2612",
+                "postalExt": null,
+                "state": "Australian Capital Territory",
+                "street": "Lonsdale Street",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.272771,
+                "longitude": 149.133187
+            },
+            "commonSiteName": "Mode 3 Carpark Braddon (Ground level Carpark)",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.272771,
+                "longitude": 149.133187
+            },
+            "locationGUID": "7837fb1b-e260-4a9f-8ec2-5ad62a2bf97b",
+            "maxPowerKw": 22,
+            "name": "Mode 3 Carpark Braddon (Ground level Carpark)",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

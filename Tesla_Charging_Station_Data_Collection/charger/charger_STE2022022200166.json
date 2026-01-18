@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Puerto Peñasco",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "83550",
+                "postalExt": null,
+                "state": "Sonora",
+                "street": "Carretera Entronque Cerro Prieto km 6.5. S/N, Colonia Centro",
+                "streetNumber": "KM 6.5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.35858858,
+                "longitude": -113.59569729
+            },
+            "commonSiteName": "Islas del Mar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.35858858,
+                "longitude": -113.59569729
+            },
+            "locationGUID": "ec333991-9814-49ac-a764-33c1d8264696",
+            "maxPowerKw": 10,
+            "name": "Islas del Mar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Hermosillo"
+        },
+        "success": true
+    }
+}

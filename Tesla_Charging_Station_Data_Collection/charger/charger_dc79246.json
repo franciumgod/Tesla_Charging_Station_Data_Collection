@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hatzendorf",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8361",
+                "postalExt": null,
+                "state": null,
+                "street": "Hatzendorf",
+                "streetNumber": "152"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.979948,
+                "longitude": 16.006131
+            },
+            "commonSiteName": "Malerwinkl Restaurant + Kunsthotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.979948,
+                "longitude": 16.006131
+            },
+            "locationGUID": "bdc58733-f1d6-4a0b-a179-808810f9df15",
+            "maxPowerKw": 11,
+            "name": "Malerwinkl Restaurant + Kunsthotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

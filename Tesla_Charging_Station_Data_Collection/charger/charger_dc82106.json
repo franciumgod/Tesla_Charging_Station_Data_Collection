@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bairnsdale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3875",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Main Street",
+                "streetNumber": "355"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.8296,
+                "longitude": 147.61603
+            },
+            "commonSiteName": "Bairnsdale International",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.8296,
+                "longitude": 147.61603
+            },
+            "locationGUID": "e3728fd2-d576-4479-b3df-d0cfdaf43fef",
+            "maxPowerKw": 22,
+            "name": "Bairnsdale International",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

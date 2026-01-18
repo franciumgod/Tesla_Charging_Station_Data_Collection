@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Sheikh Zayed Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.217545,
+                "longitude": 55.282854
+            },
+            "commonSiteName": "Emirates Towers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.217545,
+                "longitude": 55.282854
+            },
+            "locationGUID": "fa51a8df-af54-4943-b9aa-95fc8d9b4c17",
+            "maxPowerKw": 22,
+            "name": "Emirates Towers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

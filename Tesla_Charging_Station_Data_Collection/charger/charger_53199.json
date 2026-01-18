@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Versailles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45380",
+                "postalExt": null,
+                "state": "OH",
+                "street": "North Center Street",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.22314,
+                "longitude": -84.48517
+            },
+            "commonSiteName": "Hotel Versailles",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.22314,
+                "longitude": -84.48517
+            },
+            "locationGUID": "c7945840-20a7-433f-92e1-164f73878bc6",
+            "maxPowerKw": 9,
+            "name": "Hotel Versailles",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

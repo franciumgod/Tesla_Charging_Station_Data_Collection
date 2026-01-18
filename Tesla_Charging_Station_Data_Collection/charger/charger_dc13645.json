@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Huez",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38750",
+                "postalExt": null,
+                "state": null,
+                "street": "rue du Rif Briant",
+                "streetNumber": "90"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.088176,
+                "longitude": 6.07629
+            },
+            "commonSiteName": "Hôtel le Pic Blanc",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.088176,
+                "longitude": 6.07629
+            },
+            "locationGUID": "e48c0412-8e6d-4d21-9d58-3fe0d07c3af9",
+            "maxPowerKw": 22,
+            "name": "Hôtel le Pic Blanc",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

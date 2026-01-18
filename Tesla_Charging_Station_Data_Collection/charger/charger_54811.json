@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Klatovy",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33901",
+                "postalExt": null,
+                "state": null,
+                "street": "Myslovice",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.40739348,
+                "longitude": 13.3913923
+            },
+            "commonSiteName": "Statek ceskalipa Myslovice",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.40739348,
+                "longitude": 13.3913923
+            },
+            "locationGUID": "faa6ea3c-2f8b-470e-bafe-c21e916b6428",
+            "maxPowerKw": 22,
+            "name": "Statek ceskalipa Myslovice",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

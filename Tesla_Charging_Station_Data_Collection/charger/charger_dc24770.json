@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "台東市",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "950",
+                "postalExt": null,
+                "state": "Taitung",
+                "street": "復興路",
+                "streetNumber": "38號"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.750096,
+                "longitude": 121.153351
+            },
+            "commonSiteName": "台東富野渡假酒店",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.750096,
+                "longitude": 121.153351
+            },
+            "locationGUID": "af846924-3097-4dc1-91b3-aae71f7dc28c",
+            "maxPowerKw": 8,
+            "name": "Hoya Resort Hotel Taitung",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "1215",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "강북구 도봉로",
+                "streetNumber": "52"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.613636,
+                "longitude": 127.030415
+            },
+            "commonSiteName": "와이스퀘어",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.613636,
+                "longitude": 127.030415
+            },
+            "locationGUID": "19a0fe12-86bf-4502-bd32-6bff5df8cc66",
+            "maxPowerKw": 7,
+            "name": "Y Square",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Meursault",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21190",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue du Moulin Foulot",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.974105,
+                "longitude": 4.773258
+            },
+            "commonSiteName": "Domaine du Château de Meursault",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.974105,
+                "longitude": 4.773258
+            },
+            "locationGUID": "537db5f4-d885-44c0-b559-35353ff7e10c",
+            "maxPowerKw": 14,
+            "name": "Domaine du Château de Meursault",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

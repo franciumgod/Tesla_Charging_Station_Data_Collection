@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Marbella",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29660",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Urbanizacion la Quinta Golf",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.513399,
+                "longitude": -4.994897
+            },
+            "commonSiteName": "Westin La Quinta",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.513399,
+                "longitude": -4.994897
+            },
+            "locationGUID": "4cf132a1-3b1a-4fe1-b42d-e968c991dcbf",
+            "maxPowerKw": 22,
+            "name": "Westin La Quinta",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Causeway Bay",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Hong Kong Island",
+                "street": "Jaffe Rd",
+                "streetNumber": "388"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.279831,
+                "longitude": 114.179712
+            },
+            "commonSiteName": "Mira Moon Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.279831,
+                "longitude": 114.179712
+            },
+            "locationGUID": "c1c16b62-c1c9-4b26-af1b-b7ec06a69c37",
+            "maxPowerKw": 21,
+            "name": "Mira Moon Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

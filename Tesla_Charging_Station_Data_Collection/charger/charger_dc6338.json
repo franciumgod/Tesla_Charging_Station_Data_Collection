@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Southbank",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3006",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Whiteman Street",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.825511,
+                "longitude": 144.957692
+            },
+            "commonSiteName": "Crown Metropol Melbourne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.825511,
+                "longitude": 144.957692
+            },
+            "locationGUID": "632ec66a-5009-44ae-844c-11f5c77c0064",
+            "maxPowerKw": 22,
+            "name": "Crown Metropol Melbourne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

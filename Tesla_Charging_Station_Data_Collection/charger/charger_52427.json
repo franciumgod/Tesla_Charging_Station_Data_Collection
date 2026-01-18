@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Olsztyn",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10",
+                "postalExt": "748",
+                "state": null,
+                "street": "Tuwima",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.754219,
+                "longitude": 20.484829
+            },
+            "commonSiteName": "Galeria Warminska",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.754219,
+                "longitude": 20.484829
+            },
+            "locationGUID": "e6bada44-0f59-4459-bfa8-a74bedfca826",
+            "maxPowerKw": 22,
+            "name": "Galeria Warminska",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

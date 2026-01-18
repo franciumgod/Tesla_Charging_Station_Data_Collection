@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02840",
+                "postalExt": null,
+                "state": "RI",
+                "street": "Goat Island",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.4914098,
+                "longitude": -71.3273945
+            },
+            "commonSiteName": "Gurney's Resort, Newport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.4914098,
+                "longitude": -71.3273945
+            },
+            "locationGUID": "9746c649-7874-4ee6-9d31-7110cfbae122",
+            "maxPowerKw": 16,
+            "name": "Gurney's Resort, Newport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

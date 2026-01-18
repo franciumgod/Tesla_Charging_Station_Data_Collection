@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Big Sky",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "59720",
+                "postalExt": null,
+                "state": "MT",
+                "street": "Big Sky Resort Rd",
+                "streetNumber": "60"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.283183,
+                "longitude": -111.400487
+            },
+            "commonSiteName": "Big Sky Resort Summit Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.283183,
+                "longitude": -111.400487
+            },
+            "locationGUID": "f8c80c41-8a3e-49c8-bf50-f57834dcd4af",
+            "maxPowerKw": 8,
+            "name": "Big Sky Resort Summit Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

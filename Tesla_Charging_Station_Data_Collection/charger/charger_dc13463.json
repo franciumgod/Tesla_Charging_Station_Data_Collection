@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Park City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84098",
+                "postalExt": null,
+                "state": "UT",
+                "street": "Frostwood Dr",
+                "streetNumber": "2100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.690435,
+                "longitude": -111.550533
+            },
+            "commonSiteName": "Waldorf Astoria Park City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.690435,
+                "longitude": -111.550533
+            },
+            "locationGUID": "b8b9500e-8570-41d1-be2c-73a759405aae",
+            "maxPowerKw": 16,
+            "name": "Waldorf Astoria Park City",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

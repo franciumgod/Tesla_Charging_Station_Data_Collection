@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Šmotfors",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67040",
+                "postalExt": null,
+                "state": null,
+                "street": "Gryttved",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.8264,
+                "longitude": 12.2563
+            },
+            "commonSiteName": "Valfjället Skicenter",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.8264,
+                "longitude": 12.2563
+            },
+            "locationGUID": "d58706ab-246f-461a-af59-9fde30d0f247",
+            "maxPowerKw": 11,
+            "name": "Valfjället Skicenter",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

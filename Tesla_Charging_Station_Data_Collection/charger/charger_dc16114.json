@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lugano",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6902",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Cassarinetta",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.993497,
+                "longitude": 8.942443
+            },
+            "commonSiteName": "Hotel Delfino Lugano",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.993497,
+                "longitude": 8.942443
+            },
+            "locationGUID": "f5a6fe4a-1d83-464b-aab4-abc162c1eaaa",
+            "maxPowerKw": 11,
+            "name": "Hotel Delfino Lugano",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

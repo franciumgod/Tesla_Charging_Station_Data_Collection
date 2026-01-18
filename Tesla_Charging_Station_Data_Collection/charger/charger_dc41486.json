@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ulladulla",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2539",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "South street",
+                "streetNumber": "72"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.360485,
+                "longitude": 150.472647
+            },
+            "commonSiteName": "Harbour View Apartments",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.360485,
+                "longitude": 150.472647
+            },
+            "locationGUID": "7f4df89b-ddab-43fb-b618-afd7af541b96",
+            "maxPowerKw": 22,
+            "name": "Harbour View Apartments",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

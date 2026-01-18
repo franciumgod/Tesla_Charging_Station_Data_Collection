@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cannes",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6400",
+                "postalExt": null,
+                "state": "Provence-Alpes-Côte d'Azur",
+                "street": "boulevard la Croisette",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.551685,
+                "longitude": 7.024678
+            },
+            "commonSiteName": "Le Grand Hôtel Cannes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.551685,
+                "longitude": 7.024678
+            },
+            "locationGUID": "0d21f6cf-cd87-4e24-b151-b09ba739f9d1",
+            "maxPowerKw": 22,
+            "name": "Le Grand Hôtel Cannes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

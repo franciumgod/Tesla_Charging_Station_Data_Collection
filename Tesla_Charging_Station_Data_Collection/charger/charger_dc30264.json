@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chamblee",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30341",
+                "postalExt": null,
+                "state": "GA",
+                "street": "New Peachtree Rd",
+                "streetNumber": "5383"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.8903894,
+                "longitude": -84.3001479
+            },
+            "commonSiteName": "Atlanta Chinatown Mall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.8903894,
+                "longitude": -84.3001479
+            },
+            "locationGUID": "9e76188d-f0fd-47f0-abe7-82ac01660f5e",
+            "maxPowerKw": 16,
+            "name": "Atlanta Chinatown Mall",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 12,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

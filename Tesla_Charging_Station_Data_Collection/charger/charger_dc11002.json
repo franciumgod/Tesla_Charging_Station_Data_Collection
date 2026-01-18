@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Broadway",
+                "streetNumber": "1717"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.764261,
+                "longitude": -73.982974
+            },
+            "commonSiteName": "Residence Inn New York Manhattan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.764261,
+                "longitude": -73.982974
+            },
+            "locationGUID": "50b787fc-abff-486b-893f-74dbb9d64926",
+            "maxPowerKw": 8,
+            "name": "Residence Inn New York Manhattan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

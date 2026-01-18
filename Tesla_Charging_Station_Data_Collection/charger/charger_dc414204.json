@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "McDonough",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Henry County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30253",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Industrial Blvd",
+                "streetNumber": "855"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.4267912,
+                "longitude": -84.1784196
+            },
+            "commonSiteName": "Baymont by Wyndham McDonough",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.4267912,
+                "longitude": -84.1784196
+            },
+            "locationGUID": "ffa15538-18ce-46ea-94e7-430460bec883",
+            "maxPowerKw": 11,
+            "name": "Baymont by Wyndham McDonough",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Andermatt",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6490",
+                "postalExt": null,
+                "state": null,
+                "street": "Gotthardstrasse",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.636381,
+                "longitude": 8.594814
+            },
+            "commonSiteName": "The Chedi Andermatt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.636381,
+                "longitude": 8.594814
+            },
+            "locationGUID": "07a442c4-f328-4361-bcd8-a5c9466f7333",
+            "maxPowerKw": 22,
+            "name": "The Chedi Andermatt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

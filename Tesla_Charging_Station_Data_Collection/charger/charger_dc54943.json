@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newquay",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR7 1PS",
+                "postalExt": null,
+                "state": "Cornwall",
+                "street": "Esplanade Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.412163,
+                "longitude": -5.103441
+            },
+            "commonSiteName": "The Esplanade Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.412163,
+                "longitude": -5.103441
+            },
+            "locationGUID": "203ab785-d501-43a0-9f05-331a6ee34772",
+            "maxPowerKw": 11,
+            "name": "The Esplanade Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

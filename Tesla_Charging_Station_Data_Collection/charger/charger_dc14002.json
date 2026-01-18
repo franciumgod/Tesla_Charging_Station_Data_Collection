@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "La Malbaie",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G5A 2V2",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Chemin des Falaises",
+                "streetNumber": "250"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.636728,
+                "longitude": -70.151703
+            },
+            "commonSiteName": "Auberge des Falaises",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.636728,
+                "longitude": -70.151703
+            },
+            "locationGUID": "0596004f-c9db-486c-af10-e82f1366c976",
+            "maxPowerKw": 16,
+            "name": "Auberge des Falaises",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

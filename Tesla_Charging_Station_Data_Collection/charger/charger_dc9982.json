@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gols",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7122",
+                "postalExt": null,
+                "state": null,
+                "street": "Birkenplatz",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.892819,
+                "longitude": 16.922812
+            },
+            "commonSiteName": "Birkenhof - Hotel & Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.892819,
+                "longitude": 16.922812
+            },
+            "locationGUID": "11daf015-d38e-43f8-8889-38cfb5dc1bbe",
+            "maxPowerKw": 11,
+            "name": "Birkenhof - Hotel & Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

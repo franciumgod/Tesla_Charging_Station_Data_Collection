@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kvalsund",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9620",
+                "postalExt": null,
+                "state": null,
+                "street": "9620 Kvalsund",
+                "streetNumber": "9620 Kvalsund"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 70.431902,
+                "longitude": 24.505254
+            },
+            "commonSiteName": "SkaidiCenteret",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 70.431902,
+                "longitude": 24.505254
+            },
+            "locationGUID": "42a74f5c-8eb2-452a-be23-8795fddcb812",
+            "maxPowerKw": 11,
+            "name": "Skaidi Centeret",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

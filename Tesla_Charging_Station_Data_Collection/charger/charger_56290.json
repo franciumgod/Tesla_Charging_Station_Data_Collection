@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reine",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8390",
+                "postalExt": null,
+                "state": null,
+                "street": "Sverdrupsvei",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 67.93463884,
+                "longitude": 13.09083131
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 67.93463884,
+                "longitude": 13.09083131
+            },
+            "locationGUID": "7cb7a9ba-5081-4d81-8480-667225f6cb0e",
+            "maxPowerKw": 22,
+            "name": "Catogården // Reine i Lofoten",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chester",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23836",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Kingston Ave",
+                "streetNumber": "13148"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.347818,
+                "longitude": -77.34417
+            },
+            "commonSiteName": "Hyatt Place Richmond / Chester",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.347818,
+                "longitude": -77.34417
+            },
+            "locationGUID": "2fe10c37-a295-42a5-b0aa-010fbb6e5959",
+            "maxPowerKw": 16,
+            "name": "Hyatt Place Richmond / Chester",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

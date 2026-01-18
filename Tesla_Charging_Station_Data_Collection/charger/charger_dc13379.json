@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Plymouth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95669",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Main St",
+                "streetNumber": "9372"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.480785,
+                "longitude": -120.848399
+            },
+            "commonSiteName": "REST Hotel Plymouth",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.480785,
+                "longitude": -120.848399
+            },
+            "locationGUID": "a221f3d6-6c61-4282-8621-3d077ba2bc3f",
+            "maxPowerKw": 8,
+            "name": "REST Hotel Plymouth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

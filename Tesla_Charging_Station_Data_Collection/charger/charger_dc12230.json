@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8038",
+                "postalExt": null,
+                "state": "Barcelona",
+                "street": "Plaza Carlos Ibanez",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.370589,
+                "longitude": 2.170855
+            },
+            "commonSiteName": "Hotel Miramar Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.370589,
+                "longitude": 2.170855
+            },
+            "locationGUID": "aa6f475e-6ca3-4eb6-830e-fa080fe270c6",
+            "maxPowerKw": 6,
+            "name": "Hotel Miramar Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

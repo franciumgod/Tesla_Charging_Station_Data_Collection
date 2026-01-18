@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Warsaw",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "46580",
+                "postalExt": null,
+                "state": "IN",
+                "street": "E Center St",
+                "streetNumber": "2519"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.23876,
+                "longitude": -85.819659
+            },
+            "commonSiteName": "Wyndham Garden Warsaw",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.23876,
+                "longitude": -85.819659
+            },
+            "locationGUID": "7ff52569-f150-47d2-b3ca-193257074401",
+            "maxPowerKw": 8,
+            "name": "Wyndham Garden Warsaw",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Indiana/Indianapolis"
+        },
+        "success": true
+    }
+}

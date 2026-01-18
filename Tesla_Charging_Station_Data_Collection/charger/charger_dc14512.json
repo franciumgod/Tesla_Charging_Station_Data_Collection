@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fuentespalda",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "44587",
+                "postalExt": null,
+                "state": "Aragon",
+                "street": "Partida Torre del Visco s/n",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.85805743,
+                "longitude": 0.07653336
+            },
+            "commonSiteName": "La Torre del Visco",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.85805743,
+                "longitude": 0.07653336
+            },
+            "locationGUID": "40856746-c901-4c58-9edc-eaaea67f1d06",
+            "maxPowerKw": 11,
+            "name": "La Torre del Visco",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vellinge",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "23591",
+                "postalExt": null,
+                "state": "Scania",
+                "street": "Forshällavägen 265",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.427212,
+                "longitude": 13.006407
+            },
+            "commonSiteName": "Fridhem Gaard 1877",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.427212,
+                "longitude": 13.006407
+            },
+            "locationGUID": "b7895a68-2643-45c3-9d08-4d48ebd62285",
+            "maxPowerKw": 22,
+            "name": "Fridhem Gaard 1877",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

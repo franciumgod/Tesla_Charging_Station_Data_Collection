@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Flumet",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73590",
+                "postalExt": null,
+                "state": "Auvergne-Rhône-Alpes",
+                "street": "Chemin des Zorgières",
+                "streetNumber": "464"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.832122,
+                "longitude": 6.550822
+            },
+            "commonSiteName": "Le Toi du Monde",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.832122,
+                "longitude": 6.550822
+            },
+            "locationGUID": "24844325-37b6-4e99-ac82-e083d2c3ee1f",
+            "maxPowerKw": 11,
+            "name": "Le Toi du Monde",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Flushing",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11354",
+                "postalExt": null,
+                "state": "NY",
+                "street": "38th Ave",
+                "streetNumber": "136-20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.760965,
+                "longitude": -73.829807
+            },
+            "commonSiteName": "LAZ Parking 136-20 38th Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.760965,
+                "longitude": -73.829807
+            },
+            "locationGUID": "deec7bb4-2df1-466f-81c9-26ee927821d0",
+            "maxPowerKw": 10,
+            "name": "LAZ Parking 136-20 38th Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

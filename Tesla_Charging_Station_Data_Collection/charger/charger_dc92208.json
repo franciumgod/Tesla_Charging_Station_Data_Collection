@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Staten Island",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10310",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Forest Ave",
+                "streetNumber": "676"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.629216,
+                "longitude": -74.111537
+            },
+            "commonSiteName": "Bruno's Bakery and Restaurant Forest Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.629216,
+                "longitude": -74.111537
+            },
+            "locationGUID": "90d88f1a-d12f-4238-ab4f-8c9bb7990a1c",
+            "maxPowerKw": 10,
+            "name": "Bruno's Bakery and Restaurant Forest Ave",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

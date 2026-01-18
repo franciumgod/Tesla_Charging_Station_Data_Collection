@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98101",
+                "postalExt": null,
+                "state": "WA",
+                "street": "5th Ave",
+                "streetNumber": "1415"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.610166,
+                "longitude": -122.335179
+            },
+            "commonSiteName": "Motif Seattle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.610166,
+                "longitude": -122.335179
+            },
+            "locationGUID": "f9e7cd98-6945-47ac-8748-900730720f49",
+            "maxPowerKw": 8,
+            "name": "Motif Seattle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

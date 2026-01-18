@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Landquart",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7302",
+                "postalExt": null,
+                "state": null,
+                "street": "Tardistrasse",
+                "streetNumber": "20a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.965365,
+                "longitude": 9.553316
+            },
+            "commonSiteName": "Landquart Fashion Outlet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.965365,
+                "longitude": 9.553316
+            },
+            "locationGUID": "64e3f8d6-2b29-4415-9402-2a1d73d388e4",
+            "maxPowerKw": 22,
+            "name": "Landquart Fashion Outlet",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

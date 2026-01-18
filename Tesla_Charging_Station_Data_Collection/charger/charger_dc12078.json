@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cupertino",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95014",
+                "postalExt": null,
+                "state": "CA",
+                "street": "S De Anza Blvd",
+                "streetNumber": "10050"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.321772,
+                "longitude": -122.031361
+            },
+            "commonSiteName": "Juniper Cupertino, Curio Collection by Hilton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.321772,
+                "longitude": -122.031361
+            },
+            "locationGUID": "085aa7a0-27a2-4289-ae7e-9427cf7c6e99",
+            "maxPowerKw": 8,
+            "name": "Juniper Cupertino, Curio Collection by Hilton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

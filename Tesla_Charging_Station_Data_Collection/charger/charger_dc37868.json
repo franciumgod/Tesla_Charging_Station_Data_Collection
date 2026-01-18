@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Landau in der Pfalz",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "76829",
+                "postalExt": null,
+                "state": null,
+                "street": "Marie-Curie-Str.",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.1925091,
+                "longitude": 8.1368509
+            },
+            "commonSiteName": "Hotel Soho",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.1925091,
+                "longitude": 8.1368509
+            },
+            "locationGUID": "ed6cd775-e7a0-435d-8f27-284513b73b8d",
+            "maxPowerKw": 14,
+            "name": "Hotel Soho",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

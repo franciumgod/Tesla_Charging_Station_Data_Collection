@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "VILLENA",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "03400",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "CASAS DE MENOR",
+                "streetNumber": "44"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.66699,
+                "longitude": -0.90603
+            },
+            "commonSiteName": "JC Ferrero Equelite Sport Academy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.66699,
+                "longitude": -0.90603
+            },
+            "locationGUID": "a6ba4630-8c8d-4e2d-a0ee-bbd3a2318693",
+            "maxPowerKw": 8,
+            "name": "JC Ferrero Equelite Sport Academy",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Khon Kaen",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Mueang Khon Kaen",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "40000",
+                "postalExt": null,
+                "state": "NA",
+                "street": "Mittraphap Rd",
+                "streetNumber": "381/58 M.17"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.125,
+                            0.17708333333333334,
+                            0.265625,
+                            0.34895833333333337,
+                            0.33333333333333337,
+                            0.32552083333333337,
+                            0.26875,
+                            0.3715277777777778,
+                            0.40625,
+                            0.34722222222222227,
+                            0.28125,
+                            0.265625,
+                            0.25520833333333337,
+                            0.15625,
+                            0.125,
+                            0.0859375,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.09375,
+                            0.0625,
+                            0.0625,
+                            0.0625
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.14453125,
+                            0.11458333333333334,
+                            0.140625,
+                            0.225,
+                            0.234375,
+                            0.20937499999999998,
+                            0.16666666666666666,
+                            0.234375,
+                            0.3125,
+                            0.2942708333333333,
+                            0.23124999999999998,
+                            0.20703125,
+                            0.21875,
+                            0.1875,
+                            0.125,
+                            0.109375,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.15625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.15625,
+                            0.125,
+                            0.225,
+                            0.265625,
+                            0.3125,
+                            0.3125,
+                            0.4296875,
+                            0.484375,
+                            0.484375,
+                            0.359375,
+                            0.359375,
+                            0.3125,
+                            0.3125,
+                            0.25,
+                            0.16796875,
+                            0.16666666666666669,
+                            0.125,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.203125,
+                            0.2265625,
+                            0.203125,
+                            0.34375,
+                            0.390625,
+                            0.419921875,
+                            0.40625,
+                            0.421875,
+                            0.45833333333333337,
+                            0.5440340909090909,
+                            0.53125,
+                            0.4303977272727273,
+                            0.203125,
+                            0.171875,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.1171875
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.06875,
+                            0.09166666666666666,
+                            0.11249999999999999,
+                            0.20416666666666666,
+                            0.22499999999999998,
+                            0.23333333333333334,
+                            0.2972222222222223,
+                            0.35000000000000003,
+                            0.3,
+                            0.16875,
+                            0.185,
+                            0.1625,
+                            0.18,
+                            0.1875,
+                            0.2125,
+                            0.18333333333333332,
+                            0.11666666666666667,
+                            0.1,
+                            0.1,
+                            0.037500000000000006,
+                            0.05,
+                            0.037500000000000006,
+                            0.0875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.1875,
+                            0.2,
+                            0.109375,
+                            0.0859375,
+                            0.14453125,
+                            0.203125,
+                            0.34375,
+                            0.40625,
+                            0.4140625,
+                            0.34375,
+                            0.29166666666666663,
+                            0.21875,
+                            0.171875,
+                            0.14583333333333334,
+                            0.15625,
+                            0.125,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.09375
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.109375,
+                            0.16666666666666669,
+                            0.16796875,
+                            0.25,
+                            0.296875,
+                            0.33072916666666663,
+                            0.3125,
+                            0.359375,
+                            0.3125,
+                            0.2611607142857143,
+                            0.225,
+                            0.25,
+                            0.26875,
+                            0.234375,
+                            0.20703125,
+                            0.1875,
+                            0.171875,
+                            0.125,
+                            0.109375,
+                            0.078125,
+                            0.0625,
+                            0,
+                            0,
+                            0.05
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 11028914,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 405406,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 16.409024,
+                "longitude": 102.816556
+            },
+            "commonSiteName": "Wufoo Wholesale Market",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 6.73,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 16.40885733,
+                "longitude": 102.81673541
+            },
+            "locationGUID": "70b46a00-8b0c-47be-9578-644e22021ac6",
+            "maxPowerKw": 250,
+            "name": "Khon Kaen, Thailand - Wufoo Wholesale Market",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

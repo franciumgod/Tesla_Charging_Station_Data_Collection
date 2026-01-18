@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "3rd Ave",
+                "streetNumber": "560"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.747962,
+                "longitude": -73.976569
+            },
+            "commonSiteName": "Icon Parking 560 Third Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.747962,
+                "longitude": -73.976569
+            },
+            "locationGUID": "1887b09b-581b-4df7-804e-fa580d0f58dc",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 560 Third Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

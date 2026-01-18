@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lautenbach",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "77794",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptstr.",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.520507,
+                "longitude": 8.115684
+            },
+            "commonSiteName": "Ringhotel Sonnenhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.520507,
+                "longitude": 8.115684
+            },
+            "locationGUID": "b228067a-904a-4c07-b5c7-7cc6610961f6",
+            "maxPowerKw": 22,
+            "name": "Ringhotel Sonnenhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

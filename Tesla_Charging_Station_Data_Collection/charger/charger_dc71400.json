@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Liptovsky Mikulas",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "031 05",
+                "postalExt": null,
+                "state": null,
+                "street": "Raztocka",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.107658,
+                "longitude": 19.57362
+            },
+            "commonSiteName": "Holiday Village Tatralandia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.107658,
+                "longitude": 19.57362
+            },
+            "locationGUID": "024bf9fa-0b39-4261-8033-35626a080a0d",
+            "maxPowerKw": 11,
+            "name": "Holiday Village Tatralandia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

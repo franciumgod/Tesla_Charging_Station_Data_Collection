@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santiago de Querétaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": "Aeropuerto de Querétaro",
+                "postalCode": "76249",
+                "postalExt": null,
+                "state": "Federal District",
+                "street": "Carr. Querétaro-Tequisquiapan",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.62291214,
+                "longitude": -100.1871113
+            },
+            "commonSiteName": "Aeropuerto de Querétaro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.62291214,
+                "longitude": -100.1871113
+            },
+            "locationGUID": "c90d0bad-30a7-420c-8844-5d6cbdcdf1ab",
+            "maxPowerKw": 0,
+            "name": "Aeropuerto de Querétaro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

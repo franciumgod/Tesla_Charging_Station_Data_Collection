@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Leonhard im Pitztal",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6481",
+                "postalExt": null,
+                "state": null,
+                "street": "Tieflehn",
+                "streetNumber": "19"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.975188,
+                "longitude": 10.868474
+            },
+            "commonSiteName": "Hotel Gundolf",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.975188,
+                "longitude": 10.868474
+            },
+            "locationGUID": "77591a92-d7d8-46f7-8110-2a7bc5f8c095",
+            "maxPowerKw": 11,
+            "name": "Hotel Gundolf",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

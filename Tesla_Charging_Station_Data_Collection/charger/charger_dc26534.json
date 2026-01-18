@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Celaya",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "38060",
+                "postalExt": null,
+                "state": "GUA",
+                "street": "Panamericana",
+                "streetNumber": "Carretera Km. 5 s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.518638,
+                "longitude": -100.843937
+            },
+            "commonSiteName": "Hotel One Celaya",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.518638,
+                "longitude": -100.843937
+            },
+            "locationGUID": "7f9a0dce-fa8e-4bef-a4ac-c4f5872a7465",
+            "maxPowerKw": 18,
+            "name": "Hotel One Celaya",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Denver",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80206",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Clayton Ln",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.718888,
+                "longitude": -104.955621
+            },
+            "commonSiteName": "JW Marriott Denver Cherry Creek",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.718888,
+                "longitude": -104.955621
+            },
+            "locationGUID": "5577b8f7-5206-49be-8750-65ce480f3c0a",
+            "maxPowerKw": 19,
+            "name": "JW Marriott Denver Cherry Creek",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

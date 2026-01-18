@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Maria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93455",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Skyway Dr",
+                "streetNumber": "3455"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.896575,
+                "longitude": -120.444896
+            },
+            "commonSiteName": "Radisson Hotel Santa Maria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.896575,
+                "longitude": -120.444896
+            },
+            "locationGUID": "077d1dcb-6465-4b28-bb4d-7f1ddcbc4254",
+            "maxPowerKw": 16,
+            "name": "Radisson Hotel Santa Maria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

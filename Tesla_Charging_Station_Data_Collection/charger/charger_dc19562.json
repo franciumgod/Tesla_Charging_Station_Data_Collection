@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nagahama",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "529",
+                "postalExt": "0721",
+                "state": "Shiga",
+                "street": "Nishiazaicho Oura",
+                "streetNumber": "2064"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.46898,
+                "longitude": 136.106851
+            },
+            "commonSiteName": "ロテル　デュ　ラク",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.46898,
+                "longitude": 136.106851
+            },
+            "locationGUID": "1c7c12a3-3481-4ae5-a493-3fba533a817b",
+            "maxPowerKw": 10,
+            "name": "L'Hotel du Lac",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

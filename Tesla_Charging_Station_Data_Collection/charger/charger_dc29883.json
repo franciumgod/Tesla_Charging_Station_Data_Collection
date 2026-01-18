@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zacatecas",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98000",
+                "postalExt": null,
+                "state": "Zacatecas",
+                "street": "Zacatecas Centro",
+                "streetNumber": "Av. Hidalgo 407"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.77461,
+                "longitude": -102.573646
+            },
+            "commonSiteName": "Mision Zacatecas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.77461,
+                "longitude": -102.573646
+            },
+            "locationGUID": "09a6d5ce-1c6c-4a87-86af-32f9cd543400",
+            "maxPowerKw": 18,
+            "name": "Mision Zacatecas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

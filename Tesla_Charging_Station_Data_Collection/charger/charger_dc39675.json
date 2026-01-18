@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portimão",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8500",
+                "postalExt": "802",
+                "state": null,
+                "street": "Av. Tomás Cabreira",
+                "streetNumber": "92"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.119154,
+                "longitude": -8.536847
+            },
+            "commonSiteName": "Jupiter Algarve Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.119154,
+                "longitude": -8.536847
+            },
+            "locationGUID": "1735cdef-67d1-4a5b-8002-3adfd198c1d5",
+            "maxPowerKw": 22,
+            "name": "Jupiter Algarve Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

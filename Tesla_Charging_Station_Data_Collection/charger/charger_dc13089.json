@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Princeton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V1Y 1 M5",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Vermilion Ave",
+                "streetNumber": "157"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.458847,
+                "longitude": -120.508754
+            },
+            "commonSiteName": "The Vermilion Fork Kitchen + Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.458847,
+                "longitude": -120.508754
+            },
+            "locationGUID": "4c753e90-4127-43e1-880a-d1a003a2aa03",
+            "maxPowerKw": 16,
+            "name": "The Vermilion Fork Kitchen + Bar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

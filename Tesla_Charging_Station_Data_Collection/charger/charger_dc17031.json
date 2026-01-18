@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Porto",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4100",
+                "postalExt": "325",
+                "state": null,
+                "street": "R. Dr. Marques de Carvalho",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.162327,
+                "longitude": -8.645022
+            },
+            "commonSiteName": "BessaHotel Boavista",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.162327,
+                "longitude": -8.645022
+            },
+            "locationGUID": "cf6b4dbd-3ae2-463a-a862-bfe000cc0025",
+            "maxPowerKw": 22,
+            "name": "BessaHotel Boavista",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

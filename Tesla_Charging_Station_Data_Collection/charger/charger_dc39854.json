@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hadano",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "257",
+                "postalExt": "0023",
+                "state": "Kanagawa",
+                "street": "Terayama",
+                "streetNumber": "1450"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.400854,
+                "longitude": 139.24361
+            },
+            "commonSiteName": "東京カントリークラブ",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.400854,
+                "longitude": 139.24361
+            },
+            "locationGUID": "7b430f4a-2e25-46ac-b7b4-da1eaf74e4df",
+            "maxPowerKw": 10,
+            "name": "Tokyo Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

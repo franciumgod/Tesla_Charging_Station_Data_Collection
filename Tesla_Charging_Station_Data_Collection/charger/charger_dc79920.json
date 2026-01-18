@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Quimper",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29000",
+                "postalExt": null,
+                "state": null,
+                "street": "rue des Reguaires",
+                "streetNumber": "13"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.99597,
+                "longitude": -4.097642
+            },
+            "commonSiteName": "Best Western Hotel Kregenn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.99597,
+                "longitude": -4.097642
+            },
+            "locationGUID": "088c5db5-3f13-473e-b340-372f6be98aad",
+            "maxPowerKw": 11,
+            "name": "Best Western Hotel Kregenn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

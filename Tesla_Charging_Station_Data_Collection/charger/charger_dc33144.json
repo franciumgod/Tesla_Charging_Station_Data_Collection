@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hakata",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "812",
+                "postalExt": "0013",
+                "state": "Fukuoka",
+                "street": "Hakataekihigashi",
+                "streetNumber": "2-14-1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.589149,
+                "longitude": 130.426947
+            },
+            "commonSiteName": "スフィンクスセンターパーキング",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.589149,
+                "longitude": 130.426947
+            },
+            "locationGUID": "f9e0e62e-674d-4d10-8737-0c5607f4b077",
+            "maxPowerKw": 10,
+            "name": "Sphinx Center Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

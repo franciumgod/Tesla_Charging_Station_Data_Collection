@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Broadway",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2007",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Bay Street",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.883641,
+                "longitude": 151.194878
+            },
+            "commonSiteName": "Broadway Shopping Centre - Level B2",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.883641,
+                "longitude": 151.194878
+            },
+            "locationGUID": "8685692b-e87f-4962-bb7d-cbe34527ff6b",
+            "maxPowerKw": 0,
+            "name": "Broadway Shopping Centre - Level B2",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

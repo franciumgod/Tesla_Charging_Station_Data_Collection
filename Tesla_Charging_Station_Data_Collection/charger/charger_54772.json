@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Schlepzig",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "15910",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstr.",
+                "streetNumber": "53"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.0289,
+                "longitude": 13.888962
+            },
+            "commonSiteName": "Spreewaldresort \"Seinerzeit\"",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.0289,
+                "longitude": 13.888962
+            },
+            "locationGUID": "50876ec5-822a-4885-b353-c037f7e71422",
+            "maxPowerKw": 11,
+            "name": "Spreewaldresort \"Seinerzeit\"",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

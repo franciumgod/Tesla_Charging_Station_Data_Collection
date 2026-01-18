@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30313",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Ivan Allen Jr Blvd NW",
+                "streetNumber": "239"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.76472,
+                "longitude": -84.39512
+            },
+            "commonSiteName": "Springhill Suites Atlanta Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.76472,
+                "longitude": -84.39512
+            },
+            "locationGUID": "99b08998-24c6-4b7e-97b9-a0c4dfeb8dd8",
+            "maxPowerKw": 10,
+            "name": "Springhill Suites Atlanta Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

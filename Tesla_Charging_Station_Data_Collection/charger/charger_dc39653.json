@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Amsterdam",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1096 GG",
+                "postalExt": null,
+                "state": null,
+                "street": "Amstelvlietstraat",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.3382545,
+                "longitude": 4.920367
+            },
+            "commonSiteName": "QO Amsterdam",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.3382545,
+                "longitude": 4.920367
+            },
+            "locationGUID": "9edd150f-35ce-4b25-a22f-58930422ace5",
+            "maxPowerKw": 11,
+            "name": "Ruby Emma Hotel Amsterdam",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

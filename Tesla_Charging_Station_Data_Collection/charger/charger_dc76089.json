@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20005",
+                "postalExt": null,
+                "state": "DC",
+                "street": "15th St NW",
+                "streetNumber": "1152"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.90493,
+                "longitude": -77.035048
+            },
+            "commonSiteName": "Columbia Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.90493,
+                "longitude": -77.035048
+            },
+            "locationGUID": "98ba2eeb-4849-4c72-8295-bd01b53809e6",
+            "maxPowerKw": 10,
+            "name": "Columbia Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

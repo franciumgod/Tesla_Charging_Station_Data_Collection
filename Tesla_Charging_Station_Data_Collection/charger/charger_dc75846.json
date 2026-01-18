@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Montauk",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11954",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Montauk Hwy",
+                "streetNumber": "2167"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.002714,
+                "longitude": -72.031445
+            },
+            "commonSiteName": "Morty's Oyster Stand",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.002714,
+                "longitude": -72.031445
+            },
+            "locationGUID": "9a72ccab-4540-4b7d-ba3b-6425ebe1f299",
+            "maxPowerKw": 16,
+            "name": "Morty's Oyster Stand",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

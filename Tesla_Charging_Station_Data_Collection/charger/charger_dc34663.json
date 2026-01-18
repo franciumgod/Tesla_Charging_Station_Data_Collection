@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cairns",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4870",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Sheridan Street",
+                "streetNumber": "295"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -16.907545,
+                "longitude": 145.760149
+            },
+            "commonSiteName": "Cairns Sheridan Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -16.907545,
+                "longitude": 145.760149
+            },
+            "locationGUID": "4a2feb3c-930f-48d3-a8d2-a4cf875277f6",
+            "maxPowerKw": 22,
+            "name": "Cairns Sheridan Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roses",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17480",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avinguda Diaz Pacheco",
+                "streetNumber": "70"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.242349,
+                "longitude": 3.203249
+            },
+            "commonSiteName": "Almadraba Park Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.242349,
+                "longitude": 3.203249
+            },
+            "locationGUID": "d40a6a78-8cea-4dea-9d1f-86b28b31c9c3",
+            "maxPowerKw": 22,
+            "name": "Almadraba Park Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

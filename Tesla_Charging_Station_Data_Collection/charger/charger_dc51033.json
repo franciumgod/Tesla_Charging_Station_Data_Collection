@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Essen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "45219",
+                "postalExt": null,
+                "state": null,
+                "street": "Werdener Str.",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.35791809,
+                "longitude": 6.93357714
+            },
+            "commonSiteName": "EDEKA Buchmuehlen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.35791809,
+                "longitude": 6.93357714
+            },
+            "locationGUID": "775d3011-fe3c-4933-b664-15de76bc3151",
+            "maxPowerKw": 11,
+            "name": "EDEKA Buchmuehlen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

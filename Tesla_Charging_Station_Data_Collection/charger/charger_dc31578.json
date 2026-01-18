@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rotenburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "27356",
+                "postalExt": null,
+                "state": null,
+                "street": "Rotenburger Strasse",
+                "streetNumber": "62"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.17660725,
+                "longitude": 9.2913685
+            },
+            "commonSiteName": "Kraeuterhotel Heidejaeger",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.17660725,
+                "longitude": 9.2913685
+            },
+            "locationGUID": "91212153-61a2-4363-a112-b971c6a4e751",
+            "maxPowerKw": 11,
+            "name": "Kraeuterhotel Heidejaeger",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

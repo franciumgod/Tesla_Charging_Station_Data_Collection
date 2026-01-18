@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kuusisto",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21620",
+                "postalExt": null,
+                "state": "Sweden",
+                "street": "Villa Wolaxin tie",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.36990444,
+                "longitude": 22.3231841
+            },
+            "commonSiteName": "Villa Wolax",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.36990444,
+                "longitude": 22.3231841
+            },
+            "locationGUID": "ca6e6f57-da23-47fe-b02e-b11c18d9738f",
+            "maxPowerKw": 11,
+            "name": "Villa Wolax",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

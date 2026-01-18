@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waengle",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6610",
+                "postalExt": null,
+                "state": "Tirol",
+                "street": "Holz",
+                "streetNumber": "1a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.481479,
+                "longitude": 10.680931
+            },
+            "commonSiteName": "Naturhotel Lechlife",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.481479,
+                "longitude": 10.680931
+            },
+            "locationGUID": "bfcaacde-6f99-49d3-a833-a68425e67810",
+            "maxPowerKw": 17,
+            "name": "Naturhotel Lechlife",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jacksonville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32216",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Lenoir Ave",
+                "streetNumber": "4888"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.248773,
+                "longitude": -81.599472
+            },
+            "commonSiteName": "Fairfield Inn & Suites Jacksonville Butler Boulevard",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.248773,
+                "longitude": -81.599472
+            },
+            "locationGUID": "ded4ed8b-4537-4818-993a-d19d89d3b9ce",
+            "maxPowerKw": 8,
+            "name": "Fairfield Inn & Suites Jacksonville Butler Boulevard",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10025",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 101st St",
+                "streetNumber": "204"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.797359,
+                "longitude": -73.968718
+            },
+            "commonSiteName": "Rapidpark 204 W 101st Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.797359,
+                "longitude": -73.968718
+            },
+            "locationGUID": "08bab0ac-92be-4ded-8555-b0d32940086c",
+            "maxPowerKw": 16,
+            "name": "Rapidpark 204 W 101st Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

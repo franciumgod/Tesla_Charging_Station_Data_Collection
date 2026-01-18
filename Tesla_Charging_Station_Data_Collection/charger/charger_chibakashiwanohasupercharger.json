@@ -1,0 +1,336 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "07:30",
+                        "periodEnd": "23:00",
+                        "weekday": 7
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kashiwa",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "227",
+                "postalExt": "0871",
+                "state": "Chiba",
+                "street": "Wakashiba",
+                "streetNumber": "227-1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.25,
+                            0.26875,
+                            0.28125,
+                            0.3392857142857143,
+                            0.40234375,
+                            0.453125,
+                            0.5340909090909091,
+                            0.53125,
+                            0.5795454545454546,
+                            0.515625,
+                            0.41718749999999993,
+                            0.3839285714285714,
+                            0.359375,
+                            0.3214285714285714,
+                            0.203125,
+                            0.0859375,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.125,
+                            0.19375
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.20703125,
+                            0.29464285714285715,
+                            0.40234375,
+                            0.46875,
+                            0.384765625,
+                            0.359375,
+                            0.296875,
+                            0.36160714285714285,
+                            0.375,
+                            0.39285714285714285,
+                            0.359375,
+                            0.3489583333333333,
+                            0.28125,
+                            0.17708333333333334,
+                            0.03125,
+                            0,
+                            0.0625,
+                            0.078125,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.175
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.296875,
+                            0.3526785714285714,
+                            0.4375,
+                            0.53125,
+                            0.546875,
+                            0.5,
+                            0.4375,
+                            0.4107142857142857,
+                            0.5014204545454546,
+                            0.53125,
+                            0.45738636363636365,
+                            0.296875,
+                            0.2875,
+                            0.21875,
+                            0.15625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.146875,
+                            0.25
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.421875,
+                            0.375,
+                            0.3489583333333333,
+                            0.39453125,
+                            0.46875,
+                            0.5,
+                            0.5,
+                            0.484375,
+                            0.455078125,
+                            0.40625,
+                            0.3526785714285714,
+                            0.33072916666666663,
+                            0.28125,
+                            0.17708333333333334,
+                            0.03125,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.09375,
+                            0.140625
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.30044642857142856,
+                            0.34375,
+                            0.31026785714285715,
+                            0.25,
+                            0.3325892857142857,
+                            0.34375,
+                            0.2857142857142857,
+                            0.20703125,
+                            0.3472222222222222,
+                            0.421875,
+                            0.3576388888888889,
+                            0.20937499999999998,
+                            0.16666666666666666,
+                            0.140625,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.125,
+                            0.1875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.2760416666666667,
+                            0.328125,
+                            0.3125,
+                            0.28125,
+                            0.26875,
+                            0.34375,
+                            0.375,
+                            0.4375,
+                            0.359375,
+                            0.314453125,
+                            0.23124999999999998,
+                            0.28125,
+                            0.265625,
+                            0.175,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.21806640625
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.290625,
+                            0.284375,
+                            0.2875,
+                            0.3194444444444444,
+                            0.3875,
+                            0.4225,
+                            0.3875,
+                            0.2875,
+                            0.2714285714285714,
+                            0.2375,
+                            0.2482142857142857,
+                            0.17500000000000002,
+                            0.165625,
+                            0.13749999999999998,
+                            0.11666666666666667,
+                            0.07500000000000001,
+                            0.05,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.07083333333333333,
+                            0.17375
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 6817,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 31506,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.897705,
+                "longitude": 139.954772
+            },
+            "commonSiteName": "T-SITE",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.897545,
+                "longitude": 139.954703
+            },
+            "locationGUID": "49301989-1d1e-4037-a28c-b7d14137a253",
+            "maxPowerKw": 250,
+            "name": "Kashiwanoha, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

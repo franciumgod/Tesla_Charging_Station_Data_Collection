@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ramatuelle",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83350",
+                "postalExt": null,
+                "state": null,
+                "street": "Plage de, Chemin des Tamaris",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.238573,
+                "longitude": 6.659779
+            },
+            "commonSiteName": "Toison d'Or",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.238573,
+                "longitude": 6.659779
+            },
+            "locationGUID": "f5440b3c-dadf-4821-b9cb-9e1634331e01",
+            "maxPowerKw": 11,
+            "name": "Toison d'Or",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

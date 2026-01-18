@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington Heights",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10033",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Broadway Ave",
+                "streetNumber": "4172"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.847422,
+                "longitude": -73.937922
+            },
+            "commonSiteName": "CenterPark 4172 Broadway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.847422,
+                "longitude": -73.937922
+            },
+            "locationGUID": "09b904f4-f72f-491e-92c5-df3e519c8126",
+            "maxPowerKw": 10,
+            "name": "CenterPark 4172 Broadway",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

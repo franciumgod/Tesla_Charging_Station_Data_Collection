@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leola",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "17540",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Deborah Dr",
+                "streetNumber": "38"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.085037,
+                "longitude": -76.203975
+            },
+            "commonSiteName": "The Inn at Leola Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.085037,
+                "longitude": -76.203975
+            },
+            "locationGUID": "3fc4e50f-ad61-46d3-8fa7-29eeed00527c",
+            "maxPowerKw": 8,
+            "name": "The Inn at Leola Village",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

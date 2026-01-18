@@ -1,0 +1,298 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mandaluyong",
+                "country": "Philippines",
+                "countryCode": "PH",
+                "district": ".",
+                "navRegion": "se",
+                "nearestEntrance": null,
+                "postalCode": "1552",
+                "postalExt": null,
+                "state": null,
+                "street": "Shaw Blvd Ortigas Center",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.15625,
+                            0.09375,
+                            0.2,
+                            0.25,
+                            0.3125,
+                            0.328125,
+                            0.3125,
+                            0.26875,
+                            0.234375,
+                            0.20703125,
+                            0.171875,
+                            0.10416666666666666,
+                            0.09375,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.0625
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.1484375,
+                            0.203125,
+                            0.2265625,
+                            0.234375,
+                            0.234375,
+                            0.20703125,
+                            0.20703125,
+                            0.25,
+                            0.265625,
+                            0.23124999999999998,
+                            0.15625,
+                            0.16666666666666669,
+                            0.140625,
+                            0.14583333333333331,
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.078125
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.125,
+                            0.2,
+                            0.2760416666666667,
+                            0.28125,
+                            0.2916666666666667,
+                            0.1875,
+                            0.253125,
+                            0.3125,
+                            0.390625,
+                            0.43359375,
+                            0.4375,
+                            0.39453125,
+                            0.27604166666666663,
+                            0.15,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.1171875,
+                            0.15625,
+                            0.259375,
+                            0.2723214285714286,
+                            0.328125,
+                            0.3660714285714286,
+                            0.3125,
+                            0.328125,
+                            0.328125,
+                            0.328125,
+                            0.34375,
+                            0.22916666666666666,
+                            0.171875,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.05,
+                            0,
+                            0.03125,
+                            0.146875,
+                            0.2578125,
+                            0.375,
+                            0.4375,
+                            0.4375,
+                            0.333984375,
+                            0.165625,
+                            0.1875,
+                            0.1875,
+                            0.28125,
+                            0.2109375,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.09375
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.0625,
+                            0.23214285714285715,
+                            0.296875,
+                            0.3839285714285714,
+                            0.328125,
+                            0.3169642857142857,
+                            0.25,
+                            0.234375,
+                            0.1875,
+                            0.1953125,
+                            0.23125,
+                            0.25,
+                            0.175,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.025,
+                            0.07083333333333333,
+                            0.18928571428571428,
+                            0.3,
+                            0.36406249999999996,
+                            0.4,
+                            0.4375,
+                            0.4375,
+                            0.3166666666666667,
+                            0.33125,
+                            0.21250000000000002,
+                            0.2,
+                            0.1375,
+                            0.07500000000000001,
+                            0.07500000000000001,
+                            0.07083333333333333,
+                            0.0875,
+                            0.075,
+                            0,
+                            0,
+                            0,
+                            0.05,
+                            0.05
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11029298,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 453504,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 14.58167487,
+                "longitude": 121.05578569
+            },
+            "commonSiteName": "Shangri-La Plaza",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "PHP",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 19,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "PHP",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 30,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 14.58236195,
+                "longitude": 121.05533478
+            },
+            "locationGUID": "b6b35de0-107d-409b-a1e3-673a897d2cb1",
+            "maxPowerKw": 250,
+            "name": "Mandaluyong, Philippines - Shangri-La Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Manila"
+        },
+        "success": true
+    }
+}

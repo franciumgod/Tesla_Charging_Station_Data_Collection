@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8015",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Gran Via de les Corts Catalanes",
+                "streetNumber": "373-385"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.37624176,
+                "longitude": 2.14952185
+            },
+            "commonSiteName": "Centro Comercial Arenas de Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.37624176,
+                "longitude": 2.14952185
+            },
+            "locationGUID": "2d327aa1-8a57-4ed1-bf31-eb1536237cd6",
+            "maxPowerKw": 22,
+            "name": "Centro Comercial Arenas de Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

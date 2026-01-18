@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10001",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 30th",
+                "streetNumber": "530"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.75277,
+                "longitude": -74.00265
+            },
+            "commonSiteName": "MPG 530 West 30th",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.75277,
+                "longitude": -74.00265
+            },
+            "locationGUID": "294514b8-170b-4857-ab96-fc9cad8bb514",
+            "maxPowerKw": 10,
+            "name": "MPG 530 West 30th",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

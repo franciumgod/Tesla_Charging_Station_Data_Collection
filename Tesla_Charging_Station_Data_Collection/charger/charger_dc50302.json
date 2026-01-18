@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Narberth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SA67 7AB",
+                "postalExt": null,
+                "state": "Pembrokeshire",
+                "street": "Moorfield Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.800553,
+                "longitude": -4.745481
+            },
+            "commonSiteName": "Hotel Plas Hyfryd",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.800553,
+                "longitude": -4.745481
+            },
+            "locationGUID": "c6ffa042-88a0-4a44-8007-6c390489d0dd",
+            "maxPowerKw": 13,
+            "name": "Hotel Plas Hyfryd",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

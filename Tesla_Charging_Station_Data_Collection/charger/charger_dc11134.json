@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Minneapolis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55403",
+                "postalExt": null,
+                "state": "MN",
+                "street": "Nicollet Mall",
+                "streetNumber": "1300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.970602,
+                "longitude": -93.278264
+            },
+            "commonSiteName": "Hyatt Regency Minneapolis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.970602,
+                "longitude": -93.278264
+            },
+            "locationGUID": "7b711d4d-047e-4166-bfdb-a0a4af5e81e6",
+            "maxPowerKw": 6,
+            "name": "Hyatt Regency Minneapolis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

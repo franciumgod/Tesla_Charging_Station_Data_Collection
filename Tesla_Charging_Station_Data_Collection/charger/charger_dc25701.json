@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10025",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 110th St",
+                "streetNumber": "543"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.803963,
+                "longitude": -73.966032
+            },
+            "commonSiteName": "MPG 543 W 110th Street Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.803963,
+                "longitude": -73.966032
+            },
+            "locationGUID": "cb2661b9-31f7-4ffd-8f89-5286cdc7e0c3",
+            "maxPowerKw": 8,
+            "name": "MPG 543 W 110th Street Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10017",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 45th St",
+                "streetNumber": "246"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.751847,
+                "longitude": -73.971348
+            },
+            "commonSiteName": "iPark NYC 246 E 45 Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.751847,
+                "longitude": -73.971348
+            },
+            "locationGUID": "2c2cb10b-4ce2-4f60-a44c-9a5e4a0bf965",
+            "maxPowerKw": 8,
+            "name": "iPark NYC 246 E 45 Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

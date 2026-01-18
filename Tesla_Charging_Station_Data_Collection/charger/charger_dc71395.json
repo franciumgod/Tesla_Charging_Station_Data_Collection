@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Edinburgh",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "EH16 5AY,",
+                "postalExt": null,
+                "state": null,
+                "street": "Holyrood Park Road",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.938104,
+                "longitude": -3.171161
+            },
+            "commonSiteName": "University of Edinburgh - Salisbury Green Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.938104,
+                "longitude": -3.171161
+            },
+            "locationGUID": "c9f60c0f-9ef0-4cfb-8e9d-ff3211976b39",
+            "maxPowerKw": 11,
+            "name": "University of Edinburgh - Salisbury Green Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

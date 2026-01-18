@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ballyvaughan",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Gregans Castle",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.076748,
+                "longitude": -9.184173
+            },
+            "commonSiteName": "Gregans Castle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.076748,
+                "longitude": -9.184173
+            },
+            "locationGUID": "46f8161f-e846-413a-8ba6-5d8635608d7c",
+            "maxPowerKw": 22,
+            "name": "Gregans Castle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

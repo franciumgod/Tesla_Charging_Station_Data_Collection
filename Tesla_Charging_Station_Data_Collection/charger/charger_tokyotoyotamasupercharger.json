@@ -1,0 +1,298 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nerima",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "176",
+                "postalExt": "0013",
+                "state": "Tokyo",
+                "street": "Toyotamanaka",
+                "streetNumber": "3-2-3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.23124999999999998,
+                            0.2942708333333333,
+                            0.41666666666666674,
+                            0.453125,
+                            0.47048611111111116,
+                            0.4375,
+                            0.455078125,
+                            0.4375,
+                            0.4756944444444445,
+                            0.5453125,
+                            0.578125,
+                            0.51875,
+                            0.40234375,
+                            0.29464285714285715,
+                            0.253125,
+                            0.28125,
+                            0.3125,
+                            0.265625,
+                            0.2,
+                            0.125,
+                            0.2,
+                            0.2760416666666667,
+                            0.34375,
+                            0.3125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.171875,
+                            0.25,
+                            0.34375,
+                            0.328125,
+                            0.3046875,
+                            0.3125,
+                            0.4375,
+                            0.484375,
+                            0.4375,
+                            0.328125,
+                            0.2578125,
+                            0.23124999999999998,
+                            0.3576388888888889,
+                            0.421875,
+                            0.3229166666666667,
+                            0.1953125,
+                            0.15625,
+                            0.125,
+                            0.140625,
+                            0.125,
+                            0.16666666666666669,
+                            0.125,
+                            0.16666666666666669,
+                            0.16796875
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.2875,
+                            0.3125,
+                            0.41666666666666674,
+                            0.484375,
+                            0.4565972222222222,
+                            0.5959821428571428,
+                            0.65625,
+                            0.6339285714285714,
+                            0.5,
+                            0.46875,
+                            0.50625,
+                            0.515625,
+                            0.4984375,
+                            0.40625,
+                            0.39285714285714285,
+                            0.359375,
+                            0.3169642857142857,
+                            0.25,
+                            0.203125,
+                            0.171875,
+                            0.125,
+                            0.171875,
+                            0.20703125,
+                            0.234375
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.5173611111111112,
+                            0.53125,
+                            0.4652777777777778,
+                            0.44140625,
+                            0.40625,
+                            0.419921875,
+                            0.390625,
+                            0.43359375,
+                            0.453125,
+                            0.419921875,
+                            0.39285714285714285,
+                            0.375,
+                            0.3526785714285714,
+                            0.265625,
+                            0.25,
+                            0.203125,
+                            0.16796875,
+                            0.11458333333333334,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.0859375,
+                            0.109375
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.15104166666666669,
+                            0.15625,
+                            0.23124999999999998,
+                            0.28125,
+                            0.33072916666666663,
+                            0.34375,
+                            0.3125,
+                            0.2875,
+                            0.296875,
+                            0.3526785714285714,
+                            0.40625,
+                            0.4375,
+                            0.390625,
+                            0.36160714285714285,
+                            0.34375,
+                            0.296875,
+                            0.20572916666666669,
+                            0.046875,
+                            0.03125,
+                            0.09375,
+                            0.140625,
+                            0.1875,
+                            0.1875,
+                            0.1875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.1875,
+                            0.2265625,
+                            0.25,
+                            0.359375,
+                            0.39285714285714285,
+                            0.40625,
+                            0.375,
+                            0.416015625,
+                            0.40625,
+                            0.4375,
+                            0.39285714285714285,
+                            0.375,
+                            0.359375,
+                            0.3125,
+                            0.2875,
+                            0.234375,
+                            0.203125,
+                            0.09375,
+                            0.0859375,
+                            0.046875,
+                            0.09375,
+                            0.078125,
+                            0.109375,
+                            0.129296875
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.275,
+                            0.3,
+                            0.315625,
+                            0.2645833333333333,
+                            0.25,
+                            0.3222222222222222,
+                            0.42045454545454547,
+                            0.45,
+                            0.4625,
+                            0.44545454545454544,
+                            0.4625,
+                            0.38522727272727275,
+                            0.3,
+                            0.3,
+                            0.19999999999999998,
+                            0.1375,
+                            0.075,
+                            0.05,
+                            0.07500000000000001,
+                            0.1,
+                            0.1625,
+                            0.165625,
+                            0.128125
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 9940,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 59276,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.732359,
+                "longitude": 139.65653
+            },
+            "commonSiteName": "FamilyMart",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.73242693,
+                "longitude": 139.65664735
+            },
+            "locationGUID": "28b16d2f-6736-4719-ac5b-febf25c9fc8c",
+            "maxPowerKw": 250,
+            "name": "Tokyo - Toyotama, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "제주도",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "63363",
+                "postalExt": null,
+                "state": "제주특별자치도",
+                "street": "제주시 구좌읍 하도9길",
+                "streetNumber": "72"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.5119315,
+                "longitude": 126.8908423
+            },
+            "commonSiteName": "비젠빌리지",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.5119315,
+                "longitude": 126.8908423
+            },
+            "locationGUID": "d7bcacb5-cb19-4364-8e48-ad425831bdb5",
+            "maxPowerKw": 16,
+            "name": "Wiesen village",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Duck",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27949",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Duck Rd",
+                "streetNumber": "1461"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.223442,
+                "longitude": -75.770782
+            },
+            "commonSiteName": "Sanderling Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.223442,
+                "longitude": -75.770782
+            },
+            "locationGUID": "3facf70a-310e-4562-92c0-ed0047c3c3c4",
+            "maxPowerKw": 8,
+            "name": "Sanderling Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

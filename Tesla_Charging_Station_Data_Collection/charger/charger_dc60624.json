@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Krakow",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31",
+                "postalExt": "052",
+                "state": null,
+                "street": "Starowislna",
+                "streetNumber": "91"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.051056,
+                "longitude": 19.95106
+            },
+            "commonSiteName": "INX Design Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.051056,
+                "longitude": 19.95106
+            },
+            "locationGUID": "d143d5f5-fa5c-481d-aa5d-b38e9c6bf9df",
+            "maxPowerKw": 22,
+            "name": "INX Design Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

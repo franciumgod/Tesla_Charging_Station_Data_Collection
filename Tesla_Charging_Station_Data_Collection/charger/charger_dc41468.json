@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Quebec City",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G1K 7X4",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Couronne St",
+                "streetNumber": "395"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.814631,
+                "longitude": -71.224206
+            },
+            "commonSiteName": "Hotel PUR, Quebec, a Tribute Portfolio Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.814631,
+                "longitude": -71.224206
+            },
+            "locationGUID": "2e86f9b8-c1cb-444e-8b9a-38d4fbc01619",
+            "maxPowerKw": 19,
+            "name": "Hotel PUR, Quebec, a Tribute Portfolio Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

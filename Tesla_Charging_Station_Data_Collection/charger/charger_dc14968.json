@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Healdsburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95405",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Westside Rd",
+                "streetNumber": "7227"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.520826,
+                "longitude": -122.869841
+            },
+            "commonSiteName": "Williams Selyem Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.520826,
+                "longitude": -122.869841
+            },
+            "locationGUID": "66352ace-8ced-4a31-9c0e-d14410a9eb29",
+            "maxPowerKw": 10,
+            "name": "Williams Selyem Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

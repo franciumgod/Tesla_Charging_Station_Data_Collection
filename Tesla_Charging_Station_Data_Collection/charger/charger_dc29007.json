@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Berlin",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10785",
+                "postalExt": null,
+                "state": null,
+                "street": "Potsdamer Platz",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.510243,
+                "longitude": 13.375402
+            },
+            "commonSiteName": "The Ritz-Carlton, Berlin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.510243,
+                "longitude": 13.375402
+            },
+            "locationGUID": "1f6c8c61-398d-4476-b7e5-44e529b9a441",
+            "maxPowerKw": 11,
+            "name": "The Ritz-Carlton, Berlin",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

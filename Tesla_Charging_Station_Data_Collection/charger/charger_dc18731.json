@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Riviere-du-Loup",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G5R 1E2",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Fraser",
+                "streetNumber": "171"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.828752,
+                "longitude": -69.553042
+            },
+            "commonSiteName": "Hotel Levesque",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.828752,
+                "longitude": -69.553042
+            },
+            "locationGUID": "6182c019-d060-4890-8b88-fd7d8fd086ca",
+            "maxPowerKw": 16,
+            "name": "Hotel Levesque",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

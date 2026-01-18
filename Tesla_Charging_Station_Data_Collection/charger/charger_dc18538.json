@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64000",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Centro",
+                "streetNumber": "Avenida Presidente Benito Juarez Oriente 1102"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.665314,
+                "longitude": -100.317098
+            },
+            "commonSiteName": "Fiesta Americana Monterrey Pabell├│n",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.665314,
+                "longitude": -100.317098
+            },
+            "locationGUID": "9aceb395-a002-4e4c-903d-1d635b1230b8",
+            "maxPowerKw": 18,
+            "name": "Fiesta Americana Monterrey Pabellon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

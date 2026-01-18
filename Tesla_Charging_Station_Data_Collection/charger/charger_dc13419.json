@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Staten Island",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10307",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Ellis St",
+                "streetNumber": "399"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.513465,
+                "longitude": -74.251418
+            },
+            "commonSiteName": "Angelina's Ristorante",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.513465,
+                "longitude": -74.251418
+            },
+            "locationGUID": "ea1a2a7c-980e-4339-af55-4f468ac6c821",
+            "maxPowerKw": 16,
+            "name": "Angelina's Ristorante",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

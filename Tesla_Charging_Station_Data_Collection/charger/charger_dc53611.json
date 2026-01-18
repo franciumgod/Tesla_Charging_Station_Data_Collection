@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Merida",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97370",
+                "postalExt": null,
+                "state": "YUC",
+                "street": "Hacienda Teya",
+                "streetNumber": "Carretera Merida Peto suarez km 12.5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.937087,
+                "longitude": -89.521703
+            },
+            "commonSiteName": "Hacienda Teya",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.937087,
+                "longitude": -89.521703
+            },
+            "locationGUID": "29469d76-0c38-4e66-8aba-e0c96827690a",
+            "maxPowerKw": 16,
+            "name": "Hacienda Teya",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Merida"
+        },
+        "success": true
+    }
+}

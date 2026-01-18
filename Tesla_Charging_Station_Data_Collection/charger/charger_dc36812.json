@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reken",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48734",
+                "postalExt": null,
+                "state": null,
+                "street": "Werenzostr.",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.83733,
+                "longitude": 7.05318
+            },
+            "commonSiteName": "Berghotel Hohe Mark",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.83733,
+                "longitude": 7.05318
+            },
+            "locationGUID": "8ac6ebd6-5f51-436b-83ee-ed0bae557c23",
+            "maxPowerKw": 22,
+            "name": "Berghotel Hohe Mark",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

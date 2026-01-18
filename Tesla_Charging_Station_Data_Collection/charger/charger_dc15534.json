@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Griffith",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "46319",
+                "postalExt": null,
+                "state": "IN",
+                "street": "E Main St.",
+                "streetNumber": "121"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.52264,
+                "longitude": -87.426878
+            },
+            "commonSiteName": "New Oberpfalz Brewing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.52264,
+                "longitude": -87.426878
+            },
+            "locationGUID": "220108d6-e65e-40fd-87c8-85f1bf7c704d",
+            "maxPowerKw": 16,
+            "name": "New Oberpfalz Brewing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

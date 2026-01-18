@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89109",
+                "postalExt": null,
+                "state": "NV",
+                "street": "E Harmon Ave",
+                "streetNumber": "80"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.108345,
+                "longitude": -115.168798
+            },
+            "commonSiteName": "Elara by Hilton Grand Vacations",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.108345,
+                "longitude": -115.168798
+            },
+            "locationGUID": "07802623-0299-4104-a1d5-801be7cc140e",
+            "maxPowerKw": 8,
+            "name": "Elara by Hilton Grand Vacations",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

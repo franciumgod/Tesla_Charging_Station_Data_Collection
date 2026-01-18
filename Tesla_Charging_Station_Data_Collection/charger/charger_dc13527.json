@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Los Angeles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90048",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Beverly Blvd",
+                "streetNumber": "8435"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.076247,
+                "longitude": -118.374499
+            },
+            "commonSiteName": "Elan Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.076247,
+                "longitude": -118.374499
+            },
+            "locationGUID": "fb62c097-d554-409f-8713-9dec137d30da",
+            "maxPowerKw": 8,
+            "name": "Elan Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vail",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81657",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Lionshead Pl",
+                "streetNumber": "675"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.6433049,
+                "longitude": -106.3882985
+            },
+            "commonSiteName": "The Arrabelle at Vail Square",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.6433049,
+                "longitude": -106.3882985
+            },
+            "locationGUID": "53859a42-95c4-463b-97d1-3aea8642aa11",
+            "maxPowerKw": 13,
+            "name": "The Arrabelle at Vail Square",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

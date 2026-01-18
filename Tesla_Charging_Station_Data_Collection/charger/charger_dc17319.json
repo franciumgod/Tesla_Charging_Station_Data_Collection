@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rockhampton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4700",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Quay St",
+                "streetNumber": "164"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -23.376426,
+                "longitude": 150.513458
+            },
+            "commonSiteName": "Rockhampton Car Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -23.376426,
+                "longitude": 150.513458
+            },
+            "locationGUID": "7689deb6-2d6f-4b28-8b2d-7335ae2a6a3a",
+            "maxPowerKw": 22,
+            "name": "Rockhampton Car Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

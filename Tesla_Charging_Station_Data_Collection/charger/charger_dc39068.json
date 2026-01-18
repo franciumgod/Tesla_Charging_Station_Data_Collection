@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H3H 1R3",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boul Rene-Levesque O",
+                "streetNumber": "1740"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.492483,
+                "longitude": -73.576196
+            },
+            "commonSiteName": "Le Nouvel Hotel and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.492483,
+                "longitude": -73.576196
+            },
+            "locationGUID": "001740d6-ea99-46bd-b28d-db1a1984f595",
+            "maxPowerKw": 11,
+            "name": "Le Nouvel Hotel and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

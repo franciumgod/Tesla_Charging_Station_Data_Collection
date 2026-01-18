@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Honiton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "EX14 3AD",
+                "postalExt": null,
+                "state": null,
+                "street": "The Pig at Combe, Gittisham",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.77470371,
+                "longitude": -3.2176433
+            },
+            "commonSiteName": "THE PIG at Combe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.77470371,
+                "longitude": -3.2176433
+            },
+            "locationGUID": "a3c13a0c-1188-4670-bdb4-405b5a6c9951",
+            "maxPowerKw": 22,
+            "name": "THE PIG at Combe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

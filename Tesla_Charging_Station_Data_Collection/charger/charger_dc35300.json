@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sarzeau",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "56370",
+                "postalExt": null,
+                "state": null,
+                "street": "Lieu dit kerbot",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.536543,
+                "longitude": -2.73858
+            },
+            "commonSiteName": "Le Manoir de Kerbot",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.536543,
+                "longitude": -2.73858
+            },
+            "locationGUID": "4d2367e4-42b6-4e29-88ff-6a013d21d5ab",
+            "maxPowerKw": 14,
+            "name": "Le Manoir de Kerbot",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

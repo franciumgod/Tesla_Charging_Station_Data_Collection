@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sonoma",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95476",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Arnold Dr",
+                "streetNumber": "28700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.174307,
+                "longitude": -122.451274
+            },
+            "commonSiteName": "Ram's Gate Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.174307,
+                "longitude": -122.451274
+            },
+            "locationGUID": "b8f27e5b-4284-45d3-8a37-5edc474da058",
+            "maxPowerKw": 13,
+            "name": "Ram's Gate Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

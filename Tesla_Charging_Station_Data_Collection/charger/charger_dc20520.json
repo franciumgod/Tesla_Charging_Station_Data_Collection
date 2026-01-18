@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Staples",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "56479",
+                "postalExt": null,
+                "state": "MN",
+                "street": "2nd Ave NE",
+                "streetNumber": "1212"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.355184,
+                "longitude": -94.782643
+            },
+            "commonSiteName": "Timberlake Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.355184,
+                "longitude": -94.782643
+            },
+            "locationGUID": "0d25f9d6-2ad7-4106-9d2c-8e3af6d79d3e",
+            "maxPowerKw": 16,
+            "name": "Timberlake Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

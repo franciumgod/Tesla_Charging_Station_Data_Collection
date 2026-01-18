@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5R 1C2",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Yorkville Ave",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.670651,
+                "longitude": -79.39394
+            },
+            "commonSiteName": "The Hazelton Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.670651,
+                "longitude": -79.39394
+            },
+            "locationGUID": "ae426b49-5290-4e0e-a809-2c8f5183473c",
+            "maxPowerKw": 8,
+            "name": "The Hazelton Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

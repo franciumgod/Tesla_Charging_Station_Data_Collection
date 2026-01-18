@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Edmonton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T5J 1C9",
+                "postalExt": null,
+                "state": "AB",
+                "street": "105 St NW",
+                "streetNumber": "10155"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.5421516,
+                "longitude": -113.5008612
+            },
+            "commonSiteName": "Coast Edmonton Plaza Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.5421516,
+                "longitude": -113.5008612
+            },
+            "locationGUID": "b285c0bc-b2bc-4059-ba29-7f7eb0682141",
+            "maxPowerKw": 16,
+            "name": "Coast Edmonton Plaza Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mijas",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29602",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "CN-340",
+                "streetNumber": "KM 210"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.548481,
+                "longitude": -4.632161
+            },
+            "commonSiteName": "El Corte Ingles Costa Mijas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.548481,
+                "longitude": -4.632161
+            },
+            "locationGUID": "43e57979-1169-437a-889e-89dba27203cf",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Costa Mijas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

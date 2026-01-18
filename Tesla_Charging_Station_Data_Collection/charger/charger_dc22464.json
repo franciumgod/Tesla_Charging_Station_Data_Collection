@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bilbao",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48001",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Gran Via",
+                "streetNumber": "7-9, 1a Planta"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.260989,
+                "longitude": -2.929411
+            },
+            "commonSiteName": "El Corte Ingles Bilbao",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.260989,
+                "longitude": -2.929411
+            },
+            "locationGUID": "72f1516f-fecc-49df-8b92-1a2a34601368",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Bilbao",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

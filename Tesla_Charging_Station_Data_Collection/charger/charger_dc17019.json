@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Quebec CIty",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G2G 2B5",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Autoroute Duplessis",
+                "streetNumber": "1240"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.787165,
+                "longitude": -71.353434
+            },
+            "commonSiteName": "Archibald Ste Foy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.787165,
+                "longitude": -71.353434
+            },
+            "locationGUID": "4db29fd7-77c2-405a-9806-3a8fcb8d2833",
+            "maxPowerKw": 8,
+            "name": "Archibald Ste Foy",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

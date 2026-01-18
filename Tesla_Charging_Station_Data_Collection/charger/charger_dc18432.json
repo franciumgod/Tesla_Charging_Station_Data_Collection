@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Espoo",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2860",
+                "postalExt": null,
+                "state": "Uusimaa",
+                "street": "Naruportintie",
+                "streetNumber": "68"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.2797,
+                "longitude": 24.502
+            },
+            "commonSiteName": "Hotelli Nuuksio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.2797,
+                "longitude": 24.502
+            },
+            "locationGUID": "3aff0fd5-47a1-4711-aa98-5139ad64dee3",
+            "maxPowerKw": 17,
+            "name": "Hotelli Nuuksio",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St-Mathieu de Beloeil",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J3G. 0C9",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue de l'aeroport",
+                "streetNumber": "2025"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.586509,
+                "longitude": -73.234393
+            },
+            "commonSiteName": "Restaurant Aeropaul",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.586509,
+                "longitude": -73.234393
+            },
+            "locationGUID": "9a0d34d4-b9ab-4ed1-a213-7cb37552169e",
+            "maxPowerKw": 16,
+            "name": "Restaurant Aeropaul",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

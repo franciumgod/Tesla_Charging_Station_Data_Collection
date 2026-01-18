@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Port Carling",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "P0B 1J0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Medora St",
+                "streetNumber": "167"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.111542,
+                "longitude": -79.588614
+            },
+            "commonSiteName": "Muskoka Modern",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.111542,
+                "longitude": -79.588614
+            },
+            "locationGUID": "620ffed4-1b74-402b-b447-b81290be9b18",
+            "maxPowerKw": 16,
+            "name": "Muskoka Modern",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

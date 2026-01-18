@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coyoacan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "4700",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Col. Pedregal de Carrasco",
+                "streetNumber": "Periferico Sur #5530"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.302242,
+                "longitude": -99.165809
+            },
+            "commonSiteName": "Fiesta Inn Periferico Sur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.302242,
+                "longitude": -99.165809
+            },
+            "locationGUID": "225cc5f1-895d-499b-8e5b-86898f47bb31",
+            "maxPowerKw": 14,
+            "name": "Fiesta Inn Periferico Sur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

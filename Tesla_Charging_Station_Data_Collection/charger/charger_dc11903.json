@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Trois-Rivi├¿res",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G9A 2E7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue des Volontaires",
+                "streetNumber": "519"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.343075,
+                "longitude": -72.545348
+            },
+            "commonSiteName": "Station Roulez Electrique",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.343075,
+                "longitude": -72.545348
+            },
+            "locationGUID": "a272f85b-1674-46b8-bf8e-b61473500bb8",
+            "maxPowerKw": 16,
+            "name": "Station Roulez Electrique",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

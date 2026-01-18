@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pompei",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "80045",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Villa dei Misteri",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.749169,
+                "longitude": 14.480743
+            },
+            "commonSiteName": "Parking Zeus Pompei",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.749169,
+                "longitude": 14.480743
+            },
+            "locationGUID": "85a1d155-3d68-46a5-a01a-88d5eb848f99",
+            "maxPowerKw": 22,
+            "name": "Parking Zeus Pompei",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

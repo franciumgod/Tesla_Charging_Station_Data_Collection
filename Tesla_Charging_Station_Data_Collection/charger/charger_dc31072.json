@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lisieux",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "14100",
+                "postalExt": null,
+                "state": null,
+                "street": "Boulevard Sainte Anne",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.143413,
+                "longitude": 0.22799
+            },
+            "commonSiteName": "Le Grand Hôtel de l'Espérance",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.143413,
+                "longitude": 0.22799
+            },
+            "locationGUID": "bd057712-1e2a-4be7-8841-dc4190a2974d",
+            "maxPowerKw": 14,
+            "name": "Le Grand Hôtel de l'Espérance",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

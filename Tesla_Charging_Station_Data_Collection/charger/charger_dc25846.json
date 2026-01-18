@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint Amand Montrond",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18200",
+                "postalExt": null,
+                "state": null,
+                "street": "route de Bourges",
+                "streetNumber": "215"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.736634,
+                "longitude": 2.488602
+            },
+            "commonSiteName": "Hôtel Restaurant Le Noirlac",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.736634,
+                "longitude": 2.488602
+            },
+            "locationGUID": "71d2ec8e-f468-4375-9068-c135019858bf",
+            "maxPowerKw": 11,
+            "name": "Hôtel Restaurant Le Noirlac",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "07:00",
+                        "periodEnd": "23:59",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Istanbul",
+                "country": "Turkey",
+                "countryCode": "TR",
+                "district": "Ümraniye",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "34770",
+                "postalExt": null,
+                "state": "Umraniye",
+                "street": "Fatih Sultan Mehmet",
+                "streetNumber": "Balkan Cad."
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.0933346624136098,
+                            0.15045544733044733,
+                            0.27006392045454547,
+                            0.43060497143963594,
+                            0.5956427284352477,
+                            0.7350939955106622,
+                            0.8328598484848486,
+                            0.8208927510398099,
+                            0.7727693602693602,
+                            0.7580492424242424,
+                            0.7264130994410121,
+                            0.7102705237470863,
+                            0.7310606060606061,
+                            0.7763240200166805,
+                            0.771780303030303,
+                            0.6329319571865444,
+                            0.4134732172266139,
+                            0.22244990892531874,
+                            0.13068181818181818,
+                            0.10164141414141416,
+                            0.08712121212121215
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.08939393939393941,
+                            0.08939393939393941,
+                            0.08939393939393941,
+                            0.08939393939393941,
+                            0.18571823482106956,
+                            0.30456565656565654,
+                            0.44813762626262627,
+                            0.5150701638321447,
+                            0.6307542002802069,
+                            0.7665719696969697,
+                            0.7864297335773845,
+                            0.7377422587525744,
+                            0.7069506115135935,
+                            0.6908028141469038,
+                            0.6532762055156469,
+                            0.6459982409850483,
+                            0.7178030303030303,
+                            0.7623106060606061,
+                            0.5704954843191743,
+                            0.3672138047138047,
+                            0.1811261655011655,
+                            0.13249982132647226,
+                            0.08901515151515155,
+                            0.0885416666666667
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.1298987470862471,
+                            0.2035764622973925,
+                            0.3811553030303031,
+                            0.5516952309985097,
+                            0.6880229534147444,
+                            0.7787072856221793,
+                            0.8536931818181818,
+                            0.8833015007367545,
+                            0.9007786195286196,
+                            0.8986742424242423,
+                            0.8254562672176309,
+                            0.7335815047021945,
+                            0.6890857984607984,
+                            0.65625,
+                            0.5458312690942119,
+                            0.38519422412039855,
+                            0.2263644094001237,
+                            0.14026580459770116,
+                            0.08712121212121215,
+                            0.08712121212121215
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.11085390946502058,
+                            0.18452888257575756,
+                            0.3584066548205892,
+                            0.5516288663027794,
+                            0.7331321953156015,
+                            0.8379731616506361,
+                            0.8950447797816219,
+                            0.9292078392621871,
+                            0.930871212121212,
+                            0.9000344352617079,
+                            0.8643939393939393,
+                            0.8165495955725842,
+                            0.7472386719305734,
+                            0.6953716088566463,
+                            0.5945075757575757,
+                            0.43535946715476914,
+                            0.2398650166923472,
+                            0.15645320991065673,
+                            0.09622747747747748,
+                            0.08939393939393941
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.08276515151515154,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.0933346624136098,
+                            0.13115530303030304,
+                            0.18084848484848487,
+                            0.2727902485445589,
+                            0.37344762028683787,
+                            0.5216316053092912,
+                            0.6730814134495642,
+                            0.7989204545454546,
+                            0.8139204545454546,
+                            0.7467108585858585,
+                            0.6609599936371588,
+                            0.6340014730639731,
+                            0.6491477272727273,
+                            0.6844310249087736,
+                            0.665246212121212,
+                            0.5616893741075677,
+                            0.3951109028428616,
+                            0.24150768001112036,
+                            0.1393939393939394,
+                            0.08712121212121215,
+                            0.08712121212121215
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.08760477111540944,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.08712121212121215,
+                            0.1393939393939394,
+                            0.25123188049324413,
+                            0.4177448248407643,
+                            0.5586828032648465,
+                            0.6280378683529511,
+                            0.6895986895986895,
+                            0.71875,
+                            0.6942567567567567,
+                            0.6586174242424243,
+                            0.6430002504382669,
+                            0.6429036458333333,
+                            0.609375,
+                            0.5813802083333334,
+                            0.5625,
+                            0.50625,
+                            0.36217948717948717,
+                            0.201171875,
+                            0.1244791666666667,
+                            0.06250000000000003,
+                            0.06360677083333335
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.06562500000000003,
+                            0.0666666666666667,
+                            0.0666666666666667,
+                            0.07777777777777779,
+                            0.125,
+                            0.23079710144927534,
+                            0.3399305555555555,
+                            0.4424242424242425,
+                            0.545020325203252,
+                            0.6571705426356589,
+                            0.7282866910017961,
+                            0.7363636363636363,
+                            0.6763224984066285,
+                            0.6202219251336899,
+                            0.6068181818181819,
+                            0.6113067744418783,
+                            0.636947853824284,
+                            0.6484848484848484,
+                            0.5542836835170931,
+                            0.3799270482603815,
+                            0.20535475904418637,
+                            0.11337285902503294,
+                            0.07518286311389762,
+                            0.07492424242424245
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11000533,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 440706,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "10800s"
+            },
+            "centroid": {
+                "latitude": 41.026446,
+                "longitude": 29.127649
+            },
+            "commonSiteName": "Buyaka AVM",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 9.4,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 10,
+                    "rateTier2": 20,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 11.7,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 10,
+                    "rateTier2": 20,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 41.026708,
+                "longitude": 29.128068
+            },
+            "locationGUID": "8395f200-8ee4-42e5-abe0-55040c6ac060",
+            "maxPowerKw": 250,
+            "name": "Ümraniye İstanbul, Türkiye",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "Europe/Istanbul"
+        },
+        "success": true
+    }
+}

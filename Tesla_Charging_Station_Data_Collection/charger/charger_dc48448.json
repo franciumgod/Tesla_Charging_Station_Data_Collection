@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Al A'amal St",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.18599817,
+                "longitude": 55.26384745
+            },
+            "commonSiteName": "The Oberoi Dubai",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.18599817,
+                "longitude": 55.26384745
+            },
+            "locationGUID": "f2e61193-1bcc-45e2-a878-ba26a50ca34b",
+            "maxPowerKw": 22,
+            "name": "The Oberoi Dubai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

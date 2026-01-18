@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Matera",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "75100",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Germania",
+                "streetNumber": "10/0"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.719988,
+                "longitude": 16.580736
+            },
+            "commonSiteName": "MH Matera Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.719988,
+                "longitude": 16.580736
+            },
+            "locationGUID": "2b9dae33-2827-4dd0-8a41-1664780132f1",
+            "maxPowerKw": 11,
+            "name": "MH Matera Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

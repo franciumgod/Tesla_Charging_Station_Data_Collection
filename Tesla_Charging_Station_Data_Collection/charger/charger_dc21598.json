@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sarasota",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34236",
+                "postalExt": null,
+                "state": "FL",
+                "street": "John Ringling Blvd",
+                "streetNumber": "1100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.322202,
+                "longitude": -82.568736
+            },
+            "commonSiteName": "Sarasota Yacht Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.322202,
+                "longitude": -82.568736
+            },
+            "locationGUID": "71f26e9b-9e07-4415-aff5-f5142ffc9950",
+            "maxPowerKw": 13,
+            "name": "Sarasota Yacht Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

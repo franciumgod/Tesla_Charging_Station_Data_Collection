@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saltillo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25280",
+                "postalExt": null,
+                "state": "Coahuila",
+                "street": "Col 16",
+                "streetNumber": "Perif. Luis Echeverr├¡a 1630"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.44469,
+                "longitude": -100.985428
+            },
+            "commonSiteName": "City Express Saltillo Norte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.44469,
+                "longitude": -100.985428
+            },
+            "locationGUID": "d07674c3-6098-415d-91b6-d26fd5d6513a",
+            "maxPowerKw": 18,
+            "name": "City Express Saltillo Norte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

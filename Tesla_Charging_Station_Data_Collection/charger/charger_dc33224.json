@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Côte-d'Aime",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73210",
+                "postalExt": null,
+                "state": null,
+                "street": "Chemin de l'Épine",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.574789,
+                "longitude": 6.67722
+            },
+            "commonSiteName": "Chalet M la Plagne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.574789,
+                "longitude": 6.67722
+            },
+            "locationGUID": "f6036766-100e-40b0-a7ea-c3e83c7c40bd",
+            "maxPowerKw": 17,
+            "name": "Chalet M la Plagne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

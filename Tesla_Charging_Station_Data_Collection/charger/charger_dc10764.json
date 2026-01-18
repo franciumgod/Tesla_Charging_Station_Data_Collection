@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28001",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle Velazquez",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.422137,
+                "longitude": -3.684316
+            },
+            "commonSiteName": "Hotel Wellington Madrid",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.422137,
+                "longitude": -3.684316
+            },
+            "locationGUID": "99fd1306-23a1-4088-93f8-005c1832d140",
+            "maxPowerKw": 22,
+            "name": "Hotel Wellington Madrid",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

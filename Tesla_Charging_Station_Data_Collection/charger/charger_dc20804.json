@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Champfèr",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7512",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Maistra",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.477494,
+                "longitude": 9.810836
+            },
+            "commonSiteName": "Hotel Giardino Mountain",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.477494,
+                "longitude": 9.810836
+            },
+            "locationGUID": "f3e47754-d61b-4b53-a850-1bb2699f783a",
+            "maxPowerKw": 9,
+            "name": "Hotel Giardino Mountain",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

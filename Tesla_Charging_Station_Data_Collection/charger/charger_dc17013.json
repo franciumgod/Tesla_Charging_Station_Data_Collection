@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lac-Etchemin",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0R 1S0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Route 277",
+                "streetNumber": "1415"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.395982,
+                "longitude": -70.495775
+            },
+            "commonSiteName": "Manoir Lac-Etchemin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.395982,
+                "longitude": -70.495775
+            },
+            "locationGUID": "e7acb6bb-c566-42f3-83e8-1ec6ad680243",
+            "maxPowerKw": 16,
+            "name": "Manoir Lac-Etchemin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

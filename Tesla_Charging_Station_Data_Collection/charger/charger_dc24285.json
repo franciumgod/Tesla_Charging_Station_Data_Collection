@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hilton Head Island",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "29928",
+                "postalExt": null,
+                "state": "SC",
+                "street": "S Forest Beach Dr",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.137083,
+                "longitude": -80.762091
+            },
+            "commonSiteName": "Marriott's Grande Ocean",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.137083,
+                "longitude": -80.762091
+            },
+            "locationGUID": "bda2ab1e-be3f-42a3-8e01-c743a283060d",
+            "maxPowerKw": 8,
+            "name": "Marriott's Grande Ocean",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

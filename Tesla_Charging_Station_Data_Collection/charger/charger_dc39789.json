@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Prague",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11000",
+                "postalExt": null,
+                "state": null,
+                "street": "V Celnici",
+                "streetNumber": "1028/10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.0882279,
+                "longitude": 14.4311384
+            },
+            "commonSiteName": "Millennium - Prague Marriott Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.0882279,
+                "longitude": 14.4311384
+            },
+            "locationGUID": "2c0d349a-1111-474e-97b8-379d34d88de1",
+            "maxPowerKw": 22,
+            "name": "Millennium - Prague Marriott Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

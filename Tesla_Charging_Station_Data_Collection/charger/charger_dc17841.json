@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Esterel",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0T 1E0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boul Fridolin Simard",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.036299,
+                "longitude": -74.027193
+            },
+            "commonSiteName": "Esterel Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.036299,
+                "longitude": -74.027193
+            },
+            "locationGUID": "79f05ca0-6493-432f-bcc8-a4d4ec4580e8",
+            "maxPowerKw": 10,
+            "name": "Esterel Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

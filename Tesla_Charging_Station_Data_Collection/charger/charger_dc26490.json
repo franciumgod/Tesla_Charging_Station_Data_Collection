@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mirabel",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J7J 0L6",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Charles",
+                "streetNumber": "17605"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.695322,
+                "longitude": -73.934517
+            },
+            "commonSiteName": "S.Bourassa ( st-Janvier) Ltee",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.695322,
+                "longitude": -73.934517
+            },
+            "locationGUID": "a4c0f0f3-249d-44d2-b1ce-e0aab4ccb35e",
+            "maxPowerKw": 10,
+            "name": "S.Bourassa (Ste-Janvier)Ltee",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

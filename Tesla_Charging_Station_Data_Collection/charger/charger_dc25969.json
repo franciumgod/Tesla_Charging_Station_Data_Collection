@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arganda del Rey",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28500",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Av de Madrid",
+                "streetNumber": "105"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.309813,
+                "longitude": -3.481353
+            },
+            "commonSiteName": "B&B Hotel Madrid Arganda",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.309813,
+                "longitude": -3.481353
+            },
+            "locationGUID": "05a6a8fd-466b-44e7-bd43-f52b7737517c",
+            "maxPowerKw": 22,
+            "name": "B&B Ibis Hotel Madrid Arganda",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

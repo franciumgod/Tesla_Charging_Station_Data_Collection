@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brest",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29200",
+                "postalExt": null,
+                "state": null,
+                "street": "Boulevard Leon Blum",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.402056,
+                "longitude": -4.484322
+            },
+            "commonSiteName": "Logis Hôtel Center Brest",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.402056,
+                "longitude": -4.484322
+            },
+            "locationGUID": "42581d4f-7242-4f2e-8eb5-6c0d5a082e49",
+            "maxPowerKw": 14,
+            "name": "Logis Hôtel Center Brest",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

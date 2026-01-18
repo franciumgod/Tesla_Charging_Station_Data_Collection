@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Fe",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "5300",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Ave Real",
+                "streetNumber": "Juan Salvador Agraz 97"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.357907,
+                "longitude": -99.278161
+            },
+            "commonSiteName": "InterContinental Presidente Santa Fe Mexico",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.357907,
+                "longitude": -99.278161
+            },
+            "locationGUID": "9eba5dee-64f9-4ec9-a264-06f11031612a",
+            "maxPowerKw": 18,
+            "name": "InterContinental Presidente Santa Fe Mexico",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

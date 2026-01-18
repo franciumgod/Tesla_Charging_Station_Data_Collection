@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Maple Grove",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55369",
+                "postalExt": null,
+                "state": "MN",
+                "street": "Fountains Wy",
+                "streetNumber": "11871"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.0923251,
+                "longitude": -93.42977056
+            },
+            "commonSiteName": "Courtyard by Marriott Maple Grove / Arbor Lakes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.0923251,
+                "longitude": -93.42977056
+            },
+            "locationGUID": "dfc2578c-7f3b-462a-90a6-fd68ce272f8d",
+            "maxPowerKw": 16,
+            "name": "Courtyard by Marriott Maple Grove / Arbor Lakes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

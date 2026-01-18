@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "The Palm Jumeirah",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.112116,
+                "longitude": 55.138098
+            },
+            "commonSiteName": "Dukes Dubai",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.112116,
+                "longitude": 55.138098
+            },
+            "locationGUID": "aef6256f-fef4-4986-8958-0f4a5699af5d",
+            "maxPowerKw": 13,
+            "name": "Dukes Dubai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

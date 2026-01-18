@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Nicolas de los Garza",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66417",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Anahuac Sendero",
+                "streetNumber": "Av Sendero Divisorio"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.767897,
+                "longitude": -100.27809
+            },
+            "commonSiteName": "Paseo Almenares",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.767897,
+                "longitude": -100.27809
+            },
+            "locationGUID": "3cc03310-5948-40ed-8d1d-76d278bb826e",
+            "maxPowerKw": 18,
+            "name": "Paseo Almenares",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

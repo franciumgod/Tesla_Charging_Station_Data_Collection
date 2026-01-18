@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cd Juarez",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32349",
+                "postalExt": null,
+                "state": "CHH",
+                "street": "Sicomoros",
+                "streetNumber": "Av. Paseo Triunfo de la Republica 5854"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.738139,
+                "longitude": -106.434018
+            },
+            "commonSiteName": "Plaza Cantabria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.738139,
+                "longitude": -106.434018
+            },
+            "locationGUID": "25d76c81-a4fa-4816-84b6-e0f9f506049a",
+            "maxPowerKw": 18,
+            "name": "Plaza Cantabria",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Ciudad_Juarez"
+        },
+        "success": true
+    }
+}

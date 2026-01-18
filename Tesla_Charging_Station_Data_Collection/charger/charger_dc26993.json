@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Daylesford",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3460",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "King St",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.349104,
+                "longitude": 144.141044
+            },
+            "commonSiteName": "Lake House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.349104,
+                "longitude": 144.141044
+            },
+            "locationGUID": "5b1a9182-13af-481a-98c6-df447f1a3fd2",
+            "maxPowerKw": 22,
+            "name": "Lake House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

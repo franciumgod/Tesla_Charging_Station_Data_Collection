@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mollymook",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2539",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Mitchell Parade",
+                "streetNumber": "191"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.3227216,
+                "longitude": 150.4820146
+            },
+            "commonSiteName": "Bannisters by the Sea",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.3227216,
+                "longitude": 150.4820146
+            },
+            "locationGUID": "7e2aaf46-2f70-4b21-b8a8-103a858873dd",
+            "maxPowerKw": 22,
+            "name": "Bannisters by the Sea",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

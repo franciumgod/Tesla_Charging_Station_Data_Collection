@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22765",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Abelardo L. Rodriguez",
+                "streetNumber": "Autopista Tijuana Ensenada KM 73"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.055835,
+                "longitude": -116.879736
+            },
+            "commonSiteName": "Marina Puerto Salina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.055835,
+                "longitude": -116.879736
+            },
+            "locationGUID": "cf7349ea-c9ce-44a7-8933-d876edd097c6",
+            "maxPowerKw": 18,
+            "name": "Marina Puerto Salina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10075",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 80th St",
+                "streetNumber": "530"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.771382,
+                "longitude": -73.948344
+            },
+            "commonSiteName": "iPark 530 E 80th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.771382,
+                "longitude": -73.948344
+            },
+            "locationGUID": "f23851e4-f0a6-4ebe-8da2-4563adaa5474",
+            "maxPowerKw": 8,
+            "name": "iPark 530 E 80th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

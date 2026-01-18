@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Järfälla",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17746",
+                "postalExt": null,
+                "state": null,
+                "street": "Notarievägen 5",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.404918,
+                "longitude": 17.870738
+            },
+            "commonSiteName": "Welcome Hotel Barkarby",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.404918,
+                "longitude": 17.870738
+            },
+            "locationGUID": "2ee927f2-cfc5-4d5f-a56c-e5e7034cf06f",
+            "maxPowerKw": 11,
+            "name": "Welcome Hotel Barkarby",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

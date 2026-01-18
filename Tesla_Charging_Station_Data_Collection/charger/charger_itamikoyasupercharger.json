@@ -1,0 +1,336 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "08:30",
+                        "periodEnd": "23:00",
+                        "weekday": 7
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Itami",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "664",
+                "postalExt": "0027",
+                "state": "Hyogo",
+                "street": "Ikejiri",
+                "streetNumber": "4-1-1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0515625,
+                            0.0859375,
+                            0.09375,
+                            0.103515625,
+                            0.103515625,
+                            0.125,
+                            0.140625,
+                            0.18359375,
+                            0.1953125,
+                            0.2099609375,
+                            0.1875,
+                            0.16629464285714285,
+                            0.134375,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.078125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.125,
+                            0.1265625,
+                            0.13541666666666666,
+                            0.1640625,
+                            0.15625,
+                            0.15625,
+                            0.171875,
+                            0.1796875,
+                            0.19921875,
+                            0.1796875,
+                            0.158203125,
+                            0.09375,
+                            0.09375,
+                            0.05859375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.046875
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.12611607142857142,
+                            0.1796875,
+                            0.2222222222222222,
+                            0.20424107142857142,
+                            0.2667255704365079,
+                            0.2667410714285714,
+                            0.26804315476190477,
+                            0.1887175324675325,
+                            0.13469219924812031,
+                            0.1534269957983193,
+                            0.16183035714285715,
+                            0.17419467787114845,
+                            0.109375,
+                            0.075,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.0234375
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.05729166666666667,
+                            0.11830357142857142,
+                            0.21875,
+                            0.2734375,
+                            0.27840909090909094,
+                            0.234375,
+                            0.1875,
+                            0.1953125,
+                            0.1953125,
+                            0.177734375,
+                            0.140625,
+                            0.09375,
+                            0.05859375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.044270833333333336
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.025,
+                            0.07083333333333333,
+                            0.1285714285714286,
+                            0.15625,
+                            0.14107142857142857,
+                            0.1125,
+                            0.10125,
+                            0.17291666666666666,
+                            0.20625,
+                            0.18437499999999998,
+                            0.10750000000000001,
+                            0.1,
+                            0.11666666666666667,
+                            0.1,
+                            0.075,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.03875000000000001
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.07421875,
+                            0.125,
+                            0.1328125,
+                            0.15234375,
+                            0.15625,
+                            0.16536458333333331,
+                            0.1763392857142857,
+                            0.1875,
+                            0.19642857142857142,
+                            0.171875,
+                            0.13058035714285715,
+                            0.0625,
+                            0.0546875,
+                            0.046875,
+                            0.03125,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.046875
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.0703125,
+                            0.09375,
+                            0.11562499999999999,
+                            0.15625,
+                            0.171875,
+                            0.1796875,
+                            0.16964285714285715,
+                            0.1796875,
+                            0.16741071428571427,
+                            0.125,
+                            0.10468749999999999,
+                            0.07291666666666666,
+                            0.0546875,
+                            0.03125,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 8689,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 31650,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 34.785038,
+                "longitude": 135.383399
+            },
+            "commonSiteName": "AEONMALL Itami Koya",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 34.78556477,
+                "longitude": 135.38011586
+            },
+            "locationGUID": "12a567dd-5fd0-449f-8dd0-3c1610d5c49b",
+            "maxPowerKw": 250,
+            "name": "Itami Koya, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

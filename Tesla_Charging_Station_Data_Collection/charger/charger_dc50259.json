@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint Sauveur",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0R 1R3",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Avenue St Denis",
+                "streetNumber": "350"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.884942,
+                "longitude": -74.1522
+            },
+            "commonSiteName": "Sommet Saint-Sauveur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.884942,
+                "longitude": -74.1522
+            },
+            "locationGUID": "0c4eb460-8f5c-4c76-a5fe-a820ef2961cd",
+            "maxPowerKw": 11,
+            "name": "Sommet Saint-Sauveur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

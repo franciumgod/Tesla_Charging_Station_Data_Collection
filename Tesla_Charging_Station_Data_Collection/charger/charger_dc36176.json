@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Austin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78735",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Southwest Pkwy",
+                "streetNumber": "7415"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.2560759,
+                "longitude": -97.86972587
+            },
+            "commonSiteName": "Lantana Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.2560759,
+                "longitude": -97.86972587
+            },
+            "locationGUID": "12c6ea52-4a64-49e9-8025-319ea138b9e9",
+            "maxPowerKw": 16,
+            "name": "Lantana Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

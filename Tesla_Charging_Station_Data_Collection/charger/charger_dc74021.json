@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cardiff",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CF10 5SD",
+                "postalExt": null,
+                "state": null,
+                "street": "Havannah Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.46019762,
+                "longitude": -3.16797945
+            },
+            "commonSiteName": "voco St David's Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.46019762,
+                "longitude": -3.16797945
+            },
+            "locationGUID": "8c643f63-2055-4545-9f7c-2977d783514c",
+            "maxPowerKw": 7,
+            "name": "voco St David's Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

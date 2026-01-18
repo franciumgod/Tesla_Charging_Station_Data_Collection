@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chartres",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28000",
+                "postalExt": null,
+                "state": "Centre-Val de Loire",
+                "street": "Rue Gabriel Péri",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.444537,
+                "longitude": 1.480839
+            },
+            "commonSiteName": "Le grand Monarque",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.444537,
+                "longitude": 1.480839
+            },
+            "locationGUID": "3df0d719-ddd5-4ca8-89f7-032259f1d9da",
+            "maxPowerKw": 22,
+            "name": "Le grand Monarque",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

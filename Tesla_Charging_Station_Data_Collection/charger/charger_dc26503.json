@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28054",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle Calderilla",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.363669,
+                "longitude": -3.739337
+            },
+            "commonSiteName": "Centro Comercial Islazul",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.363669,
+                "longitude": -3.739337
+            },
+            "locationGUID": "5dd7aec6-aead-49b4-8c06-25093e1680fb",
+            "maxPowerKw": 11,
+            "name": "Centro Comercial Islazul",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

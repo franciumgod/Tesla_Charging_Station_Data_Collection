@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sebring",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33870",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Authority Ln",
+                "streetNumber": "128"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.455597,
+                "longitude": -81.346906
+            },
+            "commonSiteName": "Sebring Airport Authority",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.455597,
+                "longitude": -81.346906
+            },
+            "locationGUID": "a8b36f26-ae67-49f6-ab54-eed5ff71e023",
+            "maxPowerKw": 16,
+            "name": "Sebring Airport Authority",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

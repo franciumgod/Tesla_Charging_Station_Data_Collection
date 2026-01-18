@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Porrentruy",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2900",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue du jura",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.419953,
+                "longitude": 7.079007
+            },
+            "commonSiteName": "Le Terminus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.419953,
+                "longitude": 7.079007
+            },
+            "locationGUID": "e14db5c3-1783-4437-879f-cee58a35d230",
+            "maxPowerKw": 22,
+            "name": "Le Terminus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

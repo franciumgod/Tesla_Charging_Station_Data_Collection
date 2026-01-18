@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Flinders St",
+                "streetNumber": "Level 5, 114"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.816238,
+                "longitude": 144.970955
+            },
+            "commonSiteName": "GreenCo Parking - L5",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.816238,
+                "longitude": 144.970955
+            },
+            "locationGUID": "0c4f8fa5-db60-45c4-889f-98403fd83589",
+            "maxPowerKw": 6,
+            "name": "GreenCo Parking - L5",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

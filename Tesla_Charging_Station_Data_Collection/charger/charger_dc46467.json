@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Orem",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84097",
+                "postalExt": null,
+                "state": "UT",
+                "street": "E University Pkwy",
+                "streetNumber": "575"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.275977,
+                "longitude": -111.682038
+            },
+            "commonSiteName": "University Mall Shopping Center/University Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.275977,
+                "longitude": -111.682038
+            },
+            "locationGUID": "b849b372-2c34-4c8a-a5f5-dc4e07658dbb",
+            "maxPowerKw": 16,
+            "name": "University Mall Shopping Center/University Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

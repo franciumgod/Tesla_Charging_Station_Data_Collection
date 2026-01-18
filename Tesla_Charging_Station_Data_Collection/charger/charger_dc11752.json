@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M3J 2Z6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Steeprock Dr",
+                "streetNumber": "555"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.758632,
+                "longitude": -79.470124
+            },
+            "commonSiteName": "Johnvince Foods - North York",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.758632,
+                "longitude": -79.470124
+            },
+            "locationGUID": "23c32cd8-dd59-47b0-bfd2-49f9de9e66f6",
+            "maxPowerKw": 13,
+            "name": "Johnvince Foods - North York",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alvor",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8500",
+                "postalExt": "088",
+                "state": null,
+                "street": "Praia dos Três Irmãos",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.121463,
+                "longitude": -8.579748
+            },
+            "commonSiteName": "Pestana Alvor Praia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.121463,
+                "longitude": -8.579748
+            },
+            "locationGUID": "e5de27c1-c089-4205-83c2-a0f6092a17db",
+            "maxPowerKw": 22,
+            "name": "Pestana Alvor Praia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

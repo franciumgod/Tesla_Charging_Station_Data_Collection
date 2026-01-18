@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bidart",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "64210",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Berrua",
+                "streetNumber": "570"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.438279,
+                "longitude": -1.582064
+            },
+            "commonSiteName": "Camping Sunêlia Berrua",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.438279,
+                "longitude": -1.582064
+            },
+            "locationGUID": "eef72743-729d-4857-b572-3a05fccfabc5",
+            "maxPowerKw": 11,
+            "name": "Camping Sunêlia Berrua",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

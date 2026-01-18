@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Malbaie",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G5A 1X7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Richelieu",
+                "streetNumber": "181"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.621077,
+                "longitude": -70.145253
+            },
+            "commonSiteName": "Fairmont Le Manoir Richelieu",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.621077,
+                "longitude": -70.145253
+            },
+            "locationGUID": "077cd517-b814-4861-9320-aa51fd05e2c3",
+            "maxPowerKw": 8,
+            "name": "Fairmont Le Manoir Richelieu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

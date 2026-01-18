@@ -1,0 +1,335 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "11:00",
+                        "periodEnd": "21:00",
+                        "weekday": 7
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taipei",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "Zhongshan",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "10491",
+                "postalExt": null,
+                "state": "Taipei",
+                "street": "Lequn 3rd Rd",
+                "streetNumber": "No. 200 B2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.125,
+                            0.31770833333333337,
+                            0.5625,
+                            0.6145833333333334,
+                            0.5266927083333334,
+                            0.45833333333333337,
+                            0.4375,
+                            0.4401041666666667,
+                            0.45833333333333337,
+                            0.4809027777777778,
+                            0.46875000000000006,
+                            0.34375000000000006,
+                            0.19583333333333336,
+                            0.04166666666666667,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.04166666666666666,
+                            0.062499999999999986,
+                            0.07291666666666666
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.1875,
+                            0.31845238095238093,
+                            0.5104166666666667,
+                            0.5,
+                            0.40451388888888884,
+                            0.44791666666666663,
+                            0.45833333333333337,
+                            0.4456845238095238,
+                            0.38645833333333335,
+                            0.40625,
+                            0.32291666666666674,
+                            0.20000000000000004,
+                            0.02083333333333333,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.04166666666666666,
+                            0.02083333333333333,
+                            0.10416666666666666,
+                            0.24131944444444445,
+                            0.38541666666666663,
+                            0.4027777777777778,
+                            0.36458333333333337,
+                            0.47981770833333337,
+                            0.5208333333333334,
+                            0.47981770833333337,
+                            0.3864583333333333,
+                            0.40625,
+                            0.40625,
+                            0.2947916666666667,
+                            0.17939814814814814,
+                            0.02083333333333333,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.02083333333333333,
+                            0.031249999999999993,
+                            0.04166666666666666
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.031249999999999993,
+                            0.02083333333333333,
+                            0.08333333333333331,
+                            0.12916666666666665,
+                            0.19791666666666666,
+                            0.30492424242424243,
+                            0.39583333333333337,
+                            0.44791666666666663,
+                            0.43939393939393934,
+                            0.40625000000000006,
+                            0.362689393939394,
+                            0.30208333333333337,
+                            0.21093750000000003,
+                            0.11805555555555557,
+                            0.02083333333333333,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.062499999999999986,
+                            0.21496212121212122,
+                            0.33333333333333337,
+                            0.39109848484848486,
+                            0.4166666666666667,
+                            0.47916666666666674,
+                            0.42948717948717946,
+                            0.38333333333333336,
+                            0.44345238095238093,
+                            0.46875,
+                            0.33854166666666663,
+                            0.15773809523809523,
+                            0.059027777777777776,
+                            0.02083333333333333,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.10416666666666666,
+                            0.2767857142857143,
+                            0.45833333333333337,
+                            0.521577380952381,
+                            0.5104166666666667,
+                            0.5112179487179487,
+                            0.4375,
+                            0.4375,
+                            0.4166666666666667,
+                            0.41666666666666663,
+                            0.2833333333333333,
+                            0.15624999999999997,
+                            0.04166666666666666,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.016666666666666663,
+                            0.016666666666666663,
+                            0.16666666666666663,
+                            0.2760416666666667,
+                            0.4666666666666667,
+                            0.4911458333333334,
+                            0.4427777777777778,
+                            0.45208333333333334,
+                            0.47500000000000003,
+                            0.47291666666666665,
+                            0.425,
+                            0.3547619047619048,
+                            0.25666666666666665,
+                            0.14375000000000004,
+                            0.08333333333333334,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 9088,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 16621,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 25.082113,
+                "longitude": 121.556892
+            },
+            "commonSiteName": "Dazhi Noke",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 8,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 15,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 25.082608,
+                "longitude": 121.557316
+            },
+            "locationGUID": "fa18c336-6dda-4e77-8ade-607d0c2156cd",
+            "maxPowerKw": 250,
+            "name": "Taipei, Zhongshan - Dazhi Noke",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

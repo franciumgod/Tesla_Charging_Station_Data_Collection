@@ -1,0 +1,259 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Miami",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33133",
+                "postalExt": null,
+                "state": "FL",
+                "street": "SW 27th Ave",
+                "streetNumber": "3300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.09375,
+                            0.1875,
+                            0.1875,
+                            0.1875
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.22916666666666669,
+                            0.25
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.171875,
+                            0.1875,
+                            0.171875,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.22916666666666669,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.171875,
+                            0.25,
+                            0.28125,
+                            0.22916666666666669,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.171875,
+                            0.15625,
+                            0.1875,
+                            0.09375,
+                            0.22916666666666669,
+                            0.3125,
+                            0.3125,
+                            0.17708333333333334,
+                            0.125,
+                            0.125,
+                            0.15625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2025-07-20T00:00:00Z",
+                "siteId": {
+                    "id": 593,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 86,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "-28800s"
+            },
+            "centroid": {
+                "latitude": 25.730105,
+                "longitude": -80.237815
+            },
+            "commonSiteName": "The Ritz-Carlton Coconut Grove, Miami",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.730105,
+                "longitude": -80.237815
+            },
+            "locationGUID": "e2a0625b-7b78-41d4-86d5-2bd0a8a8fd3e",
+            "maxPowerKw": 8,
+            "name": "The Ritz-Carlton Coconut Grove, Miami",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

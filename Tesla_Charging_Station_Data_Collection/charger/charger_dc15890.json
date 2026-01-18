@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lake Crackenback",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2627",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Alpine Wy",
+                "streetNumber": "1650"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.445989,
+                "longitude": 148.451547
+            },
+            "commonSiteName": "Lake Crackenback Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.445989,
+                "longitude": 148.451547
+            },
+            "locationGUID": "d59c90f4-c43e-4ef2-98af-4e579b1a3540",
+            "maxPowerKw": 22,
+            "name": "Lake Crackenback Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

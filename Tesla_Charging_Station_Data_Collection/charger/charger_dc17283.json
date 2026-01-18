@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tuscaloosa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "35401",
+                "postalExt": null,
+                "state": "AL",
+                "street": "Greensboro Ave",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.213657,
+                "longitude": -87.571205
+            },
+            "commonSiteName": "Hotel Indigo Tuscaloosa Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.213657,
+                "longitude": -87.571205
+            },
+            "locationGUID": "f336c66e-c283-48e5-91b5-d07684109127",
+            "maxPowerKw": 8,
+            "name": "Hotel Indigo Tuscaloosa Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

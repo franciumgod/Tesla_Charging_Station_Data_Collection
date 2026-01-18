@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Jose",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95134",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Headquarters Dr",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.416498,
+                "longitude": -121.953018
+            },
+            "commonSiteName": "Hyatt House San Jose/Silicon Valley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.416498,
+                "longitude": -121.953018
+            },
+            "locationGUID": "9d36f80d-e41d-4271-b98a-d3827b387f0c",
+            "maxPowerKw": 16,
+            "name": "Hyatt House San Jose/Silicon Valley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

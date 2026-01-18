@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Shima",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "517",
+                "postalExt": "0403",
+                "state": "Mie",
+                "street": "Hamajimacho Hazako",
+                "streetNumber": "2165"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.294374,
+                "longitude": 136.796983
+            },
+            "commonSiteName": "アマネム",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.294374,
+                "longitude": 136.796983
+            },
+            "locationGUID": "942add6d-a058-4690-8003-4f144bb4d762",
+            "maxPowerKw": 8,
+            "name": "Amanemu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

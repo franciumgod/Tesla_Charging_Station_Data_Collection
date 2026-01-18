@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Near Forest Row",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "RH18 5JR",
+                "postalExt": null,
+                "state": "East Sussex",
+                "street": "Wych Cross",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.070971,
+                "longitude": 0.041044
+            },
+            "commonSiteName": "Ashdown Park Hotel & Country Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.070971,
+                "longitude": 0.041044
+            },
+            "locationGUID": "a553fb63-7b01-4738-ae3e-bf8ef2433bbd",
+            "maxPowerKw": 11,
+            "name": "Ashdown Park Hotel & Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

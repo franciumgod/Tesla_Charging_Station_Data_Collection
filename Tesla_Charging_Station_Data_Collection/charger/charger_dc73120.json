@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5T 2R1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Leonard Ave",
+                "streetNumber": "79"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.6542432,
+                "longitude": -79.40437484
+            },
+            "commonSiteName": "UHN - Toronto Western Hospital - Leonard Ave Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.6542432,
+                "longitude": -79.40437484
+            },
+            "locationGUID": "8435431c-1a5c-4497-b703-beb3d55ccd08",
+            "maxPowerKw": 16,
+            "name": "UHN - Toronto Western Hospital - Leonard Ave Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

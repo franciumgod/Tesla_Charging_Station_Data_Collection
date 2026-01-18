@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brampton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L6T 5T9",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Peel Centre Dr",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.714566,
+                "longitude": -79.724928
+            },
+            "commonSiteName": "Bramalea City Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.714566,
+                "longitude": -79.724928
+            },
+            "locationGUID": "aec27c22-950e-432a-81bb-101b7999c734",
+            "maxPowerKw": 13,
+            "name": "Bramalea City Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

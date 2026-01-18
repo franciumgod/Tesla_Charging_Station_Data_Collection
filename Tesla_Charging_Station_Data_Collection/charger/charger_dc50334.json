@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlottesville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22903",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Main St",
+                "streetNumber": "1309"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.033823,
+                "longitude": -78.498478
+            },
+            "commonSiteName": "Graduate Charlottesville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.033823,
+                "longitude": -78.498478
+            },
+            "locationGUID": "7d781ea8-59d7-4372-af36-6e173680384a",
+            "maxPowerKw": 16,
+            "name": "Graduate Charlottesville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

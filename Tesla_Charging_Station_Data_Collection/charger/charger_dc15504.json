@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Torrey",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84775",
+                "postalExt": null,
+                "state": "UT",
+                "street": "E State Rte 24",
+                "streetNumber": "955"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.299236,
+                "longitude": -111.400314
+            },
+            "commonSiteName": "Broken Spur Inn & Steakhouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.299236,
+                "longitude": -111.400314
+            },
+            "locationGUID": "b3f12652-3361-421a-8b96-ce980032f724",
+            "maxPowerKw": 16,
+            "name": "Broken Spur Inn & Steakhouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

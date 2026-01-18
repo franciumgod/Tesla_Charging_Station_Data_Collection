@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32899",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Kennedy Pkwy N",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.524415,
+                "longitude": -80.681485
+            },
+            "commonSiteName": "Kennedy Space Center Visitor Complex",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.524415,
+                "longitude": -80.681485
+            },
+            "locationGUID": "74caee32-f610-4591-a47b-b5f09c20f085",
+            "maxPowerKw": 8,
+            "name": "Kennedy Space Center Visitor Complex",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

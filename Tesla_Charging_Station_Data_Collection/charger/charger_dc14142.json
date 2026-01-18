@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bolvir",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17539",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Cami del Remei",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.420229,
+                "longitude": 1.891444
+            },
+            "commonSiteName": "Torre del Remei",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.420229,
+                "longitude": 1.891444
+            },
+            "locationGUID": "9c233345-0f38-46b8-a8f9-39c536b3bc04",
+            "maxPowerKw": 22,
+            "name": "Torre del Remei",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

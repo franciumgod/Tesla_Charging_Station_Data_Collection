@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10280",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Battery Pl",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.706965,
+                "longitude": -74.017971
+            },
+            "commonSiteName": "GGMC Parking Battery Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.706965,
+                "longitude": -74.017971
+            },
+            "locationGUID": "808d5a6f-717d-4d56-a0f3-052b9074e09d",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking Battery Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

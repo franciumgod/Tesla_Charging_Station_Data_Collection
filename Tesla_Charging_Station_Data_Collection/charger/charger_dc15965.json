@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Great Baddow",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CM2 8HR",
+                "postalExt": null,
+                "state": null,
+                "street": "West Hanningfield Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.70923,
+                "longitude": 0.50793
+            },
+            "commonSiteName": "Pontlands Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.70923,
+                "longitude": 0.50793
+            },
+            "locationGUID": "b9fd72c9-05e6-4ace-8b48-2b72eb6df60a",
+            "maxPowerKw": 22,
+            "name": "Pontlands Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

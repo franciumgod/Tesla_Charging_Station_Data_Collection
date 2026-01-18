@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "München",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "80805",
+                "postalExt": null,
+                "state": "Bayern",
+                "street": "Berliner Straße",
+                "streetNumber": "85"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.174613,
+                "longitude": 11.590184
+            },
+            "commonSiteName": "Steigenberger Hotel Muenchen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.174613,
+                "longitude": 11.590184
+            },
+            "locationGUID": "695519c3-3a4f-4338-b184-8ca698033a45",
+            "maxPowerKw": 22,
+            "name": "Steigenberger Hotel Muenchen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

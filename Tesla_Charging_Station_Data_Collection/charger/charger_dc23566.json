@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leukerbad",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3954",
+                "postalExt": null,
+                "state": null,
+                "street": "Tuftstrasse",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.380079,
+                "longitude": 7.630056
+            },
+            "commonSiteName": "Hotel Les Sources des Alpes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.380079,
+                "longitude": 7.630056
+            },
+            "locationGUID": "c1537fbc-07d7-4dbe-aa76-a1972914fd47",
+            "maxPowerKw": 6,
+            "name": "Hotel Les Sources des Alpes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

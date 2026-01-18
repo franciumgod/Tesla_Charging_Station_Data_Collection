@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 82nd St",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.77735,
+                "longitude": -73.958352
+            },
+            "commonSiteName": "GMC 111 E 82nd St",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.77735,
+                "longitude": -73.958352
+            },
+            "locationGUID": "f4be2a44-45c6-40df-b584-b9c86b89489e",
+            "maxPowerKw": 16,
+            "name": "GMC 111 E 82nd St",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

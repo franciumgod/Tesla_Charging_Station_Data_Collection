@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bloomington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "47408",
+                "postalExt": null,
+                "state": "IN",
+                "street": "N Grant St",
+                "streetNumber": "310"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.168901,
+                "longitude": -86.529371
+            },
+            "commonSiteName": "Grant Street Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.168901,
+                "longitude": -86.529371
+            },
+            "locationGUID": "955d62af-a581-408c-8be7-a87c3e6b1e3a",
+            "maxPowerKw": 16,
+            "name": "Grant Street Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Indiana/Indianapolis"
+        },
+        "success": true
+    }
+}

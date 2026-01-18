@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Linthal",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8783",
+                "postalExt": null,
+                "state": null,
+                "street": "Stachelbergstraße",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.92821,
+                "longitude": 9.001811
+            },
+            "commonSiteName": "Braunwald Standseilbahn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.92821,
+                "longitude": 9.001811
+            },
+            "locationGUID": "83413cec-8e39-4b91-84fc-f93a367ee311",
+            "maxPowerKw": 22,
+            "name": "Braunwald Standseilbahn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

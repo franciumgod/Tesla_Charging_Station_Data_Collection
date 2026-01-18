@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Healdsburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95448",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Dry Creek Rd",
+                "streetNumber": "1290"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.632637,
+                "longitude": -122.895148
+            },
+            "commonSiteName": "Comstock Wines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.632637,
+                "longitude": -122.895148
+            },
+            "locationGUID": "ca5c7bab-601c-4452-85a7-b34e98b44c8e",
+            "maxPowerKw": 10,
+            "name": "Comstock Wines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

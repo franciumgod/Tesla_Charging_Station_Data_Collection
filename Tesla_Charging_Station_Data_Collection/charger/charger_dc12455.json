@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phoenix",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85016",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E. Camelback",
+                "streetNumber": "2401"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.50862917,
+                "longitude": -112.02971441
+            },
+            "commonSiteName": "The Camby Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.50862917,
+                "longitude": -112.02971441
+            },
+            "locationGUID": "6ebb110b-b222-4398-97da-47504e3fede2",
+            "maxPowerKw": 10,
+            "name": "The Camby Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

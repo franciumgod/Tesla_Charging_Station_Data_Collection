@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Altavilla Vicentina",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "36077",
+                "postalExt": null,
+                "state": "Vicenza",
+                "street": "Via Travernelle",
+                "streetNumber": "71"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.514333,
+                "longitude": 11.45835
+            },
+            "commonSiteName": "Best Western Hotel Tre Torri",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.514333,
+                "longitude": 11.45835
+            },
+            "locationGUID": "a80c80ed-af14-473d-989e-60eb90d26091",
+            "maxPowerKw": 22,
+            "name": "Best Western Hotel Tre Torri",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

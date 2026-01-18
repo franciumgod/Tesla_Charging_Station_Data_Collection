@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aerzen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31855",
+                "postalExt": null,
+                "state": null,
+                "street": "Schwoebber",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.0682382,
+                "longitude": 9.252122
+            },
+            "commonSiteName": "Schlosshotel Muenchhausen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.0682382,
+                "longitude": 9.252122
+            },
+            "locationGUID": "fdca0cb9-96f9-4abd-acc6-154e9f2aeef5",
+            "maxPowerKw": 22,
+            "name": "Schlosshotel Muenchhausen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

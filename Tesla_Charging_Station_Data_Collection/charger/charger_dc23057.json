@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ciudad de Mexico",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "6400",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Santa Maria la Ribera",
+                "streetNumber": "Insurgentes Nte. 226"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.447482,
+                "longitude": -99.15341
+            },
+            "commonSiteName": "City Express Ciudad de Mexico Buenavista",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.447482,
+                "longitude": -99.15341
+            },
+            "locationGUID": "fd5b6301-cb72-4c86-bf94-d846ffc8252b",
+            "maxPowerKw": 18,
+            "name": "City Express Ciudad de Mexico Buenavista",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Saariselkä",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "99830",
+                "postalExt": null,
+                "state": null,
+                "street": "Saariseläntie",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 68.420127,
+                "longitude": 27.419604
+            },
+            "commonSiteName": "Holiday Club Saariselkä",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 68.420127,
+                "longitude": 27.419604
+            },
+            "locationGUID": "a6a88ff3-a58a-405b-a599-c7b4bb5a1019",
+            "maxPowerKw": 22,
+            "name": "Holiday Club Saariselkä",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

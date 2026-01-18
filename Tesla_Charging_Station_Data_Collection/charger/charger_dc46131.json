@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 65th St",
+                "streetNumber": "279"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.764552,
+                "longitude": -73.962034
+            },
+            "commonSiteName": "Icon Parking 279 East 65th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.764552,
+                "longitude": -73.962034
+            },
+            "locationGUID": "ef298c15-4961-41e7-ac95-b7da35e2b328",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 279 East 65th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

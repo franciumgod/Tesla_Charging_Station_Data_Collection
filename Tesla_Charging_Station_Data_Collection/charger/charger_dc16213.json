@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berguen",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7482",
+                "postalExt": null,
+                "state": null,
+                "street": "Platz",
+                "streetNumber": "72"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.629135,
+                "longitude": 9.745838
+            },
+            "commonSiteName": "Hotel Weisses Kreuz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.629135,
+                "longitude": 9.745838
+            },
+            "locationGUID": "179b1c7e-7d20-4ca2-870e-766401f657fc",
+            "maxPowerKw": 11,
+            "name": "Hotel Weisses Kreuz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

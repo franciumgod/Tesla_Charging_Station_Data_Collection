@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Murrumbateman",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2582",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Isabel Dr",
+                "streetNumber": "34"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.977847,
+                "longitude": 149.007928
+            },
+            "commonSiteName": "Shaw Wines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.977847,
+                "longitude": 149.007928
+            },
+            "locationGUID": "6ab4d08e-1b23-451e-85cd-cdc131e77110",
+            "maxPowerKw": 22,
+            "name": "Shaw Wines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89103",
+                "postalExt": null,
+                "state": "NV",
+                "street": "W Tropicana Ave",
+                "streetNumber": "4500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.102719,
+                "longitude": -115.201984
+            },
+            "commonSiteName": "The Orleans",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.102719,
+                "longitude": -115.201984
+            },
+            "locationGUID": "1f3b2592-be9a-4dc4-ba19-dbe22c74d70f",
+            "maxPowerKw": 8,
+            "name": "The Orleans",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

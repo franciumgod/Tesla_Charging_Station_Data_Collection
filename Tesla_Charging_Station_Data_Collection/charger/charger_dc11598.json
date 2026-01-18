@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ithaca",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14850",
+                "postalExt": null,
+                "state": "NY",
+                "street": "N Aurora St",
+                "streetNumber": "303"
+            },
+            "amenities": [
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.441678,
+                "longitude": -76.49534
+            },
+            "commonSiteName": "William Henry Miller Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.441678,
+                "longitude": -76.49534
+            },
+            "locationGUID": "2b8153a9-f44a-4c7e-b39a-7062754b1d8c",
+            "maxPowerKw": 8,
+            "name": "William Henry Miller Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

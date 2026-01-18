@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Saint-Adelphe",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0X 2G0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Baillargeon",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.734465,
+                "longitude": -72.43188
+            },
+            "commonSiteName": "Municipalite Saint-Adelphe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.734465,
+                "longitude": -72.43188
+            },
+            "locationGUID": "e15c3e74-be64-41bd-a998-c431d650dcd5",
+            "maxPowerKw": 16,
+            "name": "Municipalite Saint-Adelphe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

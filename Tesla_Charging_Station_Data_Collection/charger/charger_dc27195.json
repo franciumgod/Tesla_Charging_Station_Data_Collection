@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "3183",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "종로구 새문안로",
+                "streetNumber": "97"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.57065,
+                "longitude": 126.975399
+            },
+            "commonSiteName": "포시즌스 호텔 서울",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.57065,
+                "longitude": 126.975399
+            },
+            "locationGUID": "f0994f35-64f7-4df7-a8ff-1371d54071d9",
+            "maxPowerKw": 16,
+            "name": "Four Seasons Hotel Seoul",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

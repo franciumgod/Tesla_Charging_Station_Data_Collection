@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10023",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 68th St",
+                "streetNumber": "143-159"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.77592,
+                "longitude": -73.98313
+            },
+            "commonSiteName": "Icon Parking OMNI",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.77592,
+                "longitude": -73.98313
+            },
+            "locationGUID": "4a2f3363-b011-4445-9e74-b6e97c563308",
+            "maxPowerKw": 8,
+            "name": "Icon Parking OMNI",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10005",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Wall St",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.704776,
+                "longitude": -74.008276
+            },
+            "commonSiteName": "iPark NYC 75 Wall Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.704776,
+                "longitude": -74.008276
+            },
+            "locationGUID": "b93b51ea-6fcc-430c-9ac3-b31768764dcc",
+            "maxPowerKw": 8,
+            "name": "iPark NYC 75 Wall Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

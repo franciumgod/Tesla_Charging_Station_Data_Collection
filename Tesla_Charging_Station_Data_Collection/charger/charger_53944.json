@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Enosburg Falls",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05450",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Elm Street",
+                "streetNumber": "281"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.9135765,
+                "longitude": -72.7979082
+            },
+            "commonSiteName": "Napa Auto Parts",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.9135765,
+                "longitude": -72.7979082
+            },
+            "locationGUID": "5ef2967a-56a6-4edc-a707-f524398b7fec",
+            "maxPowerKw": 10,
+            "name": "Napa Auto Parts",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

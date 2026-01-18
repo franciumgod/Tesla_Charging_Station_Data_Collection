@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32821",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Sea Harbor Dr",
+                "streetNumber": "6677"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.411772,
+                "longitude": -81.46909
+            },
+            "commonSiteName": "Renaissance Orlando at SeaWorld",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.411772,
+                "longitude": -81.46909
+            },
+            "locationGUID": "3e289425-85cd-4930-98da-d8595e60646f",
+            "maxPowerKw": 16,
+            "name": "Renaissance Orlando at SeaWorld",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

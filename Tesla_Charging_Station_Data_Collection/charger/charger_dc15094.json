@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newquay",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR7 1QD",
+                "postalExt": null,
+                "state": "Cornwall",
+                "street": "Pentire Headland",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.411832,
+                "longitude": -5.118896
+            },
+            "commonSiteName": "Lewinnick Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.411832,
+                "longitude": -5.118896
+            },
+            "locationGUID": "b2dd72d3-3c3c-489a-8d61-2b81fea85b1d",
+            "maxPowerKw": 22,
+            "name": "Lewinnick Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

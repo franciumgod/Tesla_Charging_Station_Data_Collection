@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Niagara Falls",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14303",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Buffalo Ave",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.084215,
+                "longitude": -79.06306
+            },
+            "commonSiteName": "Red Coach Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.084215,
+                "longitude": -79.06306
+            },
+            "locationGUID": "e1c39a7a-3854-4239-9178-21cb87a38beb",
+            "maxPowerKw": 8,
+            "name": "Red Coach Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

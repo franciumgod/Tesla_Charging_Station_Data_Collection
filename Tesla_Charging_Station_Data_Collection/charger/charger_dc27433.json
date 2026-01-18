@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Michaels",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21663",
+                "postalExt": null,
+                "state": "MD",
+                "street": "S Talbot St",
+                "streetNumber": "401"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.7838128,
+                "longitude": -76.2234717
+            },
+            "commonSiteName": "Old Brick Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.7838128,
+                "longitude": -76.2234717
+            },
+            "locationGUID": "c0acc787-71b7-422f-9eff-bd0f019d63de",
+            "maxPowerKw": 16,
+            "name": "Old Brick Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

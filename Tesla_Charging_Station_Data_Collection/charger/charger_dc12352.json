@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Flims Waldhaus",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7018",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Sorts Sut",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.828082,
+                "longitude": 9.289914
+            },
+            "commonSiteName": "Hotel Adula",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.828082,
+                "longitude": 9.289914
+            },
+            "locationGUID": "762fa56f-85c0-4f01-a804-7803e10195a9",
+            "maxPowerKw": 22,
+            "name": "Hotel Adula",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

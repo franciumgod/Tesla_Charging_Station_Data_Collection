@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Harbor Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "49740",
+                "postalExt": null,
+                "state": "MI",
+                "street": "Highland Dr",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.469311,
+                "longitude": -84.934044
+            },
+            "commonSiteName": "Boyne Highlands Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.469311,
+                "longitude": -84.934044
+            },
+            "locationGUID": "57c76a9d-af7a-4b3b-b5ef-cd8272ea3d8e",
+            "maxPowerKw": 16,
+            "name": "Boyne Highlands Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

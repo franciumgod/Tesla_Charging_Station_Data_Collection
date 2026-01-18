@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Port Carling",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "P0B 1J0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Sherwood Rd",
+                "streetNumber": "1090"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.105835,
+                "longitude": -79.646537
+            },
+            "commonSiteName": "Sherwood Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.105835,
+                "longitude": -79.646537
+            },
+            "locationGUID": "ef6e40fe-2ad2-4c74-912b-e83fd49e62ea",
+            "maxPowerKw": 8,
+            "name": "Sherwood Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Meinhard",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37276",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Berg",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.20361,
+                "longitude": 10.106907
+            },
+            "commonSiteName": "Schloss Hotel Wolfsbrunnen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.20361,
+                "longitude": 10.106907
+            },
+            "locationGUID": "2857a6f9-eff9-4bb9-abac-6f7beb93e54c",
+            "maxPowerKw": 22,
+            "name": "Schloss Hotel Wolfsbrunnen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

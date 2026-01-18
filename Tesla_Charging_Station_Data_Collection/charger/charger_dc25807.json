@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geiselwind",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "96160",
+                "postalExt": null,
+                "state": null,
+                "street": "Friedrichstrasse",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.778468,
+                "longitude": 10.470993
+            },
+            "commonSiteName": "Landhotel Geiselwind",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.778468,
+                "longitude": 10.470993
+            },
+            "locationGUID": "550cb317-db68-4db9-ad9f-9df7765477c3",
+            "maxPowerKw": 14,
+            "name": "Landhotel Geiselwind",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

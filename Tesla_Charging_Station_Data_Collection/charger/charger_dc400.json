@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lake Louise",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T0L 1E0",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Lake Louise Drive",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.417506,
+                "longitude": -116.215424
+            },
+            "commonSiteName": "The Fairmont Chateau Lake Louise",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.417506,
+                "longitude": -116.215424
+            },
+            "locationGUID": "b04a5313-97f1-4b25-aac9-6ed470b0e2b8",
+            "maxPowerKw": 8,
+            "name": "The Fairmont Chateau Lake Louise",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

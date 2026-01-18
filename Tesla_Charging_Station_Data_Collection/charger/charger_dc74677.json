@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hamburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22397",
+                "postalExt": null,
+                "state": null,
+                "street": "Lemsahler Landstrasse",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.67440093,
+                "longitude": 10.09163125
+            },
+            "commonSiteName": "Hotel Treudelberg Hamburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.67440093,
+                "longitude": 10.09163125
+            },
+            "locationGUID": "324a5b0c-56b9-4ff2-9cc7-01b142ac452e",
+            "maxPowerKw": 22,
+            "name": "Hotel Treudelberg Hamburg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

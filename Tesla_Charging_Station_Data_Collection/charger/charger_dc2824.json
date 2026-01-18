@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mesa Verde National Park",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81330",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Navajo Hill",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.260149,
+                "longitude": -108.494074
+            },
+            "commonSiteName": "Far View Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.260149,
+                "longitude": -108.494074
+            },
+            "locationGUID": "e2e6c76f-a2e2-4092-a945-ccaa02cc49eb",
+            "maxPowerKw": 8,
+            "name": "Far View Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

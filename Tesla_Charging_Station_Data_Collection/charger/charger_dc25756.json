@@ -1,0 +1,83 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "18:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Warburton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3799",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Woods Point Rd",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.75339809,
+                "longitude": 145.70536176
+            },
+            "commonSiteName": "Warburton Holiday Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.75339809,
+                "longitude": 145.70536176
+            },
+            "locationGUID": "ed9623bf-3ce1-47d3-b7ed-1a8f40c3fe5d",
+            "maxPowerKw": 22,
+            "name": "Warburton Holiday Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Canberra",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2609",
+                "postalExt": null,
+                "state": "Australian Capital Territory",
+                "street": "Spitfire",
+                "streetNumber": "18/26"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.30038,
+                "longitude": 149.190198
+            },
+            "commonSiteName": "Majura Park Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.30038,
+                "longitude": 149.190198
+            },
+            "locationGUID": "20ec991a-1d42-4f43-80a2-1d501b888847",
+            "maxPowerKw": 7,
+            "name": "Majura Park Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

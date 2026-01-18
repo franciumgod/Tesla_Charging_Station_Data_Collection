@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Stellshagen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "23948",
+                "postalExt": null,
+                "state": null,
+                "street": "Lindenstrasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.946376,
+                "longitude": 11.141682
+            },
+            "commonSiteName": "Hotel Gutshaus Stellshagen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.946376,
+                "longitude": 11.141682
+            },
+            "locationGUID": "d94c00ca-0f3e-46a0-b423-3ef91b22e68c",
+            "maxPowerKw": 14,
+            "name": "Hotel Gutshaus Stellshagen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

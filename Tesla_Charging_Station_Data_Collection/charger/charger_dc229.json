@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Forestville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95436",
+                "postalExt": null,
+                "state": "CA",
+                "street": "River Rd",
+                "streetNumber": "7871"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.490004,
+                "longitude": -122.883477
+            },
+            "commonSiteName": "Farmhouse Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.490004,
+                "longitude": -122.883477
+            },
+            "locationGUID": "e4f1ce5e-937c-477a-b0a6-ab255951b678",
+            "maxPowerKw": 16,
+            "name": "Farmhouse Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

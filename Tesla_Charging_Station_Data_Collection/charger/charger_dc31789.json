@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Luis Potosi",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78295",
+                "postalExt": null,
+                "state": "SLP",
+                "street": "Alpes",
+                "streetNumber": "Avenida Chapultepec 1200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.125615,
+                "longitude": -101.019206
+            },
+            "commonSiteName": "Plaza Chapultepec 1200",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.125615,
+                "longitude": -101.019206
+            },
+            "locationGUID": "dcd97220-0c3a-41e0-afe9-1688c7ca77c1",
+            "maxPowerKw": 18,
+            "name": "Plaza Chapultepec 1200",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

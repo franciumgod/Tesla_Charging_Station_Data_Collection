@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20153",
+                "postalExt": null,
+                "state": "Milano",
+                "street": "Via Caldera",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.478185,
+                "longitude": 9.103063
+            },
+            "commonSiteName": "Sheraton Milano San Siro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.478415,
+                "longitude": 9.102424
+            },
+            "locationGUID": "b0f4d918-17a2-439f-9942-c3a6c70cc121",
+            "maxPowerKw": 16,
+            "name": "Sheraton Milano San Siro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

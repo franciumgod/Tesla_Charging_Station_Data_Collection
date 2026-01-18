@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lisboa",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1050",
+                "postalExt": "088",
+                "state": null,
+                "street": "Av. Duque de Loule",
+                "streetNumber": "81"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.726414,
+                "longitude": -9.147112
+            },
+            "commonSiteName": "H10 Duque de Loule",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.726414,
+                "longitude": -9.147112
+            },
+            "locationGUID": "f8270dc7-2205-407f-9c13-22c6a32a0e7f",
+            "maxPowerKw": 22,
+            "name": "H10 Duque de Loule",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

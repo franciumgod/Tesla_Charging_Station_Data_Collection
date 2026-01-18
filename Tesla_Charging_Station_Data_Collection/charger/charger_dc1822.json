@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89109",
+                "postalExt": null,
+                "state": "NV",
+                "street": "Convention Center Dr",
+                "streetNumber": "325"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.132303,
+                "longitude": -115.157647
+            },
+            "commonSiteName": "Las Vegas Marriott",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.132303,
+                "longitude": -115.157647
+            },
+            "locationGUID": "a9caef97-4533-450e-a061-768bf38a2d0b",
+            "maxPowerKw": 16,
+            "name": "Las Vegas Marriott",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

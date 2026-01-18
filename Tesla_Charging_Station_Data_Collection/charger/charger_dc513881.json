@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cairns",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4870",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "The Esplanade",
+                "streetNumber": "131-141"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -16.91643356,
+                "longitude": 145.77308256
+            },
+            "commonSiteName": "Crystalbrook Collection Riley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -16.91643356,
+                "longitude": 145.77308256
+            },
+            "locationGUID": "0b938f41-e493-4b4a-9fe3-f118e1ebacc6",
+            "maxPowerKw": 19,
+            "name": "Crystalbrook Collection Riley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salt Spring Island",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V8K 2S2",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Upper Ganges Rd",
+                "streetNumber": "124"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.859162,
+                "longitude": -123.5014062
+            },
+            "commonSiteName": "Moby's Pub",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.859162,
+                "longitude": -123.5014062
+            },
+            "locationGUID": "106e1526-fb2d-4da1-8f7e-7b949572ae8b",
+            "maxPowerKw": 16,
+            "name": "Moby's Pub",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

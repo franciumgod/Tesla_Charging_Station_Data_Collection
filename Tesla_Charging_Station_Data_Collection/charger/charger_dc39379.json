@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newaygo",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "49337",
+                "postalExt": null,
+                "state": "MI",
+                "street": "State Rd",
+                "streetNumber": "120"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.418312,
+                "longitude": -85.801767
+            },
+            "commonSiteName": "La Belle de la Riviere",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.418312,
+                "longitude": -85.801767
+            },
+            "locationGUID": "65d3b9a9-d5c3-4e9e-8b93-72f1cfd28557",
+            "maxPowerKw": 16,
+            "name": "La Belle de la Riviere",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

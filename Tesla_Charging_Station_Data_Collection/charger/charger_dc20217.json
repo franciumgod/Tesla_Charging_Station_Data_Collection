@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11850",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "San Miguel Chapultepec",
+                "streetNumber": "Jose Vasconcelos 106"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.409975,
+                "longitude": -99.183838
+            },
+            "commonSiteName": "Sanborn's Tacubaya",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.409975,
+                "longitude": -99.183838
+            },
+            "locationGUID": "c13f2d65-4bd8-4daf-9fb7-f91faa5b58c7",
+            "maxPowerKw": 11,
+            "name": "Sanborn's Tacubaya",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

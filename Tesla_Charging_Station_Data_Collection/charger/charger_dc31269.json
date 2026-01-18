@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cincinnati",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45209",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Madison Rd",
+                "streetNumber": "3301"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.1562472,
+                "longitude": -84.4239414
+            },
+            "commonSiteName": "MadTree Brewing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.1562472,
+                "longitude": -84.4239414
+            },
+            "locationGUID": "9ecef394-7cf6-4452-8ce6-53c2921c3be0",
+            "maxPowerKw": 16,
+            "name": "MadTree Brewing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

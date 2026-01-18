@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sitges",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8870",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avda Cami de Miralpeix",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.229466,
+                "longitude": 1.772909
+            },
+            "commonSiteName": "Hotel Dolce Sitges",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.229466,
+                "longitude": 1.772909
+            },
+            "locationGUID": "796561c5-e2f3-4074-9974-6010b7a9643c",
+            "maxPowerKw": 22,
+            "name": "Hotel Dolce Sitges",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

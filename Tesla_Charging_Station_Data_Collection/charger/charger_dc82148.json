@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arlington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22203",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Wilson Blvd",
+                "streetNumber": "4075"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.880383,
+                "longitude": -77.108511
+            },
+            "commonSiteName": "Two Liberty Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.880383,
+                "longitude": -77.108511
+            },
+            "locationGUID": "1978f4c5-65e2-48fd-b3f0-14aefc0f4eff",
+            "maxPowerKw": 16,
+            "name": "Two Liberty Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Savannah",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31401",
+                "postalExt": null,
+                "state": "GA",
+                "street": "E Bay St",
+                "streetNumber": "601"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.078708,
+                "longitude": -81.08522
+            },
+            "commonSiteName": "The BRICE, A Kimpton Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.078708,
+                "longitude": -81.08522
+            },
+            "locationGUID": "d6231797-287e-4cbb-ae99-d9261edebc6f",
+            "maxPowerKw": 17,
+            "name": "The BRICE, A Kimpton Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

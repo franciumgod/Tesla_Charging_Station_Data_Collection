@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eureka",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95501",
+                "postalExt": null,
+                "state": "CA",
+                "street": "4th St",
+                "streetNumber": "933"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.803762,
+                "longitude": -124.160955
+            },
+            "commonSiteName": "Town House Motel - Historic Old Town",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.803762,
+                "longitude": -124.160955
+            },
+            "locationGUID": "d81a58bf-116a-4554-8925-99bed73bc03b",
+            "maxPowerKw": 16,
+            "name": "Town House Motel - Historic Old Town",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

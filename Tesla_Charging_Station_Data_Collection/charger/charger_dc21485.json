@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wake Forest",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27587",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Retail Dr",
+                "streetNumber": "12050"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.976409,
+                "longitude": -78.542788
+            },
+            "commonSiteName": "Candlewood Suites Wake Forest Raleigh Area",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.976409,
+                "longitude": -78.542788
+            },
+            "locationGUID": "df479068-e6c7-41e4-859f-855c6f65302e",
+            "maxPowerKw": 8,
+            "name": "Candlewood Suites Wake Forest Raleigh Area",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Munich",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "85445",
+                "postalExt": null,
+                "state": null,
+                "street": "Freisinger Strasse",
+                "streetNumber": "80"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.34295945,
+                "longitude": 11.83329736
+            },
+            "commonSiteName": "Grand Excelsior Hotel München Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.34295945,
+                "longitude": 11.83329736
+            },
+            "locationGUID": "3b8361ff-30a5-407f-a575-3f385a6deda9",
+            "maxPowerKw": 11,
+            "name": "Grand Excelsior Hotel Muenchen Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

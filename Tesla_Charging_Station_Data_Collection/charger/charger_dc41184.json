@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "East Peoria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "61611",
+                "postalExt": null,
+                "state": "IL",
+                "street": "Holiday St",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.672956,
+                "longitude": -89.587645
+            },
+            "commonSiteName": "Johnny's Italian Steakhouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.672956,
+                "longitude": -89.587645
+            },
+            "locationGUID": "82699944-6b3c-4f01-81d3-edafba59eafe",
+            "maxPowerKw": 10,
+            "name": "Johnny's Italian Steakhouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

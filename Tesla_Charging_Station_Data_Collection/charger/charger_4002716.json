@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Green Bay",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54301",
+                "postalExt": null,
+                "state": "WI",
+                "street": "S Washington St",
+                "streetNumber": "321"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.510904,
+                "longitude": -88.01804
+            },
+            "commonSiteName": "Quality Inn and Suites Downtown Green Bay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.510904,
+                "longitude": -88.01804
+            },
+            "locationGUID": "8e19aedd-deb4-44b3-a22c-fc76b8109dc9",
+            "maxPowerKw": 9,
+            "name": "Quality Inn and Suites Downtown Green Bay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

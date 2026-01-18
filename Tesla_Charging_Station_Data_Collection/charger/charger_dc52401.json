@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11211",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Driggs Ave",
+                "streetNumber": "626"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.715033,
+                "longitude": -73.958595
+            },
+            "commonSiteName": "Littleman Driggs Parking, LLC",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.715033,
+                "longitude": -73.958595
+            },
+            "locationGUID": "70b093c2-2f36-460e-a8cf-594c2b794972",
+            "maxPowerKw": 10,
+            "name": "Littleman Driggs Parking, LLC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

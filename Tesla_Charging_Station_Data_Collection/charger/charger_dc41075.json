@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Plymouth",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4312",
+                "postalExt": null,
+                "state": "Taranaki",
+                "street": "Devon Street East",
+                "streetNumber": "390"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -39.053422,
+                "longitude": 174.088886
+            },
+            "commonSiteName": "The Devon Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -39.053422,
+                "longitude": 174.088886
+            },
+            "locationGUID": "286d795b-7207-4aa7-9528-51441c09c7b1",
+            "maxPowerKw": 22,
+            "name": "The Devon Hotel-New Plymouth",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

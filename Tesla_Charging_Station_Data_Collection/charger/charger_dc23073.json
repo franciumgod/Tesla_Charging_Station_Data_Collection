@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10028",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 83rd St",
+                "streetNumber": "611"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.772681,
+                "longitude": -73.945488
+            },
+            "commonSiteName": "imPark 611 E 83rd Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.772681,
+                "longitude": -73.945488
+            },
+            "locationGUID": "a348eece-35aa-4386-bd9b-0cffe9539ad4",
+            "maxPowerKw": 16,
+            "name": "imPark 611 E 83rd Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

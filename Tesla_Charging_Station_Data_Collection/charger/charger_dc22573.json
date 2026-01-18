@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Trier",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "54292",
+                "postalExt": null,
+                "state": null,
+                "street": "Zurmaienerstrasse",
+                "streetNumber": "164"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.773284,
+                "longitude": 6.664761
+            },
+            "commonSiteName": "Fourside Plaza Hotel Trier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.773284,
+                "longitude": 6.664761
+            },
+            "locationGUID": "a0335629-4f8e-41cf-bc9b-22148ef4dba6",
+            "maxPowerKw": 22,
+            "name": "Fourside Plaza Hotel Trier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

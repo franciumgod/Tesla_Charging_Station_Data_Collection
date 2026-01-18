@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Malmö",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21242",
+                "postalExt": null,
+                "state": null,
+                "street": "Hansagaraget, Malmborgsgatan",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.602866,
+                "longitude": 13.003883
+            },
+            "commonSiteName": "Hansa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.602866,
+                "longitude": 13.003883
+            },
+            "locationGUID": "15c51f90-817c-4537-b1a9-b665358c8fee",
+            "maxPowerKw": 22,
+            "name": "Hansa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

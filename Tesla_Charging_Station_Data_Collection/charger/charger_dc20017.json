@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Poznan",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "60",
+                "postalExt": "809",
+                "state": null,
+                "street": "ul. Bukowska",
+                "streetNumber": "3/9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.406739,
+                "longitude": 16.910677
+            },
+            "commonSiteName": "Sheraton Poznan Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.406739,
+                "longitude": 16.910677
+            },
+            "locationGUID": "3377c5ed-f1f3-426f-9ac9-2f1cfe38daab",
+            "maxPowerKw": 22,
+            "name": "Sheraton Poznan Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

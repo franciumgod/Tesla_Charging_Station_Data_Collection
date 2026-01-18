@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pyla Sur Mer",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33115",
+                "postalExt": null,
+                "state": null,
+                "street": "Boulevard de l'Océan",
+                "streetNumber": "95"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.629789,
+                "longitude": -1.202495
+            },
+            "commonSiteName": "La Guitoune",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.629789,
+                "longitude": -1.202495
+            },
+            "locationGUID": "91d7316b-49db-4697-82a7-d4058f42a5f8",
+            "maxPowerKw": 14,
+            "name": "La Guitoune",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

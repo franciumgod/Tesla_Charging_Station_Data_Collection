@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Overloon",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5825CA",
+                "postalExt": null,
+                "state": null,
+                "street": "Irenestraat 1",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.5711274,
+                "longitude": 5.9461312
+            },
+            "commonSiteName": "Boompjes Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.5711274,
+                "longitude": 5.9461312
+            },
+            "locationGUID": "09de37e9-3421-4f7d-ad70-c7f776769935",
+            "maxPowerKw": 22,
+            "name": "Boompjes Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

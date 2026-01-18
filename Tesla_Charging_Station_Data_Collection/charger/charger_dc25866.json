@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Marseille",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "13007",
+                "postalExt": null,
+                "state": null,
+                "street": "rue des Braves",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.280099,
+                "longitude": 5.351574
+            },
+            "commonSiteName": "Le Petit Nice Passedat",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.280099,
+                "longitude": 5.351574
+            },
+            "locationGUID": "89109d20-9c2b-4786-a37f-0ec04ec0f8c5",
+            "maxPowerKw": 11,
+            "name": "Le Petit Nice Passedat",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

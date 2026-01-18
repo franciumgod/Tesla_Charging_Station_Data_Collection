@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Torremolinos",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29620",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Avda Salvador Allende",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.605901,
+                "longitude": -4.507376
+            },
+            "commonSiteName": "Hotel Pez Espada",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.605901,
+                "longitude": -4.507376
+            },
+            "locationGUID": "9e6fd9bc-4cf8-4f33-a6cf-888974dd3894",
+            "maxPowerKw": 22,
+            "name": "Hotel Pez Espada",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

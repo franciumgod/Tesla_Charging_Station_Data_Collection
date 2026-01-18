@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22930",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "San Quintin",
+                "streetNumber": "Camino Playa Santa Maria S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.4012715,
+                "longitude": -115.91202519
+            },
+            "commonSiteName": "Mision Santa Maria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.4012715,
+                "longitude": -115.91202519
+            },
+            "locationGUID": "99dc1c83-45af-4f68-850a-b2e1810562dd",
+            "maxPowerKw": 13,
+            "name": "Mision Santa Maria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

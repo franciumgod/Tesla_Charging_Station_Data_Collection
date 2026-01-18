@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Antonio",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78209",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Broadway St",
+                "streetNumber": "5120"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.473895,
+                "longitude": -98.462295
+            },
+            "commonSiteName": "Stewart Shopping Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.473895,
+                "longitude": -98.462295
+            },
+            "locationGUID": "57ddf80c-644b-4fed-b1ba-0d67d9e7db8b",
+            "maxPowerKw": 16,
+            "name": "Stewart Shopping Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rimini",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "47921",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Regina Elena",
+                "streetNumber": "133"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.054502,
+                "longitude": 12.59469
+            },
+            "commonSiteName": "Hotel Cristallo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.054502,
+                "longitude": 12.59469
+            },
+            "locationGUID": "059a915e-b039-45ad-adea-603c8edbfd60",
+            "maxPowerKw": 22,
+            "name": "Hotel Cristallo-Rimini",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

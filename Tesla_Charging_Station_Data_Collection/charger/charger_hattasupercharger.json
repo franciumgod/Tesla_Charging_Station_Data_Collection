@@ -1,0 +1,300 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Sharjah kalba Road",
+                "streetNumber": "102"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.03125,
+                            0.15625,
+                            0.125,
+                            0.15625,
+                            0.1171875,
+                            0.1875,
+                            0.20703125,
+                            0.20703125,
+                            0.29464285714285715,
+                            0.34375,
+                            0.36160714285714285,
+                            0.4431818181818182,
+                            0.59375,
+                            0.6079545454545454,
+                            0.5375,
+                            0.5,
+                            0.453125,
+                            0.333984375,
+                            0.253125,
+                            0.1875,
+                            0.14453125,
+                            0.046875,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.15,
+                            0.21875,
+                            0.2,
+                            0.2589285714285714,
+                            0.34375,
+                            0.3571428571428571,
+                            0.2708333333333333,
+                            0.253125,
+                            0.333984375,
+                            0.421875,
+                            0.375,
+                            0.3125,
+                            0.265625,
+                            0.1875,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.0859375,
+                            0.1484375,
+                            0.21875,
+                            0.25,
+                            0.3169642857142857,
+                            0.4184027777777778,
+                            0.515625,
+                            0.5347222222222222,
+                            0.53125,
+                            0.6041666666666667,
+                            0.65625,
+                            0.6796875,
+                            0.640625,
+                            0.5440340909090908,
+                            0.4166666666666667,
+                            0.27604166666666663,
+                            0.175,
+                            0.0625,
+                            0.03125,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.08854166666666667,
+                            0.15625,
+                            0.20703125,
+                            0.234375,
+                            0.234375,
+                            0.33984375,
+                            0.421875,
+                            0.453125,
+                            0.419921875,
+                            0.390625,
+                            0.43359375,
+                            0.453125,
+                            0.4375,
+                            0.4107142857142857,
+                            0.359375,
+                            0.23660714285714285,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.05416666666666667,
+                            0.04166666666666667,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.109375,
+                            0.109375,
+                            0.125,
+                            0.20937499999999998,
+                            0.265625,
+                            0.26875,
+                            0.234375,
+                            0.31026785714285715,
+                            0.384765625,
+                            0.421875,
+                            0.3203125,
+                            0.20703125,
+                            0.171875,
+                            0.125,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.125,
+                            0.15625,
+                            0.16666666666666666,
+                            0.15625,
+                            0.125,
+                            0.109375,
+                            0.09375,
+                            0.109375,
+                            0.175,
+                            0.28097587719298245,
+                            0.3229166666666667,
+                            0.2192982456140351,
+                            0.140625,
+                            0.09375,
+                            0.109375,
+                            0.09375,
+                            0.08125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.0734375,
+                            0.075,
+                            0.06875,
+                            0.09166666666666666,
+                            0.125,
+                            0.185,
+                            0.21250000000000002,
+                            0.18500000000000003,
+                            0.2,
+                            0.2339285714285714,
+                            0.3359375,
+                            0.40476190476190477,
+                            0.45000000000000007,
+                            0.4083333333333333,
+                            0.3208333333333333,
+                            0.2480392156862745,
+                            0.2666666666666667,
+                            0.23137254901960788,
+                            0.14921875,
+                            0.0761904761904762,
+                            0.037500000000000006,
+                            0.025,
+                            0.025,
+                            0.04416666666666667
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 1561,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 4963,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "14400s"
+            },
+            "centroid": {
+                "latitude": 24.819501,
+                "longitude": 56.134424
+            },
+            "commonSiteName": "JA Hatta Fort Hotel",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "AED",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 1.26,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "AED",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.819433,
+                "longitude": 56.134783
+            },
+            "locationGUID": "bd066dbc-c48b-4627-9b5a-9b3b56cce164",
+            "maxPowerKw": 125,
+            "name": "Hatta, UAE",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

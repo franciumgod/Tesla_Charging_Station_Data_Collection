@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dartford",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "DA2 6QG",
+                "postalExt": null,
+                "state": null,
+                "street": "Capstan Court",
+                "streetNumber": "Unit 2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.453522,
+                "longitude": 0.246803
+            },
+            "commonSiteName": "Tesla London-Dartford",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.453515,
+                "longitude": 0.245882
+            },
+            "locationGUID": "12ff2237-62fb-420f-9366-b4fb7d234f57",
+            "maxPowerKw": 0,
+            "name": "Dartford, UK - Tesla Service Centre",
+            "openToNonTeslas": true,
+            "openToPublic": false,
+            "publicStallCount": 12,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rego Park",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11374",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Queens Blvd",
+                "streetNumber": "92-77"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.732255,
+                "longitude": -73.866674
+            },
+            "commonSiteName": "IMPark 92-77 Queens Blvd",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.732255,
+                "longitude": -73.866674
+            },
+            "locationGUID": "e88d5866-b713-4e64-91d7-5ff1838f5aa8",
+            "maxPowerKw": 10,
+            "name": "IMPark 92-77 Queens Blvd",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

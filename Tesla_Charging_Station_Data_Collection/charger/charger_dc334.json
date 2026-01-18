@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cape May",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08204",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "Congress Pl",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.931037,
+                "longitude": -74.923703
+            },
+            "commonSiteName": "Congress Hall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.931037,
+                "longitude": -74.923703
+            },
+            "locationGUID": "6985191e-e44d-4496-aca1-1929401483a3",
+            "maxPowerKw": 13,
+            "name": "Congress Hall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

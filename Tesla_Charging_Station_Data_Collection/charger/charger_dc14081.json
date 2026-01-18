@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coventry",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CV5 9AL",
+                "postalExt": null,
+                "state": "Coventry",
+                "street": "Birmingham Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.426967,
+                "longitude": -1.575998
+            },
+            "commonSiteName": "Best Western Plus Windmill Village Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.426967,
+                "longitude": -1.575998
+            },
+            "locationGUID": "0f5eb9c2-2dd1-4e58-a31c-47ca26f210b4",
+            "maxPowerKw": 0,
+            "name": "Best Western Plus Windmill Village Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

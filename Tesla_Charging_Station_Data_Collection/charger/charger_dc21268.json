@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sydney",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2000",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Pitt St",
+                "streetNumber": "259"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.871961,
+                "longitude": 151.208024
+            },
+            "commonSiteName": "Secure Parking at the Hilton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.871961,
+                "longitude": 151.208024
+            },
+            "locationGUID": "1fb0f148-79d4-4873-a951-d8faa3cdcada",
+            "maxPowerKw": 22,
+            "name": "Secure Parking at the Hilton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Silao",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "36275",
+                "postalExt": null,
+                "state": "GUA",
+                "street": "De La Paz 102, Lopez Mateos",
+                "streetNumber": "Plaza Gto Puerto Interior"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 21.001567,
+                "longitude": -101.508205
+            },
+            "commonSiteName": "G100 Guanajuato",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 21.001567,
+                "longitude": -101.508205
+            },
+            "locationGUID": "af3179d1-0005-472d-9923-2a1190dc3cb8",
+            "maxPowerKw": 18,
+            "name": "G100 Guanajuato",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

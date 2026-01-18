@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94102",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Powell St",
+                "streetNumber": "335"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.787828,
+                "longitude": -122.408731
+            },
+            "commonSiteName": "The Westin St. Francis San Francisco on Union Square",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.787828,
+                "longitude": -122.408731
+            },
+            "locationGUID": "fa8e5aac-ecc2-4a55-b81f-f92571fcb921",
+            "maxPowerKw": 8,
+            "name": "The Westin St. Francis San Francisco on Union Square",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

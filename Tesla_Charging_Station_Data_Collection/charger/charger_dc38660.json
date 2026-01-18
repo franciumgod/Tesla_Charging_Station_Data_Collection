@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Camberwell",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3124",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Burke Rd",
+                "streetNumber": "793"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.830042,
+                "longitude": 145.055257
+            },
+            "commonSiteName": "Camberwell Place Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.830042,
+                "longitude": 145.055257
+            },
+            "locationGUID": "d001f98a-5c4b-4a4e-a472-09453f123d5d",
+            "maxPowerKw": 22,
+            "name": "Camberwell Place Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

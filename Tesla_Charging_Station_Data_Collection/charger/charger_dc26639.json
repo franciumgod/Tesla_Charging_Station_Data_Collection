@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Boulder",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80301",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Nautilus Ct N",
+                "streetNumber": "4910"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.062531,
+                "longitude": -105.204787
+            },
+            "commonSiteName": "Avery Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.062531,
+                "longitude": -105.204787
+            },
+            "locationGUID": "55f7999e-0f74-4cbc-a870-d70ffe3b79e4",
+            "maxPowerKw": 13,
+            "name": "Avery Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 7,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

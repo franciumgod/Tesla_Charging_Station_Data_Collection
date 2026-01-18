@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garci¡a",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66266",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Los Arcangeles, Zona Loma Larga Poniente",
+                "streetNumber": "Av. Parte Aguas 698"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.660371,
+                "longitude": -100.340886
+            },
+            "commonSiteName": "Club de Industriales",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.660371,
+                "longitude": -100.340886
+            },
+            "locationGUID": "9cf78bb5-0c08-4313-b41e-d42b9c001478",
+            "maxPowerKw": 18,
+            "name": "Club de Industriales",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

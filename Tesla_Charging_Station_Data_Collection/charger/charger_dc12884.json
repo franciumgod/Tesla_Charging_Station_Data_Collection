@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6B 2V6",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Homer St",
+                "streetNumber": "514"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.282416,
+                "longitude": -123.112165
+            },
+            "commonSiteName": "The Victorian Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.282416,
+                "longitude": -123.112165
+            },
+            "locationGUID": "ac7e1691-4776-4967-b175-f15fb692a006",
+            "maxPowerKw": 13,
+            "name": "The Victorian Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

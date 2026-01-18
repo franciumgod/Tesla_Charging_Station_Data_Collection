@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mitchellstown",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3608",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Mitchellstown Rd",
+                "streetNumber": "470"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.8494514,
+                "longitude": 145.08874029
+            },
+            "commonSiteName": "Mitchelton Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.8494514,
+                "longitude": 145.08874029
+            },
+            "locationGUID": "c4185007-60d4-43dc-903a-2473cf519fb1",
+            "maxPowerKw": 22,
+            "name": "Mitchelton Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

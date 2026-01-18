@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89101",
+                "postalExt": null,
+                "state": "NV",
+                "street": "South Maryland Parkway",
+                "streetNumber": "100-110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.16562,
+                "longitude": -115.13348
+            },
+            "commonSiteName": "The Usual Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.16562,
+                "longitude": -115.13348
+            },
+            "locationGUID": "8aa17b8a-dde5-491f-968c-a072537c8992",
+            "maxPowerKw": 6,
+            "name": "The Usual Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

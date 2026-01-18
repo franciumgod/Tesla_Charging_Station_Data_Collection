@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ronzone",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38010",
+                "postalExt": null,
+                "state": "Trento",
+                "street": "Via Regole",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.42789739,
+                "longitude": 11.15811529
+            },
+            "commonSiteName": "Villa Orso Grigio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.427386,
+                "longitude": 11.158304
+            },
+            "locationGUID": "0f43d42b-1a39-4813-9f8d-ef5d55bd6aee",
+            "maxPowerKw": 14,
+            "name": "Villa Orso Grigio",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

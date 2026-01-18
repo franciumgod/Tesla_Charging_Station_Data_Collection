@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chamalières-sur-Loire",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "43800",
+                "postalExt": null,
+                "state": null,
+                "street": "Les Ribes",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.209145,
+                "longitude": 3.996333
+            },
+            "commonSiteName": "CosyCamp",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.209145,
+                "longitude": 3.996333
+            },
+            "locationGUID": "ba60137e-0d3f-4b7f-96bd-8740af8d33e8",
+            "maxPowerKw": 17,
+            "name": "CosyCamp",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

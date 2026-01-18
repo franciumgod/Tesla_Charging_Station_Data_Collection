@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sutton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0E 2K0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Maple",
+                "streetNumber": "671"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.104728,
+                "longitude": -72.56184
+            },
+            "commonSiteName": "Mont Sutton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.104728,
+                "longitude": -72.56184
+            },
+            "locationGUID": "3593910d-6a58-4789-a570-20f7ab3312f6",
+            "maxPowerKw": 16,
+            "name": "Mont Sutton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

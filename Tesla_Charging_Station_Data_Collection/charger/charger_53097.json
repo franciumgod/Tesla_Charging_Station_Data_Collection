@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dublin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43017",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Longshore Street",
+                "streetNumber": "6725"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.1007,
+                "longitude": -83.10853
+            },
+            "commonSiteName": "Hotel Parking Garage at Bridge Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.1007,
+                "longitude": -83.10853
+            },
+            "locationGUID": "a346ca2f-4515-4230-82d9-959a7ad1e197",
+            "maxPowerKw": 9,
+            "name": "Hotel Parking Garage at Bridge Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

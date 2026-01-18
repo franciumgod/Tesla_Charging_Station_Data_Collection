@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jenner",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95450",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Hwy 1",
+                "streetNumber": "21780"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.533504,
+                "longitude": -123.276931
+            },
+            "commonSiteName": "Timber Cove Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.533504,
+                "longitude": -123.276931
+            },
+            "locationGUID": "16e6cf7b-e524-40f7-99be-1b8d6ef67f33",
+            "maxPowerKw": 17,
+            "name": "Timber Cove Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

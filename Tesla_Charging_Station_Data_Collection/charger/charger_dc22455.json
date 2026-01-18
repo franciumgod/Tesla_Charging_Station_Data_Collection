@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Egg Harbor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54209",
+                "postalExt": null,
+                "state": "WI",
+                "street": "Landmark Dr",
+                "streetNumber": "4929"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.041017,
+                "longitude": -87.29814
+            },
+            "commonSiteName": "Landmark Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.041017,
+                "longitude": -87.29814
+            },
+            "locationGUID": "3d5d82d5-83e3-420f-a5cf-696e71ead867",
+            "maxPowerKw": 16,
+            "name": "Landmark Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

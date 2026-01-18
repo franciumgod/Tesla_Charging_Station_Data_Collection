@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Malmö",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "211 21",
+                "postalExt": null,
+                "state": "Skåne",
+                "street": "Mäster Johansgatan 13",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.605848,
+                "longitude": 12.997983
+            },
+            "commonSiteName": "Hotel Mäster Johan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.605848,
+                "longitude": 12.997983
+            },
+            "locationGUID": "dd276981-7265-4ab7-a014-b9e0c8b2e710",
+            "maxPowerKw": 22,
+            "name": "Hotel Mäster Johan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

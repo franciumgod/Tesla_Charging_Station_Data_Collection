@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ried im Innkreis",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4910",
+                "postalExt": null,
+                "state": null,
+                "street": "Marktplatz",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.20963,
+                "longitude": 13.486026
+            },
+            "commonSiteName": "Hotel Der Kaiserhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.20963,
+                "longitude": 13.486026
+            },
+            "locationGUID": "b2b73f25-7aeb-4639-a25c-7571c5b04023",
+            "maxPowerKw": 11,
+            "name": "Hotel Der Kaiserhof",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

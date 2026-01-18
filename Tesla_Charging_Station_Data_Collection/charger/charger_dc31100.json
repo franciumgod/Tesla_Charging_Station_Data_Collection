@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rians",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83560",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Jouques",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.612833,
+                "longitude": 5.690649
+            },
+            "commonSiteName": "Château Vignelaure",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.612833,
+                "longitude": 5.690649
+            },
+            "locationGUID": "e1bfc9fa-b04d-463e-ac1b-20205877bdc4",
+            "maxPowerKw": 11,
+            "name": "Château Vignelaure",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

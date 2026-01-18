@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Astoria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11101",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Steinway St",
+                "streetNumber": "34-11"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.7560685,
+                "longitude": -73.9204663
+            },
+            "commonSiteName": "PV Parking 34-11 Steinway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.7560685,
+                "longitude": -73.9204663
+            },
+            "locationGUID": "b93c385b-2d5e-4fa9-9f50-8ca98337214b",
+            "maxPowerKw": 10,
+            "name": "PV Parking 34-11 Steinway",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Epinal",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "88000",
+                "postalExt": null,
+                "state": null,
+                "street": "Place Emile Stein",
+                "streetNumber": "13"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.172974,
+                "longitude": 6.445184
+            },
+            "commonSiteName": "Hôtel Mercure Epinal Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.172974,
+                "longitude": 6.445184
+            },
+            "locationGUID": "39c23636-e0d1-4adc-af6f-fa64da10c40d",
+            "maxPowerKw": 22,
+            "name": "Hôtel Mercure Epinal Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

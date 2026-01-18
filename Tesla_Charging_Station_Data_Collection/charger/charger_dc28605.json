@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cres",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "51557",
+                "postalExt": null,
+                "state": null,
+                "street": "Obala Sv. Benedikta",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.94831576,
+                "longitude": 14.41648309
+            },
+            "commonSiteName": "ACI Marina Cres",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.94831576,
+                "longitude": 14.41648309
+            },
+            "locationGUID": "db65e8b8-40d3-4d40-864b-14d0474533a6",
+            "maxPowerKw": 22,
+            "name": "ACI Marina Cres",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Nicolas de los Garza",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66486",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "La Fe",
+                "streetNumber": "Avenida Miguel Aleman km 105"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.720793,
+                "longitude": -100.217109
+            },
+            "commonSiteName": "Fiesta Inn Monterrey La Fe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.720793,
+                "longitude": -100.217109
+            },
+            "locationGUID": "ccf254ba-6649-4680-ae3e-47ff1d298010",
+            "maxPowerKw": 14,
+            "name": "Fiesta Inn Monterrey La Fe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

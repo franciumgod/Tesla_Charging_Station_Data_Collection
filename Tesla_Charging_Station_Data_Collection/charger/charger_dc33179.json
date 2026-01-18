@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Evora",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7000",
+                "postalExt": "804",
+                "state": null,
+                "street": "Quinta da Deserta e Malina",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.553257,
+                "longitude": -7.970002
+            },
+            "commonSiteName": "Tivoli Évora Ecoresort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.553257,
+                "longitude": -7.970002
+            },
+            "locationGUID": "1fd120e3-c758-4a66-b484-7ee4c77b0561",
+            "maxPowerKw": 22,
+            "name": "Tivoli Evora Ecoresort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

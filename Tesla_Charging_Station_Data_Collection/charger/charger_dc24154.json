@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kosice",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "040 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Masiarska",
+                "streetNumber": "430/8"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.721437,
+                "longitude": 21.253945
+            },
+            "commonSiteName": "Kralovsky dvor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.721437,
+                "longitude": 21.253945
+            },
+            "locationGUID": "7eb5edcc-abc9-4d9f-a0cf-446f813e7481",
+            "maxPowerKw": 11,
+            "name": "Kralovsky dvor",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

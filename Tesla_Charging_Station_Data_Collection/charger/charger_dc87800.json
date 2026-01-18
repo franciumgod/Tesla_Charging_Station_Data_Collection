@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sautee Nacoochee",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30571",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Hwy 17",
+                "streetNumber": "2242"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.683592,
+                "longitude": -83.675398
+            },
+            "commonSiteName": "Sweetwater Coffeehouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.683592,
+                "longitude": -83.675398
+            },
+            "locationGUID": "d6af81f1-6c1a-496e-a8ff-ed886253789a",
+            "maxPowerKw": 10,
+            "name": "Sweetwater Coffeehouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

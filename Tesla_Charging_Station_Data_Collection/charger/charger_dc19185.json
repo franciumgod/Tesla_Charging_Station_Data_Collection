@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bundaberg",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4670",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Bourbong Street",
+                "streetNumber": "247"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -24.867688,
+                "longitude": 152.340724
+            },
+            "commonSiteName": "Econo Lodge Park Lane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -24.867688,
+                "longitude": 152.340724
+            },
+            "locationGUID": "87bc68a1-4f50-4ac6-9304-31c94cdc66e0",
+            "maxPowerKw": 22,
+            "name": "Econo Lodge Park Lane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

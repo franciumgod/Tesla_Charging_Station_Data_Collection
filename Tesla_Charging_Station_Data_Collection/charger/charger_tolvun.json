@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Vestmannaeyjar",
+                "country": "Iceland",
+                "countryCode": "IS",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "900",
+                "postalExt": null,
+                "state": "n/a",
+                "street": "Strandvegi",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 63.442594,
+                "longitude": -20.272006
+            },
+            "commonSiteName": "Tölvun",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 63.442594,
+                "longitude": -20.272006
+            },
+            "locationGUID": "492c25a9-29fd-47d9-a6cc-089c698ce8e4",
+            "maxPowerKw": 11,
+            "name": "Tölvun",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Atlantic/Reykjavik"
+        },
+        "success": true
+    }
+}

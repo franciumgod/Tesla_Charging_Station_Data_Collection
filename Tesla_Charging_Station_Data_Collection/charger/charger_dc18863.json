@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Évian-les-Bains",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74500",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Golf",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.39426835,
+                "longitude": 6.56993093
+            },
+            "commonSiteName": "Evian Resort Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.39426835,
+                "longitude": 6.56993093
+            },
+            "locationGUID": "0a8002bd-4f7f-47db-8e69-008a1f0fe09f",
+            "maxPowerKw": 14,
+            "name": "Evian Resort Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

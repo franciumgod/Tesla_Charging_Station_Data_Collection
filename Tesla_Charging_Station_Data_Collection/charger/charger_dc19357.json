@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eschen",
+                "country": "Liechtenstein",
+                "countryCode": "LI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9492",
+                "postalExt": null,
+                "state": null,
+                "street": "St. Luzistrasse",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.211031,
+                "longitude": 9.522703
+            },
+            "commonSiteName": "Restaurant FAGO",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.211031,
+                "longitude": 9.522703
+            },
+            "locationGUID": "721573e6-30d2-42dd-a3ba-9936cca9c2ba",
+            "maxPowerKw": 22,
+            "name": "Restaurant Fago",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vaduz"
+        },
+        "success": true
+    }
+}

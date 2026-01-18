@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Calgary",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T2H 0J2",
+                "postalExt": null,
+                "state": "AB",
+                "street": "6th Ave SE",
+                "streetNumber": "620"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.047285,
+                "longitude": -114.04933
+            },
+            "commonSiteName": "East Village Properties Inc. Parkade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.047285,
+                "longitude": -114.04933
+            },
+            "locationGUID": "2830dc0c-8ed7-49e1-9f7c-b95f377b45fa",
+            "maxPowerKw": 16,
+            "name": "East Village Properties Inc. Parkade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

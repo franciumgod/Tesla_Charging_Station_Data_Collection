@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "City Centre",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "D01 V3P6",
+                "postalExt": null,
+                "state": "Dublin",
+                "street": "Cavendish RowUpper O'Connell Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.353461,
+                "longitude": -6.26103412
+            },
+            "commonSiteName": "Cassidys Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.353461,
+                "longitude": -6.26103412
+            },
+            "locationGUID": "155836d9-50cf-44ae-b067-dba4f730bd25",
+            "maxPowerKw": 6,
+            "name": "Cassidys Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

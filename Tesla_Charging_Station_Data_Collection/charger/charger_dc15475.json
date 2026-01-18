@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Brisbane",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4101",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Glenelg Street",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.477072,
+                "longitude": 153.020308
+            },
+            "commonSiteName": "Rydges South Bank - Brisbane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.477072,
+                "longitude": 153.020308
+            },
+            "locationGUID": "d0d3a1f7-68a6-4898-8a05-21c71008f0b6",
+            "maxPowerKw": 22,
+            "name": "Rydges South Bank - Brisbane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

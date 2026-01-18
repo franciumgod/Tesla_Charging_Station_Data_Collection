@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Murrysville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "15668",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Blue Spruce Wy",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.427355,
+                "longitude": -79.700879
+            },
+            "commonSiteName": "Blue Spruce Shoppes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.427355,
+                "longitude": -79.700879
+            },
+            "locationGUID": "e5bb800b-2c70-4a78-b1e5-1fc63025f9ad",
+            "maxPowerKw": 16,
+            "name": "Blue Spruce Shoppes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

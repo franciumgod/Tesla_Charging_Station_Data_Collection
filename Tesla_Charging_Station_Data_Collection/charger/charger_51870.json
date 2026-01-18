@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Scottsdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85251",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "N 69th Street",
+                "streetNumber": "3703"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.49101,
+                "longitude": -111.9325276
+            },
+            "commonSiteName": "Chadwick's Urban Market",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.49101,
+                "longitude": -111.9325276
+            },
+            "locationGUID": "f48156b2-9792-4086-970b-8a3674b96440",
+            "maxPowerKw": 11,
+            "name": "Chadwick's Urban Market",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

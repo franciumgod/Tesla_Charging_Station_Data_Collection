@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03909",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Nubble Rd",
+                "streetNumber": "229"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.1682737,
+                "longitude": -70.5951529
+            },
+            "commonSiteName": "ViewPoint Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.1682737,
+                "longitude": -70.5951529
+            },
+            "locationGUID": "17526508-d743-4b74-bb51-159121dd1c6c",
+            "maxPowerKw": 13,
+            "name": "ViewPoint Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

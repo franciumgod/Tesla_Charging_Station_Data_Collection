@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Neenah",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54956",
+                "postalExt": null,
+                "state": "WI",
+                "street": "Holly Road",
+                "streetNumber": "2000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.229996,
+                "longitude": -88.46775
+            },
+            "commonSiteName": "EconoLodge and Suburban Studios",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.229996,
+                "longitude": -88.46775
+            },
+            "locationGUID": "aa1ca9d6-194d-4bb5-9d33-5fe61343a5cc",
+            "maxPowerKw": 11,
+            "name": "EconoLodge and Suburban Studios",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

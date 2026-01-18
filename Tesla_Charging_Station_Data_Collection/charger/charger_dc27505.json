@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stockholm",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11436",
+                "postalExt": null,
+                "state": null,
+                "street": "Linnégatan",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.338251,
+                "longitude": 18.075306
+            },
+            "commonSiteName": "Elite Eden Park Hotel/E-Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.338251,
+                "longitude": 18.075306
+            },
+            "locationGUID": "52bd9f9a-8ed2-443c-97ce-f63746aec00d",
+            "maxPowerKw": 6,
+            "name": "Elite Eden Park Hotel/E-Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

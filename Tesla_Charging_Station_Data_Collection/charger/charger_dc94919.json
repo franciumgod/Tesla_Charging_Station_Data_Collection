@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Vaalimaa",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "49930",
+                "postalExt": null,
+                "state": null,
+                "street": "Rouvanmäentie 3",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.603507,
+                "longitude": 27.833809
+            },
+            "commonSiteName": "Zsar Outlet Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.603507,
+                "longitude": 27.833809
+            },
+            "locationGUID": "eb15adb6-b80a-48f0-9b4b-a7049003d4d4",
+            "maxPowerKw": 9,
+            "name": "Zsar Outlet Village",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

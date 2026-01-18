@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stuttgart",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "70597",
+                "postalExt": null,
+                "state": null,
+                "street": "Guts-Muths-Weg",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.750395,
+                "longitude": 9.191419
+            },
+            "commonSiteName": "Waldhotel Stuttgart GmbH",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.750395,
+                "longitude": 9.191419
+            },
+            "locationGUID": "5cb89e0f-e6d7-4466-98cf-8b5f81ca4380",
+            "maxPowerKw": 22,
+            "name": "Waldhotel Stuttgart GmbH",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

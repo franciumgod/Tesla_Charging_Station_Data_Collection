@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92122",
+                "postalExt": null,
+                "state": "CA",
+                "street": "La Jolla Village Dr",
+                "streetNumber": "3777"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.870556,
+                "longitude": -117.225331
+            },
+            "commonSiteName": "Hyatt Regency La Jolla at Aventine",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.870556,
+                "longitude": -117.225331
+            },
+            "locationGUID": "0e28a373-7534-40ae-acb7-7aab56d794f7",
+            "maxPowerKw": 6,
+            "name": "Hyatt Regency La Jolla at Aventine",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 10,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

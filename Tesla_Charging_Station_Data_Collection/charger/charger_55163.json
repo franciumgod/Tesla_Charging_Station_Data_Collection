@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Charleston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "29405",
+                "postalExt": null,
+                "state": "SC",
+                "street": "Meeting Street Rd.",
+                "streetNumber": "1705"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.824,
+                "longitude": -79.9521
+            },
+            "commonSiteName": "The Wonderer Charleston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.824,
+                "longitude": -79.9521
+            },
+            "locationGUID": "ea06a1f8-2ca0-48cb-8902-13c62fe76b3c",
+            "maxPowerKw": 19,
+            "name": "The Wonderer Charleston",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

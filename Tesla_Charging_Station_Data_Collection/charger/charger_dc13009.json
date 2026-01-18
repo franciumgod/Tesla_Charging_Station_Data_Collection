@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ashton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "83420",
+                "postalExt": null,
+                "state": "ID",
+                "street": "Main St.",
+                "streetNumber": "511"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.071793,
+                "longitude": -111.448201
+            },
+            "commonSiteName": "511 Main Pizzeria and Soda Fountain",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.071793,
+                "longitude": -111.448201
+            },
+            "locationGUID": "c6798702-63e2-4ff7-b4f0-7a643199f60a",
+            "maxPowerKw": 8,
+            "name": "511 Main Pizzeria and Soda Fountain",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Boise"
+        },
+        "success": true
+    }
+}

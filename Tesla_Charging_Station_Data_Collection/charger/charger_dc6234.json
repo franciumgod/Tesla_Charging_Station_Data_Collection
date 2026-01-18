@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sedona",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "86336",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "L'Auberge Ln",
+                "streetNumber": "301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.869234,
+                "longitude": -111.759369
+            },
+            "commonSiteName": "L'Auberge de Sedona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.869234,
+                "longitude": -111.759369
+            },
+            "locationGUID": "a5ada5ed-010f-4e30-9e53-77b09bf05a1f",
+            "maxPowerKw": 13,
+            "name": "L'Auberge de Sedona",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

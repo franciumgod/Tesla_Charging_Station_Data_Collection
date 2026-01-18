@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Lonsdale Street",
+                "streetNumber": "59"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.810074,
+                "longitude": 144.9704774
+            },
+            "commonSiteName": "Secure Parking - GLevel - 260 & 261",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.810074,
+                "longitude": 144.9704774
+            },
+            "locationGUID": "26dbc37d-1cf6-43a4-8412-e291efa8db36",
+            "maxPowerKw": 7,
+            "name": "Secure Parking - GLevel - 260 & 261",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

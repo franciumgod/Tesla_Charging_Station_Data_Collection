@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Odense",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5230",
+                "postalExt": null,
+                "state": null,
+                "street": "Hunderupgade",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.38098239,
+                "longitude": 10.39354694
+            },
+            "commonSiteName": "Best Western Hotel Knudsens Gaard",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.38098239,
+                "longitude": 10.39354694
+            },
+            "locationGUID": "05e6cbd3-775e-4226-905f-fca8fb79d4f9",
+            "maxPowerKw": 22,
+            "name": "Best Western Hotel Knudsens Gaard",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

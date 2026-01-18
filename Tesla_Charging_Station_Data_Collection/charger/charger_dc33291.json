@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lugo",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "27001",
+                "postalExt": null,
+                "state": "Galicia",
+                "street": "Rua do Miño",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.01018,
+                "longitude": -7.560248
+            },
+            "commonSiteName": "Hotel Monumento Pazo de Orbán",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.01018,
+                "longitude": -7.560248
+            },
+            "locationGUID": "06c9ebff-bfff-42eb-acd3-1a89eeb9cd49",
+            "maxPowerKw": 11,
+            "name": "Hotel Monumento Pazo de Orban e Sangro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

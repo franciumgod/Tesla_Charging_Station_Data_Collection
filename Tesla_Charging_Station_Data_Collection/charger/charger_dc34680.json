@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Falmouth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR11 5LG",
+                "postalExt": null,
+                "state": null,
+                "street": "Near Helford Passage, Mawnan Smith",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.10648739,
+                "longitude": -5.13237339
+            },
+            "commonSiteName": "Budock Vean Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.10648739,
+                "longitude": -5.13237339
+            },
+            "locationGUID": "15b3497f-49a4-442b-a00b-f38483eeacf5",
+            "maxPowerKw": 13,
+            "name": "Budock Vean Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

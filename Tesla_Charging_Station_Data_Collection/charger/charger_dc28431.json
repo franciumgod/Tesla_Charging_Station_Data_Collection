@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco Ocotlan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72680",
+                "postalExt": null,
+                "state": "PUE",
+                "street": "San Francisco Ocotlan",
+                "streetNumber": "Carretera Mexico-Puebla Km. 112-800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.140932,
+                "longitude": -98.278337
+            },
+            "commonSiteName": "Los Cochinitos",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.140932,
+                "longitude": -98.278337
+            },
+            "locationGUID": "c0565641-7b00-437d-8769-3d60aa2b8b5f",
+            "maxPowerKw": 18,
+            "name": "Los Cochinitos",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

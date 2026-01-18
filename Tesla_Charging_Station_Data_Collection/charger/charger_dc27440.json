@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Paz",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23090",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "San Antonio El Zacatal",
+                "streetNumber": "Libramiento Sur Daniel Roldan No. 1515 Int. A-1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.117263,
+                "longitude": -110.3374128
+            },
+            "commonSiteName": "Plaza Paseo la Paz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.117263,
+                "longitude": -110.3374128
+            },
+            "locationGUID": "28a46b9b-6f0c-4d6d-994e-31bd0c1e37d4",
+            "maxPowerKw": 18,
+            "name": "Plaza Paseo la Paz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mazatlan"
+        },
+        "success": true
+    }
+}

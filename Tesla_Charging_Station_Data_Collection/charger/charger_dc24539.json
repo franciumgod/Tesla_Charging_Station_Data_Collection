@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Golden Square",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3555",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "High St",
+                "streetNumber": "371"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.77435,
+                "longitude": 144.256939
+            },
+            "commonSiteName": "Golden Square Motor inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.77435,
+                "longitude": 144.256939
+            },
+            "locationGUID": "86ec3006-4560-4f97-9211-2c88ffc3862b",
+            "maxPowerKw": 22,
+            "name": "Golden Square Motor inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

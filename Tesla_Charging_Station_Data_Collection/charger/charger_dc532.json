@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5V 1H3",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Mercer St",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.645631,
+                "longitude": -79.390857
+            },
+            "commonSiteName": "Hotel Le Germain - Toronto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.645631,
+                "longitude": -79.390857
+            },
+            "locationGUID": "dd2e296d-935d-47f7-9a22-4ccdc1afed3a",
+            "maxPowerKw": 16,
+            "name": "Hotel Le Germain - Toronto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

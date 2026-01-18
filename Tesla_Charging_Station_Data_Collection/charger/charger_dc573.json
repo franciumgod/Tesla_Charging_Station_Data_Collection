@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Litchfield Park",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85340",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Wigwam Blvd",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.493427,
+                "longitude": -112.355033
+            },
+            "commonSiteName": "The Wigwam",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.493427,
+                "longitude": -112.355033
+            },
+            "locationGUID": "8a8131ec-017c-4983-acc4-0f61e9fc74bb",
+            "maxPowerKw": 16,
+            "name": "The Wigwam",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

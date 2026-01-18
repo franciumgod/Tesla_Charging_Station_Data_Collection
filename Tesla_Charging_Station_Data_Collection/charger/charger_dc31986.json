@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Frankfort",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "49635",
+                "postalExt": null,
+                "state": "MI",
+                "street": "Main St",
+                "streetNumber": "303"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.6326443,
+                "longitude": -86.2411286
+            },
+            "commonSiteName": "Stormcloud Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.6326443,
+                "longitude": -86.2411286
+            },
+            "locationGUID": "5eb0dc97-9dcf-4231-92dc-ec3b84f277a9",
+            "maxPowerKw": 16,
+            "name": "Stormcloud Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Marys",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N0M 1V0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Thomas St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.252444,
+                "longitude": -81.150515
+            },
+            "commonSiteName": "Westover Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.252444,
+                "longitude": -81.150515
+            },
+            "locationGUID": "5ed3025c-82a7-43a8-875c-d6d2b07ce70a",
+            "maxPowerKw": 16,
+            "name": "Westover Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

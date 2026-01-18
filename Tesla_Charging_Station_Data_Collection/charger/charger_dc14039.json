@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10025",
+                "postalExt": null,
+                "state": "NY",
+                "street": "West 105th St",
+                "streetNumber": "27"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.797771,
+                "longitude": -73.96142
+            },
+            "commonSiteName": "iPark NYC 455 Central Park West",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.797771,
+                "longitude": -73.96142
+            },
+            "locationGUID": "1b780e16-2792-4620-9c82-205a47d3ffc5",
+            "maxPowerKw": 8,
+            "name": "iPark NYC 455 Central Park West",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

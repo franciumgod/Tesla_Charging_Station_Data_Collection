@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10014",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 77th St",
+                "streetNumber": "165"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.773415,
+                "longitude": -73.959234
+            },
+            "commonSiteName": "iPark NYC E 77th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.773415,
+                "longitude": -73.959234
+            },
+            "locationGUID": "9f4bca81-a9d5-4238-975e-16594df0c3eb",
+            "maxPowerKw": 8,
+            "name": "iPark NYC E 77th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

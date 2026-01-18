@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mudgee",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2850",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Ulan Road",
+                "streetNumber": "433"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.563097,
+                "longitude": 149.620316
+            },
+            "commonSiteName": "Blue Wren Wines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.563097,
+                "longitude": 149.620316
+            },
+            "locationGUID": "51c119ff-3484-4f00-9c98-16d96b5dd2e4",
+            "maxPowerKw": 22,
+            "name": "Blue Wren Wines",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

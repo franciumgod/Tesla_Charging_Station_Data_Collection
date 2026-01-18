@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vrådal",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3853",
+                "postalExt": null,
+                "state": null,
+                "street": "Kviteseidvegen 1698",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.32437,
+                "longitude": 8.496242
+            },
+            "commonSiteName": "Quality Straand Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.32437,
+                "longitude": 8.496242
+            },
+            "locationGUID": "51fa0754-6735-4931-bf58-c8572d5e1944",
+            "maxPowerKw": 6,
+            "name": "Quality Straand Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

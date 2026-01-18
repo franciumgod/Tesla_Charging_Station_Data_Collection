@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": "Toronto",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5J 2M3",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Front St W",
+                "streetNumber": "123"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.6448715,
+                "longitude": -79.383021
+            },
+            "commonSiteName": "Citigroup Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.6448715,
+                "longitude": -79.383021
+            },
+            "locationGUID": "01c28e25-fc89-411e-a532-c97476786ff6",
+            "maxPowerKw": 10,
+            "name": "Citigroup Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

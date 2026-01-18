@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rab",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "51280",
+                "postalExt": null,
+                "state": null,
+                "street": "Supetarska Draga",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.803197,
+                "longitude": 14.725996
+            },
+            "commonSiteName": "ACI Marina Supetarska Draga",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.803197,
+                "longitude": 14.725996
+            },
+            "locationGUID": "96374913-9003-42c8-b335-955b4e57f7d5",
+            "maxPowerKw": 22,
+            "name": "ACI Marina Supetarska Draga",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

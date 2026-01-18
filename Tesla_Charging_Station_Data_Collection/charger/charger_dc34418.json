@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Morton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "56270",
+                "postalExt": null,
+                "state": "MN",
+                "street": "County Rd 24",
+                "streetNumber": "39375"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.53053,
+                "longitude": -94.998086
+            },
+            "commonSiteName": "Jackpot Junction Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.53053,
+                "longitude": -94.998086
+            },
+            "locationGUID": "978f8d76-cec4-4a97-acbf-f37db75d3bfa",
+            "maxPowerKw": 16,
+            "name": "Jackpot Junction Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

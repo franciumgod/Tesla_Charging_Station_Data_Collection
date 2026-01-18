@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Annecy le Vieux",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74940",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Jean Mermoz",
+                "streetNumber": "13"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.917903,
+                "longitude": 6.144625
+            },
+            "commonSiteName": "Clos des Sens",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.917903,
+                "longitude": 6.144625
+            },
+            "locationGUID": "2a00dd82-53ea-4730-a4af-8ceee4a3c4dd",
+            "maxPowerKw": 22,
+            "name": "Clos des Sens",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

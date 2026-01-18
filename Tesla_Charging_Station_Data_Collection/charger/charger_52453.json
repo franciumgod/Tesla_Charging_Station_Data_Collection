@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "East 9th Street",
+                "streetNumber": "91"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.730723,
+                "longitude": -73.990854
+            },
+            "commonSiteName": "GGMC 91 E 9th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.730723,
+                "longitude": -73.990854
+            },
+            "locationGUID": "de4f08f0-1d36-482c-8eec-ff0c371a0746",
+            "maxPowerKw": 8,
+            "name": "GGMC 91 E 9th Street",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

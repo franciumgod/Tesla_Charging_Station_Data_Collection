@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Driggs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "83422",
+                "postalExt": null,
+                "state": "ID",
+                "street": "N Highway",
+                "streetNumber": "1755"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.747162,
+                "longitude": -111.111474
+            },
+            "commonSiteName": "Grand Teton Distillery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.747162,
+                "longitude": -111.111474
+            },
+            "locationGUID": "cb5d5fd9-30d7-4fde-836d-d72d43a08ec2",
+            "maxPowerKw": 16,
+            "name": "Grand Teton Distillery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Boise"
+        },
+        "success": true
+    }
+}

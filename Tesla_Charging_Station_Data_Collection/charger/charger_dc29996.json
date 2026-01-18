@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Banff",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T1L 1J2",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Mountain Ave",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.151648,
+                "longitude": -115.559526
+            },
+            "commonSiteName": "The Rimrock Resort Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.151648,
+                "longitude": -115.559526
+            },
+            "locationGUID": "b32d760c-6365-42c7-beb6-fa0adfcfec73",
+            "maxPowerKw": 16,
+            "name": "The Rimrock Resort Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 9,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

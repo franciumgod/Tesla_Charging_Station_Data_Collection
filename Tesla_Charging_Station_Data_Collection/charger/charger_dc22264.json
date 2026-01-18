@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Norwich",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NR7 8RP",
+                "postalExt": null,
+                "state": "Norfolk",
+                "street": "Sprowston Manor",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.664274,
+                "longitude": 1.341352
+            },
+            "commonSiteName": "Sprowston Manor Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.664274,
+                "longitude": 1.341352
+            },
+            "locationGUID": "b5183659-e486-45c2-bcbc-687e74a2665d",
+            "maxPowerKw": 11,
+            "name": "Sprowston Manor Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

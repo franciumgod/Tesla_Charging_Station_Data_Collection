@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Glenelg",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5045",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Jetty Rd",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.98085346,
+                "longitude": 138.51193511
+            },
+            "commonSiteName": "Stamford Grand Adelaide",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.98085346,
+                "longitude": 138.51193511
+            },
+            "locationGUID": "33c65d66-a73a-40f1-aa06-608be9ce9672",
+            "maxPowerKw": 11,
+            "name": "Stamford Grand Adelaide",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

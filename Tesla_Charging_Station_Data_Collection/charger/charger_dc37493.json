@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Illertissen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "89257",
+                "postalExt": null,
+                "state": null,
+                "street": "Schlossallee",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.22182,
+                "longitude": 10.112265
+            },
+            "commonSiteName": "Hotel am Schloss Illertissen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.22182,
+                "longitude": 10.112265
+            },
+            "locationGUID": "eb1ff3f4-3d3d-47c4-a30c-832f4503edae",
+            "maxPowerKw": 11,
+            "name": "Hotel am Schloss Illertissen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

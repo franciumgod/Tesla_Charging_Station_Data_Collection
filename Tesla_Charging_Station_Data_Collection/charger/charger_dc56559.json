@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nagasaki",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "850",
+                "postalExt": "0057",
+                "state": "Nagasaki",
+                "street": "Daikokumachi",
+                "streetNumber": "14-5"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.751524,
+                "longitude": 129.871679
+            },
+            "commonSiteName": "ホテルニュー長崎",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.751524,
+                "longitude": 129.871679
+            },
+            "locationGUID": "890397c2-266e-4070-888b-1c420a9e8307",
+            "maxPowerKw": 10,
+            "name": "Hotel New Nagasaki",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

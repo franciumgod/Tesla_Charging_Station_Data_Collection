@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Edinburgh",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "EH3 9SR",
+                "postalExt": null,
+                "state": null,
+                "street": "Festival Square",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.946718,
+                "longitude": -3.208237
+            },
+            "commonSiteName": "Sheraton Grand Hotel & SPA",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.946718,
+                "longitude": -3.208237
+            },
+            "locationGUID": "5f7ffb06-8ee6-4cb8-9e3e-b471b1e2ccdf",
+            "maxPowerKw": 22,
+            "name": "Sheraton Grand Hotel & SPA",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

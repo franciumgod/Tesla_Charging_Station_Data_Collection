@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barjouville",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28630",
+                "postalExt": null,
+                "state": "Centre",
+                "street": "Rue des pierres Missigault",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.414987,
+                "longitude": 1.464545
+            },
+            "commonSiteName": "Orée de Chartres",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.414987,
+                "longitude": 1.464545
+            },
+            "locationGUID": "eabd08b8-bc3c-46f3-b589-9ed4d63a7c79",
+            "maxPowerKw": 22,
+            "name": "Orée de Chartres",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Podgora",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21327",
+                "postalExt": null,
+                "state": null,
+                "street": "Ul. Tina Ujevica",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.236924,
+                "longitude": 17.077801
+            },
+            "commonSiteName": "Hotel Medora Auri",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.236924,
+                "longitude": 17.077801
+            },
+            "locationGUID": "73408d8f-b7be-4957-92a8-7a63cf615892",
+            "maxPowerKw": 11,
+            "name": "Hotel Medora Auri",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

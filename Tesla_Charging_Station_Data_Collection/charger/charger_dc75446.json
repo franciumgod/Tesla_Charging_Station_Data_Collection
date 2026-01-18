@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6B 3A4",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Richards Street",
+                "streetNumber": "788"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.280564,
+                "longitude": -123.117098
+            },
+            "commonSiteName": "L'Hermitage Hotel Vancouver",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.280564,
+                "longitude": -123.117098
+            },
+            "locationGUID": "689d638f-1737-4283-90ae-c72ff845fbe4",
+            "maxPowerKw": 16,
+            "name": "L'Hermitage Hotel Vancouver",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

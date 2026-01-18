@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sandane",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6823",
+                "postalExt": null,
+                "state": null,
+                "street": "Gloppen Hotell",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.775127,
+                "longitude": 6.216503
+            },
+            "commonSiteName": "Gloppen Hotell",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.775127,
+                "longitude": 6.216503
+            },
+            "locationGUID": "ce4831a9-ba48-4835-92e7-fcd60bd83c0b",
+            "maxPowerKw": 13,
+            "name": "Gloppen Hotell",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

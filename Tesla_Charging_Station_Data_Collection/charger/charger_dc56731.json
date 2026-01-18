@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Calgary",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T2G 1B1",
+                "postalExt": null,
+                "state": "AB",
+                "street": "1st St SE",
+                "streetNumber": "1100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.041995,
+                "longitude": -114.060321
+            },
+            "commonSiteName": "Impark (Keynote Parking Garage)",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.041995,
+                "longitude": -114.060321
+            },
+            "locationGUID": "b8936fbb-9326-46d6-b383-a42911b3149a",
+            "maxPowerKw": 16,
+            "name": "Impark (Keynote Parking Garage)",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tørvikbygd",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5620",
+                "postalExt": null,
+                "state": null,
+                "street": "Tangavegen",
+                "streetNumber": "131"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.25065,
+                "longitude": 6.138798
+            },
+            "commonSiteName": "Hardingasete",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.25065,
+                "longitude": 6.138798
+            },
+            "locationGUID": "7b5a596a-8cc7-4721-823b-c968d069b992",
+            "maxPowerKw": 22,
+            "name": "Hardingasete",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

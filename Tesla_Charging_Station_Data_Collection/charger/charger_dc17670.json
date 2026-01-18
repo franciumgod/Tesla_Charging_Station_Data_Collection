@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leeds",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LS2 8BT",
+                "postalExt": null,
+                "state": "West Yorkshire",
+                "street": "Merrion Centre Multi-Storey Car Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.802178,
+                "longitude": -1.543019
+            },
+            "commonSiteName": "CitiPark Merrion Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.802178,
+                "longitude": -1.543019
+            },
+            "locationGUID": "7bc60ad6-d6da-4746-bc13-ad5658e2f00e",
+            "maxPowerKw": 7,
+            "name": "CitiPark Merrion Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

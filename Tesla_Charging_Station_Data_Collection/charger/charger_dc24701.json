@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Henridorff",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "57820",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Vieille Cité",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.71918393,
+                "longitude": 7.22552087
+            },
+            "commonSiteName": "Brasserie des Eclusiers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.71918393,
+                "longitude": 7.22552087
+            },
+            "locationGUID": "78280dd9-40ae-4b27-b9ba-88476b87f0de",
+            "maxPowerKw": 11,
+            "name": "Brasserie des Eclusiers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Trun",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7166",
+                "postalExt": null,
+                "state": null,
+                "street": "Via principala",
+                "streetNumber": "78"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.801932,
+                "longitude": 10.731721
+            },
+            "commonSiteName": "Casa Toedi",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.801932,
+                "longitude": 10.731721
+            },
+            "locationGUID": "dca21ea8-786a-4639-bf58-b493a2b05260",
+            "maxPowerKw": 14,
+            "name": "Casa Toedi",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

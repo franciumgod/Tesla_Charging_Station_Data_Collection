@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Harlingen",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8861CJ",
+                "postalExt": null,
+                "state": null,
+                "street": "Zuiderhaven 1",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.175467,
+                "longitude": 5.413871
+            },
+            "commonSiteName": "Logis Hotel Restaurant Zeezicht",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.175467,
+                "longitude": 5.413871
+            },
+            "locationGUID": "ae3e6009-3ad3-489c-9baa-2e5611ad19ea",
+            "maxPowerKw": 11,
+            "name": "Logis Hotel Restaurant Zeezicht",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

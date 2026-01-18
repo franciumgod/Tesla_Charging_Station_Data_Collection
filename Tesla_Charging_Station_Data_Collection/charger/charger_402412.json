@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vrchlabi",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": "Ústí nad Orlicí",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "543 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Tkalcovská",
+                "streetNumber": "357"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.0837914,
+                "longitude": 16.7491425
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.0837914,
+                "longitude": 16.7491425
+            },
+            "locationGUID": "48e2d7ff-38d6-4565-bae3-4e61132f5c22",
+            "maxPowerKw": 11,
+            "name": "Hotel TTC",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

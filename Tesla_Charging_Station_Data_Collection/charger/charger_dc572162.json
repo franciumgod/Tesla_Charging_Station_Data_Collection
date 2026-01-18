@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Moruya",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2537",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Evans St",
+                "streetNumber": "28A"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.913611,
+                "longitude": 150.075833
+            },
+            "commonSiteName": "Moruya Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.913611,
+                "longitude": 150.075833
+            },
+            "locationGUID": "1222ca1f-50af-4a99-83bf-b0616de059c9",
+            "maxPowerKw": 19,
+            "name": "Moruya Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

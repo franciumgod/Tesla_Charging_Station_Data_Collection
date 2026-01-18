@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Pedro Garza Garcia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66220",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Colonia Del Valle",
+                "streetNumber": "Calzada 401 Ote."
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.655413,
+                "longitude": -100.361534
+            },
+            "commonSiteName": "Calzad401 Monterrey",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.655413,
+                "longitude": -100.361534
+            },
+            "locationGUID": "cf2a575c-1c85-4257-a6b3-c48f2def94d5",
+            "maxPowerKw": 18,
+            "name": "Calzad401 Monterrey",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

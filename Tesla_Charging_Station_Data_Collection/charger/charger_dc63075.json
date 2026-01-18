@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salt Spring Island",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V8K 2V7",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Lower Ganges Rd",
+                "streetNumber": "374"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.8609898,
+                "longitude": -123.51193684
+            },
+            "commonSiteName": "Country Grocer",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.8609898,
+                "longitude": -123.51193684
+            },
+            "locationGUID": "e1d92c52-ada9-42e2-90de-9a36ca175694",
+            "maxPowerKw": 17,
+            "name": "Country Grocer",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tijuana",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22320",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Via Oriente Zona del Rio",
+                "streetNumber": "9211"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.537168,
+                "longitude": -117.026177
+            },
+            "commonSiteName": "Hotel Pueblo Amigo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.537168,
+                "longitude": -117.026177
+            },
+            "locationGUID": "dd2065df-6800-44b9-82ba-4ffd5af30f5d",
+            "maxPowerKw": 8,
+            "name": "Hotel Pueblo Amigo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

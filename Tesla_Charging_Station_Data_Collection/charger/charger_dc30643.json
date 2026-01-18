@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Havelock North",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4130",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Te Aute Rd",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -39.670312,
+                "longitude": 176.875959
+            },
+            "commonSiteName": "Porters Boutique Hotel & Malo Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -39.670312,
+                "longitude": 176.875959
+            },
+            "locationGUID": "1537cea6-86b6-48df-8a36-c2ee79732c96",
+            "maxPowerKw": 22,
+            "name": "Porters Boutique Hotel & Malo Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

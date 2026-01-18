@@ -1,0 +1,257 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Long Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90802",
+                "postalExt": null,
+                "state": "CA",
+                "street": "E Ocean Blvd",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.125,
+                            0.09375,
+                            0.09375,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.09375,
+                            0.0625,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.09375,
+                            0.0625,
+                            0.09375,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.0625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.125,
+                            0.140625,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.025
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.037500000000000006,
+                            0.05,
+                            0.037500000000000006,
+                            0.07500000000000001,
+                            0.0625,
+                            0.05,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.025,
+                            0.07500000000000001,
+                            0.07500000000000001,
+                            0.08750000000000001,
+                            0.05
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 653,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 2560,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "-25200s"
+            },
+            "centroid": {
+                "latitude": 33.767198,
+                "longitude": -118.191987
+            },
+            "commonSiteName": "Renaissance Long Beach Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.767198,
+                "longitude": -118.191987
+            },
+            "locationGUID": "cfca59ae-bcc3-4064-a091-a2a92c945c60",
+            "maxPowerKw": 8,
+            "name": "Renaissance Long Beach Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

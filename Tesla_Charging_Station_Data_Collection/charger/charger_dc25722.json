@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seguin",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "P2A 2W8",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Haven Dr",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.294177,
+                "longitude": -79.855224
+            },
+            "commonSiteName": "Horseshoe Pines Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.294177,
+                "longitude": -79.855224
+            },
+            "locationGUID": "244c19f9-15c5-4cba-9710-b185480250f5",
+            "maxPowerKw": 16,
+            "name": "Horseshoe Pines Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

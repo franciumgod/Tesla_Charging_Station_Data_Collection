@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lake St Clair",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7140",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Lake St Clair Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -42.105759,
+                "longitude": 146.20613
+            },
+            "commonSiteName": "Pumphouse Point",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -42.105759,
+                "longitude": 146.20613
+            },
+            "locationGUID": "253dd8c4-72c8-47c9-bc48-3fae8d2be0bd",
+            "maxPowerKw": 22,
+            "name": "Pumphouse Point",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Hobart"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Yamagata",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "990",
+                "postalExt": "2338",
+                "state": "Yamagata",
+                "street": "Zaou Matsugaoka",
+                "streetNumber": "2-1-3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0.0625,
+                            0.10416666666666666,
+                            0.171875,
+                            0.140625,
+                            0.15625,
+                            0.0625,
+                            0.09375,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.146875,
+                            0.1875
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.078125,
+                            0.0859375,
+                            0.0859375,
+                            0.1484375,
+                            0.171875,
+                            0.171875,
+                            0.109375,
+                            0.109375,
+                            0.0859375,
+                            0.0625,
+                            0.0625,
+                            0.14453125,
+                            0.15625,
+                            0.1171875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.23125,
+                            0.15625,
+                            0.15625,
+                            0.11458333333333334,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.109375,
+                            0.14583333333333334,
+                            0.125,
+                            0.09375,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.0625,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.203125,
+                            0.14453125,
+                            0.0859375,
+                            0.1484375,
+                            0.203125,
+                            0.1484375,
+                            0.125,
+                            0.0625,
+                            0.078125,
+                            0.09375,
+                            0.046875,
+                            0.0859375,
+                            0.09375,
+                            0.0859375,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.05,
+                            0.07500000000000001,
+                            0.08750000000000001,
+                            0.1375,
+                            0.15,
+                            0.15,
+                            0.08333333333333334,
+                            0.05,
+                            0.025,
+                            0.025,
+                            0.025,
+                            0,
+                            0.05,
+                            0.07500000000000001,
+                            0.08750000000000001,
+                            0.08750000000000001,
+                            0.0625,
+                            0.05,
+                            0,
+                            0,
+                            0.03333333333333334,
+                            0.04583333333333334,
+                            0.03958333333333333,
+                            0.05625
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.1484375,
+                            0.23125,
+                            0.25,
+                            0.25,
+                            0.15625,
+                            0.15625,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0859375,
+                            0.109375,
+                            0.109375,
+                            0.171875,
+                            0.15625,
+                            0.14453125,
+                            0.11458333333333334,
+                            0.140625,
+                            0.125,
+                            0.0625,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 5915,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 26108,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 38.19284,
+                "longitude": 140.311353
+            },
+            "commonSiteName": "Cybele",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 38.19269768,
+                "longitude": 140.31067636
+            },
+            "locationGUID": "13965e3f-0e7a-4b2c-8b03-3f4c28e6583a",
+            "maxPowerKw": 250,
+            "name": "Yamagata, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

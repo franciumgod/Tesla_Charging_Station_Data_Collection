@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Maastricht",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6211 NW",
+                "postalExt": null,
+                "state": "Limburg",
+                "street": "Kruisherengang",
+                "streetNumber": "19"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.84730571,
+                "longitude": 5.68510371
+            },
+            "commonSiteName": "KruisherenHotel Maastricht",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.84730571,
+                "longitude": 5.68510371
+            },
+            "locationGUID": "f805ef57-c6ce-40ef-8e0c-8c2f9b608cce",
+            "maxPowerKw": 11,
+            "name": "KruisherenHotel Maastricht",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

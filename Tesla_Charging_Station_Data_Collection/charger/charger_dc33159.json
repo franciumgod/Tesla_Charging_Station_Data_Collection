@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berlin",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10367",
+                "postalExt": null,
+                "state": null,
+                "street": "Vulkanstrasse",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.524338,
+                "longitude": 13.485937
+            },
+            "commonSiteName": "Squash House Berlin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.524338,
+                "longitude": 13.485937
+            },
+            "locationGUID": "4ea9a885-c697-4b4b-a731-89bc80cb52de",
+            "maxPowerKw": 22,
+            "name": "Squash House Berlin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

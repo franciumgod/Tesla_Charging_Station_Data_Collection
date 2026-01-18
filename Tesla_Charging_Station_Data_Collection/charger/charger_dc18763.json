@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "18337",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Broad St",
+                "streetNumber": "401"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.323691,
+                "longitude": -74.801177
+            },
+            "commonSiteName": "Hotel Fauchere",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.323691,
+                "longitude": -74.801177
+            },
+            "locationGUID": "196ac06b-3485-48dd-b55e-6cd933ef45e8",
+            "maxPowerKw": 20,
+            "name": "Hotel Fauchere",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

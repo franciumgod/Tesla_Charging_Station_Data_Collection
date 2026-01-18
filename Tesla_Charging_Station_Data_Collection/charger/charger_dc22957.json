@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vernante",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "12019",
+                "postalExt": null,
+                "state": null,
+                "street": "Strada Statale 20",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.2438,
+                "longitude": 7.533107
+            },
+            "commonSiteName": "Relais del Nazionale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.2438,
+                "longitude": 7.533107
+            },
+            "locationGUID": "0c6cd920-a524-483d-a379-9c53f98de090",
+            "maxPowerKw": 11,
+            "name": "Relais del Nazionale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

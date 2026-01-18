@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Christchurch Central",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "8013",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Park Ter",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -43.525946,
+                "longitude": 172.628785
+            },
+            "commonSiteName": "The George Christchurch",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -43.525946,
+                "longitude": 172.628785
+            },
+            "locationGUID": "0ff2cabb-ee8f-401d-a1c2-bda793cbe541",
+            "maxPowerKw": 11,
+            "name": "The George Christchurch",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alvaro Obregon",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "1219",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Zedec Santa Fe",
+                "streetNumber": "Calle Antonio Dovali Jaime, 70"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.367878,
+                "longitude": -99.259444
+            },
+            "commonSiteName": "Samara Santa Fe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.367878,
+                "longitude": -99.259444
+            },
+            "locationGUID": "bb33befa-a520-4998-9515-aa197de9b8fd",
+            "maxPowerKw": 18,
+            "name": "Samara Santa Fe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

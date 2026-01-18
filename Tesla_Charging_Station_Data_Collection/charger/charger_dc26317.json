@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berkeley Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25411",
+                "postalExt": null,
+                "state": "WV",
+                "street": "S Washington St",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.62583,
+                "longitude": -78.229043
+            },
+            "commonSiteName": "The Country Inn of Berkeley Springs",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.62583,
+                "longitude": -78.229043
+            },
+            "locationGUID": "cb25d87f-00c7-4e4d-b3f6-a6941b204b8b",
+            "maxPowerKw": 16,
+            "name": "The Country Inn of Berkeley Springs",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

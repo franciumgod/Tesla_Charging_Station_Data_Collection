@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kapusany",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "082 12",
+                "postalExt": null,
+                "state": null,
+                "street": "Bardejovska",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.053058,
+                "longitude": 21.337589
+            },
+            "commonSiteName": "Farmer Kapusany",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.053058,
+                "longitude": 21.337589
+            },
+            "locationGUID": "d8e36a21-53e3-406c-afa2-0de2b972d347",
+            "maxPowerKw": 22,
+            "name": "Farmer Kapusany",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sidney",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V8L 2P6",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Harbour Rd",
+                "streetNumber": "2320"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.6672287,
+                "longitude": -123.4044729
+            },
+            "commonSiteName": "Van Isle Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.6672287,
+                "longitude": -123.4044729
+            },
+            "locationGUID": "35e5a1fe-7a0e-4048-910f-5a46ca968b00",
+            "maxPowerKw": 10,
+            "name": "Van Isle Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cairns",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4870",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Abbott St",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -16.924311,
+                "longitude": 145.778862
+            },
+            "commonSiteName": "Pullman Cairns International",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -16.924311,
+                "longitude": 145.778862
+            },
+            "locationGUID": "3cc93a92-b9c8-4a66-8020-67af99ae29e6",
+            "maxPowerKw": 22,
+            "name": "Pullman Cairns International",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

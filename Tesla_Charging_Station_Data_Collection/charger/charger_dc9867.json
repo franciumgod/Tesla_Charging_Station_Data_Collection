@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Orta San Giulio",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28016",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Fava 18",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.79658469,
+                "longitude": 8.41572163
+            },
+            "commonSiteName": "Villa Crespi",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.79658469,
+                "longitude": 8.41572163
+            },
+            "locationGUID": "f64ef94e-0776-40ee-8bc8-d9b52b668aa2",
+            "maxPowerKw": 11,
+            "name": "Villa Crespi",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kansas City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64132",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Starlight Road",
+                "streetNumber": "4600"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.007208,
+                "longitude": -94.534048
+            },
+            "commonSiteName": "Starlight Theatre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.007208,
+                "longitude": -94.534048
+            },
+            "locationGUID": "a48ce41f-429b-4965-82a7-d811c2d18853",
+            "maxPowerKw": 16,
+            "name": "Starlight Theatre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

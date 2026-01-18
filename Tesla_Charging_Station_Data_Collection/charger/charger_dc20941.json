@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ciudad de Mexico",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "4890",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Cipreses",
+                "streetNumber": "Av. H. Escuela Naval Militar 753"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.317387,
+                "longitude": -99.124788
+            },
+            "commonSiteName": "Walmart Miramontes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.317387,
+                "longitude": -99.124788
+            },
+            "locationGUID": "eda938be-f4ca-4c27-afa4-599b9921dc46",
+            "maxPowerKw": 18,
+            "name": "Walmart Miramontes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Caceres",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10001",
+                "postalExt": null,
+                "state": "Extremadura",
+                "street": "Avenida Virgen de Guadalupe",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.469461,
+                "longitude": -6.38433
+            },
+            "commonSiteName": "Hotel Extremadura",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.469461,
+                "longitude": -6.38433
+            },
+            "locationGUID": "94e8f7e3-b5d9-4207-9bdf-dd1a37cec99e",
+            "maxPowerKw": 14,
+            "name": "Hotel Extremadura",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

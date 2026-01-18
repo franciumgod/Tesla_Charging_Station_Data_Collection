@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Belfast",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BT1 1DD",
+                "postalExt": null,
+                "state": null,
+                "street": "Royal Avenue",
+                "streetNumber": "12-56 (Level 5)"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.600554,
+                "longitude": -5.93401
+            },
+            "commonSiteName": "CastleCourt Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.600554,
+                "longitude": -5.93401
+            },
+            "locationGUID": "0125e757-b5e4-430d-a6ea-b1215835802f",
+            "maxPowerKw": 17,
+            "name": "CastleCourt Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

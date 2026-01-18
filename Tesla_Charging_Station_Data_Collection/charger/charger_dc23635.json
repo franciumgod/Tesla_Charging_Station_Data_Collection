@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mainz",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "55116",
+                "postalExt": null,
+                "state": null,
+                "street": "Templerstrasse",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.996864,
+                "longitude": 8.280712
+            },
+            "commonSiteName": "Hyatt Regency Mainz Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.996864,
+                "longitude": 8.280712
+            },
+            "locationGUID": "b9c758e1-6943-498f-9255-6d6c40efc006",
+            "maxPowerKw": 22,
+            "name": "Hyatt Regency Mainz Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

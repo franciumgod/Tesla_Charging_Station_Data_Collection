@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hoboken",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "07030",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "River St",
+                "streetNumber": "225"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.7391898,
+                "longitude": -74.0277601
+            },
+            "commonSiteName": "W Hoboken",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.7391898,
+                "longitude": -74.0277601
+            },
+            "locationGUID": "63ad0cfc-43bc-4a1d-8a83-81a018dd91cb",
+            "maxPowerKw": 18,
+            "name": "W Hoboken",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zederhaus",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5584",
+                "postalExt": null,
+                "state": null,
+                "street": "Zederhaus",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.151267,
+                "longitude": 13.509877
+            },
+            "commonSiteName": "COOEE alpin Lungau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.151267,
+                "longitude": 13.509877
+            },
+            "locationGUID": "e3559f68-c1b3-4ebb-8621-b4691abdf8f1",
+            "maxPowerKw": 17,
+            "name": "COOEE alpin Lungau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

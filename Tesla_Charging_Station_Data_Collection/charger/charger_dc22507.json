@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Orleans",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70112",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Baronne St",
+                "streetNumber": "225"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.952822,
+                "longitude": -90.072423
+            },
+            "commonSiteName": "Aloft New Orleans Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.952822,
+                "longitude": -90.072423
+            },
+            "locationGUID": "a900b83e-20a0-41df-884c-1f303421faa6",
+            "maxPowerKw": 8,
+            "name": "Aloft New Orleans Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

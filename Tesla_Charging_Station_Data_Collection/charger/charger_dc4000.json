@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hong Kong Disneyland Resort",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "New Territories",
+                "street": "Fantasy Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.316345,
+                "longitude": 114.047992
+            },
+            "commonSiteName": "Hong Kong Disneyland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.316345,
+                "longitude": 114.047992
+            },
+            "locationGUID": "bd99dd7d-36f8-4f6a-937d-ab3ee6c78132",
+            "maxPowerKw": 6,
+            "name": "Hong Kong Disneyland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

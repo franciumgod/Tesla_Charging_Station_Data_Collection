@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paris",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "75116",
+                "postalExt": null,
+                "state": null,
+                "street": "10 Avenue d'Iéna",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.863761,
+                "longitude": 2.293262
+            },
+            "commonSiteName": "Shangri-La Hotel Paris",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.863761,
+                "longitude": 2.293262
+            },
+            "locationGUID": "15d17314-0a8e-4d70-8b46-0e22c84d51a6",
+            "maxPowerKw": 17,
+            "name": "Shangri-La Hotel Paris",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

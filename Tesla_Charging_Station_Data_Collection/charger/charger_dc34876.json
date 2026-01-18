@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Belgrade",
+                "country": "Serbia",
+                "countryCode": "RS",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11000",
+                "postalExt": null,
+                "state": null,
+                "street": "Sumatovacka",
+                "streetNumber": "42"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.795242,
+                "longitude": 20.472455
+            },
+            "commonSiteName": "Hotel Tesla Smart Stay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.795242,
+                "longitude": 20.472455
+            },
+            "locationGUID": "39a23347-4e25-44fe-b793-e435c866349c",
+            "maxPowerKw": 10,
+            "name": "Hotel Tesla Smart Stay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Belgrade"
+        },
+        "success": true
+    }
+}

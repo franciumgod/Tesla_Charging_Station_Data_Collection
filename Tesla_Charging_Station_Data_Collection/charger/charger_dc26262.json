@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hobro",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9500",
+                "postalExt": null,
+                "state": null,
+                "street": "Amerikavej 48",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.634493,
+                "longitude": 9.836403
+            },
+            "commonSiteName": "Hotel Amerika",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.634493,
+                "longitude": 9.836403
+            },
+            "locationGUID": "e1787a7d-f80c-46b9-afec-19f73088bede",
+            "maxPowerKw": 14,
+            "name": "Hotel Amerika",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

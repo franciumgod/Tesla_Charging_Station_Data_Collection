@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gosselies",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6044",
+                "postalExt": null,
+                "state": null,
+                "street": "Chaussée de Courcelles 115",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.46464063,
+                "longitude": 4.41784363
+            },
+            "commonSiteName": "Van der Valk Hotel Charleroi Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.46464063,
+                "longitude": 4.41784363
+            },
+            "locationGUID": "d558db3f-2867-49de-a2f0-9af1d3174f92",
+            "maxPowerKw": 22,
+            "name": "Van der Valk Hotel Charleroi Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

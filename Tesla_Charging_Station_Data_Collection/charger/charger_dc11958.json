@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Yass",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2582",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Meehan Street",
+                "streetNumber": "86"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.841831,
+                "longitude": 148.912575
+            },
+            "commonSiteName": "Yass Soldiers Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.841831,
+                "longitude": 148.912575
+            },
+            "locationGUID": "e5991677-5580-4021-9aab-a4f9b6c38669",
+            "maxPowerKw": 22,
+            "name": "Yass Soldiers Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

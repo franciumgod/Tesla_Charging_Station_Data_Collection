@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beamsville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L0R 1B1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Cherry Ave",
+                "streetNumber": "4551"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.177911,
+                "longitude": -79.413136
+            },
+            "commonSiteName": "Royal DeMaria Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.177911,
+                "longitude": -79.413136
+            },
+            "locationGUID": "f0512c1f-5a7f-4a2a-9e7e-3cb2542f31f4",
+            "maxPowerKw": 16,
+            "name": "Royal DeMaria Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

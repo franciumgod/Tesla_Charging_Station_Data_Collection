@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10023",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 66th St",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.772742,
+                "longitude": -73.979503
+            },
+            "commonSiteName": "GGMC Parking 10 W 66th St Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.772742,
+                "longitude": -73.979503
+            },
+            "locationGUID": "54959801-d131-4f18-8f14-7bb4160b5e62",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking 10 W 66th St Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

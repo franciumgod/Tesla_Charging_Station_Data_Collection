@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lugano",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6906",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Castagnola",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.006535,
+                "longitude": 8.969952
+            },
+            "commonSiteName": "Grand Hotel Villa Castagnola",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.006535,
+                "longitude": 8.969952
+            },
+            "locationGUID": "815982d7-caa3-454b-b63e-34ca2ee0ecf6",
+            "maxPowerKw": 11,
+            "name": "Grand Hotel Villa Castagnola",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

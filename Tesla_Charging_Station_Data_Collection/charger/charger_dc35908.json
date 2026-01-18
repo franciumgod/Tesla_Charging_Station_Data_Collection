@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nykvarn",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "15591",
+                "postalExt": null,
+                "state": null,
+                "street": "Gamla Strängnäsvägen 335 B",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.193807,
+                "longitude": 17.445908
+            },
+            "commonSiteName": "Turinge Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.193807,
+                "longitude": 17.445908
+            },
+            "locationGUID": "2acbbdab-f56b-42a9-b199-edbcef7262b3",
+            "maxPowerKw": 11,
+            "name": "Turinge Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

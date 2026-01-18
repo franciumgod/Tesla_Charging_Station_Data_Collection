@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geilo",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3580",
+                "postalExt": null,
+                "state": "Buskerud",
+                "street": "Timrehaugvegen",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.535994,
+                "longitude": 8.208308
+            },
+            "commonSiteName": "Dr Holms Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.535994,
+                "longitude": 8.208308
+            },
+            "locationGUID": "ac3cb042-56b4-4df7-b847-b288f20a54b5",
+            "maxPowerKw": 7,
+            "name": "Dr Holms Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

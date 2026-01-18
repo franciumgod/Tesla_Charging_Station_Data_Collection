@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8029",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Av. Diagonal",
+                "streetNumber": "559"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.389702,
+                "longitude": 2.134665
+            },
+            "commonSiteName": "Centro Comercial L'Illa Diagonal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.389702,
+                "longitude": 2.134665
+            },
+            "locationGUID": "7042522f-6175-4f61-9921-5d5373d0a30d",
+            "maxPowerKw": 22,
+            "name": "Centro Comercial L'Illa Diagonal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

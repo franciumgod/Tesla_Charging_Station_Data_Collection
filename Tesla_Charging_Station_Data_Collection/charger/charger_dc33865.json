@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sale",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "M33 3QN",
+                "postalExt": null,
+                "state": "Cheshire",
+                "street": "143 Brooklands Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.412376,
+                "longitude": -2.31989
+            },
+            "commonSiteName": "The Belmore at Sale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.412376,
+                "longitude": -2.31989
+            },
+            "locationGUID": "2105415f-a3b9-4740-8d2b-9ade8a6a849c",
+            "maxPowerKw": 22,
+            "name": "The Belmore at Sale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

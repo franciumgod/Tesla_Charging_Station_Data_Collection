@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zapopan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45130",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Arcos de Zapopan",
+                "streetNumber": "Av. Juan Gil Preciado 1544"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.74461596,
+                "longitude": -103.40974979
+            },
+            "commonSiteName": "Patio La Cima",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.74461596,
+                "longitude": -103.40974979
+            },
+            "locationGUID": "c45ecaf1-d918-493b-8585-ca7ee46f6eca",
+            "maxPowerKw": 18,
+            "name": "Patio La Cima",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

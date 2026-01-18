@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bosch en Duin",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3735 KN",
+                "postalExt": null,
+                "state": null,
+                "street": "Vosselaan",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.12404,
+                "longitude": 5.246345
+            },
+            "commonSiteName": "HFSLG",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.12404,
+                "longitude": 5.246345
+            },
+            "locationGUID": "cf6c8367-325f-4900-8408-acaad2eaa4b3",
+            "maxPowerKw": 22,
+            "name": "HFSLG",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

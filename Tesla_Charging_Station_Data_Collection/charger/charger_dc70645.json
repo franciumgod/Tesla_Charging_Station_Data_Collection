@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Amman",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "N/A",
+                "postalExt": null,
+                "state": null,
+                "street": "Airport Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.751603,
+                "longitude": 35.939779
+            },
+            "commonSiteName": "American Products Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.751603,
+                "longitude": 35.939779
+            },
+            "locationGUID": "63e1ce4d-8e60-4e7c-adc9-9e87d10823e4",
+            "maxPowerKw": 22,
+            "name": "American Products Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

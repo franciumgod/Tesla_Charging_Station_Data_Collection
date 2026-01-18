@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Haast",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7886",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Jackson Bay Road",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -43.85878531,
+                "longitude": 169.04348467
+            },
+            "commonSiteName": "Heartland Hotel Haast",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -43.85878531,
+                "longitude": 169.04348467
+            },
+            "locationGUID": "72ed5987-2c1b-48f4-bf19-f06ba610836e",
+            "maxPowerKw": 6,
+            "name": "Heartland Hotel Haast",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

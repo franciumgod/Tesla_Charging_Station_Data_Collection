@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cesenatico",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "47042",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Carducci",
+                "streetNumber": "120"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.200129,
+                "longitude": 12.405725
+            },
+            "commonSiteName": "Hotel Esplanade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.200129,
+                "longitude": 12.405725
+            },
+            "locationGUID": "beb49ada-35eb-470e-bfc2-0029a2a94f66",
+            "maxPowerKw": 11,
+            "name": "Hotel Esplanade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

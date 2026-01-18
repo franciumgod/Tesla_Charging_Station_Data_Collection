@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94103",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Mission St",
+                "streetNumber": "780"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.7849,
+                "longitude": -122.4043
+            },
+            "commonSiteName": "San Francisco Marriott Marquis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.7849,
+                "longitude": -122.4043
+            },
+            "locationGUID": "3fb58bf2-736b-4dad-9808-7fceb9c55f56",
+            "maxPowerKw": 13,
+            "name": "San Francisco Marriott Marquis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

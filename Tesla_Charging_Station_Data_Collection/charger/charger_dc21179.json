@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "München",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "80538",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Tucherpark",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.152605,
+                "longitude": 11.598778
+            },
+            "commonSiteName": "Hilton Munich Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.152605,
+                "longitude": 11.598778
+            },
+            "locationGUID": "fa496f6c-df46-4135-8e3b-6f3923b58c8a",
+            "maxPowerKw": 22,
+            "name": "Hilton Munich Park",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alicante",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3002",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Calle Rafael Altamira",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.344504,
+                "longitude": -0.482544
+            },
+            "commonSiteName": "Hotel Hospes Amerigo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.344504,
+                "longitude": -0.482544
+            },
+            "locationGUID": "4d69cc42-2c43-481a-9aae-2829791c74bb",
+            "maxPowerKw": 22,
+            "name": "Hotel Hospes Amerigo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

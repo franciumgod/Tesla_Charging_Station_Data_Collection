@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "DeSoto",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "75115",
+                "postalExt": null,
+                "state": "TX",
+                "street": "N I-35 E",
+                "streetNumber": "1215"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.570158,
+                "longitude": -96.823234
+            },
+            "commonSiteName": "GLo DeSoto Dallas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.570158,
+                "longitude": -96.823234
+            },
+            "locationGUID": "a6a0ebf7-25e5-4926-b4ab-06b4df4b9755",
+            "maxPowerKw": 16,
+            "name": "GLo DeSoto Dallas",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

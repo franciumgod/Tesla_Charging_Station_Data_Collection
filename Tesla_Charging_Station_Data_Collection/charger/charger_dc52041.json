@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lappeenranta",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "55320",
+                "postalExt": null,
+                "state": null,
+                "street": "Rauhanrinne",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.192308,
+                "longitude": 28.694408
+            },
+            "commonSiteName": "Holiday Club Saimaa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.192308,
+                "longitude": 28.694408
+            },
+            "locationGUID": "e24a6cdf-5e03-4459-ae1b-108f5f5af9b3",
+            "maxPowerKw": 22,
+            "name": "Holiday Club Saimaa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98101",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Stewart St",
+                "streetNumber": "620"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.614141,
+                "longitude": -122.336357
+            },
+            "commonSiteName": "Hotel Max",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.614141,
+                "longitude": -122.336357
+            },
+            "locationGUID": "58b36574-1891-4d6d-ac98-d6ab5b0a6f57",
+            "maxPowerKw": 13,
+            "name": "Hotel Max",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

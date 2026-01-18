@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kitzbuehel",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6370",
+                "postalExt": null,
+                "state": null,
+                "street": "Bichlstrasse",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.445379,
+                "longitude": 12.392179
+            },
+            "commonSiteName": "Hotel Weisses Roessl",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.445379,
+                "longitude": 12.392179
+            },
+            "locationGUID": "0d509a9e-f5b7-44ee-8185-e83ecd539312",
+            "maxPowerKw": 22,
+            "name": "Hotel Weisses Roessl",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

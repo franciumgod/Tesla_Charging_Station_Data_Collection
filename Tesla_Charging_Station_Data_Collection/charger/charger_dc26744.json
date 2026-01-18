@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sundsvall",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "85350",
+                "postalExt": null,
+                "state": null,
+                "street": "Axvägen",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 62.391883,
+                "longitude": 17.26336
+            },
+            "commonSiteName": "ICA Kvantum Nacksta Sundsvall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 62.391883,
+                "longitude": 17.26336
+            },
+            "locationGUID": "d67eac84-c65e-4119-b228-05a537db06af",
+            "maxPowerKw": 22,
+            "name": "ICA Kvantum Nacksta Sundsvall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

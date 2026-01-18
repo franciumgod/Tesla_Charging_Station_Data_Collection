@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kolobrzeg",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "78",
+                "postalExt": "100",
+                "state": null,
+                "street": "Zdrojowa",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.183342,
+                "longitude": 15.568349
+            },
+            "commonSiteName": "Sand Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.183342,
+                "longitude": 15.568349
+            },
+            "locationGUID": "7cebb220-f31d-4cf5-b57b-575f692da08a",
+            "maxPowerKw": 17,
+            "name": "Sand Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

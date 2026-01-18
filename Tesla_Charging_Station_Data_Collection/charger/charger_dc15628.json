@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mollymook",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2539",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Tallwood Avenue",
+                "streetNumber": "87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.325056,
+                "longitude": 150.476378
+            },
+            "commonSiteName": "Bannisters Pavilion",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.325056,
+                "longitude": 150.476378
+            },
+            "locationGUID": "2ff9ef25-2630-48b9-b402-d47a634c59e8",
+            "maxPowerKw": 22,
+            "name": "Bannisters Pavilion",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

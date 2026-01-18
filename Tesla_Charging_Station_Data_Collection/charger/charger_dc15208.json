@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Asheville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28803",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Boston Wy",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.566805,
+                "longitude": -82.544006
+            },
+            "commonSiteName": "Grand Bohemian Hotel Asheville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.566805,
+                "longitude": -82.544006
+            },
+            "locationGUID": "c323af01-e731-410e-9b1c-8393d9df07c0",
+            "maxPowerKw": 8,
+            "name": "Grand Bohemian Hotel Asheville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

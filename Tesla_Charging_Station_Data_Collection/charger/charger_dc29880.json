@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Valle de Bravo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "51200",
+                "postalExt": null,
+                "state": "MEX",
+                "street": "Avandaro",
+                "streetNumber": "Av. Fontana Brava S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.171113,
+                "longitude": -100.113156
+            },
+            "commonSiteName": "Mision Grand Valle de Bravo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.171113,
+                "longitude": -100.113156
+            },
+            "locationGUID": "d3cc9c83-9004-4713-94bd-755d1ca16400",
+            "maxPowerKw": 18,
+            "name": "Mision Grand Valle de Bravo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

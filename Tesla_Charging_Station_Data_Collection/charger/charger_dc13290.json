@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Savin",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "65400",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Lamarque",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.980182,
+                "longitude": -0.091159
+            },
+            "commonSiteName": "Hotel Restaurant Le Viscos",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.980182,
+                "longitude": -0.091159
+            },
+            "locationGUID": "211cce74-571d-4c31-8de4-a751ba153b79",
+            "maxPowerKw": 11,
+            "name": "Hotel Restaurant Le Viscos",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

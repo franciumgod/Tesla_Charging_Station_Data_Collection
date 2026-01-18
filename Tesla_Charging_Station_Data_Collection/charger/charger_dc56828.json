@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pombal",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3100",
+                "postalExt": "357",
+                "state": null,
+                "street": "Rua do Lagar, Ponte de Assamaca",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.878289,
+                "longitude": -8.609671
+            },
+            "commonSiteName": "Acquavilla House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.878289,
+                "longitude": -8.609671
+            },
+            "locationGUID": "68cc630f-240c-40b6-937d-764fd7e61b18",
+            "maxPowerKw": 17,
+            "name": "Acquavilla House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

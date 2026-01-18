@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28045",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle Mendez Alvaro",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.401365,
+                "longitude": -3.687091
+            },
+            "commonSiteName": "Rafael Hoteles Atocha",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.401365,
+                "longitude": -3.687091
+            },
+            "locationGUID": "51c70517-5386-4388-9b00-175b846540c9",
+            "maxPowerKw": 22,
+            "name": "Rafael Hoteles Atocha",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

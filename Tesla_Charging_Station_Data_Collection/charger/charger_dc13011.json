@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sainte-Anne-de-la-Perade",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0X 2J0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Principale",
+                "streetNumber": "185"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.568566,
+                "longitude": -72.210311
+            },
+            "commonSiteName": "METRO Marche de la Perade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.568566,
+                "longitude": -72.210311
+            },
+            "locationGUID": "5c735a88-631b-4479-8edf-00345258af49",
+            "maxPowerKw": 16,
+            "name": "METRO Marche de la Perade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

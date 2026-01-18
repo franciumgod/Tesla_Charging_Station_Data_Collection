@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Plymouth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95669",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Main St",
+                "streetNumber": "9402"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.480967,
+                "longitude": -120.847971
+            },
+            "commonSiteName": "Taste Restaurant and Wine Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.480967,
+                "longitude": -120.847971
+            },
+            "locationGUID": "08d53c16-0302-404f-bdf3-e03be0887336",
+            "maxPowerKw": 8,
+            "name": "Taste Restaurant and Wine Bar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

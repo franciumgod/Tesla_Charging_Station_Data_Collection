@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Red Bluff",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "96080",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Antelope Blvd",
+                "streetNumber": "203"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.181715,
+                "longitude": -122.220555
+            },
+            "commonSiteName": "Best Western Antelope Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.181715,
+                "longitude": -122.220555
+            },
+            "locationGUID": "f568652b-fe41-4060-8402-b4a1977d23f4",
+            "maxPowerKw": 16,
+            "name": "Best Western Antelope Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

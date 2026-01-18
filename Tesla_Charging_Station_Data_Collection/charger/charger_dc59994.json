@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bratislava",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82104",
+                "postalExt": null,
+                "state": null,
+                "street": "Ambrusova",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.16641,
+                "longitude": 17.177419
+            },
+            "commonSiteName": "NH Bratislava Gate One",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.16641,
+                "longitude": 17.177419
+            },
+            "locationGUID": "0fd6f09e-2c98-481a-b955-582753196051",
+            "maxPowerKw": 17,
+            "name": "NH Bratislava Gate One",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

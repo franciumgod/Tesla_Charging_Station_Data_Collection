@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wan Chai",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Hong Kong Island",
+                "street": "Queen's Rd E",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.2761253,
+                "longitude": 114.1723385
+            },
+            "commonSiteName": "Lee Tung Avenue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.2761253,
+                "longitude": 114.1723385
+            },
+            "locationGUID": "cae7a4e6-2b6d-49ac-b13e-9a13afcd2f84",
+            "maxPowerKw": 7,
+            "name": "Lee Tung Avenue",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 15,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

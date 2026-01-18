@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vergennes",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05491",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Basin Harbor Rd",
+                "streetNumber": "4800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.197094,
+                "longitude": -73.362238
+            },
+            "commonSiteName": "Basin Harbor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.197094,
+                "longitude": -73.362238
+            },
+            "locationGUID": "0ef6ee84-7c1d-4ff2-887d-8fdf291bdab7",
+            "maxPowerKw": 13,
+            "name": "Basin Harbor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

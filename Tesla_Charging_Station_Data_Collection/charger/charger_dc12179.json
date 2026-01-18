@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 64th St",
+                "streetNumber": "301"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.763488,
+                "longitude": -73.961323
+            },
+            "commonSiteName": "Parkit 301 E 64th",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.763488,
+                "longitude": -73.961323
+            },
+            "locationGUID": "defeed91-576e-449b-a82a-85753a8942e2",
+            "maxPowerKw": 8,
+            "name": "Parkit 301 E 64th",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

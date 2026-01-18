@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Neyron",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1700",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Fort",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.812857,
+                "longitude": 4.918871
+            },
+            "commonSiteName": "Maison Addama",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.812857,
+                "longitude": 4.918871
+            },
+            "locationGUID": "389b0b14-9063-4c29-b064-5405406cd631",
+            "maxPowerKw": 11,
+            "name": "Maison Addama",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

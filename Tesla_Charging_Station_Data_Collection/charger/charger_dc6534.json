@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Calgary",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T3J 0T4",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Freeport Cres NE",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.140583,
+                "longitude": -114.026181
+            },
+            "commonSiteName": "Wyndham Garden Calgary Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.140583,
+                "longitude": -114.026181
+            },
+            "locationGUID": "98d3bc10-419d-4b11-907a-33eecf708a0d",
+            "maxPowerKw": 13,
+            "name": "Wyndham Garden Calgary Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dover",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03820",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Orchard St",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.1956464,
+                "longitude": -70.8758127
+            },
+            "commonSiteName": "Orchard Street Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.1956464,
+                "longitude": -70.8758127
+            },
+            "locationGUID": "e6e0714d-f037-422c-b536-a43d34f2b672",
+            "maxPowerKw": 16,
+            "name": "Orchard Street Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

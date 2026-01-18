@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hornbæk",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3100",
+                "postalExt": null,
+                "state": "NA",
+                "street": "Skovvej",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.090312,
+                "longitude": 12.451216
+            },
+            "commonSiteName": "Hotel Hornbækhus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.090312,
+                "longitude": 12.451216
+            },
+            "locationGUID": "7a50b611-33b2-4466-aa14-247da21e3b51",
+            "maxPowerKw": 22,
+            "name": "Hotel Hornbækhus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

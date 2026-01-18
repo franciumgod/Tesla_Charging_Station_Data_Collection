@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10017",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Lexington Ave",
+                "streetNumber": "501"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.754709,
+                "longitude": -73.973391
+            },
+            "commonSiteName": "Roger Smith Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.754709,
+                "longitude": -73.973391
+            },
+            "locationGUID": "85d51aa7-416b-4796-94b8-87f91ba5070d",
+            "maxPowerKw": 16,
+            "name": "Roger Smith Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint Helena",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94574",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Pratt Ave",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.519773,
+                "longitude": -122.475455
+            },
+            "commonSiteName": "Saint Helena Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.519773,
+                "longitude": -122.475455
+            },
+            "locationGUID": "d4a8605a-3a80-4b7c-ba41-a3da8a0b6d9f",
+            "maxPowerKw": 16,
+            "name": "Saint Helena Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

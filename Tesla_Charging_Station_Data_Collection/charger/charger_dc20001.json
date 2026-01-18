@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30346",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Perimeter Center W",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.92816,
+                "longitude": -84.338456
+            },
+            "commonSiteName": "Le MΘridien Atlanta Perimeter",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.92816,
+                "longitude": -84.338456
+            },
+            "locationGUID": "f4a1077d-4f53-4b23-a01b-abc9aab645a3",
+            "maxPowerKw": 8,
+            "name": "Le Meridien Atlanta Perimeter",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

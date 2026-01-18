@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Matane",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G4W 3M6",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Avenue Du Phare Ouest",
+                "streetNumber": "1550"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.835541,
+                "longitude": -67.572325
+            },
+            "commonSiteName": "Quality Inn & Suites Matane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.835541,
+                "longitude": -67.572325
+            },
+            "locationGUID": "429aed57-a8f3-498d-98dc-5054e2d44894",
+            "maxPowerKw": 16,
+            "name": "Quality Inn & Suites Matane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

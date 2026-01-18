@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "6938",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "동작구 노량진로",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.512149,
+                "longitude": 126.9257061
+            },
+            "commonSiteName": "빕스 대방점",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.512149,
+                "longitude": 126.9257061
+            },
+            "locationGUID": "de0251b8-f8ec-478e-8986-9cf79e3db403",
+            "maxPowerKw": 7,
+            "name": "VIPS Daebangjeom",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

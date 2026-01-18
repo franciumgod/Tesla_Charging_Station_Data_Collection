@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Estes Park",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80517",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Wonderview Ave",
+                "streetNumber": "333"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.382956,
+                "longitude": -105.518995
+            },
+            "commonSiteName": "The Stanley Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.382956,
+                "longitude": -105.518995
+            },
+            "locationGUID": "dbde94a1-cc8f-41ae-bfe1-ec626428d668",
+            "maxPowerKw": 10,
+            "name": "The Stanley Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

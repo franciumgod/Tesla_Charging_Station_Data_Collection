@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Manchester",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05254",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Main St",
+                "streetNumber": "3835"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.1656169,
+                "longitude": -73.0706255
+            },
+            "commonSiteName": "Kimpton Taconic Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.1656169,
+                "longitude": -73.0706255
+            },
+            "locationGUID": "940e61d1-bbb9-4420-81c1-26c853447a04",
+            "maxPowerKw": 16,
+            "name": "Kimpton Taconic Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

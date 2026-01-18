@@ -1,0 +1,299 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Isan",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Buriram",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "31000",
+                "postalExt": null,
+                "state": "BURI RAM",
+                "street": "Buriram-Nangrong road",
+                "streetNumber": "125 Moo 6"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.09375,
+                            0.0625,
+                            0.15625,
+                            0.109375,
+                            0.19921875,
+                            0.203125,
+                            0.25,
+                            0.21875,
+                            0.1953125,
+                            0.15625,
+                            0.16666666666666666,
+                            0.140625,
+                            0.08854166666666667,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.03125,
+                            0.125,
+                            0.125,
+                            0.16666666666666666,
+                            0.15625,
+                            0.125,
+                            0.109375,
+                            0.09375,
+                            0.0859375,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.109375,
+                            0.2,
+                            0.234375,
+                            0.1875,
+                            0.140625,
+                            0.125,
+                            0.140625,
+                            0.16666666666666669,
+                            0.125,
+                            0.23125,
+                            0.203125,
+                            0.175,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.14453125,
+                            0.1875,
+                            0.1875,
+                            0.16666666666666666,
+                            0.171875,
+                            0.1875,
+                            0.171875,
+                            0.14583333333333331,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0.025,
+                            0.07083333333333333,
+                            0.09999999999999999,
+                            0.11249999999999999,
+                            0.1,
+                            0.15,
+                            0.2,
+                            0.19999999999999998,
+                            0.16000000000000003,
+                            0.1,
+                            0.07500000000000001,
+                            0.1,
+                            0.0625,
+                            0.05,
+                            0.07500000000000001,
+                            0.05,
+                            0.05,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.0625,
+                            0.078125,
+                            0.09375,
+                            0.046875,
+                            0.0859375,
+                            0.109375,
+                            0.125,
+                            0.125,
+                            0.09375,
+                            0.125,
+                            0.09375,
+                            0.109375,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.09375,
+                            0.078125,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 11421403,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 407453,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 14.9724849,
+                "longitude": 103.06505454
+            },
+            "commonSiteName": "Robinson Lifestyle",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 6.75,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 14.97245024,
+                "longitude": 103.06518066
+            },
+            "locationGUID": "2faa067a-7fe5-4f20-90e7-578131d8cacd",
+            "maxPowerKw": 250,
+            "name": "Buriram, Thailand - Robinson Buriram",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

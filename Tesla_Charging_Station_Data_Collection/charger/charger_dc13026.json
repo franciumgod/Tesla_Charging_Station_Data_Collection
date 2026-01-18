@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10075",
+                "postalExt": null,
+                "state": "NY",
+                "street": "East 77th St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.771794,
+                "longitude": -73.955624
+            },
+            "commonSiteName": "Parkright 300 E 77th St",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.771794,
+                "longitude": -73.955624
+            },
+            "locationGUID": "95ac8360-8326-4220-998c-a390e05072de",
+            "maxPowerKw": 8,
+            "name": "Parkright 300 E 77th St",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

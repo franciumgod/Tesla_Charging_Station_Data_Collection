@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sarasota",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34233",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Honore Ave",
+                "streetNumber": "5690"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.271517,
+                "longitude": -82.46572
+            },
+            "commonSiteName": "Comfort Suites Sarasota",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.271517,
+                "longitude": -82.46572
+            },
+            "locationGUID": "4d312ca3-29fd-4d8e-856c-11a5131d2fb8",
+            "maxPowerKw": 8,
+            "name": "Comfort Suites Sarasota",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

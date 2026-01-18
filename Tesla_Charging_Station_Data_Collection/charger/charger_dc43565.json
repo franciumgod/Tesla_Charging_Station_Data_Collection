@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Horsham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "RH13 6PS",
+                "postalExt": null,
+                "state": "West Sussex",
+                "street": "Brighton Road",
+                "streetNumber": "South Lodge"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.01564392,
+                "longitude": -0.26503439
+            },
+            "commonSiteName": "South Lodge Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.01564392,
+                "longitude": -0.26503439
+            },
+            "locationGUID": "7aca65ef-002e-4cc7-beb9-44a4bce79026",
+            "maxPowerKw": 13,
+            "name": "South Lodge Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

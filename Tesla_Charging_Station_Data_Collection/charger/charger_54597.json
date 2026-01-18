@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Colorado Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80906",
+                "postalExt": null,
+                "state": "CO",
+                "street": "South Circle Dr",
+                "streetNumber": "2850"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.797561,
+                "longitude": -104.792491
+            },
+            "commonSiteName": "SCP Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.797561,
+                "longitude": -104.792491
+            },
+            "locationGUID": "bfd4493c-289e-468f-8d7e-9d71aae76ada",
+            "maxPowerKw": 16,
+            "name": "SCP Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

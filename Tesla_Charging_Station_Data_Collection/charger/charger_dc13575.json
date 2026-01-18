@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10036",
+                "postalExt": null,
+                "state": "NY",
+                "street": "West 43rd St",
+                "streetNumber": "350"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.758586,
+                "longitude": -73.991341
+            },
+            "commonSiteName": "GGMC Parking 350 W 43rd Street Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.758586,
+                "longitude": -73.991341
+            },
+            "locationGUID": "d0786764-614b-4ad6-9558-76e4d9c295f9",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking 350 W 43rd Street Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

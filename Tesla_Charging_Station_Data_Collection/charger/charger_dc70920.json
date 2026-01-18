@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "502222",
+                "postalExt": null,
+                "state": null,
+                "street": "Dubai Internet City, Sheikh Zayed Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.103176,
+                "longitude": 55.172063
+            },
+            "commonSiteName": "Two Seasons Hotel & Apartments",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.103176,
+                "longitude": 55.172063
+            },
+            "locationGUID": "d35fefe2-e97b-4e67-b2dd-595982eaca29",
+            "maxPowerKw": 22,
+            "name": "Two Seasons Hotel & Apartments",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

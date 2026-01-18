@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Izunokuni",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "410",
+                "postalExt": "2201",
+                "state": "Shizuoka",
+                "street": "Kona",
+                "streetNumber": "1199-3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.03921,
+                "longitude": 138.935511
+            },
+            "commonSiteName": "弘法の湯 本店",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.03921,
+                "longitude": 138.935511
+            },
+            "locationGUID": "68784e14-199a-4f1f-bc7b-3133f56378ed",
+            "maxPowerKw": 12,
+            "name": "Koubounoyu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

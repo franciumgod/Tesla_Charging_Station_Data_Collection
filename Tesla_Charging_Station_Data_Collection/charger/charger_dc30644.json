@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64650",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Santa Maria",
+                "streetNumber": "Blvd. Antonio L. Rodriguez 2100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.66959,
+                "longitude": -100.374184
+            },
+            "commonSiteName": "Torre BH",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.66959,
+                "longitude": -100.374184
+            },
+            "locationGUID": "ed5a8959-cabc-4fd4-9116-fd5074a9f41e",
+            "maxPowerKw": 18,
+            "name": "Torre BH",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

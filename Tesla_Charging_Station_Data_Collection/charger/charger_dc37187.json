@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10001",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 26th St",
+                "streetNumber": "220"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.746304,
+                "longitude": -73.995064
+            },
+            "commonSiteName": "iPark 200 West Garage Corp.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.746304,
+                "longitude": -73.995064
+            },
+            "locationGUID": "44a48f82-c6be-4013-a4b3-c3dbf66634ed",
+            "maxPowerKw": 8,
+            "name": "iPark 200 West Garage Corp.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

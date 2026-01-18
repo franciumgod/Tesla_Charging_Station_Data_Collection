@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Moraira",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3724",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Calle Haya",
+                "streetNumber": "175"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.692952,
+                "longitude": 0.109829
+            },
+            "commonSiteName": "Swiss Hotel Moraira",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.692952,
+                "longitude": 0.109829
+            },
+            "locationGUID": "397148b3-cdf3-49ee-8c13-95abafaa538a",
+            "maxPowerKw": 14,
+            "name": "Swiss Hotel Moraira",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

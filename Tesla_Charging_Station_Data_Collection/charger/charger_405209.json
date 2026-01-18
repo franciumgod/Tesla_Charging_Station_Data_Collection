@@ -1,0 +1,296 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Udon Thani",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Udon Thani",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "41000",
+                "postalExt": null,
+                "state": "จ.อุดรธานี",
+                "street": "Thanon Mittraphap",
+                "streetNumber": "Moo 4 999/9"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0.09375,
+                            0.140625,
+                            0.15625,
+                            0.11458333333333334,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.09375,
+                            0.0859375,
+                            0.11458333333333334,
+                            0.125,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.09375,
+                            0.0859375,
+                            0.0859375,
+                            0.109375,
+                            0.125,
+                            0.125,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.09375,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.125,
+                            0.1875,
+                            0.171875,
+                            0.109375,
+                            0.109375,
+                            0.09375,
+                            0.140625,
+                            0.109375,
+                            0.125,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.0625,
+                            0.09375,
+                            0.140625,
+                            0.125,
+                            0.19921875,
+                            0.171875,
+                            0.21875,
+                            0.15625,
+                            0.15625,
+                            0.046875,
+                            0.0859375,
+                            0.109375,
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.09375,
+                            0.0625,
+                            0.0625
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0.0625,
+                            0.10416666666666666,
+                            0.1875,
+                            0.21875,
+                            0.16796875,
+                            0.140625,
+                            0.078125,
+                            0.09375,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0.0625,
+                            0.078125,
+                            0.0859375,
+                            0.046875,
+                            0.125,
+                            0.140625,
+                            0.15625,
+                            0.11458333333333334,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.08125,
+                            0.08333333333333334,
+                            0.125,
+                            0.11666666666666667,
+                            0.1,
+                            0.11666666666666667,
+                            0.125,
+                            0.18,
+                            0.2,
+                            0.2,
+                            0.15,
+                            0.11666666666666667,
+                            0.1,
+                            0.11666666666666667,
+                            0.1,
+                            0.075,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11052671,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 405209,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 17.354387,
+                "longitude": 102.82424
+            },
+            "commonSiteName": "VT Namnuang",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 6.73,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 17.35429144,
+                "longitude": 102.8232411
+            },
+            "locationGUID": "03149ce9-fd42-4cd5-9d39-bb95f4cd6979",
+            "maxPowerKw": 250,
+            "name": "Udon Thani, Thailand - VT Namnuang",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

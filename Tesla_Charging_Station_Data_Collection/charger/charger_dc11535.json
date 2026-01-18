@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bryan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77802",
+                "postalExt": null,
+                "state": "TX",
+                "street": "University Dr E",
+                "streetNumber": "3081"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.646748,
+                "longitude": -96.302227
+            },
+            "commonSiteName": "Hilton Garden Inn Bryan/College Station",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.646748,
+                "longitude": -96.302227
+            },
+            "locationGUID": "462407ea-e000-47d5-898a-a79b528234cd",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Bryan/College Station",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

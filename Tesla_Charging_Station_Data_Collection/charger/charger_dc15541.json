@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jongny",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1805",
+                "postalExt": null,
+                "state": null,
+                "street": "Chemin de la Fontaine",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.478015,
+                "longitude": 6.842605
+            },
+            "commonSiteName": "Hôtel du Léman - Centre de Séminaires",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.478015,
+                "longitude": 6.842605
+            },
+            "locationGUID": "d7450cb4-2d44-4307-ab6a-700d24fb7028",
+            "maxPowerKw": 11,
+            "name": "Hôtel du Léman - Centre de Séminaires",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

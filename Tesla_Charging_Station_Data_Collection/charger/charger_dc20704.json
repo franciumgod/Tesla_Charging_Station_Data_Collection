@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mexicali",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21000",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Industrial Centro Civico",
+                "streetNumber": "Calzada Adolfo Lopez Mateos 1029"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.64576097,
+                "longitude": -115.46908469
+            },
+            "commonSiteName": "Fiesta Inn Mexicali",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.64576097,
+                "longitude": -115.46908469
+            },
+            "locationGUID": "8b5f243b-f391-4d5b-b104-60b2fb9705fd",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Mexicali",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

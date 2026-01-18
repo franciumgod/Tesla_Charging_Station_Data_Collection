@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Metrotech Ctr S",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.693122,
+                "longitude": -73.985696
+            },
+            "commonSiteName": "Standard Parking 2 Metrotech",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.693122,
+                "longitude": -73.985696
+            },
+            "locationGUID": "35ae734d-ae36-4e58-8481-8facbfa8701f",
+            "maxPowerKw": 10,
+            "name": "Standard Parking 2 Metrotech",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

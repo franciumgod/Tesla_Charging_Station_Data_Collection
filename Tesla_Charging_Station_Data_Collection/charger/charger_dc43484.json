@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Worcester",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "WR6 6BN",
+                "postalExt": null,
+                "state": null,
+                "street": "Abberley",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.308466,
+                "longitude": -2.363561
+            },
+            "commonSiteName": "The Manor Arms",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.308466,
+                "longitude": -2.363561
+            },
+            "locationGUID": "7a7ef2b5-7e3a-4e58-94f2-e7278f8aea23",
+            "maxPowerKw": 13,
+            "name": "The Manor Arms",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

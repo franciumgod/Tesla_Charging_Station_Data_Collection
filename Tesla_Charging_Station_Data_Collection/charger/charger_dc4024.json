@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tsim Sha Tsui",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Kowloon",
+                "street": "Austin Rd W",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.303112,
+                "longitude": 114.160544
+            },
+            "commonSiteName": "The Ritz-Carlton Hong Kong",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.303112,
+                "longitude": 114.160544
+            },
+            "locationGUID": "04b395dd-6074-4af0-901d-0743f63903c5",
+            "maxPowerKw": 21,
+            "name": "The Ritz-Carlton Hong Kong",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Belfast",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BT4 3LP",
+                "postalExt": null,
+                "state": null,
+                "street": "Upper Newtownards Road",
+                "streetNumber": "587"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.593724,
+                "longitude": -5.839142
+            },
+            "commonSiteName": "Stormont Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.593724,
+                "longitude": -5.839142
+            },
+            "locationGUID": "1e5db16e-b90e-4346-a71e-ec02863f75b0",
+            "maxPowerKw": 6,
+            "name": "Stormont Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

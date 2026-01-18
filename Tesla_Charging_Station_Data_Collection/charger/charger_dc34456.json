@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SW15 5LR",
+                "postalExt": null,
+                "state": null,
+                "street": "Roehampton Ln",
+                "streetNumber": "Roehampton Club"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.462948,
+                "longitude": -0.24512
+            },
+            "commonSiteName": "Roehampton Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.462948,
+                "longitude": -0.24512
+            },
+            "locationGUID": "fd46cd64-597f-47fa-8088-22b2a49d0fa9",
+            "maxPowerKw": 13,
+            "name": "Roehampton Club",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

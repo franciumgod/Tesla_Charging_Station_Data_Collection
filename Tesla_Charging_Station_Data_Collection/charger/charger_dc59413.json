@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92101",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Broadway Cir",
+                "streetNumber": "910"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.7143935,
+                "longitude": -117.1632054
+            },
+            "commonSiteName": "Westin Gaslamp District",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.7143935,
+                "longitude": -117.1632054
+            },
+            "locationGUID": "5748b636-f06d-444f-90f4-d897be4cada9",
+            "maxPowerKw": 16,
+            "name": "Westin Gaslamp District",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

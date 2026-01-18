@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ballstad",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8373",
+                "postalExt": null,
+                "state": null,
+                "street": "Moloveien 41",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 68.072787,
+                "longitude": 13.549687
+            },
+            "commonSiteName": "Solsiden Brygge Rorbuer",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 68.072787,
+                "longitude": 13.549687
+            },
+            "locationGUID": "f9aac363-97ba-4bd0-8607-fbee246eda21",
+            "maxPowerKw": 8,
+            "name": "Solsiden Brygge Rorbuer",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

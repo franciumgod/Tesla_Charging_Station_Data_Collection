@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Szeged",
+                "country": "Hungary",
+                "countryCode": "HU",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6721",
+                "postalExt": null,
+                "state": null,
+                "street": "Maros utca",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.256238,
+                "longitude": 20.156767
+            },
+            "commonSiteName": "Novotel Szeged",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.256238,
+                "longitude": 20.156767
+            },
+            "locationGUID": "30ca607f-fb67-4a6b-9626-dced62016756",
+            "maxPowerKw": 11,
+            "name": "Novotel Szeged",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Budapest"
+        },
+        "success": true
+    }
+}

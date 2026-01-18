@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mount Gambier",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5290",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Jubilee Hwy E",
+                "streetNumber": "96"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.832336,
+                "longitude": 140.794574
+            },
+            "commonSiteName": "The Henty",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.832336,
+                "longitude": 140.794574
+            },
+            "locationGUID": "5e5b0fb8-ef64-4c24-8e88-7b86423ba661",
+            "maxPowerKw": 22,
+            "name": "The Henty",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

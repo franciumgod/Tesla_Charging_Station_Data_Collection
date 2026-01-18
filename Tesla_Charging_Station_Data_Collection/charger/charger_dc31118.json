@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Springfield Central",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4300",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Main Street",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.677359,
+                "longitude": 152.904614
+            },
+            "commonSiteName": "Orion Springfield Central - Lower G North Carpark",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.677359,
+                "longitude": 152.904614
+            },
+            "locationGUID": "0399674b-b3b7-4f05-9fd5-fe3088d1302a",
+            "maxPowerKw": 22,
+            "name": "Orion Springfield Central - Lower G North Carpark",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

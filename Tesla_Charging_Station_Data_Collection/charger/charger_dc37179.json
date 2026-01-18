@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sydney",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2000",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Kent Street",
+                "streetNumber": "89-113"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.8605,
+                "longitude": 151.2036
+            },
+            "commonSiteName": "The Langham Hotel Sydney",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.8605,
+                "longitude": 151.2036
+            },
+            "locationGUID": "c262a630-8670-4783-ada4-1b3c8759d859",
+            "maxPowerKw": 22,
+            "name": "The Langham Hotel Sydney",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

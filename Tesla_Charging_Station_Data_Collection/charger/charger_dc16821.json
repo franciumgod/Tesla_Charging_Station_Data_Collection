@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Blacksburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24060",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Southpark Dr",
+                "streetNumber": "105"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.199367,
+                "longitude": -80.401037
+            },
+            "commonSiteName": "Courtyard Blacksburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.199367,
+                "longitude": -80.401037
+            },
+            "locationGUID": "2060b4d4-fdf6-4f55-972e-c199521053ac",
+            "maxPowerKw": 16,
+            "name": "Courtyard Blacksburg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

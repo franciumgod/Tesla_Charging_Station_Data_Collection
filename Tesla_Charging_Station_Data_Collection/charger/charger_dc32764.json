@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Palo Alto",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94306",
+                "postalExt": null,
+                "state": "CA",
+                "street": "El Camino Real",
+                "streetNumber": "4329"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.405664,
+                "longitude": -122.118794
+            },
+            "commonSiteName": "Homewood Suites by Hilton Palo Alto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.405664,
+                "longitude": -122.118794
+            },
+            "locationGUID": "0e58d70f-8696-43eb-a98e-bd51c378157b",
+            "maxPowerKw": 16,
+            "name": "Homewood Suites by Hilton Palo Alto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

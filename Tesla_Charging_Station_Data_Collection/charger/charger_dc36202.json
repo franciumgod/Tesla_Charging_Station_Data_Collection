@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bedford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24523",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Burks Hill Rd",
+                "streetNumber": "816"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.324894,
+                "longitude": -79.531374
+            },
+            "commonSiteName": "Bedford Welcome Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.324894,
+                "longitude": -79.531374
+            },
+            "locationGUID": "930d3ad1-884a-4b4d-bfcd-220f0b9c0358",
+            "maxPowerKw": 10,
+            "name": "Bedford Welcome Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

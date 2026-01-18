@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Niagara-on-the-Lake",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L0S 1J0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Picton St",
+                "streetNumber": "92"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.2533712,
+                "longitude": -79.0682364
+            },
+            "commonSiteName": "Shaw Club Hotel & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.2533712,
+                "longitude": -79.0682364
+            },
+            "locationGUID": "942e980b-8ac7-4964-9e59-f0b00aa872d3",
+            "maxPowerKw": 6,
+            "name": "Shaw Club Hotel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

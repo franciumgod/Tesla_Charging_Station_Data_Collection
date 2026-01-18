@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Palma de Mallorca",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7015",
+                "postalExt": null,
+                "state": "Illes Balears",
+                "street": "Avinguda de Gabriel Roca",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.551287,
+                "longitude": 2.621038
+            },
+            "commonSiteName": "Centro Comercial Porto Pi",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.551287,
+                "longitude": 2.621038
+            },
+            "locationGUID": "c9349d1c-059f-46da-9cb2-f0c7b8b0a59b",
+            "maxPowerKw": 14,
+            "name": "Centro Comercial Porto Pi",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

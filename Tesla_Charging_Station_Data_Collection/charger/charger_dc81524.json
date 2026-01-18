@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Delnoslaskie",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "57",
+                "postalExt": "540",
+                "state": "Dolnoslaskie",
+                "street": "Trzebieszowice",
+                "streetNumber": "151"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.348314,
+                "longitude": 16.779764
+            },
+            "commonSiteName": "Zamek na Skale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.348314,
+                "longitude": 16.779764
+            },
+            "locationGUID": "1ec25117-8eaf-4a8d-ad07-7ba9a51c20a4",
+            "maxPowerKw": 11,
+            "name": "Zamek na Skale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

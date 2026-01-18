@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hearst",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "P0L 1N0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Front St",
+                "streetNumber": "930"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.6898679,
+                "longitude": -83.6673567
+            },
+            "commonSiteName": "Companion Hotel Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.6898679,
+                "longitude": -83.6673567
+            },
+            "locationGUID": "51cee5a8-3b37-4688-9eb4-6e4e679efcee",
+            "maxPowerKw": 8,
+            "name": "Companion Hotel Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

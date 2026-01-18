@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gressy",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "77410",
+                "postalExt": null,
+                "state": "Île-de-France",
+                "street": "Chemin des Carrosses",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.96504159,
+                "longitude": 2.67337017
+            },
+            "commonSiteName": "Manoir de Gressy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.96504159,
+                "longitude": 2.67337017
+            },
+            "locationGUID": "5fe8d488-c696-4952-81fe-d491ed7e991e",
+            "maxPowerKw": 22,
+            "name": "Manoir de Gressy",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kenmore",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "ph152hw",
+                "postalExt": null,
+                "state": "Perthshire",
+                "street": "Taymouth Marina",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.579129,
+                "longitude": -4.003527
+            },
+            "commonSiteName": "Taymouth Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.579129,
+                "longitude": -4.003527
+            },
+            "locationGUID": "2abe39fe-b12f-4a9b-807d-b2d56bf2ed8c",
+            "maxPowerKw": 7,
+            "name": "Taymouth Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

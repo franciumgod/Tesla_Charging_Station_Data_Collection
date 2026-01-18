@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Smith St",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.689016,
+                "longitude": -73.988672
+            },
+            "commonSiteName": "GGMC Parking 75 Smith St Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.689016,
+                "longitude": -73.988672
+            },
+            "locationGUID": "e2aa852d-2bc9-4ded-8c20-7b2d0466334e",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking 75 Smith St Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

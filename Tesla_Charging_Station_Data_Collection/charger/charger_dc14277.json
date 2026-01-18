@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02840",
+                "postalExt": null,
+                "state": "RI",
+                "street": "Mary St",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.48793,
+                "longitude": -71.313498
+            },
+            "commonSiteName": "The Vanderbilt Grace Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.48793,
+                "longitude": -71.313498
+            },
+            "locationGUID": "57ae2e0b-1b0b-49da-b0a5-9b7d94e4788c",
+            "maxPowerKw": 10,
+            "name": "The Vanderbilt Grace Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

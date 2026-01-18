@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Oxford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "38655",
+                "postalExt": null,
+                "state": "MS",
+                "street": "N Lamar Blvd",
+                "streetNumber": "400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.368889,
+                "longitude": -89.517896
+            },
+            "commonSiteName": "Graduate Oxford",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.368889,
+                "longitude": -89.517896
+            },
+            "locationGUID": "38d92906-9ae1-43ab-9059-58fb338c8811",
+            "maxPowerKw": 16,
+            "name": "Graduate Oxford",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

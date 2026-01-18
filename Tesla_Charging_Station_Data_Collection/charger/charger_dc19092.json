@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Surville",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "27400",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Bernard Petel",
+                "streetNumber": "82"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.199625,
+                "longitude": 1.100507
+            },
+            "commonSiteName": "Manoir de Surville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.199625,
+                "longitude": 1.100507
+            },
+            "locationGUID": "6b653c31-8fa1-4edc-920c-930755af7b99",
+            "maxPowerKw": 22,
+            "name": "Manoir de Surville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

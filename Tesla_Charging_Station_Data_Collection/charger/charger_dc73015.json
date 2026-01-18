@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28009",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Doctor Castelo",
+                "streetNumber": "43, bajo Izquierdo"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.420352,
+                "longitude": -3.673746
+            },
+            "commonSiteName": "Europar plazas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.420352,
+                "longitude": -3.673746
+            },
+            "locationGUID": "1e2313d5-a25d-4395-b688-767fb9201d93",
+            "maxPowerKw": 22,
+            "name": "Europar plazas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

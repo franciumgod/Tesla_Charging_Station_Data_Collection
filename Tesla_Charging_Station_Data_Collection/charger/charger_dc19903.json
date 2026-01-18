@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alvaro Obregon",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "1060",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "147",
+                "streetNumber": "Av. Altavista"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.349466,
+                "longitude": -99.196728
+            },
+            "commonSiteName": "Plaza Altavista",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.349466,
+                "longitude": -99.196728
+            },
+            "locationGUID": "bebe149a-82bd-463a-bc8d-7dcdc921eaea",
+            "maxPowerKw": 18,
+            "name": "Plaza Altavista",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

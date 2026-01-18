@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Shellharbour City Centre",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2529",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Lake Entrance R",
+                "streetNumber": "211"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.56390425,
+                "longitude": 150.838119
+            },
+            "commonSiteName": "Stockland Shellharbour",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.56390425,
+                "longitude": 150.838119
+            },
+            "locationGUID": "db6bd0e9-e848-4607-bbb7-a6007177253e",
+            "maxPowerKw": 7,
+            "name": "Stockland Shellharbour",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

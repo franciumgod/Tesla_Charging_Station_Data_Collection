@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10075",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 79th St",
+                "streetNumber": "415"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.771918,
+                "longitude": -73.951679
+            },
+            "commonSiteName": "GGMC Parking 415 E 79th",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.771918,
+                "longitude": -73.951679
+            },
+            "locationGUID": "a79bbfa5-1ba7-4dc3-8290-23fb6f9bbc26",
+            "maxPowerKw": 13,
+            "name": "GGMC Parking 415 E 79th",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

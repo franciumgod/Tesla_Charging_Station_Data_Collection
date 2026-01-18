@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Harrogate",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "HG1 5JR",
+                "postalExt": null,
+                "state": "North Yorkshire",
+                "street": "52-54 Kings Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.996658,
+                "longitude": -1.540473
+            },
+            "commonSiteName": "The Camberley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.996658,
+                "longitude": -1.540473
+            },
+            "locationGUID": "32beb840-e492-43cb-83db-a72a3d0ea98d",
+            "maxPowerKw": 11,
+            "name": "The Camberley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Richmond",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23220",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Franklin St",
+                "streetNumber": "301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.545362,
+                "longitude": -77.446647
+            },
+            "commonSiteName": "Graduate Richmond",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.545362,
+                "longitude": -77.446647
+            },
+            "locationGUID": "52741fa9-9725-4d47-a2c6-e6c8e8aa8216",
+            "maxPowerKw": 16,
+            "name": "Graduate Richmond",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

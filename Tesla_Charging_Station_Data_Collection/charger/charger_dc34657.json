@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pembrokeshire",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SA62 3NE",
+                "postalExt": null,
+                "state": null,
+                "street": "The Druidstone",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.809787,
+                "longitude": -5.101992
+            },
+            "commonSiteName": "Druidstone Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.809787,
+                "longitude": -5.101992
+            },
+            "locationGUID": "26c430d2-f2fc-4071-a088-6bc37b97761b",
+            "maxPowerKw": 7,
+            "name": "Druidstone Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

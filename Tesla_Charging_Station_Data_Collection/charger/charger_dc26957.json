@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Skipton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BD23 6AJ",
+                "postalExt": null,
+                "state": "North Yorkshire",
+                "street": "Bolton Abbey",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.974887,
+                "longitude": -1.893851
+            },
+            "commonSiteName": "Devonshire Arms Hotel & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.974887,
+                "longitude": -1.893851
+            },
+            "locationGUID": "45663377-24bf-4c95-a0b8-f87ac90bf73c",
+            "maxPowerKw": 22,
+            "name": "Devonshire Arms Hotel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

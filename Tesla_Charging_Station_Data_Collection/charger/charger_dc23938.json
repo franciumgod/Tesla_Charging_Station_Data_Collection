@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Como",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22100",
+                "postalExt": null,
+                "state": null,
+                "street": "Via per Cernobbio",
+                "streetNumber": "41a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.833852,
+                "longitude": 9.070305
+            },
+            "commonSiteName": "Sheraton Lake Como Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.833852,
+                "longitude": 9.070305
+            },
+            "locationGUID": "2aceb813-8565-4211-9fad-30fdcd153077",
+            "maxPowerKw": 22,
+            "name": "Sheraton Lake Como Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

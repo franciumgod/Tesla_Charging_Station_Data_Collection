@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Maryvale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4370",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Wilkinson Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -28.110335,
+                "longitude": 152.370806
+            },
+            "commonSiteName": "Spicers Peak Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -28.110335,
+                "longitude": 152.370806
+            },
+            "locationGUID": "981dd6b1-4af4-409f-8907-340d8afd809d",
+            "maxPowerKw": 7,
+            "name": "Spicers Peak Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

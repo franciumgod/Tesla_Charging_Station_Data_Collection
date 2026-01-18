@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Irapuato",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "36698",
+                "postalExt": null,
+                "state": "GUA",
+                "street": "Residencial Campestre",
+                "streetNumber": "Boulevard Lazaro Cardenas 4210"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.677466,
+                "longitude": -101.367862
+            },
+            "commonSiteName": "Hampton Inn Irapuato",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.677466,
+                "longitude": -101.367862
+            },
+            "locationGUID": "8909e1e0-2da5-488c-85c0-03219385485b",
+            "maxPowerKw": 18,
+            "name": "Hampton Inn Irapuato",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

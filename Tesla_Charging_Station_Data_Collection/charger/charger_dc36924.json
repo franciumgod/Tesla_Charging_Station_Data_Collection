@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Gastein",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5640",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfplatz",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.12694,
+                "longitude": 13.141378
+            },
+            "commonSiteName": "Gasthaus Bäckerwirtsgut",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.12694,
+                "longitude": 13.141378
+            },
+            "locationGUID": "7859d3fd-c355-4f38-b277-b09a9d12c236",
+            "maxPowerKw": 17,
+            "name": "Gasthaus Baeckerwirtsgut",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

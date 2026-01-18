@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "MIlton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19968",
+                "postalExt": null,
+                "state": "DE",
+                "street": "Cannery Village Center",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.770321,
+                "longitude": -75.310107
+            },
+            "commonSiteName": "DogFish Head Brewery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.770321,
+                "longitude": -75.310107
+            },
+            "locationGUID": "db80db95-6bf0-4351-b94d-bdce03e81693",
+            "maxPowerKw": 16,
+            "name": "DogFish Head Brewery",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

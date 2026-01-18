@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "St. Louis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63134",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Natural Bridge Rd",
+                "streetNumber": "10330"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.735916,
+                "longitude": -90.359724
+            },
+            "commonSiteName": "Hilton St. Louis Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.735916,
+                "longitude": -90.359724
+            },
+            "locationGUID": "8b89d4df-7bd6-4a8e-86b6-0a89330e7455",
+            "maxPowerKw": 8,
+            "name": "Hilton St. Louis Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

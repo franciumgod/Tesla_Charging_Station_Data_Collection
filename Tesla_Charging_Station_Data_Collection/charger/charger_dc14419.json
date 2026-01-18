@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98101",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Stewart St",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.610335,
+                "longitude": -122.341261
+            },
+            "commonSiteName": "Thompson Seattle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.610335,
+                "longitude": -122.341261
+            },
+            "locationGUID": "ab70adef-df3e-435c-af7a-e64ef03d4ceb",
+            "maxPowerKw": 10,
+            "name": "Thompson Seattle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

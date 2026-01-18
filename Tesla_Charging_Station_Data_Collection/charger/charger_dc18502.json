@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hovelhof",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33161",
+                "postalExt": null,
+                "state": null,
+                "street": "Bahnhofstrasse",
+                "streetNumber": "35"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.82385568,
+                "longitude": 8.661089
+            },
+            "commonSiteName": "Hotel Victoria Förster",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.82385568,
+                "longitude": 8.661089
+            },
+            "locationGUID": "657c916e-8147-40e0-8b0c-b12146513cdd",
+            "maxPowerKw": 11,
+            "name": "Hotel Victoria Foerster",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

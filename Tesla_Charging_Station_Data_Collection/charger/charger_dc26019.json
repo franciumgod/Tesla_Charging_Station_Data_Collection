@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cottingham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "HU16 5TF",
+                "postalExt": null,
+                "state": null,
+                "street": "Beverley Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.786105,
+                "longitude": -0.451577
+            },
+            "commonSiteName": "The Mill House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.786105,
+                "longitude": -0.451577
+            },
+            "locationGUID": "463f8e63-3525-45a2-9c16-68e9326c5927",
+            "maxPowerKw": 22,
+            "name": "The Mill House",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Canberra",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2601",
+                "postalExt": null,
+                "state": "Australian Capital Territory",
+                "street": "London Circuit",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -35.28388,
+                "longitude": 149.125867
+            },
+            "commonSiteName": "QT Hotel Canberra",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -35.28388,
+                "longitude": 149.125867
+            },
+            "locationGUID": "236aff77-15f0-464f-9d67-112049236ff5",
+            "maxPowerKw": 22,
+            "name": "QT Hotel Canberra",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

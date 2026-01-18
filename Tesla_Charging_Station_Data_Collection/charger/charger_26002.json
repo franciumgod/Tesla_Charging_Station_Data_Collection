@@ -1,0 +1,301 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rabat",
+                "country": "Morocco",
+                "countryCode": "MA",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "10000",
+                "postalExt": null,
+                "state": null,
+                "street": "Bp 450 Souissi, Quartier Aviation",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.203125,
+                            0.171875,
+                            0.109375,
+                            0.109375,
+                            0.109375,
+                            0.109375,
+                            0.125,
+                            0.2589285714285714,
+                            0.328125,
+                            0.3526785714285714,
+                            0.33072916666666663,
+                            0.328125,
+                            0.4201388888888889,
+                            0.484375,
+                            0.5994318181818181,
+                            0.640625,
+                            0.5738636363636364,
+                            0.55,
+                            0.53125,
+                            0.51875,
+                            0.4375,
+                            0.45833333333333337,
+                            0.46875,
+                            0.375
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.3350694444444445,
+                            0.175,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.175,
+                            0.265625,
+                            0.3125,
+                            0.3526785714285714,
+                            0.375,
+                            0.53515625,
+                            0.625,
+                            0.63671875,
+                            0.5014204545454546,
+                            0.484375,
+                            0.5625,
+                            0.6614583333333333,
+                            0.65625,
+                            0.5416666666666666,
+                            0.47916666666666674,
+                            0.4375,
+                            0.3229166666666667
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.234375,
+                            0.14583333333333331,
+                            0.109375,
+                            0.0859375,
+                            0.0625,
+                            0.046875,
+                            0.125,
+                            0.21205357142857142,
+                            0.3125,
+                            0.33482142857142855,
+                            0.3125,
+                            0.40625,
+                            0.390625,
+                            0.4140625,
+                            0.4625,
+                            0.6079545454545454,
+                            0.578125,
+                            0.5056818181818182,
+                            0.45781249999999996,
+                            0.53125,
+                            0.47812499999999997,
+                            0.45833333333333337,
+                            0.5440340909090909,
+                            0.65625
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.21875,
+                            0.1484375,
+                            0.109375,
+                            0.09375,
+                            0.109375,
+                            0.09375,
+                            0.109375,
+                            0.109375,
+                            0.14583333333333334,
+                            0.234375,
+                            0.28125,
+                            0.2578125,
+                            0.2578125,
+                            0.375,
+                            0.515625,
+                            0.5796875,
+                            0.578125,
+                            0.44375,
+                            0.416015625,
+                            0.384765625,
+                            0.484375,
+                            0.5833333333333334,
+                            0.640625,
+                            0.54296875
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.28828125000000004,
+                            0.1875,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.146875,
+                            0.234375,
+                            0.25,
+                            0.28125,
+                            0.296875,
+                            0.3333333333333333,
+                            0.34375,
+                            0.4375,
+                            0.5440340909090909,
+                            0.625,
+                            0.6178977272727273,
+                            0.5625,
+                            0.559375,
+                            0.5625,
+                            0.5796875,
+                            0.5625,
+                            0.484375,
+                            0.3715277777777778
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.1484375,
+                            0.0859375,
+                            0.046875,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0.125,
+                            0.19375,
+                            0.265625,
+                            0.275,
+                            0.25,
+                            0.3046875,
+                            0.3125,
+                            0.3984375,
+                            0.4375,
+                            0.51875,
+                            0.5625,
+                            0.5625,
+                            0.4652777777777778,
+                            0.35546875,
+                            0.26875,
+                            0.234375,
+                            0.1875,
+                            0.172265625
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.16875,
+                            0.134375,
+                            0.09166666666666666,
+                            0.06875,
+                            0.0875,
+                            0.08750000000000001,
+                            0.1625,
+                            0.2328125,
+                            0.37222222222222223,
+                            0.42500000000000004,
+                            0.4277777777777778,
+                            0.5178571428571428,
+                            0.6375,
+                            0.6124999999999999,
+                            0.5,
+                            0.4,
+                            0.4647727272727273,
+                            0.5651785714285714,
+                            0.6125,
+                            0.5642857142857143,
+                            0.4375,
+                            0.4,
+                            0.35,
+                            0.353515625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 5762,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 26002,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "3600s"
+            },
+            "centroid": {
+                "latitude": 33.991234,
+                "longitude": -6.836861
+            },
+            "commonSiteName": "Sofitel",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "MAD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "free",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "MAD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 33.991213,
+                "longitude": -6.837664
+            },
+            "locationGUID": "d8d338a8-1a12-4a37-9309-ff9c0945bbc6",
+            "maxPowerKw": 150,
+            "name": "Rabat, Morocco",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Africa/Casablanca"
+        },
+        "success": true
+    }
+}

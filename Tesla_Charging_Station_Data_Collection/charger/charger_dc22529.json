@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Orpierre",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5700",
+                "postalExt": null,
+                "state": null,
+                "street": "Route des Princes d'orange",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.296229,
+                "longitude": 5.646091
+            },
+            "commonSiteName": "Logis Hotel le Céans",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.296229,
+                "longitude": 5.646091
+            },
+            "locationGUID": "f1fbcbe2-bc17-49d1-ae9d-ecdd91803418",
+            "maxPowerKw": 17,
+            "name": "Logis Hotel le Céans",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Takayama",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "506",
+                "postalExt": "0055",
+                "state": "Gifu",
+                "street": "Kamiokamotomachi",
+                "streetNumber": "3-326"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.125,
+                            0.109375,
+                            0.11458333333333334,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.09375,
+                            0.09375
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.0859375,
+                            0.125,
+                            0.171875,
+                            0.1875,
+                            0.171875,
+                            0.1953125,
+                            0.171875,
+                            0.1171875,
+                            0.0625,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.125,
+                            0.046875,
+                            0.0859375,
+                            0.109375,
+                            0.109375,
+                            0.171875,
+                            0.171875,
+                            0.21875,
+                            0.171875,
+                            0.14453125,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.046875,
+                            0.09375,
+                            0.078125,
+                            0.0859375,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.11458333333333334,
+                            0.109375,
+                            0.125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.0625,
+                            0.046875
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.03875000000000001,
+                            0.05,
+                            0.05,
+                            0.0875,
+                            0.07500000000000001,
+                            0.05,
+                            0.025,
+                            0.037500000000000006,
+                            0.09166666666666666,
+                            0.0875,
+                            0.075,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.08854166666666667,
+                            0.125,
+                            0.08854166666666667,
+                            0.0625,
+                            0.08854166666666667,
+                            0.140625,
+                            0.125,
+                            0.0859375,
+                            0.046875,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0625
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.0625,
+                            0.0859375,
+                            0.109375,
+                            0.109375,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.04375
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 10273,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 34491,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 36.138067,
+                "longitude": 137.244295
+            },
+            "commonSiteName": "FamilyMart",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 36.138414,
+                "longitude": 137.244212
+            },
+            "locationGUID": "baca4f0c-a221-4c0b-a29c-53a4e312b8d4",
+            "maxPowerKw": 250,
+            "name": "Takayama, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

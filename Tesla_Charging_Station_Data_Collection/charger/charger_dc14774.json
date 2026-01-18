@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Busnes",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "62350",
+                "postalExt": null,
+                "state": null,
+                "street": "rue de Lillers",
+                "streetNumber": "1098"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.58246598,
+                "longitude": 2.50742936
+            },
+            "commonSiteName": "Château de Beaulieu",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.58246598,
+                "longitude": 2.50742936
+            },
+            "locationGUID": "d358204a-90d9-4ffb-85a4-b340bde68432",
+            "maxPowerKw": 22,
+            "name": "Château de Beaulieu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

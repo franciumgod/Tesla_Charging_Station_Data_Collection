@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Louis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63102",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Washington Ave",
+                "streetNumber": "333"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.630164,
+                "longitude": -90.186542
+            },
+            "commonSiteName": "Hampton Inn St. Louis-Downtown (At the Gateway Arch)",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.630164,
+                "longitude": -90.186542
+            },
+            "locationGUID": "f23e0471-3d77-4406-9e6f-750c642d20a5",
+            "maxPowerKw": 8,
+            "name": "Hampton Inn St. Louis-Downtown (At the Gateway Arch)",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

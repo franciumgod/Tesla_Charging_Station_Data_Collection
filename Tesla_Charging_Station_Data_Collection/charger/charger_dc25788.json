@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brisbane",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4000",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Turbot St",
+                "streetNumber": "249"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.465061,
+                "longitude": 153.026212
+            },
+            "commonSiteName": "Hotel Sofitel Brisbane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.465061,
+                "longitude": 153.026212
+            },
+            "locationGUID": "fe061e94-d433-4798-8b22-aa0140803211",
+            "maxPowerKw": 22,
+            "name": "Hotel Sofitel Brisbane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

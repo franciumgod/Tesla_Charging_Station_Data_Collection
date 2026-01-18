@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nashville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27856",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Eastern Ave",
+                "streetNumber": "1169"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.970521,
+                "longitude": -77.938648
+            },
+            "commonSiteName": "Smithfield's Chicken 'N Bar-B-Q",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.970521,
+                "longitude": -77.938648
+            },
+            "locationGUID": "47b1c96c-56bf-4a77-b97b-71a5caefcf7e",
+            "maxPowerKw": 13,
+            "name": "Smithfield's Chicken 'N Bar-B-Q-Nashville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

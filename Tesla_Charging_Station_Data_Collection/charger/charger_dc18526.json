@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ciudad del Carmen",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24170",
+                "postalExt": null,
+                "state": "CAM",
+                "street": "Parque Alameda, Colonia Centro",
+                "streetNumber": "Av. Periferico Norte s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 18.649293,
+                "longitude": -91.813467
+            },
+            "commonSiteName": "Fiesta Inn Ciudad del Carmen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 18.649293,
+                "longitude": -91.813467
+            },
+            "locationGUID": "2885ab1a-b1f2-4d01-9135-0089841df741",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Ciudad del Carmen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Merida"
+        },
+        "success": true
+    }
+}

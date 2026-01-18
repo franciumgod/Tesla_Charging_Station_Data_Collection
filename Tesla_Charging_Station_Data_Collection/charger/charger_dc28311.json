@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Menai Bridge",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LL59 5NS",
+                "postalExt": null,
+                "state": "Isle of Anglesey",
+                "street": "Beaumaris Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.2382,
+                "longitude": -4.14395
+            },
+            "commonSiteName": "Chateau Rhianfa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.2382,
+                "longitude": -4.14395
+            },
+            "locationGUID": "550c65cd-7bdc-4e4d-afbe-c191d8bd2b44",
+            "maxPowerKw": 7,
+            "name": "Chateau Rhianfa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

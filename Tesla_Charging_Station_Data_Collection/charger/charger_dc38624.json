@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oetz",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6433",
+                "postalExt": null,
+                "state": null,
+                "street": "Oetzermuehlerweg",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.20581,
+                "longitude": 10.889921
+            },
+            "commonSiteName": "Hotel Jaegerhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.20581,
+                "longitude": 10.889921
+            },
+            "locationGUID": "6a63cf49-a03e-4243-8620-de118b05784b",
+            "maxPowerKw": 11,
+            "name": "Hotel Jaegerhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

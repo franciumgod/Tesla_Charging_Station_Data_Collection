@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ajax",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L1Z 1C9",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Beck Crescent",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.857584,
+                "longitude": -79.009941
+            },
+            "commonSiteName": "Hilton Garden Inn Ajax",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.857584,
+                "longitude": -79.009941
+            },
+            "locationGUID": "0ce4ed93-50e3-47f9-9429-9c389e2fd00f",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Ajax",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

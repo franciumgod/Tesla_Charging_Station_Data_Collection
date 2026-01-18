@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Nijmegen",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6541 BE",
+                "postalExt": null,
+                "state": "n/a",
+                "street": "Weurtseweg",
+                "streetNumber": "478"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.854372,
+                "longitude": 5.836934
+            },
+            "commonSiteName": "Hotel Nimma Nijmegen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.854372,
+                "longitude": 5.836934
+            },
+            "locationGUID": "7fdd1be3-feb9-4dd4-9c99-1da9401c5ee0",
+            "maxPowerKw": 11,
+            "name": "Hotel Nimma Nijmegen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

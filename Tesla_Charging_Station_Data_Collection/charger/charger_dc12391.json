@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sherbrooke",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J1E 4J6",
+                "postalExt": null,
+                "state": "QC",
+                "street": "12th Ave N",
+                "streetNumber": "1920"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.431396,
+                "longitude": -71.867768
+            },
+            "commonSiteName": "Hotel Le Floral",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.431396,
+                "longitude": -71.867768
+            },
+            "locationGUID": "21332d30-9f25-419c-9758-285fecabb5b5",
+            "maxPowerKw": 8,
+            "name": "Hotel Le Floral",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Södertälje",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "151 66",
+                "postalExt": null,
+                "state": null,
+                "street": "Pontonjärsgatan",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.172532,
+                "longitude": 17.526634
+            },
+            "commonSiteName": "First Hotel Almnäs Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.172532,
+                "longitude": 17.526634
+            },
+            "locationGUID": "ee756d97-4191-46db-9212-4fcb7f79a78e",
+            "maxPowerKw": 11,
+            "name": "First Hotel Almnäs Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

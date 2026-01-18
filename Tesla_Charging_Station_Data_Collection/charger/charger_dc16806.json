@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Langogne",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48300",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Mende",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.711788,
+                "longitude": 3.8264
+            },
+            "commonSiteName": "Domaine de Barres",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.711788,
+                "longitude": 3.8264
+            },
+            "locationGUID": "c4d5ed65-5439-445d-95b0-ca12e62930f9",
+            "maxPowerKw": 11,
+            "name": "Domaine de Barres",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

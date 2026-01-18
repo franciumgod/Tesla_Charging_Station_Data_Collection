@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Boerne",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78006",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Herff Rd",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.77512147,
+                "longitude": -98.72759114
+            },
+            "commonSiteName": "The Bevy Hotel Boerne, a DoubleTree by Hilton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.77512147,
+                "longitude": -98.72759114
+            },
+            "locationGUID": "f750bdd1-c9c3-49dd-ba9c-19669cb92b01",
+            "maxPowerKw": 8,
+            "name": "The Bevy Hotel Boerne, a DoubleTree by Hilton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

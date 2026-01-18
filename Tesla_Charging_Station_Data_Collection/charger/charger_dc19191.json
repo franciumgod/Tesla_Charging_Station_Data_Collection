@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bigbury on Sea",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TQ7 4AS",
+                "postalExt": null,
+                "state": "Devon",
+                "street": "Mainland garages, Burgh Island Causeway  Marine Drive",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.28298102,
+                "longitude": -3.89521582
+            },
+            "commonSiteName": "Burgh Island Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.28298102,
+                "longitude": -3.89521582
+            },
+            "locationGUID": "2bf81c93-a1ea-4aaa-a790-57bc2e99f1a2",
+            "maxPowerKw": 7,
+            "name": "Burgh Island Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

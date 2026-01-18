@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "York",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "YO30 6AA",
+                "postalExt": null,
+                "state": "North Yorkshire",
+                "street": "Clifton",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.965789,
+                "longitude": -1.091182
+            },
+            "commonSiteName": "The Grange Hotel York",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.965789,
+                "longitude": -1.091182
+            },
+            "locationGUID": "78b85a9e-b68e-401e-8416-d03d5436bef4",
+            "maxPowerKw": 22,
+            "name": "The Grange Hotel York",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

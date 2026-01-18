@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Daytona Beach Shores",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32118",
+                "postalExt": null,
+                "state": "FL",
+                "street": "S Atlantic Ave",
+                "streetNumber": "2637"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.181001,
+                "longitude": -80.984762
+            },
+            "commonSiteName": "The Shores Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.181001,
+                "longitude": -80.984762
+            },
+            "locationGUID": "6afcb3ac-f590-4b56-badf-e84f3ee33abd",
+            "maxPowerKw": 8,
+            "name": "The Shores Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

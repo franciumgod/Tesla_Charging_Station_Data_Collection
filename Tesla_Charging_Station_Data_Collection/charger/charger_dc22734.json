@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garcia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66245",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Carrizalejo",
+                "streetNumber": "Ave. Manuel Gomez Morin 100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.634977,
+                "longitude": -100.36399
+            },
+            "commonSiteName": "Plaza 100",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.634977,
+                "longitude": -100.36399
+            },
+            "locationGUID": "2f7f16ec-ac83-4ed9-80df-f08ae75130df",
+            "maxPowerKw": 11,
+            "name": "Plaza 100",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N6J 1H1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Springbank Drive",
+                "streetNumber": "460"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.966456,
+                "longitude": -81.285532
+            },
+            "commonSiteName": "Springbank Medical Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.966456,
+                "longitude": -81.285532
+            },
+            "locationGUID": "10aee7b5-a8fe-49a2-9a64-190c15b04bce",
+            "maxPowerKw": 16,
+            "name": "Springbank Medical Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 16,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

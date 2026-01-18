@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phoenix",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85018",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Camelback Rd",
+                "streetNumber": "4225"
+            },
+            "amenities": [
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.509287,
+                "longitude": -111.988706
+            },
+            "commonSiteName": "Buck & Rider",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.509287,
+                "longitude": -111.988706
+            },
+            "locationGUID": "5059df02-e5ac-42a6-b5e4-0e857e91c105",
+            "maxPowerKw": 8,
+            "name": "Buck & Rider",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

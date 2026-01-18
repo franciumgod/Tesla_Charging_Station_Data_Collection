@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Keswick",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CQ12 4QG",
+                "postalExt": null,
+                "state": "Cumbria",
+                "street": "Ravenstone Lodge   Bassenthwaite",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.657235,
+                "longitude": -3.187692
+            },
+            "commonSiteName": "Ravenstone Lodge Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.657235,
+                "longitude": -3.187692
+            },
+            "locationGUID": "99c84ed5-f67d-46ed-beeb-1b4fc3889850",
+            "maxPowerKw": 7,
+            "name": "Ravenstone Lodge Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

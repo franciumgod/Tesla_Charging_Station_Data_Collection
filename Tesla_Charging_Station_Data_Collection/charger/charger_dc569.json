@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20007",
+                "postalExt": null,
+                "state": "DC",
+                "street": "Pennsylvania Ave NW",
+                "streetNumber": "2800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.904437,
+                "longitude": -77.057389
+            },
+            "commonSiteName": "Four Seasons Washington D.C.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.904437,
+                "longitude": -77.057389
+            },
+            "locationGUID": "f53e9aac-fc92-4b7b-9979-e98a7cd4f085",
+            "maxPowerKw": 8,
+            "name": "Four Seasons Washington D.C.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

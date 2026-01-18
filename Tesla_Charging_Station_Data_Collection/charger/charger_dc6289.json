@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10001",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 25th St",
+                "streetNumber": "550"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.74979,
+                "longitude": -74.005335
+            },
+            "commonSiteName": "GGMC Parking - 550 W 25th",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.74979,
+                "longitude": -74.005335
+            },
+            "locationGUID": "04c608bb-4ca9-4c2b-9763-ec1ac7244c57",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking - 550 W 25th",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

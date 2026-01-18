@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beak",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "Wexford",
+                "postalExt": null,
+                "state": null,
+                "street": "Kilmore Quay",
+                "streetNumber": "Coast Kilmore Quay"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.17821939,
+                "longitude": -6.58465752
+            },
+            "commonSiteName": "Coast Kilmore Quay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.17821939,
+                "longitude": -6.58465752
+            },
+            "locationGUID": "bf72b3f3-7659-4321-a94a-4f14105dcba9",
+            "maxPowerKw": 13,
+            "name": "Coast Kilmore Quay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

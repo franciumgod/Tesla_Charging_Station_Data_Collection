@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mt Roskill",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": "SOHO Hotel",
+                "postalCode": "1041",
+                "postalExt": null,
+                "state": "Auckland",
+                "street": "Stoddard Road",
+                "streetNumber": "180"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.90127691,
+                "longitude": 174.72202546
+            },
+            "commonSiteName": "SOHO Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.900962,
+                "longitude": 174.721955
+            },
+            "locationGUID": "791d8fce-4955-4eb2-8cfa-e110c54ee3ef",
+            "maxPowerKw": 22,
+            "name": "SOHO Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

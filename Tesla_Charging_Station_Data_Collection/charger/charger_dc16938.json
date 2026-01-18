@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eckbolsheim",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67201",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue des frères Lumière",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.58907,
+                "longitude": 7.681508
+            },
+            "commonSiteName": "Stras Kart",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.58907,
+                "longitude": 7.681508
+            },
+            "locationGUID": "13349291-759b-490f-85f2-672e4eddcc7e",
+            "maxPowerKw": 22,
+            "name": "Stras Kart",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

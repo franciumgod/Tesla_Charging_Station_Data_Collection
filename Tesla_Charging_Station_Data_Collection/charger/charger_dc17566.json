@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dallas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "75214",
+                "postalExt": null,
+                "state": "TX",
+                "street": "E. Grand Ave",
+                "streetNumber": "7530"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.810335,
+                "longitude": -96.72919
+            },
+            "commonSiteName": "The LOT Dallas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.810335,
+                "longitude": -96.72919
+            },
+            "locationGUID": "651630b8-96a7-47ae-9df4-e19ed16a5770",
+            "maxPowerKw": 8,
+            "name": "The LOT Dallas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

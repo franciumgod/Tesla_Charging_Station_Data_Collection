@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rimini",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "47921",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Carlo Zavagli",
+                "streetNumber": "154"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.074671,
+                "longitude": 12.563489
+            },
+            "commonSiteName": "Hotel Crosal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.074671,
+                "longitude": 12.563489
+            },
+            "locationGUID": "0342f237-beb6-4f2b-84ca-40401028f4df",
+            "maxPowerKw": 22,
+            "name": "Hotel Crosal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

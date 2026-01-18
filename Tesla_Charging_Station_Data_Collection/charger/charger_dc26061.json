@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Alghero",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7041",
+                "postalExt": null,
+                "state": null,
+                "street": "Localita Porticciolo",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.642724,
+                "longitude": 8.190189
+            },
+            "commonSiteName": "Torre del Porticciolo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.642724,
+                "longitude": 8.190189
+            },
+            "locationGUID": "a81d7a38-3064-46a2-b9ad-23e1809aef6d",
+            "maxPowerKw": 22,
+            "name": "Torre del Porticciolo",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

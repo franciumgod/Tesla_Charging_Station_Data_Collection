@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11221",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Henry St",
+                "streetNumber": "75"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.698707,
+                "longitude": -73.992365
+            },
+            "commonSiteName": "Standard Parking 200 Cadman Plaza West",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.698707,
+                "longitude": -73.992365
+            },
+            "locationGUID": "161d5c9f-b392-4e02-b6dd-9ba9b26bdb24",
+            "maxPowerKw": 10,
+            "name": "Standard Parking 200 Cadman Plaza West",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

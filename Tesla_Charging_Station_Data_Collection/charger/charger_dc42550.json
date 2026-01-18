@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Snoqualmie",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98065",
+                "postalExt": null,
+                "state": "WA",
+                "street": "SE N Bend Wy",
+                "streetNumber": "37500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.51865,
+                "longitude": -121.841773
+            },
+            "commonSiteName": "Snoqualmie Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.51865,
+                "longitude": -121.841773
+            },
+            "locationGUID": "35d4d1f3-d49b-463d-8758-ea5a80c73710",
+            "maxPowerKw": 16,
+            "name": "Snoqualmie Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

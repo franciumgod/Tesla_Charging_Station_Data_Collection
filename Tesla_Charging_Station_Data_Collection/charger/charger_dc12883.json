@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jacksonville Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32250",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Beach Blvd",
+                "streetNumber": "1101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.288874,
+                "longitude": -81.401296
+            },
+            "commonSiteName": "Holiday Inn Express Jacksonville Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.288874,
+                "longitude": -81.401296
+            },
+            "locationGUID": "48cf0117-1101-43c7-b83c-5bc6ae1b432d",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Express Jacksonville Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

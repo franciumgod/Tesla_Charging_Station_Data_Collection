@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Marlo",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3888",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Argyle Pde",
+                "streetNumber": "19"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.79671,
+                "longitude": 148.53042
+            },
+            "commonSiteName": "Marlo Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.79671,
+                "longitude": 148.53042
+            },
+            "locationGUID": "22a9d48b-5c2a-4d8c-801f-2f31863713d3",
+            "maxPowerKw": 14,
+            "name": "Marlo Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

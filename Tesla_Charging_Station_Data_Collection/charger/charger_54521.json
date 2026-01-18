@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "19440",
+                "postalExt": null,
+                "state": null,
+                "street": "Lamer South Jumeirah",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.22546,
+                "longitude": 55.25412
+            },
+            "commonSiteName": "Rove Lamer Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.22546,
+                "longitude": 55.25412
+            },
+            "locationGUID": "00a4e12d-5cb4-4333-8542-e1bc49af2a6e",
+            "maxPowerKw": 22,
+            "name": "Rove Lamer Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

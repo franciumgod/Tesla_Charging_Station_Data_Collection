@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garc├¡a",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66267",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Zona Santa Engracia",
+                "streetNumber": "Av. Ricardo Margain Zozaya 315"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.652599,
+                "longitude": -100.352492
+            },
+            "commonSiteName": "Chroma Monterrey",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.652599,
+                "longitude": -100.352492
+            },
+            "locationGUID": "acbf5724-a219-4f3d-a403-e4bb77df8c60",
+            "maxPowerKw": 18,
+            "name": "Chroma Monterrey",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

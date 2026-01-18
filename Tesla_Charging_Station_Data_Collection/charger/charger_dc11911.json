@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Petaluma",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94954",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Baywood Dr",
+                "streetNumber": "745"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.230988,
+                "longitude": -122.612703
+            },
+            "commonSiteName": "Sheraton Sonoma County-Petaluma",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.230988,
+                "longitude": -122.612703
+            },
+            "locationGUID": "6ed04bda-33bf-448a-9053-8f1ed47f7e3f",
+            "maxPowerKw": 16,
+            "name": "Sheraton Sonoma County-Petaluma",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

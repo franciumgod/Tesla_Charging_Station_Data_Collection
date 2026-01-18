@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New London",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03257",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Pleasant St",
+                "streetNumber": "853"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.433675,
+                "longitude": -71.96988
+            },
+            "commonSiteName": "Inn at Pleasant Lake",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.433675,
+                "longitude": -71.96988
+            },
+            "locationGUID": "ce705656-1963-4481-a17b-7804f4eb36f3",
+            "maxPowerKw": 8,
+            "name": "Inn at Pleasant Lake",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

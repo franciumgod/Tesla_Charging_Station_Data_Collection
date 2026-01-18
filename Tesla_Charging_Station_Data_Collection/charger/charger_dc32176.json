@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Egham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TW20 9UR",
+                "postalExt": null,
+                "state": "Surrey",
+                "street": "Stroude Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.417011,
+                "longitude": -0.544561
+            },
+            "commonSiteName": "Great Fosters",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.417011,
+                "longitude": -0.544561
+            },
+            "locationGUID": "57192b6d-3366-49d8-840d-7c5d607cf15e",
+            "maxPowerKw": 22,
+            "name": "Great Fosters",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "강릉시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "25459",
+                "postalExt": null,
+                "state": "강원도",
+                "street": "해안로",
+                "streetNumber": "651-17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.813008,
+                "longitude": 128.895208
+            },
+            "commonSiteName": "라임 비치 펜션",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.813008,
+                "longitude": 128.895208
+            },
+            "locationGUID": "2568c562-b095-4f11-a646-8c66b33a4086",
+            "maxPowerKw": 6,
+            "name": "Lime Beach Pension",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kingsbridge",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TQ7 3DS",
+                "postalExt": null,
+                "state": "Salcombe",
+                "street": "Soar Mill Cove",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.224692,
+                "longitude": -3.818012
+            },
+            "commonSiteName": "Soar Mill Cove Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.224692,
+                "longitude": -3.818012
+            },
+            "locationGUID": "0fbb7e4c-c8d8-4af1-b979-0e11015e5ac0",
+            "maxPowerKw": 7,
+            "name": "Soar Mill Cove Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

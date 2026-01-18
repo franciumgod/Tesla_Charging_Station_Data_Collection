@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Swinoujscie",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "72",
+                "postalExt": "600",
+                "state": null,
+                "street": "Aleja Baltic Park Molo",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.919025,
+                "longitude": 14.260271
+            },
+            "commonSiteName": "Radisson Blu Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.919025,
+                "longitude": 14.260271
+            },
+            "locationGUID": "03f48810-f6ac-4d98-acef-7ecafbb3fc77",
+            "maxPowerKw": 22,
+            "name": "Radisson Blu Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

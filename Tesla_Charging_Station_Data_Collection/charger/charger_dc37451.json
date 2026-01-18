@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sherbrooke",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J1l 1C1",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue King ouest",
+                "streetNumber": "2685"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.398536,
+                "longitude": -71.939706
+            },
+            "commonSiteName": "Delta Shebrooke",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.398536,
+                "longitude": -71.939706
+            },
+            "locationGUID": "6e4410dc-9e32-44ed-84f6-bd051db40996",
+            "maxPowerKw": 16,
+            "name": "Delta Shebrooke",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

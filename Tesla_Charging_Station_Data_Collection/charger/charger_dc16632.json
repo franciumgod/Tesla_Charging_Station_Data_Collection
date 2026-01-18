@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Frankenberg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "35066",
+                "postalExt": null,
+                "state": null,
+                "street": "Marktplatz",
+                "streetNumber": "2-4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.05818388,
+                "longitude": 8.80151916
+            },
+            "commonSiteName": "Hotel die Sonne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.05818388,
+                "longitude": 8.80151916
+            },
+            "locationGUID": "17d64f0a-5f12-4564-b06d-21d6a804870b",
+            "maxPowerKw": 22,
+            "name": "Hotel die Sonne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

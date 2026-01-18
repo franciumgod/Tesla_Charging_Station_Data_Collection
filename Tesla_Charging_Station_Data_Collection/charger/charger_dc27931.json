@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Paderborn",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33104",
+                "postalExt": null,
+                "state": null,
+                "street": "Dubelohstrasse",
+                "streetNumber": "264"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.756922,
+                "longitude": 8.720211
+            },
+            "commonSiteName": "VAAN Restaurant & Lounge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.756922,
+                "longitude": 8.720211
+            },
+            "locationGUID": "b9942538-0180-4840-81ce-bc32ece3fb0d",
+            "maxPowerKw": 22,
+            "name": "VAAN Restaurant & Lounge",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

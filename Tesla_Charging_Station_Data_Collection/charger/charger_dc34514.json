@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bologna",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "40138",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Lenin",
+                "streetNumber": "43"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.490974,
+                "longitude": 11.390805
+            },
+            "commonSiteName": "Best Western Plus Tower",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.490974,
+                "longitude": 11.390805
+            },
+            "locationGUID": "b5543f65-96fb-4eda-b041-146a8e48f8b3",
+            "maxPowerKw": 22,
+            "name": "Best Western Plus Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

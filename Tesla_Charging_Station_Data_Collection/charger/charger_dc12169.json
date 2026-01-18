@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nesflaten",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4244",
+                "postalExt": null,
+                "state": "Nesflaten",
+                "street": "Nesflaten",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.650414,
+                "longitude": 6.817983
+            },
+            "commonSiteName": "Energihotellet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.650414,
+                "longitude": 6.817983
+            },
+            "locationGUID": "69aa016d-20db-4111-a321-392a003f4c32",
+            "maxPowerKw": 7,
+            "name": "Energihotellet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

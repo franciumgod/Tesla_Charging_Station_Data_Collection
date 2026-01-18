@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Morzine",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74110",
+                "postalExt": null,
+                "state": null,
+                "street": "Taille de Mas des Champs de la Plagnes",
+                "streetNumber": "140"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.183696,
+                "longitude": 6.699842
+            },
+            "commonSiteName": "Hotel Alpen Roc",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.183696,
+                "longitude": 6.699842
+            },
+            "locationGUID": "5cdd543a-e971-4b12-b39a-fa2e69d82e2b",
+            "maxPowerKw": 11,
+            "name": "Hotel Alpen Roc",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

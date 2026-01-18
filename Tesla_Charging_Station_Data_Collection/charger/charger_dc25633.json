@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Riverview",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33578",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Garden Vista Dr",
+                "streetNumber": "4328"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.909542,
+                "longitude": -82.345613
+            },
+            "commonSiteName": "Hilton Garden Inn Tampa/Riverview/Brandon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.909542,
+                "longitude": -82.345613
+            },
+            "locationGUID": "9afb0991-f3d1-4c08-a9f7-1e2caddae44c",
+            "maxPowerKw": 8,
+            "name": "Hilton Garden Inn Tampa/Riverview/Brandon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

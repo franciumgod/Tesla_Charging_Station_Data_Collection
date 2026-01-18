@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28009",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle de Goya",
+                "streetNumber": "76 - 1a Planta Click & Car"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.424557,
+                "longitude": -3.673235
+            },
+            "commonSiteName": "El Corte Ingles Goya",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.424557,
+                "longitude": -3.673235
+            },
+            "locationGUID": "751b5259-b963-4649-b9ce-0f0e3d0e73f9",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Goya",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cutchogue",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11935",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main Rd",
+                "streetNumber": "36225"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.0297,
+                "longitude": -72.46864
+            },
+            "commonSiteName": "Bedell Cellars",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.0297,
+                "longitude": -72.46864
+            },
+            "locationGUID": "8634c2f4-a236-463a-9af6-cf3194b76975",
+            "maxPowerKw": 9,
+            "name": "Bedell Cellars",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

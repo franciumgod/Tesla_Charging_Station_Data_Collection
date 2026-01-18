@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paul",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": "Covilhã",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6215",
+                "postalExt": "328",
+                "state": null,
+                "street": "R. Dr. José Carvalho",
+                "streetNumber": "71"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.2031825,
+                "longitude": -7.63813429
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.2031825,
+                "longitude": -7.63813429
+            },
+            "locationGUID": "f4328da9-5814-4a84-9c4a-e04838b0d754",
+            "maxPowerKw": 0,
+            "name": "Cherry Sculpture Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

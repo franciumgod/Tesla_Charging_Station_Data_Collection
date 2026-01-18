@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Maniwaki",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J9E 2B7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Principale Nord",
+                "streetNumber": "85"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.3820302,
+                "longitude": -75.9835311
+            },
+            "commonSiteName": "Auberge Du Draveur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.3820302,
+                "longitude": -75.9835311
+            },
+            "locationGUID": "2d9794ba-a688-49c5-9051-7740eef74149",
+            "maxPowerKw": 8,
+            "name": "Auberge Du Draveur",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

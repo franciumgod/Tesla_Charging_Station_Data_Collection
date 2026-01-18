@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5V 1M5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "King St W",
+                "streetNumber": "620"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.645134,
+                "longitude": -79.400727
+            },
+            "commonSiteName": "King Portland Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.645134,
+                "longitude": -79.400727
+            },
+            "locationGUID": "af0ff2fc-6002-4f72-af3f-78dc3d33f967",
+            "maxPowerKw": 19,
+            "name": "King Portland Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 22,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

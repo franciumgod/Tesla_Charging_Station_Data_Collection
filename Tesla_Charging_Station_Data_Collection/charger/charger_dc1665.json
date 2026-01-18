@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gothenburg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "41749",
+                "postalExt": null,
+                "state": null,
+                "street": "Knipplekullen",
+                "streetNumber": "8-10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.743942,
+                "longitude": 11.946361
+            },
+            "commonSiteName": "Sankt Jorgen Park Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.743942,
+                "longitude": 11.946361
+            },
+            "locationGUID": "1fd3a923-d590-4f4f-ac13-b60f0f3fcc63",
+            "maxPowerKw": 11,
+            "name": "Sankt Jorgen Park Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Benton City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "99320",
+                "postalExt": null,
+                "state": "WA",
+                "street": "N Sunset Rd",
+                "streetNumber": "55410"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.2960713,
+                "longitude": -119.4514867
+            },
+            "commonSiteName": "Hamilton Cellars",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.2960713,
+                "longitude": -119.4514867
+            },
+            "locationGUID": "11d45336-0a5d-4d89-a5ca-f70f736acc3f",
+            "maxPowerKw": 13,
+            "name": "Hamilton Cellars",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

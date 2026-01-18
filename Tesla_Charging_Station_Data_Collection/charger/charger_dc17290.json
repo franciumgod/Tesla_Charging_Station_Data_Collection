@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Munchen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "80805",
+                "postalExt": null,
+                "state": null,
+                "street": "Johann-Fichte-Str.",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.169667,
+                "longitude": 11.588112
+            },
+            "commonSiteName": "Tantris Restaurant GmbH & Co. Betriebs KG",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.169667,
+                "longitude": 11.588112
+            },
+            "locationGUID": "4b467b29-771d-4636-b596-4d1e88eb775a",
+            "maxPowerKw": 11,
+            "name": "Tantris Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

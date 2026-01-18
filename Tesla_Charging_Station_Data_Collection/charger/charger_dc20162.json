@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wighill",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LS24 8BQ",
+                "postalExt": null,
+                "state": "North Yorkshire",
+                "street": "Main Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.916342,
+                "longitude": -1.277242
+            },
+            "commonSiteName": "The White Swan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.916342,
+                "longitude": -1.277242
+            },
+            "locationGUID": "0d00a563-f9fb-4d1d-9b10-ad86ee17906e",
+            "maxPowerKw": 7,
+            "name": "The White Swan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

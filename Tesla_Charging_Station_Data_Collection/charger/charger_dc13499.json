@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 9th St",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.732519,
+                "longitude": -73.995135
+            },
+            "commonSiteName": "Icon Parking 12 East 9th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.732519,
+                "longitude": -73.995135
+            },
+            "locationGUID": "9723a89b-ca3d-4cd2-b0b2-462591e76bc4",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 12 East 9th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sonoma",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95476",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Boyes Blvd",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.312891,
+                "longitude": -122.482471
+            },
+            "commonSiteName": "The Fairmont Sonoma Mission Inn & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.312891,
+                "longitude": -122.482471
+            },
+            "locationGUID": "8a112e50-31f6-4830-bb04-fca70f81a2c7",
+            "maxPowerKw": 16,
+            "name": "The Fairmont Sonoma Mission Inn & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

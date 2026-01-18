@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10019",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 58th St",
+                "streetNumber": "330"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.767879,
+                "longitude": -73.983656
+            },
+            "commonSiteName": "Dock Parking 330 W 58th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.767879,
+                "longitude": -73.983656
+            },
+            "locationGUID": "af872c30-bdc3-44f5-a908-058df9321758",
+            "maxPowerKw": 8,
+            "name": "Dock Parking 330 W 58th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

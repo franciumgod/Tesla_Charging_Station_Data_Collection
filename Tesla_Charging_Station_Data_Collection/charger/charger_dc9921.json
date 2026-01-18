@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Arosa",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7050",
+                "postalExt": null,
+                "state": "Grisons",
+                "street": "Tschuggentorweg",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.777228,
+                "longitude": 9.6554
+            },
+            "commonSiteName": "Tschuggen Grand Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.777228,
+                "longitude": 9.6554
+            },
+            "locationGUID": "11051070-82fd-423a-abe2-073e4b1915fe",
+            "maxPowerKw": 11,
+            "name": "Tschuggen Grand Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

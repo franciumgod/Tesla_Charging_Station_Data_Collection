@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Catharines",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L2N 3Z8",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Meadowvale Dr",
+                "streetNumber": "89"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.179251,
+                "longitude": -79.253347
+            },
+            "commonSiteName": "Days Inn St Catharines Niagara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.179251,
+                "longitude": -79.253347
+            },
+            "locationGUID": "73c09ac6-9062-4207-bbb6-11acd43565c7",
+            "maxPowerKw": 8,
+            "name": "Days Inn St Catharines Niagara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

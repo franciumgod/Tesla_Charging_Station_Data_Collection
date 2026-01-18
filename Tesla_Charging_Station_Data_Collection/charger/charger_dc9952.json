@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wetzikon",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8620",
+                "postalExt": null,
+                "state": null,
+                "street": "Grubenstrasse",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.31419,
+                "longitude": 8.796907
+            },
+            "commonSiteName": "Hotel Swiss Star",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.31419,
+                "longitude": 8.796907
+            },
+            "locationGUID": "b81cc4d0-56f7-4140-b7de-41d5e758f88a",
+            "maxPowerKw": 11,
+            "name": "Hotel Swiss Star",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

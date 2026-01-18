@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Niagara on the Lake",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L0S 1J0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "York Rd",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.161344,
+                "longitude": -79.162755
+            },
+            "commonSiteName": "Hilton Garden Inn Niagara on the Lake",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.161344,
+                "longitude": -79.162755
+            },
+            "locationGUID": "d96be786-9698-4d7f-8d08-b8c53e62c6db",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Niagara on the Lake",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

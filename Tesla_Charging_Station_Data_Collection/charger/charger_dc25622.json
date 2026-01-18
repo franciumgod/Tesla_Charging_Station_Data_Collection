@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Louisville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "40209",
+                "postalExt": null,
+                "state": "KY",
+                "street": "Phillips Ln",
+                "streetNumber": "800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.190859,
+                "longitude": -85.743196
+            },
+            "commonSiteName": "Hampton Inn Louisville - Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.190859,
+                "longitude": -85.743196
+            },
+            "locationGUID": "b33dc075-18b6-4261-9d24-8db256454ba7",
+            "maxPowerKw": 8,
+            "name": "Hampton Inn Louisville - Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Kentucky/Louisville"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98109",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Fairview Ave N",
+                "streetNumber": "400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.622544,
+                "longitude": -122.333913
+            },
+            "commonSiteName": "400 Fairview",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.622544,
+                "longitude": -122.333913
+            },
+            "locationGUID": "89dc5613-fb44-4c72-9fb9-dbd6b3e7c8a6",
+            "maxPowerKw": 13,
+            "name": "400 Fairview",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

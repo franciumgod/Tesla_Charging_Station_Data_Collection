@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Calistoga",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94515",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Lommel Rd",
+                "streetNumber": "580"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.579938,
+                "longitude": -122.513364
+            },
+            "commonSiteName": "Calistoga Ranch",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.579938,
+                "longitude": -122.513364
+            },
+            "locationGUID": "100867d5-c424-41e2-bb36-04d5c1235485",
+            "maxPowerKw": 8,
+            "name": "Calistoga Ranch",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

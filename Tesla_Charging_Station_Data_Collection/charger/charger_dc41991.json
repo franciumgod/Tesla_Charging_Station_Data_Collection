@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kogarah",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2217",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Railway Parade",
+                "streetNumber": "1-9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.962021,
+                "longitude": 151.133108
+            },
+            "commonSiteName": "Kogarah Town Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.962021,
+                "longitude": 151.133108
+            },
+            "locationGUID": "70bdb3a4-f412-47ba-870d-478bc7dc4e9c",
+            "maxPowerKw": 7,
+            "name": "Kogarah Town Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

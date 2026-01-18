@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Les Gets",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74260",
+                "postalExt": null,
+                "state": null,
+                "street": "Route des Chavannes 3157",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.155844,
+                "longitude": 6.687614
+            },
+            "commonSiteName": "Golf Les Gets",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.155844,
+                "longitude": 6.687614
+            },
+            "locationGUID": "af41dcd6-cfa7-4c5a-a121-e05e43d37c46",
+            "maxPowerKw": 6,
+            "name": "Golf Les Gets",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

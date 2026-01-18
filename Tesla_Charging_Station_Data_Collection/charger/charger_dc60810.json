@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Weinheim",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69469",
+                "postalExt": null,
+                "state": null,
+                "street": "Birkenauer Talstrasse",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.555875,
+                "longitude": 8.689431
+            },
+            "commonSiteName": "Hotel Fuchs'sche Muehle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.555875,
+                "longitude": 8.689431
+            },
+            "locationGUID": "dd2d522d-bde2-4efd-8bac-81a4e0f55e9b",
+            "maxPowerKw": 11,
+            "name": "Hotel Fuchs'sche Muehle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

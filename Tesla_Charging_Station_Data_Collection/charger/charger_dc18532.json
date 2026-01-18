@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44630",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Providencia",
+                "streetNumber": "Avenida de las Americas 1551"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.702942,
+                "longitude": -103.376695
+            },
+            "commonSiteName": "Grand Fiesta Americana Guadalajara Country Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.702942,
+                "longitude": -103.376695
+            },
+            "locationGUID": "37975d5d-ed4d-4c73-b193-9260628dc9fa",
+            "maxPowerKw": 9,
+            "name": "Grand Fiesta Americana Guadalajara Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

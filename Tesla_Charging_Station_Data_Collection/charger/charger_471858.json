@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Yokosuka",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "240",
+                "postalExt": "0103",
+                "state": "Kanagawa",
+                "street": "Sajima",
+                "streetNumber": "3-9-19"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.224209,
+                "longitude": 139.60549
+            },
+            "commonSiteName": "PORTLAND cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.224209,
+                "longitude": 139.60549
+            },
+            "locationGUID": "ae1c6be2-156f-4af5-8f36-e95e226be5c5",
+            "maxPowerKw": 9,
+            "name": "PORTLANDS cafe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Presov",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "080 01",
+                "postalExt": null,
+                "state": null,
+                "street": "Masarykova",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.984644,
+                "longitude": 21.249184
+            },
+            "commonSiteName": "Retro Carburger",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.984644,
+                "longitude": 21.249184
+            },
+            "locationGUID": "55845b1a-86ac-404b-97fc-9d0bb614c12a",
+            "maxPowerKw": 22,
+            "name": "Retro Carburger",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

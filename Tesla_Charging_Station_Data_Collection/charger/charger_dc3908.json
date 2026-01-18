@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stratford",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N5A 3J3",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Ontario St",
+                "streetNumber": "552"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.3712055,
+                "longitude": -80.9637726
+            },
+            "commonSiteName": "The Arden Park Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.3712055,
+                "longitude": -80.9637726
+            },
+            "locationGUID": "e7e6d435-5759-419b-ad61-b2714574bee9",
+            "maxPowerKw": 16,
+            "name": "The Arden Park Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

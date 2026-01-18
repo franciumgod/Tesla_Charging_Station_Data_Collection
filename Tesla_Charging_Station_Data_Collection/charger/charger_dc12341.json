@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "West Palm Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33401",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Okeechobee Blvd",
+                "streetNumber": "600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.704929,
+                "longitude": -80.057026
+            },
+            "commonSiteName": "Hilton West Palm Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.704929,
+                "longitude": -80.057026
+            },
+            "locationGUID": "f6cb6095-7f8a-4b2e-b252-fdb4671144ce",
+            "maxPowerKw": 8,
+            "name": "Hilton West Palm Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

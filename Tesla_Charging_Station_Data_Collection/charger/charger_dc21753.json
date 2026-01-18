@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paradise Valley",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85253",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Lincoln Dr",
+                "streetNumber": "5445"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.530582,
+                "longitude": -111.963989
+            },
+            "commonSiteName": "Mountain Shadows",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.530582,
+                "longitude": -111.963989
+            },
+            "locationGUID": "8bc90cb1-e521-4320-a82e-940627c7208b",
+            "maxPowerKw": 10,
+            "name": "Mountain Shadows",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

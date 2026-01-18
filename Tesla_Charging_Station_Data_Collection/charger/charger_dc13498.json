@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "5th Ave",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.732085,
+                "longitude": -73.995829
+            },
+            "commonSiteName": "Icon Parking 11 5th Ave",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.732085,
+                "longitude": -73.995829
+            },
+            "locationGUID": "be4dcb0f-cb9e-4784-8053-34cc1910e947",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 11 5th Ave",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

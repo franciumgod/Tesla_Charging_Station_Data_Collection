@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Provo",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84601",
+                "postalExt": null,
+                "state": "UT",
+                "street": "W 100 N",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.234985,
+                "longitude": -111.6607
+            },
+            "commonSiteName": "Provo Marriott Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.234985,
+                "longitude": -111.6607
+            },
+            "locationGUID": "1efd9380-47a1-4497-a19b-ce4f0efd0ecd",
+            "maxPowerKw": 13,
+            "name": "Provo Marriott Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

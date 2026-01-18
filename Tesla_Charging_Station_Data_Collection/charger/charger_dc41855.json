@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bengtsfors",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "666 31",
+                "postalExt": null,
+                "state": null,
+                "street": "Karlsbergsvägen",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.029805,
+                "longitude": 12.232059
+            },
+            "commonSiteName": "First Hotel Bengtsfors",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.029805,
+                "longitude": 12.232059
+            },
+            "locationGUID": "b6e69881-f316-4e09-8c38-677d45b7e28c",
+            "maxPowerKw": 11,
+            "name": "First Hotel Bengtsfors",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

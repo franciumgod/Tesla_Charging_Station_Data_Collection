@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Willits",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95490",
+                "postalExt": null,
+                "state": "CA",
+                "street": "S Main St",
+                "streetNumber": "1221"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.39969,
+                "longitude": -123.349082
+            },
+            "commonSiteName": "The Old West Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.39969,
+                "longitude": -123.349082
+            },
+            "locationGUID": "0b25c00c-afa0-40d8-a593-cd0ccba41071",
+            "maxPowerKw": 8,
+            "name": "The Old West Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

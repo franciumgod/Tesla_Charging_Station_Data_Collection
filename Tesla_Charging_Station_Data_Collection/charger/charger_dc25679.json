@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano Marittima Cervia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48015",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale Dante",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.271422,
+                "longitude": 12.352535
+            },
+            "commonSiteName": "MarePineta Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.271422,
+                "longitude": 12.352535
+            },
+            "locationGUID": "7f7258a5-dfdd-4814-a1b3-8d9981a03a6c",
+            "maxPowerKw": 11,
+            "name": "MarePineta Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

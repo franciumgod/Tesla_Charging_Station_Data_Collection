@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94132",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Sloat Blvd & Great Hwy",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.73313,
+                "longitude": -122.505159
+            },
+            "commonSiteName": "San Francisco Zoo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.73313,
+                "longitude": -122.505159
+            },
+            "locationGUID": "1b0267bc-2299-473a-b43d-28c08f88b050",
+            "maxPowerKw": 8,
+            "name": "San Francisco Zoo",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 10,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

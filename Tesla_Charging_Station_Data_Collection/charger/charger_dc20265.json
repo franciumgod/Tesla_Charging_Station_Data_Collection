@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bicester",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "OX26 2TE",
+                "postalExt": null,
+                "state": null,
+                "street": "Green Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.886358,
+                "longitude": -1.197036
+            },
+            "commonSiteName": "Bicester Hotel Golf & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.886358,
+                "longitude": -1.197036
+            },
+            "locationGUID": "1c0a6f40-9313-4e68-a70f-7584569143e5",
+            "maxPowerKw": 13,
+            "name": "Bicester Hotel Golf & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

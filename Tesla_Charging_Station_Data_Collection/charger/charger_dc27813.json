@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "과천시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "13820",
+                "postalExt": null,
+                "state": "경기도",
+                "street": "삼부골3로",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.446413,
+                "longitude": 127.023586
+            },
+            "commonSiteName": "마이 알레",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.446413,
+                "longitude": 127.023586
+            },
+            "locationGUID": "4dbf3a27-babd-451e-9ec9-93bcfd359e84",
+            "maxPowerKw": 16,
+            "name": "My Allee",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

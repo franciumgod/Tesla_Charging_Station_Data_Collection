@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Granollers",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "08400",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carretera del Masnou",
+                "streetNumber": "Km. 14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.580622,
+                "longitude": 2.28346
+            },
+            "commonSiteName": "Hotel H",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.580622,
+                "longitude": 2.28346
+            },
+            "locationGUID": "60275d96-1477-4339-9ce9-df360866c5da",
+            "maxPowerKw": 22,
+            "name": "Hotel H",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

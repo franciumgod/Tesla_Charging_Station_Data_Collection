@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8019",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carrer de Llull",
+                "streetNumber": "340"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.408258,
+                "longitude": 2.21174
+            },
+            "commonSiteName": "Hotel Vincci Maritimo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.408258,
+                "longitude": 2.21174
+            },
+            "locationGUID": "8ba04aa1-2261-4b35-82c1-5cf45e514ead",
+            "maxPowerKw": 11,
+            "name": "Hotel Vincci Maritimo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

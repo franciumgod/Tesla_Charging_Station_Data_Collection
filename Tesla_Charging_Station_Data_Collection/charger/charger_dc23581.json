@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "North Point",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Hong Kong Island",
+                "street": "City Garden Rd",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.290278,
+                "longitude": 114.194132
+            },
+            "commonSiteName": "City Garden Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.290278,
+                "longitude": 114.194132
+            },
+            "locationGUID": "6c40eb9b-f600-4901-8dac-7ad9f2f9572d",
+            "maxPowerKw": 21,
+            "name": "City Garden Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dallas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "75246",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Gaston Ave",
+                "streetNumber": "4005"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.793507,
+                "longitude": -96.778001
+            },
+            "commonSiteName": "Element by Westin Dallas East",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.793507,
+                "longitude": -96.778001
+            },
+            "locationGUID": "2b25a0b7-e42b-4dfe-81cd-ccf36b015df2",
+            "maxPowerKw": 10,
+            "name": "Element by Westin Dallas East",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

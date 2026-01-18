@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64989",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Valle Alto",
+                "streetNumber": "Carretera Nacional 500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.576684,
+                "longitude": -100.247927
+            },
+            "commonSiteName": "Pueblo Serena II",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.576684,
+                "longitude": -100.247927
+            },
+            "locationGUID": "7e4a0ef6-48d8-4253-932a-8597a092e369",
+            "maxPowerKw": 16,
+            "name": "Pueblo Serena II",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

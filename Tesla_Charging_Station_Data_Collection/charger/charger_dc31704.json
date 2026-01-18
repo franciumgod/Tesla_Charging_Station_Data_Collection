@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64000",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Centro",
+                "streetNumber": "Calle Washington 1400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.67278,
+                "longitude": -100.299522
+            },
+            "commonSiteName": "La Capital",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.67278,
+                "longitude": -100.299522
+            },
+            "locationGUID": "4f4365eb-2eb5-45dc-9b8f-f6baf1a5e97e",
+            "maxPowerKw": 18,
+            "name": "La Capital",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

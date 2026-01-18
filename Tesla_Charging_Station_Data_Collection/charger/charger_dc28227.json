@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main St",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.702882,
+                "longitude": -73.990594
+            },
+            "commonSiteName": "Park Kwik LLC 50 Washington St.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.702882,
+                "longitude": -73.990594
+            },
+            "locationGUID": "9ec70f76-427b-4374-9e14-9efd27ed7a9a",
+            "maxPowerKw": 16,
+            "name": "Park Kwik LLC 50 Washington St.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Flagstaff",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "86001",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "W Forest Meadows St",
+                "streetNumber": "360"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.179434,
+                "longitude": -111.662672
+            },
+            "commonSiteName": "Coco's Bakery Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.179434,
+                "longitude": -111.662672
+            },
+            "locationGUID": "383985a1-0674-4f09-8ec8-b5576fcbc8e6",
+            "maxPowerKw": 16,
+            "name": "Coco's Bakery Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

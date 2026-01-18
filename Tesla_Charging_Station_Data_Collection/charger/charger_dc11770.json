@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waterloo",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N2J 2Z5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "King St N",
+                "streetNumber": "425"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.4866257,
+                "longitude": -80.5276539
+            },
+            "commonSiteName": "Wildcraft Grill Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.4866257,
+                "longitude": -80.5276539
+            },
+            "locationGUID": "cede357b-15b2-40fc-8a03-e227e29184d5",
+            "maxPowerKw": 8,
+            "name": "Wildcraft Grill Bar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

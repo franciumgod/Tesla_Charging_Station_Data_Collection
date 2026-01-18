@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Windsor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95492",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Mitchell Ln",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.532508,
+                "longitude": -122.80288
+            },
+            "commonSiteName": "Russian River Brewing Company - Windsor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.532508,
+                "longitude": -122.80288
+            },
+            "locationGUID": "aca0bd68-0b1f-4027-8ddb-c80a083cad41",
+            "maxPowerKw": 16,
+            "name": "Russian River Brewing Company - Windsor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

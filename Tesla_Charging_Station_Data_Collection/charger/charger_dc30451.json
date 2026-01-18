@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Burlington",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L7T 4H4",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Plains Rd W",
+                "streetNumber": "680"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.289542,
+                "longitude": -79.875282
+            },
+            "commonSiteName": "Royal Botanical Gardens - RBG Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.289542,
+                "longitude": -79.875282
+            },
+            "locationGUID": "99ecc6a2-50e7-4314-a6fa-a01668824780",
+            "maxPowerKw": 16,
+            "name": "Royal Botanical Gardens - RBG Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

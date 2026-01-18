@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Morelia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "58270",
+                "postalExt": null,
+                "state": "MIC",
+                "street": "Jardines del Rincon",
+                "streetNumber": "Perif. Paseo de la Republica 5030"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.687263,
+                "longitude": -101.150007
+            },
+            "commonSiteName": "Escala Morelia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.687263,
+                "longitude": -101.150007
+            },
+            "locationGUID": "694c657d-7e88-43fe-ae7a-3f892813846c",
+            "maxPowerKw": 18,
+            "name": "Escala Morelia",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

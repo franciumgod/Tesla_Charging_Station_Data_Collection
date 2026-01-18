@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beaver Creek",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81620",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Avondale Ln",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.604058,
+                "longitude": -106.518074
+            },
+            "commonSiteName": "Beaver Creek Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.604058,
+                "longitude": -106.518074
+            },
+            "locationGUID": "785f8b34-5122-4262-bcc0-a40c15fbe771",
+            "maxPowerKw": 16,
+            "name": "Beaver Creek Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tampere",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33180",
+                "postalExt": null,
+                "state": "Pirkanmaa",
+                "street": "Lapinniemenranta 12",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 61.511507,
+                "longitude": 23.772314
+            },
+            "commonSiteName": "Holiday Club Tampere",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 61.511507,
+                "longitude": 23.772314
+            },
+            "locationGUID": "eefe6f84-d3a3-4fd8-bd20-96796a864175",
+            "maxPowerKw": 22,
+            "name": "Holiday Club Tampere",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Helsinki"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bracebridge",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "P1L 1M6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Golf Course Rd",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.049862,
+                "longitude": -79.319387
+            },
+            "commonSiteName": "South Muskoka Curling & Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.049862,
+                "longitude": -79.319387
+            },
+            "locationGUID": "a114c926-285f-40f0-bad4-fa46c2e77930",
+            "maxPowerKw": 16,
+            "name": "South Muskoka Curling & Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

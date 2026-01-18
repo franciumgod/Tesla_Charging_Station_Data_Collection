@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paso Robles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93446",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Linne Rd",
+                "streetNumber": "7350"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.59766,
+                "longitude": -120.564938
+            },
+            "commonSiteName": "Cass Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.59766,
+                "longitude": -120.564938
+            },
+            "locationGUID": "ec09919d-68d3-4dff-acef-c50ddfe4faf7",
+            "maxPowerKw": 16,
+            "name": "Cass Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

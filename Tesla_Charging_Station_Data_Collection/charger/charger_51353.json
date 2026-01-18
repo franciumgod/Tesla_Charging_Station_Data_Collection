@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Minato City",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "107",
+                "postalExt": "0052",
+                "state": "Tokyo",
+                "street": "Akasaka",
+                "streetNumber": "1-12-33"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.66818,
+                "longitude": 139.74044
+            },
+            "commonSiteName": "ANAインターコンチネンタルホテル東京",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.66818,
+                "longitude": 139.74044
+            },
+            "locationGUID": "51a98deb-660e-444a-96fa-3c0a8e7d15d1",
+            "maxPowerKw": 16,
+            "name": "ANA Intercontinental Hotel Tokyo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

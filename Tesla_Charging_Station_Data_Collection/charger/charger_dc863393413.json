@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Austin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78701",
+                "postalExt": null,
+                "state": "TX",
+                "street": "East Cesar Chavez Street",
+                "streetNumber": "304"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.2628141,
+                "longitude": -97.741677
+            },
+            "commonSiteName": "Austin Marriott Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.2628141,
+                "longitude": -97.741677
+            },
+            "locationGUID": "4f19b421-fd9a-4c68-9faa-a25a77d3d4fa",
+            "maxPowerKw": 16,
+            "name": "Austin Marriott Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

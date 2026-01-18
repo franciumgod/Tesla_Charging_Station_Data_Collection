@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ascheberg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "59387",
+                "postalExt": null,
+                "state": null,
+                "street": "Himmelstraße 2",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.78789721,
+                "longitude": 7.61857583
+            },
+            "commonSiteName": "Landhotel Jagdschloesschen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.78789721,
+                "longitude": 7.61857583
+            },
+            "locationGUID": "f238e655-c25e-4d24-8a13-8caed53c7911",
+            "maxPowerKw": 11,
+            "name": "Landhotel Jagdschloesschen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

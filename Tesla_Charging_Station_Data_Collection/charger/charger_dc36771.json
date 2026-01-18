@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hamburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20459",
+                "postalExt": null,
+                "state": null,
+                "street": "Neanderstrasse",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.550999,
+                "longitude": 9.977997
+            },
+            "commonSiteName": "Lindner Hotel Am Michel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.550999,
+                "longitude": 9.977997
+            },
+            "locationGUID": "59a78a8d-e2e4-40e8-9f26-4eaf2bd40c27",
+            "maxPowerKw": 22,
+            "name": "Lindner Hotel Am Michel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

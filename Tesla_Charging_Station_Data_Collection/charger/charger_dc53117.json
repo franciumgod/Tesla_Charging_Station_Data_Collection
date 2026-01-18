@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Calgary",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T2H 1G3",
+                "postalExt": null,
+                "state": "AB",
+                "street": "Flint Rd SE",
+                "streetNumber": "7845"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.983459,
+                "longitude": -114.069543
+            },
+            "commonSiteName": "Calgary PPF",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.983459,
+                "longitude": -114.069543
+            },
+            "locationGUID": "2a382ac4-2e76-4b84-a695-64a5ef619f0d",
+            "maxPowerKw": 16,
+            "name": "Calgary PPF",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

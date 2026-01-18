@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newcastle",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2300",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Wharf Rd & Merewether St",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.925229,
+                "longitude": 151.773209
+            },
+            "commonSiteName": "Rydges Newcastle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.925229,
+                "longitude": 151.773209
+            },
+            "locationGUID": "1d1a4e63-96ca-423c-b4ba-4e0244c93fc0",
+            "maxPowerKw": 6,
+            "name": "Rydges Newcastle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

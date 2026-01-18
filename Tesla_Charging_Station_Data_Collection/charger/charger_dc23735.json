@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salcombe",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TQ8 8LL",
+                "postalExt": null,
+                "state": "Devon",
+                "street": "Bolt Head",
+                "streetNumber": "South Sands"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.224615,
+                "longitude": -3.784584
+            },
+            "commonSiteName": "South Sands Hotel & Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.224615,
+                "longitude": -3.784584
+            },
+            "locationGUID": "4280ecf4-1376-4151-81bb-ef59cfc59683",
+            "maxPowerKw": 22,
+            "name": "South Sands Hotel & Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

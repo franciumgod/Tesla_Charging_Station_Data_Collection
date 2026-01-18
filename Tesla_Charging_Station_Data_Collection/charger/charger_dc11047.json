@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89135",
+                "postalExt": null,
+                "state": "NV",
+                "street": "W Charleston Blvd",
+                "streetNumber": "11011"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.157123,
+                "longitude": -115.335113
+            },
+            "commonSiteName": "Red Rock Casino Resort and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.157123,
+                "longitude": -115.335113
+            },
+            "locationGUID": "b83ed538-4055-4c7d-94b6-2828677235bc",
+            "maxPowerKw": 16,
+            "name": "Red Rock Casino Resort and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

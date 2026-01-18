@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rattenberg bei Fohnsdorf",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8753",
+                "postalExt": null,
+                "state": null,
+                "street": "Landstrasse",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.212759,
+                "longitude": 14.722665
+            },
+            "commonSiteName": "Hotel Restaurant Perschler",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.212759,
+                "longitude": 14.722665
+            },
+            "locationGUID": "f129c44c-9dbe-4869-9180-8de21f80e478",
+            "maxPowerKw": 11,
+            "name": "Hotel Restaurant Perschler",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

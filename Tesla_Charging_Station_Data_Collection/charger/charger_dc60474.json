@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Malaga",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29004",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Avenida de Velazquez",
+                "streetNumber": "126"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.689252,
+                "longitude": -4.459914
+            },
+            "commonSiteName": "Hotel Hilton Garden Inn Malaga",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.689252,
+                "longitude": -4.459914
+            },
+            "locationGUID": "d096e292-427c-4429-800d-74ddd79ef495",
+            "maxPowerKw": 14,
+            "name": "Hotel Hilton Garden Inn Malaga",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Winchester,",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SO21 2LT",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "Sparsholt",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.082443,
+                "longitude": -1.371425
+            },
+            "commonSiteName": "Lainston House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.082443,
+                "longitude": -1.371425
+            },
+            "locationGUID": "0ca6f511-d897-4bd7-a2dd-52b5bad767e4",
+            "maxPowerKw": 22,
+            "name": "Lainston House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Springfield",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "65804",
+                "postalExt": null,
+                "state": "MO",
+                "street": "E Republic Rd",
+                "streetNumber": "2144"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.136716,
+                "longitude": -93.2558612
+            },
+            "commonSiteName": "Farmer's Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.136716,
+                "longitude": -93.2558612
+            },
+            "locationGUID": "6f16e084-e27a-41d4-879f-0a66a1e9a90d",
+            "maxPowerKw": 16,
+            "name": "Farmer's Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "New Market",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22844",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Fairway Dr",
+                "streetNumber": "9660"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.640043,
+                "longitude": -78.673807
+            },
+            "commonSiteName": "Shenvalee Golf Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.640043,
+                "longitude": -78.673807
+            },
+            "locationGUID": "44c84d10-0ca5-44a8-a928-31755c3b04e8",
+            "maxPowerKw": 8,
+            "name": "Shenvalee Golf Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

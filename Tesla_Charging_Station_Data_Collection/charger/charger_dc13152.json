@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leipzig",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4109",
+                "postalExt": null,
+                "state": "Sachsen",
+                "street": "Am Hallischen Tor",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.343386,
+                "longitude": 12.376884
+            },
+            "commonSiteName": "Leipzig Marriott Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.343386,
+                "longitude": 12.376884
+            },
+            "locationGUID": "dca2bfa2-5000-43e4-945f-0a2ce591d6f0",
+            "maxPowerKw": 22,
+            "name": "Leipzig Marriott Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

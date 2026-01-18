@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Engelberg",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6390",
+                "postalExt": null,
+                "state": null,
+                "street": "Schweizerhausstrasse",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.818214,
+                "longitude": 8.424872
+            },
+            "commonSiteName": "Wirtschaft zum Schweizerhaus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.818214,
+                "longitude": 8.424872
+            },
+            "locationGUID": "6b603a7b-0b09-49ba-91da-692fba88a4fe",
+            "maxPowerKw": 14,
+            "name": "Wirtschaft zum Schweizerhaus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

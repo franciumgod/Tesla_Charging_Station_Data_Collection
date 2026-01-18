@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Wagrain",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5602",
+                "postalExt": null,
+                "state": null,
+                "street": "Widmoosweg",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.334103,
+                "longitude": 13.308091
+            },
+            "commonSiteName": "Almmonte / Wagrain",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.334103,
+                "longitude": 13.308091
+            },
+            "locationGUID": "b683e412-97b2-40d9-8ded-760511b662b4",
+            "maxPowerKw": 22,
+            "name": "Almmonte / Wagrain",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ruidoso",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "88345",
+                "postalExt": null,
+                "state": "NM",
+                "street": "Chase St",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.3312429,
+                "longitude": -105.6767213
+            },
+            "commonSiteName": "Hotel Ruidoso",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.3312429,
+                "longitude": -105.6767213
+            },
+            "locationGUID": "53a86f69-3609-4fcd-aa3f-5180e8bee1f5",
+            "maxPowerKw": 16,
+            "name": "Hotel Ruidoso",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

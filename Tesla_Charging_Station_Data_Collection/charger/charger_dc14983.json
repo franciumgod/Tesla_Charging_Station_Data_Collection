@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H2Y 2V5",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Saint-Sulpice",
+                "streetNumber": "414"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.504336,
+                "longitude": -73.555039
+            },
+            "commonSiteName": "Le Saint-Sulpice Hotel Montreal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.504336,
+                "longitude": -73.555039
+            },
+            "locationGUID": "d973d2ee-5fbc-4a67-9278-ad48aaa76868",
+            "maxPowerKw": 8,
+            "name": "Le Saint-Sulpice Hotel Montreal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

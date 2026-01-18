@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alba Adriatica",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "64011",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Firenze",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.833004,
+                "longitude": 13.932001
+            },
+            "commonSiteName": "Hotel Medigarden Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.833004,
+                "longitude": 13.932001
+            },
+            "locationGUID": "b38e3ff7-f53f-4422-be53-40039a76632a",
+            "maxPowerKw": 22,
+            "name": "Hotel Medigarden Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

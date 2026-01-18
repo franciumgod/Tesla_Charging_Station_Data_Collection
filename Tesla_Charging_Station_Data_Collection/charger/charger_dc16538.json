@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saarbrucken",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "66111",
+                "postalExt": null,
+                "state": null,
+                "street": "Mainzer Strasse",
+                "streetNumber": "10-12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.231657,
+                "longitude": 6.999867
+            },
+            "commonSiteName": "Hotel Leidinger",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.231657,
+                "longitude": 6.999867
+            },
+            "locationGUID": "836480f7-abe2-4a44-a179-0a9ef7182a06",
+            "maxPowerKw": 22,
+            "name": "Hotel Leidinger",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

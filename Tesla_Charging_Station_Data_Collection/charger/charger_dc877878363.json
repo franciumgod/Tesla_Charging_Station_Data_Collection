@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Cuyama",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93254",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Primero Street",
+                "streetNumber": "5923"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.94742994,
+                "longitude": -119.69065977
+            },
+            "commonSiteName": "Cuyama Buckhorn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.94742994,
+                "longitude": -119.69065977
+            },
+            "locationGUID": "e44027c7-85bd-49ac-b703-d4d40e20070e",
+            "maxPowerKw": 10,
+            "name": "Cuyama Buckhorn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

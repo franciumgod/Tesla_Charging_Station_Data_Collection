@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Staunton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24401",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Jefferson Hwy",
+                "streetNumber": "222"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.125257,
+                "longitude": -79.030738
+            },
+            "commonSiteName": "Sleep Inn Staunton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.125257,
+                "longitude": -79.030738
+            },
+            "locationGUID": "363f0c53-b1e1-4fc6-8d42-de762c27c133",
+            "maxPowerKw": 16,
+            "name": "Sleep Inn Staunton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

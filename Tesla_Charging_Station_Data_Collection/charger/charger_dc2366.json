@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beaupre",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0A 1E0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boulevard du Beau Pre",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.0739523,
+                "longitude": -70.9058124
+            },
+            "commonSiteName": "Chateau Mont-Ste-Anne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.0739523,
+                "longitude": -70.9058124
+            },
+            "locationGUID": "55137508-82fc-42c6-ba45-bf4b8debfbfe",
+            "maxPowerKw": 16,
+            "name": "Chateau Mont-Ste-Anne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

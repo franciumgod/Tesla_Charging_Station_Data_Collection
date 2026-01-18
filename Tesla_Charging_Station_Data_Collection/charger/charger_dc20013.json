@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Praha",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11800",
+                "postalExt": null,
+                "state": null,
+                "street": "Pod Bruskou 144/7",
+                "streetNumber": "144/7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.092952,
+                "longitude": 14.409032
+            },
+            "commonSiteName": "Hotel Hoffmeister",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.092952,
+                "longitude": 14.409032
+            },
+            "locationGUID": "282e8cab-9b5d-4fa9-ba53-2d8c773b1573",
+            "maxPowerKw": 14,
+            "name": "Hotel Hoffmeister",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

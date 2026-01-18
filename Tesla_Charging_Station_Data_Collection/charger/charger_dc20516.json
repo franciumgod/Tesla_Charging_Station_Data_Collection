@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ville de Quebec",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G1V 2L9",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boulevard Laurier",
+                "streetNumber": "2813"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.767493,
+                "longitude": -71.287045
+            },
+            "commonSiteName": "Cosmos Cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.767493,
+                "longitude": -71.287045
+            },
+            "locationGUID": "6f776522-3b8f-4ba4-9dc8-cae0ca790c26",
+            "maxPowerKw": 6,
+            "name": "Cosmos Cafe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

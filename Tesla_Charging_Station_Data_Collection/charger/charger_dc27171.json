@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77024",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Town and Country Ln",
+                "streetNumber": "825"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.78184,
+                "longitude": -95.559549
+            },
+            "commonSiteName": "Sorella CityCentre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.78184,
+                "longitude": -95.559549
+            },
+            "locationGUID": "8d936d05-c8a9-40e3-99e0-3c6882a071c6",
+            "maxPowerKw": 16,
+            "name": "Sorella CityCentre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Panama City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32405",
+                "postalExt": null,
+                "state": "FL",
+                "street": "US-231",
+                "streetNumber": "1101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.188423,
+                "longitude": -85.643517
+            },
+            "commonSiteName": "Hilton Garden Inn Panama City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.188423,
+                "longitude": -85.643517
+            },
+            "locationGUID": "bb7c3897-408f-4833-b74c-3a538769ff8a",
+            "maxPowerKw": 8,
+            "name": "Hilton Garden Inn Panama City",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

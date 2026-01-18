@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Acapulco",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39850",
+                "postalExt": null,
+                "state": "GRO",
+                "street": "Costa Azul",
+                "streetNumber": "Av. Costera Miguel Aleman 16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 16.846089,
+                "longitude": -99.849758
+            },
+            "commonSiteName": "Hotel One Acapulco",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 16.846089,
+                "longitude": -99.849758
+            },
+            "locationGUID": "cf99696c-73b1-4d76-9bb3-6bfa045c02df",
+            "maxPowerKw": 14,
+            "name": "Hotel One Acapulco",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Anzio",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "42",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Goldoni",
+                "streetNumber": "62"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.50588,
+                "longitude": 12.625047
+            },
+            "commonSiteName": "Centro Anthos II",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.50588,
+                "longitude": 12.625047
+            },
+            "locationGUID": "6aa6e59e-0cdf-481d-ab5a-2bef0e2254d4",
+            "maxPowerKw": 22,
+            "name": "Centro Anthos II",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

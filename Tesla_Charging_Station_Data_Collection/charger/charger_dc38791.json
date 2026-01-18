@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Southbury",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "06488",
+                "postalExt": null,
+                "state": "CT",
+                "street": "Main St S",
+                "streetNumber": "690"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.4661788,
+                "longitude": -73.2309913
+            },
+            "commonSiteName": "Riverview Cinemas 8 and Playhouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.4661788,
+                "longitude": -73.2309913
+            },
+            "locationGUID": "d65444bc-2e7e-4c36-a7cd-041c89307a4c",
+            "maxPowerKw": 16,
+            "name": "Riverview Cinemas 8 and Playhouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

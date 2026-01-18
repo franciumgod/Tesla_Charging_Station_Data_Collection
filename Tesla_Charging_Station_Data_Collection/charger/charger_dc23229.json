@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brescia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25083",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Zanardelli",
+                "streetNumber": "107"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.62663578,
+                "longitude": 10.575137
+            },
+            "commonSiteName": "Hotel Villa del Sogno",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.62663578,
+                "longitude": 10.575137
+            },
+            "locationGUID": "396f0f3c-b1ee-407a-8998-1d1d7893970e",
+            "maxPowerKw": 14,
+            "name": "Hotel Villa del Sogno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

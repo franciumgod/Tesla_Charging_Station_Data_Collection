@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oravska Jasenica",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "029 64",
+                "postalExt": null,
+                "state": null,
+                "street": "Oravska Jasenica",
+                "streetNumber": "620"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.391236,
+                "longitude": 19.451018
+            },
+            "commonSiteName": "Zbojnicka koliba",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.391236,
+                "longitude": 19.451018
+            },
+            "locationGUID": "c9b388c6-705b-4c18-a58b-a647c7a3c759",
+            "maxPowerKw": 22,
+            "name": "Zbojnicka koliba",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

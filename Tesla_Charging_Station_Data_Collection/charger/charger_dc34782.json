@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sevilla",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "41020",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Carretera Sevilla - Malaga",
+                "streetNumber": "Km 1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.387608,
+                "longitude": -5.93937
+            },
+            "commonSiteName": "El Corte Ingles Sevilla Este",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.387608,
+                "longitude": -5.93937
+            },
+            "locationGUID": "bd6511d1-370d-4ea1-9911-e6c0be03081e",
+            "maxPowerKw": 11,
+            "name": "El Corte Ingles Sevilla Este",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

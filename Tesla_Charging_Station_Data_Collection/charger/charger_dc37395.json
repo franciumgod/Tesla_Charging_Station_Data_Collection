@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Augsburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "86167",
+                "postalExt": null,
+                "state": null,
+                "street": "Neuburger Str.",
+                "streetNumber": "122"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.386931,
+                "longitude": 10.917584
+            },
+            "commonSiteName": "Bio Hotel Bayerischer Wirt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.386931,
+                "longitude": 10.917584
+            },
+            "locationGUID": "d21f7d11-e0c5-48d8-ab5c-b676febfc371",
+            "maxPowerKw": 11,
+            "name": "Bio Hotel Bayerischer Wirt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

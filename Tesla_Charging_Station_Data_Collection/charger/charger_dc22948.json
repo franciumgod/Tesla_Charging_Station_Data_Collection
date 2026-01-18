@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22650",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Valle de Guadalupe",
+                "streetNumber": "Carretera Tecate - Ensenada Km 87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.0273356,
+                "longitude": -116.6171812
+            },
+            "commonSiteName": "Vi├▒as de Garza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.0273356,
+                "longitude": -116.6171812
+            },
+            "locationGUID": "a145e917-a202-486f-95f2-82caf95304c9",
+            "maxPowerKw": 18,
+            "name": "Vinas de Garza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

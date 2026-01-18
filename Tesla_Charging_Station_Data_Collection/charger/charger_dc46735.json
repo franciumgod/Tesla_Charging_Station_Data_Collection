@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barrie",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L4M 1L6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Toronto St",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.385023,
+                "longitude": -79.690467
+            },
+            "commonSiteName": "City of Barrie - Marina Parking Lot",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.385023,
+                "longitude": -79.690467
+            },
+            "locationGUID": "d6c2b8d3-86bb-4fb7-a3f2-6bf3f91e560c",
+            "maxPowerKw": 16,
+            "name": "City of Barrie - Marina Parking Lot",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

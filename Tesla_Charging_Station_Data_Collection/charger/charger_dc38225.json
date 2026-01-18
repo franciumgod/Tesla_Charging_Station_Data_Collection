@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8028",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carrer del Cardenal Reig",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.37769,
+                "longitude": 2.1136
+            },
+            "commonSiteName": "Senator Barcelona Spa Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.37769,
+                "longitude": 2.1136
+            },
+            "locationGUID": "8f232c41-d84c-4ce5-a1d2-a53c59254eeb",
+            "maxPowerKw": 17,
+            "name": "Senator Barcelona Spa Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Azcapotzalco",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "2080",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Claveria",
+                "streetNumber": "Calle Egipto 142"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.464028,
+                "longitude": -99.181805
+            },
+            "commonSiteName": "Patio Claveria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.464028,
+                "longitude": -99.181805
+            },
+            "locationGUID": "d9db8b68-c81d-4368-b3d8-7dc6f42373af",
+            "maxPowerKw": 18,
+            "name": "Patio Claveria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naters",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3904",
+                "postalExt": null,
+                "state": null,
+                "street": "Furkastrasse",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.32279,
+                "longitude": 7.987456
+            },
+            "commonSiteName": "ADHHOC HOTEL",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.32279,
+                "longitude": 7.987456
+            },
+            "locationGUID": "f65dac1b-e897-4241-937c-e10aaee9b0b2",
+            "maxPowerKw": 22,
+            "name": "ADHHOC HOTEL",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

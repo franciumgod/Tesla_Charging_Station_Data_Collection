@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ft. Lauderdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33304",
+                "postalExt": null,
+                "state": "FL",
+                "street": "N Ft Lauderdale Beach Blvd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.123149,
+                "longitude": -80.104981
+            },
+            "commonSiteName": "The Ritz-Carlton, Fort Lauderdale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.123149,
+                "longitude": -80.104981
+            },
+            "locationGUID": "5cedb373-ba25-437c-8968-93ed5411febe",
+            "maxPowerKw": 16,
+            "name": "The Ritz-Carlton, Fort Lauderdale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

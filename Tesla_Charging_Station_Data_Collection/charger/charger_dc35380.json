@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97204",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SW 6th Ave",
+                "streetNumber": "921"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.517545,
+                "longitude": -122.680008
+            },
+            "commonSiteName": "Hilton Portland Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.517545,
+                "longitude": -122.680008
+            },
+            "locationGUID": "7ea67bee-a245-48dd-b423-df050c718825",
+            "maxPowerKw": 16,
+            "name": "Hilton Portland Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

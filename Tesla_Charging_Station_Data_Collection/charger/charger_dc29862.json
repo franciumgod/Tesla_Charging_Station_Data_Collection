@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Metepec",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "52166",
+                "postalExt": null,
+                "state": "MEX",
+                "street": "La Michoacana",
+                "streetNumber": "Calle Uruapan 62"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.244083,
+                "longitude": -99.60479
+            },
+            "commonSiteName": "Hotel La Muralla",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.244083,
+                "longitude": -99.60479
+            },
+            "locationGUID": "fb65f897-f4c2-4152-bd42-cdbda7a95e3d",
+            "maxPowerKw": 18,
+            "name": "Hotel La Muralla",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

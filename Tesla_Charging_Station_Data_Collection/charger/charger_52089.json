@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dallas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "75201",
+                "postalExt": null,
+                "state": "TX",
+                "street": "North Pearl Street",
+                "streetNumber": "650"
+            },
+            "amenities": [
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.78687,
+                "longitude": -96.79593
+            },
+            "commonSiteName": "Dallas Marriott Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.78687,
+                "longitude": -96.79593
+            },
+            "locationGUID": "9453b643-7d55-4638-8137-b414b4fd02bd",
+            "maxPowerKw": 15,
+            "name": "Dallas Marriott Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

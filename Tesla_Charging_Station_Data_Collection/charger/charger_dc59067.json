@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Carmarthen",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SA33 5AJ",
+                "postalExt": null,
+                "state": ",",
+                "street": "Llangain",
+                "streetNumber": "Pantyrathro"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.795576,
+                "longitude": -4.367758
+            },
+            "commonSiteName": "Mansion House Llansteffan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.795576,
+                "longitude": -4.367758
+            },
+            "locationGUID": "af75c3ff-7c6d-462a-81d0-860ad1586adc",
+            "maxPowerKw": 22,
+            "name": "Mansion House Llansteffan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Freiburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "79106",
+                "postalExt": null,
+                "state": null,
+                "street": "Mathildenstr.",
+                "streetNumber": "26-28"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.003136,
+                "longitude": 7.84174
+            },
+            "commonSiteName": "Hotel und Restaurant Paradies",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.003136,
+                "longitude": 7.84174
+            },
+            "locationGUID": "92301e0c-17dc-47a5-94d3-1dece7d3e313",
+            "maxPowerKw": 22,
+            "name": "Hotel und Restaurant Paradies",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

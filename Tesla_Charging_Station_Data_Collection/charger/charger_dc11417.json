@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6B 5Z6",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Davie St",
+                "streetNumber": "322"
+            },
+            "amenities": [
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.274642,
+                "longitude": -123.122561
+            },
+            "commonSiteName": "OPUS Hotel Vancouver",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.274642,
+                "longitude": -123.122561
+            },
+            "locationGUID": "0f3cb0b0-c678-4e3d-b3c8-8514aa15bd9e",
+            "maxPowerKw": 16,
+            "name": "OPUS Hotel Vancouver",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

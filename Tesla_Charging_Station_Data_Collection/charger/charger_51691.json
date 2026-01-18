@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mornington",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3931",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Tanti Ave",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.221655,
+                "longitude": 145.045807
+            },
+            "commonSiteName": "Brooklands of Mornington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.221655,
+                "longitude": 145.045807
+            },
+            "locationGUID": "d0ce33fc-b401-48bd-8d0c-9a66e7eca711",
+            "maxPowerKw": 22,
+            "name": "Brooklands of Mornington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

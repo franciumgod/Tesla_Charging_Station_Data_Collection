@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Fiuggi",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3014",
+                "postalExt": null,
+                "state": null,
+                "street": "Via dei Villini",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.7964775,
+                "longitude": 13.219576
+            },
+            "commonSiteName": "Palazzo della Fonte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.7964775,
+                "longitude": 13.219576
+            },
+            "locationGUID": "1a6288b5-9cab-408b-98c0-9c62660e7ace",
+            "maxPowerKw": 22,
+            "name": "Palazzo della Fonte",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

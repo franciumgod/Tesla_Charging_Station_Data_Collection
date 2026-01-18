@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hawkesbury",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "K6A 1B6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Main St E",
+                "streetNumber": "882"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.610608,
+                "longitude": -74.595742
+            },
+            "commonSiteName": "Deja Vu Restaurant & Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.610608,
+                "longitude": -74.595742
+            },
+            "locationGUID": "6ca9e243-f09f-4bf9-9d3d-e34a1f9e996b",
+            "maxPowerKw": 8,
+            "name": "Deja Vu Restaurant & Bar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

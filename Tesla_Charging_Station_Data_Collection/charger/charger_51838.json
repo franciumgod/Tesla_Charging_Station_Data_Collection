@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zapopan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45116",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Puerta de Hierro",
+                "streetNumber": "Blvd. Puerta de Hierro 4965"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.710592,
+                "longitude": -103.411988
+            },
+            "commonSiteName": "Centro Comercial Andares",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.710592,
+                "longitude": -103.411988
+            },
+            "locationGUID": "868227fb-3e17-4876-829a-638d00837ff6",
+            "maxPowerKw": 18,
+            "name": "Centro Comercial Andares",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 6,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

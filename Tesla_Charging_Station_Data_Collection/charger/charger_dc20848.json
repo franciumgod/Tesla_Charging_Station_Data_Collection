@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tecate",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21420",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Río Yaqui",
+                "streetNumber": "798"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.57511526,
+                "longitude": -116.61932091
+            },
+            "commonSiteName": "Santuario Diegueño",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.57511526,
+                "longitude": -116.61932091
+            },
+            "locationGUID": "d6fd42d9-311d-4c5d-b6fc-8dd38209a0aa",
+            "maxPowerKw": 18,
+            "name": "Santuario Diegueño",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

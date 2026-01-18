@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eumemmerring",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3177",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Doveton Avenue",
+                "streetNumber": "5/17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.002297,
+                "longitude": 145.250432
+            },
+            "commonSiteName": "Atura Dandenong",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.002297,
+                "longitude": 145.250432
+            },
+            "locationGUID": "8b43dd0b-afa3-4db7-85a9-37646aae8884",
+            "maxPowerKw": 22,
+            "name": "Atura Dandenong",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Niigatashi",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": "サッカー試合前日23:00から当日開門時間まで使用不可",
+                "postalCode": "950",
+                "postalExt": "0933",
+                "state": "Niigata",
+                "street": "Seigoro, Chuo-ku",
+                "streetNumber": "33-1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.04375,
+                            0.09375,
+                            0.078125,
+                            0.109375,
+                            0.09375,
+                            0.140625,
+                            0.15625,
+                            0.15625,
+                            0.16666666666666669,
+                            0.125,
+                            0.11458333333333334,
+                            0.046875,
+                            0.03125,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0.09375,
+                            0.09375,
+                            0.125,
+                            0.17708333333333334,
+                            0.28125,
+                            0.2578125,
+                            0.2875,
+                            0.203125,
+                            0.175,
+                            0.0625,
+                            0.0625,
+                            0.0625,
+                            0.078125,
+                            0.0625,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.046875,
+                            0.09375,
+                            0.09375,
+                            0.109375,
+                            0.0859375,
+                            0.046875,
+                            0.0625,
+                            0.03125,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.171875,
+                            0.203125,
+                            0.16796875,
+                            0.11458333333333334,
+                            0.0859375,
+                            0.125,
+                            0.1875,
+                            0.234375,
+                            0.21875,
+                            0.125,
+                            0.09375,
+                            0.03125,
+                            0.0625,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.1,
+                            0.11666666666666667,
+                            0.08750000000000001,
+                            0.11249999999999999,
+                            0.09999999999999999,
+                            0.07083333333333333,
+                            0.125,
+                            0.1,
+                            0.125,
+                            0.05,
+                            0.075,
+                            0.05,
+                            0.025,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.037500000000000006,
+                            0.053750000000000006
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0.125,
+                            0.171875,
+                            0.1875,
+                            0.125,
+                            0.109375,
+                            0.109375,
+                            0.109375,
+                            0.109375,
+                            0.125,
+                            0.140625,
+                            0.08854166666666667,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.03125,
+                            0.09375
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.125,
+                            0.0625,
+                            0.15625,
+                            0.125,
+                            0.14583333333333331,
+                            0.109375,
+                            0.109375,
+                            0.09375,
+                            0.0859375,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.075
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 5443,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 20126,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 37.878931,
+                "longitude": 139.060519
+            },
+            "commonSiteName": "Niigata Prefecture Sports Park",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 37.87864668,
+                "longitude": 139.05938794
+            },
+            "locationGUID": "0bb95c97-1114-47a7-8ae0-2d5e79d71cfe",
+            "maxPowerKw": 250,
+            "name": "Niigata, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

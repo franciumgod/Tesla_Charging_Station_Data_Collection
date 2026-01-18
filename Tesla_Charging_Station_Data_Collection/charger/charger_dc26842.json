@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nr Ludlow",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SY8 2HU",
+                "postalExt": null,
+                "state": "Herefordshire",
+                "street": "Old Downton Lodge",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.35558,
+                "longitude": -2.84229
+            },
+            "commonSiteName": "Old Downton Lodge Restaurant with Rooms",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.35558,
+                "longitude": -2.84229
+            },
+            "locationGUID": "a0096a64-ac54-4f52-b368-8a6c4f6aea0f",
+            "maxPowerKw": 7,
+            "name": "Old Downton Lodge Restaurant with Rooms",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

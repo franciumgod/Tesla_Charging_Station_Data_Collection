@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "South Yarra",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3141",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Chapel St",
+                "streetNumber": "637-641"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.837936,
+                "longitude": 144.995604
+            },
+            "commonSiteName": "The Olsen Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.837936,
+                "longitude": 144.995604
+            },
+            "locationGUID": "8673fafb-bba9-4a72-bda4-a38bb51bd0da",
+            "maxPowerKw": 22,
+            "name": "The Olsen Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Monica",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90401",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Ocean Ave",
+                "streetNumber": "1301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.015369,
+                "longitude": -118.499111
+            },
+            "commonSiteName": "Hotel Shangri-La",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.015369,
+                "longitude": -118.499111
+            },
+            "locationGUID": "68c2c72a-d661-4d0d-837a-9047701f9542",
+            "maxPowerKw": 8,
+            "name": "Hotel Shangri-La",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

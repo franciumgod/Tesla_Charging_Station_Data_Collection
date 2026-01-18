@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Shawinigan",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G9N 1W8",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Avenue de la Station",
+                "streetNumber": "1250"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.54613,
+                "longitude": -72.749241
+            },
+            "commonSiteName": "Digihub Shawinigan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.54613,
+                "longitude": -72.749241
+            },
+            "locationGUID": "91a4ab17-b4bd-4f35-87bb-64d5c9ea0229",
+            "maxPowerKw": 16,
+            "name": "Digihub Shawinigan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

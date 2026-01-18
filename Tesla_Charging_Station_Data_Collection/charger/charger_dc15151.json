@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Fort Lauderdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33315",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Terminal Dr",
+                "streetNumber": "400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.072245,
+                "longitude": -80.1395
+            },
+            "commonSiteName": "Fort Lauderdale Hollywood International Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.072245,
+                "longitude": -80.1395
+            },
+            "locationGUID": "b31fbe14-e5d7-433b-8785-0a70956c5195",
+            "maxPowerKw": 8,
+            "name": "Fort Lauderdale Hollywood International Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

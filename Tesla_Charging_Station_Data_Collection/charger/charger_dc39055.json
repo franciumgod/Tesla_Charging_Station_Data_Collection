@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mont Tremblant",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J8E 1E1",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Chemin de la Chapelle",
+                "streetNumber": "3045"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.215059,
+                "longitude": -74.585
+            },
+            "commonSiteName": "Fairmont Tremblant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.215059,
+                "longitude": -74.585
+            },
+            "locationGUID": "ce228b1a-c275-4d34-a13b-c7057bd1e29b",
+            "maxPowerKw": 11,
+            "name": "Fairmont Tremblant-Mont Tremblant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

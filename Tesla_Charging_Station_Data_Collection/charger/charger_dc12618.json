@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Baltimore",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21218",
+                "postalExt": null,
+                "state": "MD",
+                "street": "W University Pkwy",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.334176,
+                "longitude": -76.619561
+            },
+            "commonSiteName": "Doubletree Inn at The Colonnade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.334176,
+                "longitude": -76.619561
+            },
+            "locationGUID": "f9a6c0fe-1b9a-48a2-8bee-6140914ea693",
+            "maxPowerKw": 16,
+            "name": "Doubletree Inn at The Colonnade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

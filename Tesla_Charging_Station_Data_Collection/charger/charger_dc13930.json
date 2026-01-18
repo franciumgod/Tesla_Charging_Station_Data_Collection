@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vichy",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3200",
+                "postalExt": null,
+                "state": "Auvergne",
+                "street": "Boulevard des Etats-Unis",
+                "streetNumber": "111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.125552,
+                "longitude": 3.417445
+            },
+            "commonSiteName": "Vichy Célestins Spa Hôtel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.125552,
+                "longitude": 3.417445
+            },
+            "locationGUID": "16963681-4a42-4a79-988b-a8303c62e2af",
+            "maxPowerKw": 22,
+            "name": "Vichy Célestins Spa Hôtel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

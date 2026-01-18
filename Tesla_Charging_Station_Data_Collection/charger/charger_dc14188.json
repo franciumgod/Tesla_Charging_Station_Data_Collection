@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alvaro Obregon",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "1210",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Guillermo Gonzalez Camarena",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.368394,
+                "longitude": -99.26119
+            },
+            "commonSiteName": "Sheraton Santa Fe Mexico City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.368394,
+                "longitude": -99.26119
+            },
+            "locationGUID": "2cb0dc5f-c5d3-4f7c-89e4-328d3e773dc3",
+            "maxPowerKw": 9,
+            "name": "Sheraton Santa Fe Mexico City",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

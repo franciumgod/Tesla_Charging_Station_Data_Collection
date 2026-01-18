@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stuttgart",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "70629",
+                "postalExt": null,
+                "state": "Baden-Württemberg",
+                "street": "Flughafenstraße",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.69143,
+                "longitude": 9.193645
+            },
+            "commonSiteName": "Mövenpick Hotel Stuttgart Airport & Messe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.69143,
+                "longitude": 9.193645
+            },
+            "locationGUID": "231691f2-2509-496c-83b9-2b88bc95f67d",
+            "maxPowerKw": 8,
+            "name": "Moevenpick Hotel Stuttgart Airport & Messe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

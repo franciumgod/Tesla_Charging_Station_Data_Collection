@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hervey Bay",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4655",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Central Ave",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -25.2912,
+                "longitude": 152.835
+            },
+            "commonSiteName": "Stockland Hervey Bay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -25.2912,
+                "longitude": 152.835
+            },
+            "locationGUID": "9866814f-3725-4e32-811b-c4677f4cc8ae",
+            "maxPowerKw": 22,
+            "name": "Stockland Hervey Bay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

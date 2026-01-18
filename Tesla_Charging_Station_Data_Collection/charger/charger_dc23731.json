@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Capalbio",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "58011",
+                "postalExt": null,
+                "state": null,
+                "street": "Strada Capalbio Pescia Fiorentina",
+                "streetNumber": "11B"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.44641475,
+                "longitude": 11.46306633
+            },
+            "commonSiteName": "Locanda Rossa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.44641475,
+                "longitude": 11.46306633
+            },
+            "locationGUID": "6e052309-56ac-400f-a506-0cb539207a56",
+            "maxPowerKw": 22,
+            "name": "Locanda Rossa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

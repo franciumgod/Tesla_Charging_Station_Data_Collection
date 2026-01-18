@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pachuca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "42064",
+                "postalExt": null,
+                "state": "HID",
+                "street": "Los Jales",
+                "streetNumber": "Blvd Luis Donaldo Colosio 2009"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.09427321,
+                "longitude": -98.75849229
+            },
+            "commonSiteName": "Fiesta Inn Pachuca Gran Patio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.09427321,
+                "longitude": -98.75849229
+            },
+            "locationGUID": "f5eeea40-fdcb-490b-aa46-4efc4992b341",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Pachuca Gran Patio",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

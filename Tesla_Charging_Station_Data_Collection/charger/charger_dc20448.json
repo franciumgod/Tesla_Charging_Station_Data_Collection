@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10001",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 30th St",
+                "streetNumber": "552"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.753049,
+                "longitude": -74.003333
+            },
+            "commonSiteName": "iPark Eleventh Avenue Garage Corp.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.753049,
+                "longitude": -74.003333
+            },
+            "locationGUID": "07d443d6-6ab2-47c7-91cc-8262c78605b0",
+            "maxPowerKw": 16,
+            "name": "iPark Eleventh Avenue Garage Corp.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

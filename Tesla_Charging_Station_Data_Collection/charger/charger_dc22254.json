@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Knaresborough",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "HG5 8NR",
+                "postalExt": null,
+                "state": "North Yorkshire",
+                "street": "Church Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.999045,
+                "longitude": -1.416372
+            },
+            "commonSiteName": "Goldsborough Hall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.999045,
+                "longitude": -1.416372
+            },
+            "locationGUID": "6e164e9b-1605-4668-b205-1772a4e10f7b",
+            "maxPowerKw": 22,
+            "name": "Goldsborough Hall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

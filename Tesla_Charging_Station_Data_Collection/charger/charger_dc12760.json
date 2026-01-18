@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Locarno",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6600",
+                "postalExt": null,
+                "state": null,
+                "street": "Via ai Monti della Trinitö",
+                "streetNumber": "44"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.172524,
+                "longitude": 8.795067
+            },
+            "commonSiteName": "Hotel Belvedere Locarno",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.172524,
+                "longitude": 8.795067
+            },
+            "locationGUID": "3c7fefbd-9efc-4f58-ba87-247a3b035863",
+            "maxPowerKw": 22,
+            "name": "Hotel Belvedere Locarno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

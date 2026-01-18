@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Denver",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80202",
+                "postalExt": null,
+                "state": "CO",
+                "street": "14th St",
+                "streetNumber": "1111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.746368,
+                "longitude": -104.998439
+            },
+            "commonSiteName": "Four Seasons Hotel Denver",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.746368,
+                "longitude": -104.998439
+            },
+            "locationGUID": "5ce8d2de-15aa-4c4c-ae2e-6a0a7b2c6fe3",
+            "maxPowerKw": 16,
+            "name": "Four Seasons Hotel Denver",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

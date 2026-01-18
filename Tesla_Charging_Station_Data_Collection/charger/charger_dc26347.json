@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gassin",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83580",
+                "postalExt": null,
+                "state": null,
+                "street": "Chemin de Chastelas",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.259723,
+                "longitude": 6.598192
+            },
+            "commonSiteName": "Mas de Chastelas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.259723,
+                "longitude": 6.598192
+            },
+            "locationGUID": "3f2d2db1-5a6d-4c10-9883-ccb8d6f18c20",
+            "maxPowerKw": 11,
+            "name": "Mas de Chastelas",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

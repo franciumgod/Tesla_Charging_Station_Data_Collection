@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mazatlan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "82110",
+                "postalExt": null,
+                "state": "SIN",
+                "street": "S/N",
+                "streetNumber": "Avenida Camaron Sabalo"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 23.268031,
+                "longitude": -106.463676
+            },
+            "commonSiteName": "El Cid Marina Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 23.268031,
+                "longitude": -106.463676
+            },
+            "locationGUID": "b1fecf39-2b75-40d9-bb4a-31f507da1b72",
+            "maxPowerKw": 18,
+            "name": "El Cid Marina Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mazatlan"
+        },
+        "success": true
+    }
+}

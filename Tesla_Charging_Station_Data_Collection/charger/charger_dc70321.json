@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94111",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Battery St",
+                "streetNumber": "275"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.793863,
+                "longitude": -122.40037
+            },
+            "commonSiteName": "275 Battery St",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.793863,
+                "longitude": -122.40037
+            },
+            "locationGUID": "38f6718a-f77b-4bf4-a095-49a4d9855f59",
+            "maxPowerKw": 6,
+            "name": "275 Battery St",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 11,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Little Rock",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72206",
+                "postalExt": null,
+                "state": "AR",
+                "street": "Bankhead Dr",
+                "streetNumber": "3201"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.714206,
+                "longitude": -92.221999
+            },
+            "commonSiteName": "Holiday Inn Airport Conference Center Little Rock",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.714206,
+                "longitude": -92.221999
+            },
+            "locationGUID": "54c696e8-d89d-4178-bdf0-54fd2c2b2476",
+            "maxPowerKw": 13,
+            "name": "Holiday Inn Airport Conference Center Little Rock",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

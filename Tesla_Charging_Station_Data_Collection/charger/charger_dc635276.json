@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bratislava",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "851 04",
+                "postalExt": null,
+                "state": null,
+                "street": "Luzna 9",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.129515,
+                "longitude": 17.121496
+            },
+            "commonSiteName": "Meet Meat Restaurant & Bar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.129515,
+                "longitude": 17.121496
+            },
+            "locationGUID": "ce6730b8-4ea3-4d59-b9b5-68e22653b1ed",
+            "maxPowerKw": 22,
+            "name": "Meet Meat Restaurant & Bar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

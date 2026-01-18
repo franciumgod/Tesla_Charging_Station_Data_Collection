@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rotterdam",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3012 CN",
+                "postalExt": null,
+                "state": null,
+                "street": "Weena",
+                "streetNumber": "686"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.922428,
+                "longitude": 4.471589
+            },
+            "commonSiteName": "Rotterdam Mariott Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.922428,
+                "longitude": 4.471589
+            },
+            "locationGUID": "f1a9794c-5919-4b2f-b670-c5fc6115fac7",
+            "maxPowerKw": 22,
+            "name": "Rotterdam Mariott Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

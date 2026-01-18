@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Marbella",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29660",
+                "postalExt": null,
+                "state": "Andalucía",
+                "street": "Plaza Cibeles, s/n",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.509707,
+                "longitude": -4.979749
+            },
+            "commonSiteName": "Los Naranjos Campo de Golf",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.509707,
+                "longitude": -4.979749
+            },
+            "locationGUID": "a39ed9e9-788a-4dfe-934c-d920f5688b8e",
+            "maxPowerKw": 11,
+            "name": "Los Naranjos Campo de Golf",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

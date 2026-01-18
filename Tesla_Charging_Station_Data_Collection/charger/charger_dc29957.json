@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Skive",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7800",
+                "postalExt": null,
+                "state": null,
+                "street": "Sdr.Boulevard",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.564766,
+                "longitude": 9.0309
+            },
+            "commonSiteName": "Hotel Skivehus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.564766,
+                "longitude": 9.0309
+            },
+            "locationGUID": "da139ecf-7fc0-43e0-8422-d9add157c4e1",
+            "maxPowerKw": 22,
+            "name": "Hotel Skivehus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

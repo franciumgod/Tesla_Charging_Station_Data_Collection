@@ -1,0 +1,334 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "22:30",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taichung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "Xitun District",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "407",
+                "postalExt": null,
+                "state": "Taichung",
+                "street": "Section 2, Zhongqing Road",
+                "streetNumber": "No. 1199"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.08854166666666667,
+                            0.140625,
+                            0.3472222222222222,
+                            0.421875,
+                            0.4565972222222222,
+                            0.39285714285714285,
+                            0.4140625,
+                            0.390625,
+                            0.44140625,
+                            0.421875,
+                            0.484375,
+                            0.40234375,
+                            0.25,
+                            0.1171875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.125,
+                            0.125,
+                            0.203125,
+                            0.25,
+                            0.296875,
+                            0.2875,
+                            0.3125,
+                            0.375,
+                            0.390625,
+                            0.3125,
+                            0.275,
+                            0.234375,
+                            0.225,
+                            0.125,
+                            0.09375,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.1484375,
+                            0.21875,
+                            0.253125,
+                            0.2942708333333333,
+                            0.34375,
+                            0.37276785714285715,
+                            0.4375,
+                            0.515625,
+                            0.5173611111111112,
+                            0.5173611111111112,
+                            0.46875,
+                            0.3715277777777778,
+                            0.21875,
+                            0.125,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.0625,
+                            0.125,
+                            0.20937499999999998,
+                            0.265625,
+                            0.425,
+                            0.53125,
+                            0.609375,
+                            0.5109375,
+                            0.4027777777777778,
+                            0.4296875,
+                            0.46875,
+                            0.5234375,
+                            0.40625,
+                            0.265625,
+                            0.09375,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.1484375,
+                            0.2708333333333333,
+                            0.39583333333333337,
+                            0.528125,
+                            0.5,
+                            0.453125,
+                            0.328125,
+                            0.4140625,
+                            0.421875,
+                            0.35546875,
+                            0.2875,
+                            0.296875,
+                            0.265625,
+                            0.15,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.109375,
+                            0.2630208333333333,
+                            0.31640625,
+                            0.421875,
+                            0.44140625,
+                            0.453125,
+                            0.5596590909090909,
+                            0.59375,
+                            0.5397727272727273,
+                            0.47265625,
+                            0.453125,
+                            0.375,
+                            0.22916666666666666,
+                            0.1171875,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.075,
+                            0.1325,
+                            0.23541666666666666,
+                            0.2875,
+                            0.35000000000000003,
+                            0.325,
+                            0.3666666666666666,
+                            0.29375,
+                            0.3625,
+                            0.26875,
+                            0.31875000000000003,
+                            0.38269230769230766,
+                            0.45000000000000007,
+                            0.3769230769230769,
+                            0.1,
+                            0.075,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 5431,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 17665,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 24.192243,
+                "longitude": 120.659009
+            },
+            "commonSiteName": "AMart",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 5,
+                    "rateMinTier2": 11,
+                    "rateMinTier3": 17,
+                    "rateMinTier4": 28,
+                    "rateTier1": 5,
+                    "rateTier2": 11,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 15,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.1923303,
+                "longitude": 120.6594449
+            },
+            "locationGUID": "40f606ac-5849-45cd-8c20-d6421ec4ddaf",
+            "maxPowerKw": 120,
+            "name": "Taichung, Xitun - Shuinan AMart",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

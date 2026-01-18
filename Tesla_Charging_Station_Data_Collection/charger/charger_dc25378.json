@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Split",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21000",
+                "postalExt": null,
+                "state": null,
+                "street": "Periciceva",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.502484,
+                "longitude": 16.45721
+            },
+            "commonSiteName": "Marvie Hotel & Health",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.502484,
+                "longitude": 16.45721
+            },
+            "locationGUID": "80737d5d-7be9-4a6a-8438-2b85c6abcd94",
+            "maxPowerKw": 22,
+            "name": "Marvie Hotel & Health",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

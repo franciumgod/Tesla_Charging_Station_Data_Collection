@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Klamath Falls",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97601",
+                "postalExt": null,
+                "state": "OR",
+                "street": "Running Y Rd",
+                "streetNumber": "5500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.277118,
+                "longitude": -121.885015
+            },
+            "commonSiteName": "Running Y Ranch Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.277118,
+                "longitude": -121.885015
+            },
+            "locationGUID": "eb5ebfb3-1147-4506-bed9-b0f5404fc8b1",
+            "maxPowerKw": 16,
+            "name": "Running Y Ranch Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

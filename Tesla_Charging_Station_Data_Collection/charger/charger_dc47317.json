@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sanremo",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18038",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Tiro a Volo",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.80242,
+                "longitude": 7.745377
+            },
+            "commonSiteName": "Villaggio dei Fiori Sanremo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.80242,
+                "longitude": 7.745377
+            },
+            "locationGUID": "cabd2a09-4d4a-40ad-b8cd-dfbfe81b3446",
+            "maxPowerKw": 22,
+            "name": "Villaggio dei Fiori Sanremo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

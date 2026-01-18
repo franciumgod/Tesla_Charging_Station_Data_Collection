@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tulum",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77780",
+                "postalExt": null,
+                "state": "ROO",
+                "street": "Zona Hotelera",
+                "streetNumber": "Carretera Tulum-Boca Paila Km.10"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.13659928,
+                "longitude": -87.46368604
+            },
+            "commonSiteName": "Be Tulum Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.13659928,
+                "longitude": -87.46368604
+            },
+            "locationGUID": "35711d66-4425-4e52-9757-6f5ed5ffc5e1",
+            "maxPowerKw": 13,
+            "name": "Be Tulum Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Cancun"
+        },
+        "success": true
+    }
+}

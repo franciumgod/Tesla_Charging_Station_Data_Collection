@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lexington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "61753",
+                "postalExt": null,
+                "state": "IL",
+                "street": "S. Spencer Street",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.63572,
+                "longitude": -88.79603
+            },
+            "commonSiteName": "Anvil Brand",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.63572,
+                "longitude": -88.79603
+            },
+            "locationGUID": "174c9181-0fae-41cd-a682-90aa9bd041ba",
+            "maxPowerKw": 11,
+            "name": "Anvil Brand Shoe Company",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

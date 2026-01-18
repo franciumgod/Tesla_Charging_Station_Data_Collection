@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roscoff",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "29680",
+                "postalExt": null,
+                "state": "Bretagne",
+                "street": "Boulevard Sainte Barbe",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.72394,
+                "longitude": -3.97159
+            },
+            "commonSiteName": "Le Brittany & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.72394,
+                "longitude": -3.97159
+            },
+            "locationGUID": "ae147103-1591-41c1-a7be-2172755c4c1b",
+            "maxPowerKw": 17,
+            "name": "Le Brittany & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

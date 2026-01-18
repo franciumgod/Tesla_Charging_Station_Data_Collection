@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ustronie Morskie",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "78-111",
+                "postalExt": null,
+                "state": null,
+                "street": "Kosciuszki",
+                "streetNumber": "3 A-U"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.217266,
+                "longitude": 15.7579275
+            },
+            "commonSiteName": "Boulevard Ustronie Morskie",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.217266,
+                "longitude": 15.7579275
+            },
+            "locationGUID": "299c6fa8-0c05-447a-8a63-80472020de21",
+            "maxPowerKw": 11,
+            "name": "Boulevard Ustronie Morskie",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

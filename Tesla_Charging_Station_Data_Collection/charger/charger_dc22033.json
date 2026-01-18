@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tübingen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "72070",
+                "postalExt": null,
+                "state": null,
+                "street": "Burgsteige",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.519885,
+                "longitude": 9.052395
+            },
+            "commonSiteName": "Hotel Am Schloss",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.519885,
+                "longitude": 9.052395
+            },
+            "locationGUID": "dfec8c10-fbb3-428e-9d34-b8db726a8e15",
+            "maxPowerKw": 22,
+            "name": "Hotel Am Schloss",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

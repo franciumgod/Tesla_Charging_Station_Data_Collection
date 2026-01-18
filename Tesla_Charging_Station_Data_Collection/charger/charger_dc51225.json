@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nogales",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84094",
+                "postalExt": null,
+                "state": "SON",
+                "street": "Nueva Nogales",
+                "streetNumber": "Calz. Industrial Nuevo Nogales 3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.257178,
+                "longitude": -110.95755
+            },
+            "commonSiteName": "Fiesta Inn Nogales",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.257178,
+                "longitude": -110.95755
+            },
+            "locationGUID": "a1b14525-07e3-49dc-8547-3d548bde0be7",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Nogales",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Hermosillo"
+        },
+        "success": true
+    }
+}

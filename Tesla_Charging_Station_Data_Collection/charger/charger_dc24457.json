@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Samnaun",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7562",
+                "postalExt": null,
+                "state": null,
+                "street": "Laret Strasse",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.959428,
+                "longitude": 10.395627
+            },
+            "commonSiteName": "Boutique Hotel Laret",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.959428,
+                "longitude": 10.395627
+            },
+            "locationGUID": "8cc7db65-f91f-4c07-8e6a-ebf4adeb2794",
+            "maxPowerKw": 22,
+            "name": "Boutique Hotel Laret",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

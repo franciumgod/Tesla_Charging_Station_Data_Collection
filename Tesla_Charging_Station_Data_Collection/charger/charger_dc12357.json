@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Spokane",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "99201",
+                "postalExt": null,
+                "state": "WA",
+                "street": "W Spokane Falls Blvd",
+                "streetNumber": "333"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.659917,
+                "longitude": -117.417273
+            },
+            "commonSiteName": "The Davenport Grand Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.659917,
+                "longitude": -117.417273
+            },
+            "locationGUID": "2f343743-7549-4a7c-8706-3b8aba690313",
+            "maxPowerKw": 8,
+            "name": "The Davenport Grand Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ladis",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6532",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse",
+                "streetNumber": "42"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.07098,
+                "longitude": 10.645255
+            },
+            "commonSiteName": "Hotel Sonnleiten",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.07098,
+                "longitude": 10.645255
+            },
+            "locationGUID": "3fcf0547-7c88-4201-a85e-1dabfcabdd35",
+            "maxPowerKw": 11,
+            "name": "Hotel Sonnleiten",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

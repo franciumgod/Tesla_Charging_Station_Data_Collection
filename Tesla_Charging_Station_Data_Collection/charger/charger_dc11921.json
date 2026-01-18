@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Texingtal",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3242",
+                "postalExt": null,
+                "state": null,
+                "street": "Plankenstein",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.025164,
+                "longitude": 15.278709
+            },
+            "commonSiteName": "Burg Plankenstein",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.025164,
+                "longitude": 15.278709
+            },
+            "locationGUID": "6fa33a50-f89e-451a-be21-689f47348e84",
+            "maxPowerKw": 22,
+            "name": "Burg Plankenstein",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

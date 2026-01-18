@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64700",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Roma",
+                "streetNumber": "Av. Eugenio Garza Sada 2411"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.65489,
+                "longitude": -100.292793
+            },
+            "commonSiteName": "Fiesta Inn Monterrey Tecnologico",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.65489,
+                "longitude": -100.292793
+            },
+            "locationGUID": "6c58adce-cccf-4f4c-8cce-df0750a40f7f",
+            "maxPowerKw": 9,
+            "name": "Fiesta Inn Monterrey Tecnologico",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Irvine",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92614",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Fitch",
+                "streetNumber": "17666"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.694745,
+                "longitude": -117.858723
+            },
+            "commonSiteName": "SPACE",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.694745,
+                "longitude": -117.858723
+            },
+            "locationGUID": "174bd1d8-c5f1-4a59-a2ec-5c2810b864e3",
+            "maxPowerKw": 8,
+            "name": "SPACE",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

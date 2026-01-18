@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 65th St",
+                "streetNumber": "112"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.766495,
+                "longitude": -73.9667
+            },
+            "commonSiteName": "iPark 112 E 65th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.766495,
+                "longitude": -73.9667
+            },
+            "locationGUID": "9c14411d-a06c-4de5-a8c8-0768dab93224",
+            "maxPowerKw": 8,
+            "name": "iPark 112 E 65th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

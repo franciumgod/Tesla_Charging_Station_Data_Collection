@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Hollywood",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90069",
+                "postalExt": null,
+                "state": "CA",
+                "street": "N San Vicente Blvd",
+                "streetNumber": "1020"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.089668,
+                "longitude": -118.385005
+            },
+            "commonSiteName": "The London West Hollywood at Beverly Hills Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.089668,
+                "longitude": -118.385005
+            },
+            "locationGUID": "0473ab0a-b220-450f-bc32-2359daa85277",
+            "maxPowerKw": 16,
+            "name": "The London West Hollywood at Beverly Hills Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

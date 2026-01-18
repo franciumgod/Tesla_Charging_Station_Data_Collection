@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Millbrae",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94030",
+                "postalExt": null,
+                "state": "CA",
+                "street": "El Camino Real",
+                "streetNumber": "1375"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.609602,
+                "longitude": -122.401414
+            },
+            "commonSiteName": "Millwood Inn and Suites",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.609602,
+                "longitude": -122.401414
+            },
+            "locationGUID": "b0e93b94-4b3f-48b2-b021-53d4096cf714",
+            "maxPowerKw": 10,
+            "name": "Millwood Inn and Suites",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

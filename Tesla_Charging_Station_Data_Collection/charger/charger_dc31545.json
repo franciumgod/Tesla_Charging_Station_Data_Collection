@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Des Moines",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "50309",
+                "postalExt": null,
+                "state": "IA",
+                "street": "Park St",
+                "streetNumber": "435"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.5904938,
+                "longitude": -93.6233432
+            },
+            "commonSiteName": "Hilton Des Moines Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.5904938,
+                "longitude": -93.6233432
+            },
+            "locationGUID": "084f5df7-9386-4b4b-9705-881dda824276",
+            "maxPowerKw": 13,
+            "name": "Hilton Des Moines Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

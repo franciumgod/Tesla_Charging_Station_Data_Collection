@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seefeld",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6100",
+                "postalExt": null,
+                "state": null,
+                "street": "Innsbruckerstrasse",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.327746,
+                "longitude": 11.187788
+            },
+            "commonSiteName": "Hotel Alte Schmiede",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.327746,
+                "longitude": 11.187788
+            },
+            "locationGUID": "609243ca-786e-4fbb-8a3e-de621eab9b23",
+            "maxPowerKw": 17,
+            "name": "Hotel Alte Schmiede",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Waterloo",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N2L 0C6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Erb St W",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.463396,
+                "longitude": -80.528903
+            },
+            "commonSiteName": "Delta Hotels by Marriott Waterloo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.463396,
+                "longitude": -80.528903
+            },
+            "locationGUID": "a59afc38-049c-4be3-95c2-31cbd7e4d3bc",
+            "maxPowerKw": 13,
+            "name": "Delta Hotels by Marriott Waterloo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

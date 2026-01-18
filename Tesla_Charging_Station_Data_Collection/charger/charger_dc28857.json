@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hurricane",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25526",
+                "postalExt": null,
+                "state": "WV",
+                "street": "WV-34",
+                "streetNumber": "511"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.4544261,
+                "longitude": -81.9382523
+            },
+            "commonSiteName": "Hampton Inn Winfield/Teays Valley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.4544261,
+                "longitude": -81.9382523
+            },
+            "locationGUID": "f896565f-68cd-496b-ae21-6d9518df6bbe",
+            "maxPowerKw": 16,
+            "name": "Hampton Inn Winfield/Teays Valley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

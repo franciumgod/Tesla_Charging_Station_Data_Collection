@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Southampton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SO14 3TG",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "Ocean Village Marina",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.896945,
+                "longitude": -1.388259
+            },
+            "commonSiteName": "Ocean Village Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.896945,
+                "longitude": -1.388259
+            },
+            "locationGUID": "ccbdb0d4-027e-4be5-ae42-e6686eaaf690",
+            "maxPowerKw": 11,
+            "name": "Ocean Village Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

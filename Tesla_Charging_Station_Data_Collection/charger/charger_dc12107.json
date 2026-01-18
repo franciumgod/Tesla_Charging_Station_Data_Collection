@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Virginia Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23451",
+                "postalExt": null,
+                "state": "VA",
+                "street": "19th St",
+                "streetNumber": "620"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.845576,
+                "longitude": -75.983128
+            },
+            "commonSiteName": "CROC'S 19th Street Bistro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.845576,
+                "longitude": -75.983128
+            },
+            "locationGUID": "614fd885-9062-4733-b880-0066ddf96371",
+            "maxPowerKw": 16,
+            "name": "CROC'S 19th Street Bistro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

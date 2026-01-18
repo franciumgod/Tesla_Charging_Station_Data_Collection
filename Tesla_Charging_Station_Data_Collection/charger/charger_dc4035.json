@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Two Harbors",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55616",
+                "postalExt": null,
+                "state": "MN",
+                "street": "Hwy 61",
+                "streetNumber": "2826"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.120092,
+                "longitude": -91.503289
+            },
+            "commonSiteName": "Grand Superior Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.120092,
+                "longitude": -91.503289
+            },
+            "locationGUID": "8c8dd186-98bf-41ee-8002-b321ea13a28f",
+            "maxPowerKw": 8,
+            "name": "Grand Superior Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

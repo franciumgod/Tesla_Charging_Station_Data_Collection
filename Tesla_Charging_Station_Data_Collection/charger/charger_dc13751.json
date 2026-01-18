@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Petaluma",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94954",
+                "postalExt": null,
+                "state": "CA",
+                "street": "N McDowell Blvd",
+                "streetNumber": "1280"
+            },
+            "amenities": [
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.272406,
+                "longitude": -122.662407
+            },
+            "commonSiteName": "Lagunitas Brewing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.272406,
+                "longitude": -122.662407
+            },
+            "locationGUID": "5c6d0cb4-7058-46d2-a062-77b40231b78a",
+            "maxPowerKw": 16,
+            "name": "Lagunitas Brewing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

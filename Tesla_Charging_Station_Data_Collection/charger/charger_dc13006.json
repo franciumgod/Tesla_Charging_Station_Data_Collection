@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alexandria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22314",
+                "postalExt": null,
+                "state": "VA",
+                "street": "S Alfred St",
+                "streetNumber": "116"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.804636,
+                "longitude": -77.049262
+            },
+            "commonSiteName": "Kimpton Morrison House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.804636,
+                "longitude": -77.049262
+            },
+            "locationGUID": "a02f8360-b6b4-4d9f-bf3c-ca956b5611da",
+            "maxPowerKw": 8,
+            "name": "Kimpton Morrison House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

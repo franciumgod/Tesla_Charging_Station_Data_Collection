@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dublin",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "D14 EE77",
+                "postalExt": null,
+                "state": null,
+                "street": "Overend Way, Dundrum,",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.28746908,
+                "longitude": -6.23495348
+            },
+            "commonSiteName": "Airfield Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.28746908,
+                "longitude": -6.23495348
+            },
+            "locationGUID": "90648275-b99d-4921-a589-26c356ce6387",
+            "maxPowerKw": 13,
+            "name": "Airfield Estate",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

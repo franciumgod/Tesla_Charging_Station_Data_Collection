@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Miami",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33122",
+                "postalExt": null,
+                "state": "FL",
+                "street": "NW 74th Ave",
+                "streetNumber": "3570"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.808675,
+                "longitude": -80.318885
+            },
+            "commonSiteName": "Four Points by Sheraton Miami Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.808675,
+                "longitude": -80.318885
+            },
+            "locationGUID": "ab029a17-424a-4062-beca-dd448afdbb42",
+            "maxPowerKw": 6,
+            "name": "Four Points by Sheraton Miami Airport",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

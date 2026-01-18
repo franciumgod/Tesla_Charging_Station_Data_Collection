@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tainan",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "安平區",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "708",
+                "postalExt": null,
+                "state": "Tainan",
+                "street": "州平路",
+                "streetNumber": "289號"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.99914889,
+                "longitude": 120.14943425
+            },
+            "commonSiteName": "台南大員皇冠假日酒店",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.99914889,
+                "longitude": 120.14943425
+            },
+            "locationGUID": "53162a7d-ea7e-4635-858b-bde318519d92",
+            "maxPowerKw": 3,
+            "name": "Crowne Plaza Tainan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

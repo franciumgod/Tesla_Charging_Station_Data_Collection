@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Saint-Martin-de-Belleville",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73440",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de Gebroulaz",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.298439,
+                "longitude": 6.585677
+            },
+            "commonSiteName": "Hotel Koh-I Nor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.298439,
+                "longitude": 6.585677
+            },
+            "locationGUID": "6589a70f-531d-4d62-9671-526d86294ffd",
+            "maxPowerKw": 11,
+            "name": "Hotel Koh-I Nor",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

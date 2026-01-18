@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77061",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Randolph St",
+                "streetNumber": "9000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.638358,
+                "longitude": -95.275339
+            },
+            "commonSiteName": "Wilson Air Center Houston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.638358,
+                "longitude": -95.275339
+            },
+            "locationGUID": "2121f962-43dc-481b-a188-3cb340fb4baf",
+            "maxPowerKw": 13,
+            "name": "Wilson Air Center Houston",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

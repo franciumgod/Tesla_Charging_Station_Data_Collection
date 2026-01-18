@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gamlitz",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8462",
+                "postalExt": null,
+                "state": null,
+                "street": "Steinbach",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.702496,
+                "longitude": 15.540093
+            },
+            "commonSiteName": "LacknerTinnacher",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.702496,
+                "longitude": 15.540093
+            },
+            "locationGUID": "bd290eb1-f5bf-436b-aa52-fada41226e07",
+            "maxPowerKw": 11,
+            "name": "LacknerTinnacher",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sumiswald",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3454",
+                "postalExt": null,
+                "state": null,
+                "street": "Marktgasse",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.028427,
+                "longitude": 7.747533
+            },
+            "commonSiteName": "Gasthof Kreuz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.028427,
+                "longitude": 7.747533
+            },
+            "locationGUID": "dcfec9ab-0854-4219-91c7-7e4918d4f6b9",
+            "maxPowerKw": 17,
+            "name": "Gasthof Kreuz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

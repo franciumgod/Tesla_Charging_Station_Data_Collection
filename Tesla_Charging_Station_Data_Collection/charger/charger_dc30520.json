@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77030",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Main St",
+                "streetNumber": "6750"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.707875,
+                "longitude": -95.403851
+            },
+            "commonSiteName": "TMC Hotel Tower",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.707875,
+                "longitude": -95.403851
+            },
+            "locationGUID": "cc0815f6-bd64-4f6e-8fed-5f5d2ce87d1e",
+            "maxPowerKw": 16,
+            "name": "TMC Hotel Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

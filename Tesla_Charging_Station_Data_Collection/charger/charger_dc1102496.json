@@ -1,0 +1,129 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taoyuan",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "中壢區",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "320",
+                "postalExt": null,
+                "state": "Taoyuan",
+                "street": "HSR South Rd. Sec. 2",
+                "streetNumber": "352"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.0021653,
+                "longitude": 121.2018036
+            },
+            "commonSiteName": "Global Mall 桃園A19",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.7,
+                    "rateMinTier2": 0.7,
+                    "rateMinTier3": 0.7,
+                    "rateMinTier4": 0.7,
+                    "rateTier1": 0.7,
+                    "rateTier2": 0.7,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 0.7,
+                    "rateMinTier2": 0.7,
+                    "rateMinTier3": 0.7,
+                    "rateMinTier4": 0.7,
+                    "rateTier1": 0.7,
+                    "rateTier2": 0.7,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 25.0021653,
+                "longitude": 121.2018036
+            },
+            "locationGUID": "cbc5f9f9-a77b-4a05-8f4f-9e2381e996b8",
+            "maxPowerKw": 3,
+            "name": "Taoyuan - Global Mall A19",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Darwin",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "800",
+                "postalExt": null,
+                "state": "Northern Territory",
+                "street": "Kitchener Drive",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -12.46644582,
+                "longitude": 130.84666694
+            },
+            "commonSiteName": "Darwin Waterfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -12.46644582,
+                "longitude": 130.84666694
+            },
+            "locationGUID": "558c7f04-47b8-4979-b1e9-bfd05ebaabf0",
+            "maxPowerKw": 22,
+            "name": "Darwin Waterfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Darwin"
+        },
+        "success": true
+    }
+}

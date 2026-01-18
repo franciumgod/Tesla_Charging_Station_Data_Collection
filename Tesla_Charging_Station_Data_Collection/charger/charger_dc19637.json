@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Port Douglas",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4877",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Port Douglas Rd",
+                "streetNumber": "87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -16.50993,
+                "longitude": 145.46267
+            },
+            "commonSiteName": "Oaks Port Douglas Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -16.50993,
+                "longitude": 145.46267
+            },
+            "locationGUID": "4bc5dcdf-0ffb-4a37-8d95-7b8411916a59",
+            "maxPowerKw": 22,
+            "name": "Oaks Port Douglas Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

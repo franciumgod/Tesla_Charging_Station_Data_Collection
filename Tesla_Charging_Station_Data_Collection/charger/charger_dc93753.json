@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lleida",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25001",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Maria de Montesori",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.60706,
+                "longitude": 0.633421
+            },
+            "commonSiteName": "Hotel Ibis Lleida",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.60706,
+                "longitude": 0.633421
+            },
+            "locationGUID": "2a16f36f-cd79-4c28-b5a0-cd139aa0e709",
+            "maxPowerKw": 22,
+            "name": "Hotel Ibis Lleida",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

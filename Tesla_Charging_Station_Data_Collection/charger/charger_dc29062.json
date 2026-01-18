@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11101",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Crescent St",
+                "streetNumber": "43-08"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.748757,
+                "longitude": -73.943417
+            },
+            "commonSiteName": "Quikpark 43-08 Crescent Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.748757,
+                "longitude": -73.943417
+            },
+            "locationGUID": "c9cd45ab-d13c-4756-9b60-4db0ee938cd0",
+            "maxPowerKw": 16,
+            "name": "Quikpark 43-08 Crescent Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

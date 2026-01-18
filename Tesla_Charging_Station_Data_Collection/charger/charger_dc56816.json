@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zehun",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "289 05",
+                "postalExt": null,
+                "state": null,
+                "street": "Chotovice",
+                "streetNumber": "134"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.140647,
+                "longitude": 15.326887
+            },
+            "commonSiteName": "Hotel a restaurant Na Farme",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.140647,
+                "longitude": 15.326887
+            },
+            "locationGUID": "52b0a5d5-c141-47bc-a3ab-4dc418a39778",
+            "maxPowerKw": 14,
+            "name": "Hotel a restaurant Na Farme",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

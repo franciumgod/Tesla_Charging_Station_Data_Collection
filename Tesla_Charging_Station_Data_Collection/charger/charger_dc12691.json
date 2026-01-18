@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nashville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "37201",
+                "postalExt": null,
+                "state": "TN",
+                "street": "4th Ave S",
+                "streetNumber": "121"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.159949,
+                "longitude": -86.777271
+            },
+            "commonSiteName": "Hilton Nashville Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.159949,
+                "longitude": -86.777271
+            },
+            "locationGUID": "cf30da84-d24d-4a9c-819f-8e620ea8552b",
+            "maxPowerKw": 8,
+            "name": "Hilton Nashville Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

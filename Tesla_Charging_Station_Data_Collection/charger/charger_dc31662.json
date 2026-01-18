@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vail",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81657",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Vail Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.642952,
+                "longitude": -106.379133
+            },
+            "commonSiteName": "Four Seasons Vail",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.642952,
+                "longitude": -106.379133
+            },
+            "locationGUID": "29b7f874-78f7-4989-807e-10be283abd33",
+            "maxPowerKw": 16,
+            "name": "Four Seasons Vail",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

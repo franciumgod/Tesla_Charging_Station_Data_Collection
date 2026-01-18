@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Luino",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21016",
+                "postalExt": null,
+                "state": null,
+                "street": "Via A. Palazzi",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.025571,
+                "longitude": 8.750612
+            },
+            "commonSiteName": "Camin Hotel Colmegna",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.025571,
+                "longitude": 8.750612
+            },
+            "locationGUID": "00e7fb7d-f624-4a7e-9d54-dbedbe32205d",
+            "maxPowerKw": 22,
+            "name": "Camin Hotel Colmegna",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

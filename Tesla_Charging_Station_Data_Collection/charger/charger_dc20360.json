@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44630",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Providencia 4a. Secc",
+                "streetNumber": "Av. Providencia 2969b"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.698506,
+                "longitude": -103.386083
+            },
+            "commonSiteName": "Illy Cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.698506,
+                "longitude": -103.386083
+            },
+            "locationGUID": "d9a3e328-e897-4379-ae23-ad495f27c774",
+            "maxPowerKw": 18,
+            "name": "Illy Cafe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

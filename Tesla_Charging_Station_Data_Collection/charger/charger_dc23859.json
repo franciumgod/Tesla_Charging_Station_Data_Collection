@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10011",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 13th St",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.735706,
+                "longitude": -73.995058
+            },
+            "commonSiteName": "Standard Parking 20 W 13th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.735706,
+                "longitude": -73.995058
+            },
+            "locationGUID": "377d13d1-5e93-41a5-91a1-d96435b6ba47",
+            "maxPowerKw": 16,
+            "name": "Standard Parking 20 W 13th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

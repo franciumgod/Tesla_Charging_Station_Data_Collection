@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10013",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Reade St",
+                "streetNumber": "121"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.716268,
+                "longitude": -74.009491
+            },
+            "commonSiteName": "MPG 121 Reade Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.716268,
+                "longitude": -74.009491
+            },
+            "locationGUID": "1b413ea0-99b7-4490-86ff-8e6c16f7e14b",
+            "maxPowerKw": 8,
+            "name": "MPG 121 Reade Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

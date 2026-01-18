@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Westlake Village",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "91361",
+                "postalExt": null,
+                "state": "CA",
+                "street": "S Westlake Blvd",
+                "streetNumber": "880"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.1550113,
+                "longitude": -118.8250613
+            },
+            "commonSiteName": "Hyatt Westlake Plaza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.1550113,
+                "longitude": -118.8250613
+            },
+            "locationGUID": "0a37a69b-7ba5-4ca6-912b-c7c7c337ffba",
+            "maxPowerKw": 13,
+            "name": "Hyatt Westlake Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

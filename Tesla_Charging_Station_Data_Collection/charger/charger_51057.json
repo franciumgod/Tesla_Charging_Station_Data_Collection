@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94105",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Second St",
+                "streetNumber": "55"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.788655,
+                "longitude": -122.400563
+            },
+            "commonSiteName": "55 Second Street Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.788655,
+                "longitude": -122.400563
+            },
+            "locationGUID": "f2479736-f792-4d0e-ba88-de39d0d4f81b",
+            "maxPowerKw": 8,
+            "name": "55 Second Street Garage",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

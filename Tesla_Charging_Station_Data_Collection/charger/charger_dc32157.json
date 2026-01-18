@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Queretaro",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76100",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Jurica",
+                "streetNumber": "5 de Febrero"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.64875,
+                "longitude": -100.432617
+            },
+            "commonSiteName": "Urban Center Jurica",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.64875,
+                "longitude": -100.432617
+            },
+            "locationGUID": "e7cc3433-cd19-4e4f-9bd2-6457a6217cc5",
+            "maxPowerKw": 18,
+            "name": "Urban Center Jurica",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

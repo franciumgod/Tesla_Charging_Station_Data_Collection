@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Walkerton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N0G 2V0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Hwy 9 RR3",
+                "streetNumber": "1864"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.10650367,
+                "longitude": -81.14533442
+            },
+            "commonSiteName": "Lighthouse Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.10650367,
+                "longitude": -81.14533442
+            },
+            "locationGUID": "1b93939a-3010-4a4c-b5bf-c375fd2a3273",
+            "maxPowerKw": 10,
+            "name": "Lighthouse Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

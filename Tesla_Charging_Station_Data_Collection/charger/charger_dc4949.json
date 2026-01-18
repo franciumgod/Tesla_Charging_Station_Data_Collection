@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Healdsburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95448",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Matheson St",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.610448,
+                "longitude": -122.871408
+            },
+            "commonSiteName": "Hotel Healdsburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.610448,
+                "longitude": -122.871408
+            },
+            "locationGUID": "da5fa13c-2395-4912-9164-b83f94092ce7",
+            "maxPowerKw": 8,
+            "name": "Hotel Healdsburg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

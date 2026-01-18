@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Malone",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "12953",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Finney Blvd",
+                "streetNumber": "42"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.8475913,
+                "longitude": -74.30023
+            },
+            "commonSiteName": "Red Roof Inn Malone",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.8475913,
+                "longitude": -74.30023
+            },
+            "locationGUID": "55b713f7-3b56-460d-beff-b3576c3830fc",
+            "maxPowerKw": 16,
+            "name": "Red Roof Inn Malone",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

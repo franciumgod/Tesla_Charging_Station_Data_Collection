@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hannover",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30419",
+                "postalExt": null,
+                "state": null,
+                "street": "Eichsfelder Str.",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.406667,
+                "longitude": 9.680527
+            },
+            "commonSiteName": "Mercure Hotel am Entenfang Hannover",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.406667,
+                "longitude": 9.680527
+            },
+            "locationGUID": "b6c611d5-0607-4240-91ef-9842571e3f3e",
+            "maxPowerKw": 11,
+            "name": "Mercure Hotel am Entenfang Hannover",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

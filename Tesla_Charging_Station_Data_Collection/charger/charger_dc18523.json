@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11590",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Anzures",
+                "streetNumber": "Av. Mariano Escobedo #756"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.425059,
+                "longitude": -99.178321
+            },
+            "commonSiteName": "Fiesta Americana Grand Chapultepec",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.425059,
+                "longitude": -99.178321
+            },
+            "locationGUID": "5776dbe4-a421-46d1-bb82-bef465dffd95",
+            "maxPowerKw": 18,
+            "name": "Fiesta Americana Grand Chapultepec",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

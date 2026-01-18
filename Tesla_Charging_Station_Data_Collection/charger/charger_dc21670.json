@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dortmund",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "44143",
+                "postalExt": null,
+                "state": null,
+                "street": "Hallesche Strasse",
+                "streetNumber": "102"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.516865,
+                "longitude": 7.501619
+            },
+            "commonSiteName": "Akzent Hotel Körner Hof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.516865,
+                "longitude": 7.501619
+            },
+            "locationGUID": "c3bb5bae-ec5e-4040-9572-d6b40dec3902",
+            "maxPowerKw": 22,
+            "name": "Akzent Hotel Koerner Hof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

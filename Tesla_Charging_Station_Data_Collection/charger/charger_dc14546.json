@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rome",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "159",
+                "postalExt": null,
+                "state": null,
+                "street": "Largo Domenico de Dominicis",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.902677,
+                "longitude": 12.535542
+            },
+            "commonSiteName": "Best Western Blu Hotel Roma",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.902677,
+                "longitude": 12.535542
+            },
+            "locationGUID": "3e0981ff-53c3-46cc-b082-90d5078e1cc6",
+            "maxPowerKw": 22,
+            "name": "Best Western Blu Hotel Roma",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

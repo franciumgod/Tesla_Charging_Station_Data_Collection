@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wien",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1040",
+                "postalExt": null,
+                "state": null,
+                "street": "Floragasse",
+                "streetNumber": "7a"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.194421,
+                "longitude": 16.367911
+            },
+            "commonSiteName": "Rainer Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.194421,
+                "longitude": 16.367911
+            },
+            "locationGUID": "f927dc73-0db4-4a0e-a68a-b60e4d218fd5",
+            "maxPowerKw": 11,
+            "name": "Rainer Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

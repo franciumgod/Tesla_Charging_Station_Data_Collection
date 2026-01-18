@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6C 2B3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Howe St",
+                "streetNumber": "475"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.285604,
+                "longitude": -123.115794
+            },
+            "commonSiteName": "The Exchange",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.285604,
+                "longitude": -123.115794
+            },
+            "locationGUID": "7ea6d3b7-9e1b-48a9-977e-1f421b4822d8",
+            "maxPowerKw": 16,
+            "name": "The Exchange",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 16,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

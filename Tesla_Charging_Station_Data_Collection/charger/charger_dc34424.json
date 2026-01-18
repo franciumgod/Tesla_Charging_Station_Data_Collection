@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M8X 2X3",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Bloor St W",
+                "streetNumber": "3280"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.645496,
+                "longitude": -79.522243
+            },
+            "commonSiteName": "Bloor Islington Place - East/Central Tower P1 and P3",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.645496,
+                "longitude": -79.522243
+            },
+            "locationGUID": "469b0531-df61-4328-a6a0-aa9f5915a6a6",
+            "maxPowerKw": 16,
+            "name": "Bloor Islington Place - East/Central Tower P1 and P3",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 32,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

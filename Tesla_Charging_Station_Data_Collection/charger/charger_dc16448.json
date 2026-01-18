@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Empoli",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "50053",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Ormicello",
+                "streetNumber": "53"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.66099,
+                "longitude": 10.970726
+            },
+            "commonSiteName": "Tenuta Massini",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.66099,
+                "longitude": 10.970726
+            },
+            "locationGUID": "e7ef6a91-8d01-487a-9048-a1525ccd28c3",
+            "maxPowerKw": 22,
+            "name": "Tenuta Massini",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

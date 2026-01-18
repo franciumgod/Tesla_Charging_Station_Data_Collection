@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mont-Tremblant",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J8E 1E1",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Chemin de la Chapelle",
+                "streetNumber": "3004"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.212576,
+                "longitude": -74.588105
+            },
+            "commonSiteName": "Hotel Quintessence",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.212576,
+                "longitude": -74.588105
+            },
+            "locationGUID": "f4d32080-53f9-4fc8-a611-d4e17ac0d8de",
+            "maxPowerKw": 8,
+            "name": "Hotel Quintessence",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

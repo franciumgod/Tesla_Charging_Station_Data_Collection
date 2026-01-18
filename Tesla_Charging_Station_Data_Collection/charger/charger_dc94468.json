@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Ana",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84600",
+                "postalExt": null,
+                "state": "SON",
+                "street": "Colonia la loma",
+                "streetNumber": "Calle 5 de mayo  #901"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.540765,
+                "longitude": -111.113306
+            },
+            "commonSiteName": "Elba",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.540765,
+                "longitude": -111.113306
+            },
+            "locationGUID": "acd8149c-8e63-482b-92d6-bb113a20a5c5",
+            "maxPowerKw": 11,
+            "name": "Elba",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Hermosillo"
+        },
+        "success": true
+    }
+}

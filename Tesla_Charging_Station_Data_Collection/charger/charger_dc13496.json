@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10010",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 19th St",
+                "streetNumber": "245"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.735608,
+                "longitude": -73.983111
+            },
+            "commonSiteName": "Icon Parking 245 E 19th St.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.735608,
+                "longitude": -73.983111
+            },
+            "locationGUID": "97810432-228c-4177-8bce-2652b380d310",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 245 E 19th St.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

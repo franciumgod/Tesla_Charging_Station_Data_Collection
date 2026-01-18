@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vellinge",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "235 91",
+                "postalExt": null,
+                "state": null,
+                "street": "Ängavallen",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.439736,
+                "longitude": 13.032048
+            },
+            "commonSiteName": "Ängavallen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.439736,
+                "longitude": 13.032048
+            },
+            "locationGUID": "665b0778-dc33-4269-8b2e-53742a20fb29",
+            "maxPowerKw": 14,
+            "name": "Ängavallen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

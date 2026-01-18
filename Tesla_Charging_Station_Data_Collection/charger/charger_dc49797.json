@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Amman",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Islamic College Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.953363,
+                "longitude": 35.913405
+            },
+            "commonSiteName": "Intercontinental Amman",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.953363,
+                "longitude": 35.913405
+            },
+            "locationGUID": "629bc92e-0cf8-4263-bd4a-4790fff6ee10",
+            "maxPowerKw": 22,
+            "name": "Intercontinental Amman",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

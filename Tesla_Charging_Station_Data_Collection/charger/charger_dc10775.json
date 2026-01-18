@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sitges",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8870",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avenida Sofia",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.234847,
+                "longitude": 1.804106
+            },
+            "commonSiteName": "Hotel MiM Sitges",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.234847,
+                "longitude": 1.804106
+            },
+            "locationGUID": "cbe55f29-092b-4724-9b15-c491671a6253",
+            "maxPowerKw": 22,
+            "name": "Hotel MiM Sitges",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

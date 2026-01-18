@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bonnelles",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "78830",
+                "postalExt": null,
+                "state": null,
+                "street": "Le Moulin de Brétigny",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.601978,
+                "longitude": 2.01114033
+            },
+            "commonSiteName": "Le Barn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.601978,
+                "longitude": 2.01114033
+            },
+            "locationGUID": "361b1623-2bba-4c41-a79e-9e8244a9596c",
+            "maxPowerKw": 11,
+            "name": "Le Barn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wetzlar",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "35578",
+                "postalExt": null,
+                "state": null,
+                "street": "Bergstrasse",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.552178,
+                "longitude": 8.509609
+            },
+            "commonSiteName": "Michel Hotel Wetzlar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.552178,
+                "longitude": 8.509609
+            },
+            "locationGUID": "c70f94b3-615d-45ee-9fa6-dde7ea35a9c0",
+            "maxPowerKw": 17,
+            "name": "Michel Hotel Wetzlar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

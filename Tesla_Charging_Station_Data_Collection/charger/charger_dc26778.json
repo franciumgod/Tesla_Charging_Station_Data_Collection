@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sheung Wan",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Hong Kong Island",
+                "street": "Connaught Road West",
+                "streetNumber": "152"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.288481,
+                "longitude": 114.142601
+            },
+            "commonSiteName": "Island Pacific Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.288481,
+                "longitude": 114.142601
+            },
+            "locationGUID": "0000f497-e737-4bb7-9bad-1d59caf5f3ed",
+            "maxPowerKw": 13,
+            "name": "Island Pacific Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

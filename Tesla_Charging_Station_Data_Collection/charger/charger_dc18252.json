@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Engelberg",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6390",
+                "postalExt": null,
+                "state": null,
+                "street": "Schwandstrasse",
+                "streetNumber": "91"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.822905,
+                "longitude": 8.396539
+            },
+            "commonSiteName": "Hotel Waldegg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.822905,
+                "longitude": 8.396539
+            },
+            "locationGUID": "452b980a-5c77-4eea-8817-d67f0550d3c4",
+            "maxPowerKw": 11,
+            "name": "Hotel Waldegg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Carlsbad",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92056",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Aviara Resort Dr",
+                "streetNumber": "7100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.100051,
+                "longitude": -117.285039
+            },
+            "commonSiteName": "Park Hyatt Aviara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.100051,
+                "longitude": -117.285039
+            },
+            "locationGUID": "a67d76ef-11c5-4496-9b3f-542c3dcbdc74",
+            "maxPowerKw": 16,
+            "name": "Park Hyatt Aviara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

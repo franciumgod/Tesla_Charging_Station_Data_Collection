@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Weissensee",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9762",
+                "postalExt": null,
+                "state": null,
+                "street": "Oberdorf",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.723302,
+                "longitude": 13.267861
+            },
+            "commonSiteName": "Ferienanlage Morgenfurt",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.723302,
+                "longitude": 13.267861
+            },
+            "locationGUID": "de8c5990-df48-4633-978e-7b178ed6b5e4",
+            "maxPowerKw": 11,
+            "name": "Ferienanlage Morgenfurt",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

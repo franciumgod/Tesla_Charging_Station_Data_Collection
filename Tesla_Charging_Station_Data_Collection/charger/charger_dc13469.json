@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Arcadia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "91007",
+                "postalExt": null,
+                "state": "CA",
+                "street": "W Huntington Dr",
+                "streetNumber": "285"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.138739,
+                "longitude": -118.044618
+            },
+            "commonSiteName": "Santa Anita Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.138739,
+                "longitude": -118.044618
+            },
+            "locationGUID": "8061ce57-7c00-4e76-ab3b-0a6a726f5bcf",
+            "maxPowerKw": 8,
+            "name": "Santa Anita Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Obertauern",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5562",
+                "postalExt": null,
+                "state": null,
+                "street": "Mozartgasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.247556,
+                "longitude": 13.562921
+            },
+            "commonSiteName": "Hotel Cinderella",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.247556,
+                "longitude": 13.562921
+            },
+            "locationGUID": "93aedef8-fb08-4a94-9d70-31c6976575c5",
+            "maxPowerKw": 22,
+            "name": "Hotel Cinderella",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

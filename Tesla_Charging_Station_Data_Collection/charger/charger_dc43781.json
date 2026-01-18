@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bernried am Starnberger See",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82347",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Yachthafen",
+                "streetNumber": "1-15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.869506,
+                "longitude": 11.292671
+            },
+            "commonSiteName": "Marina Bernried",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.869506,
+                "longitude": 11.292671
+            },
+            "locationGUID": "229dadbf-3e06-4c81-8a4f-10ed1cb9fdd9",
+            "maxPowerKw": 22,
+            "name": "Marina Bernried",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

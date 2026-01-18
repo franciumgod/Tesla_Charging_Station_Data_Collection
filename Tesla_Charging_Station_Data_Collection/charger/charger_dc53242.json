@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Qualicum Beach",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V9K 1G8",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Island Hwy W",
+                "streetNumber": "2690"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.35609,
+                "longitude": -124.438562
+            },
+            "commonSiteName": "Qualicum Beach Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.35609,
+                "longitude": -124.438562
+            },
+            "locationGUID": "aeee9fba-d8c6-4c67-91a3-a7efe501ce44",
+            "maxPowerKw": 14,
+            "name": "Qualicum Beach Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

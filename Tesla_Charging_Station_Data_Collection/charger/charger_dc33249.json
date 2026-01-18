@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guanajuato",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "3600",
+                "postalExt": null,
+                "state": "GUA",
+                "street": "Lomas de Pozuelos",
+                "streetNumber": "Cerro de San Miguel 13"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 21.01345,
+                "longitude": -101.255903
+            },
+            "commonSiteName": "Mision Grand Casa Colorada",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 21.01345,
+                "longitude": -101.255903
+            },
+            "locationGUID": "a472c727-a9b1-42cc-aecf-0c899dbb6644",
+            "maxPowerKw": 18,
+            "name": "Mision Grand Casa Colorada",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

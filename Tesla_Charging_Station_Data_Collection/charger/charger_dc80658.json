@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sacramento",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95814",
+                "postalExt": null,
+                "state": "CA",
+                "street": "9th St",
+                "streetNumber": "980"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.580905,
+                "longitude": -121.495496
+            },
+            "commonSiteName": "Park Tower",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.580905,
+                "longitude": -121.495496
+            },
+            "locationGUID": "e1610719-708b-4b22-b4f7-5de7a7fe9840",
+            "maxPowerKw": 16,
+            "name": "Park Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

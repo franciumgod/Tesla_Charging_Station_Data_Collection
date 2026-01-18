@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Michael im Lungau",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5582",
+                "postalExt": null,
+                "state": null,
+                "street": "Gerichtsstrasse 415",
+                "streetNumber": "415"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.099123,
+                "longitude": 13.63461
+            },
+            "commonSiteName": "Hapimag GesmbH.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.099123,
+                "longitude": 13.63461
+            },
+            "locationGUID": "911463cc-9a03-421d-9cdf-31ec50a9e244",
+            "maxPowerKw": 22,
+            "name": "Hapimag GesmbH.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

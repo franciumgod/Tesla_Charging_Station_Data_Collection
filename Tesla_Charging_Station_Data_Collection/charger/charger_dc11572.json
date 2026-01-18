@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "State College",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "16801",
+                "postalExt": null,
+                "state": "PA",
+                "street": "E College Ave",
+                "streetNumber": "1221"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.8093041,
+                "longitude": -77.8352077
+            },
+            "commonSiteName": "Hilton Garden Inn State College",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.8093041,
+                "longitude": -77.8352077
+            },
+            "locationGUID": "6539ae44-c4d2-48e4-92e6-c6319646fdc1",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn State College",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

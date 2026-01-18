@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Lafayette",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43845",
+                "postalExt": null,
+                "state": "OH",
+                "street": "US 36",
+                "streetNumber": "56310"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.28498,
+                "longitude": -81.7050626
+            },
+            "commonSiteName": "Unusual Junction",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.28498,
+                "longitude": -81.7050626
+            },
+            "locationGUID": "6b3081f1-e1cf-4252-965d-7db4e89b699b",
+            "maxPowerKw": 16,
+            "name": "Unusual Junction",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

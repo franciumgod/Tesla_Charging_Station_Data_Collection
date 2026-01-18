@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naucalpan de Juarez",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "52770",
+                "postalExt": null,
+                "state": "MEX",
+                "street": "Bosque Real",
+                "streetNumber": "Carretera Mexico Huixquilucan No.180"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.421264,
+                "longitude": -99.287257
+            },
+            "commonSiteName": "Bosque Real",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.421264,
+                "longitude": -99.287257
+            },
+            "locationGUID": "92b16603-aa5c-437b-8781-80fc97c4b417",
+            "maxPowerKw": 8,
+            "name": "Bosque Real",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

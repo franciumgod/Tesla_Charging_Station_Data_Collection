@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cowes",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3922",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Chapel Street",
+                "streetNumber": "65"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.450454,
+                "longitude": 145.240168
+            },
+            "commonSiteName": "Cowes Transit Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.450454,
+                "longitude": 145.240168
+            },
+            "locationGUID": "268bcfe7-a75d-44d9-8b57-0cb94e58c204",
+            "maxPowerKw": 11,
+            "name": "Cowes Transit Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

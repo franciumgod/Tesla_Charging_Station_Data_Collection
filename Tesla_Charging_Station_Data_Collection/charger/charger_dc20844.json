@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "E1 1EE",
+                "postalExt": null,
+                "state": null,
+                "street": "Adler Street",
+                "streetNumber": "42"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.516146,
+                "longitude": -0.06752
+            },
+            "commonSiteName": "Qbic Hotel London City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.516146,
+                "longitude": -0.06752
+            },
+            "locationGUID": "f0400693-f5ee-4b3e-9500-e66c52551dd7",
+            "maxPowerKw": 7,
+            "name": "Qbic Hotel London City",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pula",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "52100",
+                "postalExt": null,
+                "state": null,
+                "street": "Verudella",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.837154,
+                "longitude": 13.836892
+            },
+            "commonSiteName": "Park Plaza Verudela Pula",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.837154,
+                "longitude": 13.836892
+            },
+            "locationGUID": "7ddef2e8-633d-4045-a5be-62995864633b",
+            "maxPowerKw": 22,
+            "name": "Park Plaza Verudela Pula",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

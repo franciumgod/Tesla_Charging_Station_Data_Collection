@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Spa",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "B",
+                "postalExt": "4900",
+                "state": null,
+                "street": "Domaine de Lébioles 1/5",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.465112,
+                "longitude": 5.831712
+            },
+            "commonSiteName": "Manoir de Lébioles",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.465112,
+                "longitude": 5.831712
+            },
+            "locationGUID": "483d6c2b-fbd2-47ab-8f8a-13d097fe240c",
+            "maxPowerKw": 11,
+            "name": "Manoir de Lébioles",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

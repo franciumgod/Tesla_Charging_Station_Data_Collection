@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Szczecin",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "70527",
+                "postalExt": null,
+                "state": null,
+                "street": "Plantowa",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.431827,
+                "longitude": 14.559712
+            },
+            "commonSiteName": "Park Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.431827,
+                "longitude": 14.559712
+            },
+            "locationGUID": "ad491485-bdad-4180-aef4-2e08cd1b12f2",
+            "maxPowerKw": 22,
+            "name": "Park Hotel - Szczecin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

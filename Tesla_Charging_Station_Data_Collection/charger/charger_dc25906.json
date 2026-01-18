@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "桃園市",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "333",
+                "postalExt": null,
+                "state": "Taoyuan",
+                "street": "龜山區復興一路",
+                "streetNumber": "8號 B2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.060609,
+                "longitude": 121.370053
+            },
+            "commonSiteName": "Global Mall 桃園A8",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.060609,
+                "longitude": 121.370053
+            },
+            "locationGUID": "e5412adf-e893-4fd6-8d22-e8cc13bcee9a",
+            "maxPowerKw": 9,
+            "name": "Global Mall 桃園A8",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

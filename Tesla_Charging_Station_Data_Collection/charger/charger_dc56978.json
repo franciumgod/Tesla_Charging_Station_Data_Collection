@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Poznan",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "60",
+                "postalExt": "744",
+                "state": null,
+                "street": "Limanowskiego",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.397273,
+                "longitude": 16.897631
+            },
+            "commonSiteName": "Ilonn Boutique",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.397273,
+                "longitude": 16.897631
+            },
+            "locationGUID": "4f2beeba-fdf7-4406-a204-bb70ef21b95d",
+            "maxPowerKw": 22,
+            "name": "Ilonn Boutique",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

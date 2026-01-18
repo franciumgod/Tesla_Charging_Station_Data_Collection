@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Bridge St",
+                "streetNumber": "356"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.692579,
+                "longitude": -73.985252
+            },
+            "commonSiteName": "GGMC Belltel Car Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.692579,
+                "longitude": -73.985252
+            },
+            "locationGUID": "7eab6cb9-b457-4c2c-a334-e0b9abf59ff9",
+            "maxPowerKw": 8,
+            "name": "GGMC Belltel Car Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

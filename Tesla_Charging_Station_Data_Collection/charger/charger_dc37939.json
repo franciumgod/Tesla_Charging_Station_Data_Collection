@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Spezia",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "19125",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Fontevivo",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.11835098,
+                "longitude": 9.83184999
+            },
+            "commonSiteName": "Le Terrazze Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.11835098,
+                "longitude": 9.83184999
+            },
+            "locationGUID": "38c62239-c938-4f2f-8c74-192108cf9f9a",
+            "maxPowerKw": 22,
+            "name": "Le Terrazze Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aarau",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5000",
+                "postalExt": null,
+                "state": null,
+                "street": "Industriestrasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.392685,
+                "longitude": 8.059106
+            },
+            "commonSiteName": "Gais Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.392685,
+                "longitude": 8.059106
+            },
+            "locationGUID": "7728f049-c2c7-426d-8e98-ce003e26c7f2",
+            "maxPowerKw": 17,
+            "name": "Gais Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

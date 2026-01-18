@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Edmundston",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "E3V 1T4",
+                "postalExt": null,
+                "state": "NB",
+                "street": "Rice St",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.364064,
+                "longitude": -68.331158
+            },
+            "commonSiteName": "Four Points by Sheraton Edmundston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.364064,
+                "longitude": -68.331158
+            },
+            "locationGUID": "633e276e-2068-4194-a01d-add8cbf35e65",
+            "maxPowerKw": 16,
+            "name": "Four Points by Sheraton Edmundston",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Moncton"
+        },
+        "success": true
+    }
+}

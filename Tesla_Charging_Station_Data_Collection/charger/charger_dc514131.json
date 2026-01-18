@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Porto",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4000",
+                "postalExt": "074",
+                "state": "Porto",
+                "street": "Rua Dr. Alves da Veiga",
+                "streetNumber": "155"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.149832,
+                "longitude": -8.603433
+            },
+            "commonSiteName": "BessaHotel Baixa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.149832,
+                "longitude": -8.603433
+            },
+            "locationGUID": "990a6038-02f4-4de9-8a55-663a6d4c4f18",
+            "maxPowerKw": 22,
+            "name": "BessaHotel Baixa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

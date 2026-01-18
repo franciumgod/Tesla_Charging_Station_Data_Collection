@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 71st St",
+                "streetNumber": "417"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.766708,
+                "longitude": -73.955483
+            },
+            "commonSiteName": "Icon Parking Independent",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.766708,
+                "longitude": -73.955483
+            },
+            "locationGUID": "15298bbd-6d1c-4eb6-aed3-1d6379e8b8af",
+            "maxPowerKw": 16,
+            "name": "Icon Parking Independent",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

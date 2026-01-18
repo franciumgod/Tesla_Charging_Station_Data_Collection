@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "W1W 5DG",
+                "postalExt": null,
+                "state": null,
+                "street": "Clipstone Street Car Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.521862,
+                "longitude": -0.140954
+            },
+            "commonSiteName": "CitiPark Clipstone Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.521862,
+                "longitude": -0.140954
+            },
+            "locationGUID": "90f5ef4f-0ad8-4b5a-8296-2a8b36782188",
+            "maxPowerKw": 7,
+            "name": "CitiPark Clipstone Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

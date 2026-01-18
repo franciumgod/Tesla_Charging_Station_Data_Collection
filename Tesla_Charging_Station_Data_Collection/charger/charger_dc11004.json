@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Baltimore",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21201",
+                "postalExt": null,
+                "state": "MD",
+                "street": "N Charles St",
+                "streetNumber": "316"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.293019,
+                "longitude": -76.615604
+            },
+            "commonSiteName": "Cazbar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.293019,
+                "longitude": -76.615604
+            },
+            "locationGUID": "a7d9cf7f-ea03-447f-9fac-21fc51f1ba35",
+            "maxPowerKw": 8,
+            "name": "Cazbar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

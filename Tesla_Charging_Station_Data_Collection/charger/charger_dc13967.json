@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alturas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "96101",
+                "postalExt": null,
+                "state": "CA",
+                "street": "S Main St",
+                "streetNumber": "304"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.482442,
+                "longitude": -120.542075
+            },
+            "commonSiteName": "Niles Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.482442,
+                "longitude": -120.542075
+            },
+            "locationGUID": "1a95469d-b7f6-47be-9855-893ddf530c35",
+            "maxPowerKw": 13,
+            "name": "Niles Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

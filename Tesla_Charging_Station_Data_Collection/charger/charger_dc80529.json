@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Valencia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46023",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "37",
+                "streetNumber": "Carrer del Pintor Maella"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.45755529,
+                "longitude": -0.34738266
+            },
+            "commonSiteName": "El Corte Ingles",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.45755529,
+                "longitude": -0.34738266
+            },
+            "locationGUID": "cf3ba87b-76f6-4131-88e3-70171d018b29",
+            "maxPowerKw": 22,
+            "name": "El Corte Ingles",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

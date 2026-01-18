@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pingtung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "獅子鄉",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "943",
+                "postalExt": null,
+                "state": "Pingtung",
+                "street": "竹坑村竹坑巷",
+                "streetNumber": "60號"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.16640476,
+                "longitude": 120.69687528
+            },
+            "commonSiteName": "墾丁H會館",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.16640476,
+                "longitude": 120.69687528
+            },
+            "locationGUID": "ceed2e63-343b-491a-b582-418d30aee172",
+            "maxPowerKw": 7,
+            "name": "H Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

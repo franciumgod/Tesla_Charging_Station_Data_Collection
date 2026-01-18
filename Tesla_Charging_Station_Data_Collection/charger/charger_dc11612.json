@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Casciano In Val di Pesa",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "50026",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Faltignano",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.683665,
+                "longitude": 11.193884
+            },
+            "commonSiteName": "Villa Mangiacane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.683665,
+                "longitude": 11.193884
+            },
+            "locationGUID": "ea3a12fd-9292-4b93-921e-7cbd4fc907b2",
+            "maxPowerKw": 11,
+            "name": "Villa Mangiacane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

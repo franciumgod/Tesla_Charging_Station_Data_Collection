@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Blackheath",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SE3 0RW",
+                "postalExt": null,
+                "state": "London",
+                "street": "The Clarendon Hotel, Montpelier Row",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.468616,
+                "longitude": 0.009909
+            },
+            "commonSiteName": "The Clarendon Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.468616,
+                "longitude": 0.009909
+            },
+            "locationGUID": "0687a60f-f3dc-46a1-ae7a-d8b769428fab",
+            "maxPowerKw": 13,
+            "name": "The Clarendon Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

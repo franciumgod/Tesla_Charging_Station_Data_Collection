@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M2N 7E9",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Yonge St",
+                "streetNumber": "5000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.765951,
+                "longitude": -79.413137
+            },
+            "commonSiteName": "GWL Realty Advisors Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.765951,
+                "longitude": -79.413137
+            },
+            "locationGUID": "11d28ff2-3abe-40de-bcf6-3363f15bd506",
+            "maxPowerKw": 17,
+            "name": "GWL Realty Advisors Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 18,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

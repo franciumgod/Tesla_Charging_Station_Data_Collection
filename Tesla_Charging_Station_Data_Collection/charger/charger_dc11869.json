@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "El Segundo",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90245",
+                "postalExt": null,
+                "state": "CA",
+                "street": "E Imperial Ave",
+                "streetNumber": "1440"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.930574,
+                "longitude": -118.400744
+            },
+            "commonSiteName": "Embassy Suites by Hilton - LAX South",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.930574,
+                "longitude": -118.400744
+            },
+            "locationGUID": "9868f3c9-1da1-4837-b722-26d4a722c28d",
+            "maxPowerKw": 8,
+            "name": "Embassy Suites by Hilton - LAX South",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

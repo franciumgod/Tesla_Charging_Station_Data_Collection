@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "El Prado",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "87529",
+                "postalExt": null,
+                "state": "NM",
+                "street": "ABC Mesa Rd",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.465716,
+                "longitude": -105.661428
+            },
+            "commonSiteName": "Taos Mesa Brewing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.465716,
+                "longitude": -105.661428
+            },
+            "locationGUID": "3dc0fa3e-1a01-429d-b6f2-d0781ea1ebb2",
+            "maxPowerKw": 16,
+            "name": "Taos Mesa Brewing",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

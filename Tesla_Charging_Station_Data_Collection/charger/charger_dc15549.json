@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Victorville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92392",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Palmdale Rd",
+                "streetNumber": "15494"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.507904,
+                "longitude": -117.325918
+            },
+            "commonSiteName": "Holiday Inn Victorville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.507904,
+                "longitude": -117.325918
+            },
+            "locationGUID": "8b423b26-af0a-4ef8-8bc3-2329b9a7f15c",
+            "maxPowerKw": 8,
+            "name": "Holiday Inn Victorville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

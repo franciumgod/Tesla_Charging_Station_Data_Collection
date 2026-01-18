@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sanjo",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "955",
+                "postalExt": "0071",
+                "state": "Niigata",
+                "street": "Honcho",
+                "streetNumber": "3-5-25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.629836,
+                "longitude": 138.955562
+            },
+            "commonSiteName": "三条ロイヤルホテル",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.629836,
+                "longitude": 138.955562
+            },
+            "locationGUID": "5abe4b7a-8e48-4678-9bbe-dbeafb1fddb1",
+            "maxPowerKw": 6,
+            "name": "Sanjo Royal Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

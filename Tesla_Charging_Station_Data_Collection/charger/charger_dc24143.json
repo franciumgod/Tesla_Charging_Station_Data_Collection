@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "New Orleans",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70130",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Canal St",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.951797,
+                "longitude": -90.06795
+            },
+            "commonSiteName": "Sheraton New Orleans Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.951797,
+                "longitude": -90.06795
+            },
+            "locationGUID": "f40a1281-7b28-415a-9392-012176df3ebe",
+            "maxPowerKw": 16,
+            "name": "Sheraton New Orleans Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

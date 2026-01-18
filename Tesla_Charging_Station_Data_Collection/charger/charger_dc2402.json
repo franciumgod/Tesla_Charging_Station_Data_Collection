@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tampa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33606",
+                "postalExt": null,
+                "state": "FL",
+                "street": "S Howard Ave",
+                "streetNumber": "1207"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.930867,
+                "longitude": -82.483448
+            },
+            "commonSiteName": "Epicurean Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.930867,
+                "longitude": -82.483448
+            },
+            "locationGUID": "39af2f61-a760-4575-8a78-39c481c48f6a",
+            "maxPowerKw": 16,
+            "name": "Epicurean Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

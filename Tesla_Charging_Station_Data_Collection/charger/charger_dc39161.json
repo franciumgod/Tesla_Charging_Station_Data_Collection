@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11000",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Lomas de Chapultepec V Secc",
+                "streetNumber": "Volcan 150, Lomas - Virreyes"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.429194,
+                "longitude": -99.207766
+            },
+            "commonSiteName": "Qubica Lomas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.429194,
+                "longitude": -99.207766
+            },
+            "locationGUID": "6a16a2bd-e8e0-44d1-8eb7-eef642f519cd",
+            "maxPowerKw": 18,
+            "name": "Qubica Lomas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

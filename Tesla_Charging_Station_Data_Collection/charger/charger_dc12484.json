@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tempe",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85281",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E 5th St",
+                "streetNumber": "60"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.425944,
+                "longitude": -111.938837
+            },
+            "commonSiteName": "Tempe Mission Palms",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.425944,
+                "longitude": -111.938837
+            },
+            "locationGUID": "51a25ea9-397c-47d6-a58f-c1979fe5fd28",
+            "maxPowerKw": 16,
+            "name": "Tempe Mission Palms",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

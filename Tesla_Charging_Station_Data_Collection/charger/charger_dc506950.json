@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mariehamn",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22100",
+                "postalExt": null,
+                "state": "Šland Islands",
+                "street": "Torggatan 13",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.09897046,
+                "longitude": 19.94256121
+            },
+            "commonSiteName": "Sittkoffs Galleria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.09897046,
+                "longitude": 19.94256121
+            },
+            "locationGUID": "051d69d6-b6bb-4dbc-a7dd-f9a509800f81",
+            "maxPowerKw": 11,
+            "name": "Sittkoffs Galleria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Mariehamn"
+        },
+        "success": true
+    }
+}

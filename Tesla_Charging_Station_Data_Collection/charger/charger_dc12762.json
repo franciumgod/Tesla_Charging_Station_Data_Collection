@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Woodstock",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05091",
+                "postalExt": null,
+                "state": "VT",
+                "street": "The Green",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.623174,
+                "longitude": -72.518896
+            },
+            "commonSiteName": "Woodstock Inn and Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.623174,
+                "longitude": -72.518896
+            },
+            "locationGUID": "4e91e7a0-5141-4224-845e-32f433fa8402",
+            "maxPowerKw": 16,
+            "name": "Woodstock Inn and Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

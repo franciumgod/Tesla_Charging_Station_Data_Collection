@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Castro Marim",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8950",
+                "postalExt": "434",
+                "state": null,
+                "street": "Praia Verde Lote B",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.180151,
+                "longitude": -7.482372
+            },
+            "commonSiteName": "Praia Verde Boutique Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.180151,
+                "longitude": -7.482372
+            },
+            "locationGUID": "e700a004-9338-4c4f-924c-31b55190d7cd",
+            "maxPowerKw": 11,
+            "name": "Praia Verde Boutique Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Levernois",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21200",
+                "postalExt": null,
+                "state": "Bourgogne",
+                "street": "rue du Golf",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.992813,
+                "longitude": 4.880533
+            },
+            "commonSiteName": "Hostellerie de Levernois",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.992813,
+                "longitude": 4.880533
+            },
+            "locationGUID": "f9122e53-8066-49b2-8e71-bcc0b51618ee",
+            "maxPowerKw": 11,
+            "name": "Hostellerie de Levernois",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

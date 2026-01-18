@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queenstown",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9300",
+                "postalExt": null,
+                "state": "Otago",
+                "street": "Brunswick Street",
+                "streetNumber": "10/18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -45.034136,
+                "longitude": 168.653417
+            },
+            "commonSiteName": "Hotel St Moritz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -45.034136,
+                "longitude": 168.653417
+            },
+            "locationGUID": "463e53fb-ab4c-41ad-8161-2a665b058d72",
+            "maxPowerKw": 19,
+            "name": "Hotel St Moritz Queenstown - MGallery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Conwy",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LL32 8TN",
+                "postalExt": null,
+                "state": "North Wales",
+                "street": "Llanrwst Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.24907,
+                "longitude": -3.834715
+            },
+            "commonSiteName": "The Groes Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.24907,
+                "longitude": -3.834715
+            },
+            "locationGUID": "8c833cd3-fd79-4219-b6b4-e337ffe1e4e2",
+            "maxPowerKw": 22,
+            "name": "The Groes Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

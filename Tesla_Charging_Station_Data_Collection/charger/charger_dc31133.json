@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64830",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Ladrillera",
+                "streetNumber": "Avenida Revolucion 2703"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.653238,
+                "longitude": -100.275547
+            },
+            "commonSiteName": "Nuevo Sur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.653238,
+                "longitude": -100.275547
+            },
+            "locationGUID": "71dc26b3-00c1-48ef-91e3-c595e7869c1f",
+            "maxPowerKw": 13,
+            "name": "Nuevo Sur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

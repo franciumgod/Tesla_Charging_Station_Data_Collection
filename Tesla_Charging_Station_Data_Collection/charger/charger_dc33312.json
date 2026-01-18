@@ -1,0 +1,86 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:59",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Moonee Ponds",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3039",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Hall Street",
+                "streetNumber": "14-16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.765818,
+                "longitude": 144.923074
+            },
+            "commonSiteName": "Moonee Ponds Central - Level P2",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.765818,
+                "longitude": 144.923074
+            },
+            "locationGUID": "36c661e9-c6aa-45bb-bbac-8185f07efc50",
+            "maxPowerKw": 22,
+            "name": "Moonee Ponds Central - Level P2",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

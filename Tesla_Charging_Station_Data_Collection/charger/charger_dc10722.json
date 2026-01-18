@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Perth",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "PH16 5ND",
+                "postalExt": null,
+                "state": "Scotland",
+                "street": "Fonab Castle",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.69819175,
+                "longitude": -3.74140064
+            },
+            "commonSiteName": "Fonab Castle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.69819175,
+                "longitude": -3.74140064
+            },
+            "locationGUID": "3825839a-97ea-46cf-b4c9-24b800e8cbae",
+            "maxPowerKw": 7,
+            "name": "Fonab Castle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

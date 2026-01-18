@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kewdale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6105",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Kewdale Road",
+                "streetNumber": "139"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -31.982081,
+                "longitude": 115.957964
+            },
+            "commonSiteName": "Kewdale Tavern",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -31.982081,
+                "longitude": 115.957964
+            },
+            "locationGUID": "ca0f163b-49a1-4dfc-8074-28d64f86c318",
+            "maxPowerKw": 22,
+            "name": "Kewdale Tavern",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dunedin",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9016",
+                "postalExt": null,
+                "state": null,
+                "street": "High Street",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -45.87777,
+                "longitude": 170.501046
+            },
+            "commonSiteName": "Scenic Hotel Southern Cross",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -45.87777,
+                "longitude": 170.501046
+            },
+            "locationGUID": "8bdede4b-e8e1-4776-aeb2-e4739eab7782",
+            "maxPowerKw": 7,
+            "name": "Scenic Hotel Southern Cross",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

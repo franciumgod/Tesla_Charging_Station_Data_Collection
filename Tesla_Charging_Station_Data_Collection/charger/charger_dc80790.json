@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5H 1L6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Adelaide St W",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.650028,
+                "longitude": -79.380083
+            },
+            "commonSiteName": "Scotia Plaza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.650028,
+                "longitude": -79.380083
+            },
+            "locationGUID": "f6477df2-d00e-4dba-a294-2333b9ea3258",
+            "maxPowerKw": 16,
+            "name": "Scotia Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

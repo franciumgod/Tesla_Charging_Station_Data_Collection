@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Warrenton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20187",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Casanova Rd",
+                "streetNumber": "5025"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.651111,
+                "longitude": -77.713847
+            },
+            "commonSiteName": "Poplar Springs Inn & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.651111,
+                "longitude": -77.713847
+            },
+            "locationGUID": "f9d229c5-aa2c-4b23-a2a9-91048b4af9ec",
+            "maxPowerKw": 13,
+            "name": "Poplar Springs Inn & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

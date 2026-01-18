@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Champaign",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "61820",
+                "postalExt": null,
+                "state": "IL",
+                "street": "N Neil St",
+                "streetNumber": "217"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.118077,
+                "longitude": -88.243875
+            },
+            "commonSiteName": "Hyatt Place Champaign/Urbana",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.118077,
+                "longitude": -88.243875
+            },
+            "locationGUID": "6d3f3176-ace4-460c-a4b4-ee3b6fe3512a",
+            "maxPowerKw": 13,
+            "name": "Hyatt Place Champaign/Urbana",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

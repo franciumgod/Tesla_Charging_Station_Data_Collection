@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lindberg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "94227",
+                "postalExt": null,
+                "state": null,
+                "street": "Lehen",
+                "streetNumber": "35a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.045914,
+                "longitude": 13.264304
+            },
+            "commonSiteName": "Hotel Ahornhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.045914,
+                "longitude": 13.264304
+            },
+            "locationGUID": "d28b4e50-e181-45c4-90b4-06c4e24e0be3",
+            "maxPowerKw": 11,
+            "name": "Ahornhof Lindberg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

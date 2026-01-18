@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Genova",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "16123",
+                "postalExt": null,
+                "state": null,
+                "street": "Via San Sebastiano",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.4093,
+                "longitude": 8.935425
+            },
+            "commonSiteName": "Best Western Plus City Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.4093,
+                "longitude": 8.935425
+            },
+            "locationGUID": "0de3933c-826b-4ad2-82ef-e390de1220e8",
+            "maxPowerKw": 11,
+            "name": "Best Western Plus City Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

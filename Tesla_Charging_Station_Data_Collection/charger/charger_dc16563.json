@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Gråsten",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6300",
+                "postalExt": null,
+                "state": null,
+                "street": "August Kraags Plads 10B",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.92177,
+                "longitude": 9.594382
+            },
+            "commonSiteName": "Det Gamle Rådhus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.92177,
+                "longitude": 9.594382
+            },
+            "locationGUID": "6f35594f-62b9-4cc7-aed5-a204a3834ec2",
+            "maxPowerKw": 11,
+            "name": "Det Gamle Rådhus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

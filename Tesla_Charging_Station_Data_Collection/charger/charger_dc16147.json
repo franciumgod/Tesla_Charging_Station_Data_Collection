@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lønset",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7342",
+                "postalExt": null,
+                "state": null,
+                "street": "Storligrenda 25",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 62.693614,
+                "longitude": 9.097844
+            },
+            "commonSiteName": "Bortistu Gjestegard",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 62.693614,
+                "longitude": 9.097844
+            },
+            "locationGUID": "df4ace10-f27e-4300-8d23-63b4d84711d0",
+            "maxPowerKw": 7,
+            "name": "Bortistu Gjestegard",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

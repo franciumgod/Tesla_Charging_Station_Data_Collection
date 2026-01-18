@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Laval",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H7T 2K9",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Boulevard le Carrefour",
+                "streetNumber": "2900"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.569033,
+                "longitude": -73.74622
+            },
+            "commonSiteName": "Holiday Inn Laval - Montreal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.569033,
+                "longitude": -73.74622
+            },
+            "locationGUID": "1b996453-d425-4d28-8ba4-dd4ce6da4e8f",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Laval - Montreal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

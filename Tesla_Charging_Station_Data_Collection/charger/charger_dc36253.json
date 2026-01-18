@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fort Lauderdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33304",
+                "postalExt": null,
+                "state": "FL",
+                "street": "E Sunrise Blvd",
+                "streetNumber": "2414"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.137129,
+                "longitude": -80.113431
+            },
+            "commonSiteName": "The Galleria at Fort Lauderdale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.137129,
+                "longitude": -80.113431
+            },
+            "locationGUID": "a6c13b78-5116-4e8c-b043-2555d28761d0",
+            "maxPowerKw": 16,
+            "name": "The Galleria at Fort Lauderdale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

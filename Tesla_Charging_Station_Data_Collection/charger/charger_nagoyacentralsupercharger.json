@@ -1,0 +1,335 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "06:00",
+                        "periodEnd": "23:30",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nagoya",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "451",
+                "postalExt": "0051",
+                "state": "Aichi",
+                "street": "Noritakeshinmachi, Nishi-ku",
+                "streetNumber": "3-1-17"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.1375,
+                            0.17857142857142855,
+                            0.2390625,
+                            0.2734375,
+                            0.26875,
+                            0.2586805555555556,
+                            0.3486328125,
+                            0.40625,
+                            0.47395833333333337,
+                            0.5078125,
+                            0.515625,
+                            0.3854166666666667,
+                            0.24088541666666669,
+                            0.125,
+                            0.05859375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.07291666666666667,
+                            0.09375
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.14453125,
+                            0.21527777777777776,
+                            0.29048295454545453,
+                            0.35323660714285715,
+                            0.4287109375,
+                            0.46875,
+                            0.419921875,
+                            0.39285714285714285,
+                            0.375,
+                            0.32254464285714285,
+                            0.26953125,
+                            0.25,
+                            0.2092013888888889,
+                            0.13616071428571427,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.11458333333333334,
+                            0.140625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.16015625,
+                            0.2608173076923077,
+                            0.34375,
+                            0.4091796875,
+                            0.453125,
+                            0.5375,
+                            0.59375,
+                            0.59375,
+                            0.565625,
+                            0.546875,
+                            0.5180921052631579,
+                            0.4189453125,
+                            0.30729166666666663,
+                            0.16796875,
+                            0.08854166666666667,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.046875,
+                            0.07421875,
+                            0.1171875
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.2916666666666667,
+                            0.34375,
+                            0.39285714285714285,
+                            0.40625,
+                            0.4107142857142857,
+                            0.4375,
+                            0.49172794117647056,
+                            0.5398848684210527,
+                            0.5625,
+                            0.5571546052631579,
+                            0.53125,
+                            0.4505208333333333,
+                            0.30208333333333337,
+                            0.1625,
+                            0.05859375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.07291666666666667
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.10223214285714285,
+                            0.21249999999999997,
+                            0.31,
+                            0.34375,
+                            0.3145833333333333,
+                            0.30714285714285716,
+                            0.35,
+                            0.4,
+                            0.43125,
+                            0.4052083333333333,
+                            0.37904411764705886,
+                            0.3125,
+                            0.21992187500000002,
+                            0.075,
+                            0.035416666666666666,
+                            0.0125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.05,
+                            0.07750000000000001
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.225,
+                            0.234375,
+                            0.2421875,
+                            0.2390625,
+                            0.2890625,
+                            0.28125,
+                            0.2640625,
+                            0.33869485294117646,
+                            0.4453125,
+                            0.44669117647058826,
+                            0.40178571428571425,
+                            0.345703125,
+                            0.24872295673076925,
+                            0.11703125,
+                            0.05859375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.046875,
+                            0.09375
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.15625,
+                            0.2126736111111111,
+                            0.2627840909090909,
+                            0.328125,
+                            0.35221354166666663,
+                            0.4154411764705882,
+                            0.4375,
+                            0.3786764705882353,
+                            0.30894886363636365,
+                            0.3203125,
+                            0.3125,
+                            0.25546875,
+                            0.2013888888888889,
+                            0.125,
+                            0.0734375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.0234375,
+                            0.03125,
+                            0.06025390625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 9745,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 31663,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.179441,
+                "longitude": 136.879306
+            },
+            "commonSiteName": "AEON MALL Nagoya Noritake Garden",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.179879,
+                "longitude": 136.878688
+            },
+            "locationGUID": "f83f526b-0d22-4700-af6b-71d5082982f7",
+            "maxPowerKw": 250,
+            "name": "Nagoya - Noritake, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

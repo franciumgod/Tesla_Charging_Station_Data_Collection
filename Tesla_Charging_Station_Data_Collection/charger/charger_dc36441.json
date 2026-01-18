@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kansas City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64108",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Grand Blvd",
+                "streetNumber": "2020"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.088467,
+                "longitude": -94.581749
+            },
+            "commonSiteName": "Hotel Indigo Kansas City - The Crossroads",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.088467,
+                "longitude": -94.581749
+            },
+            "locationGUID": "fa3a0dbb-adeb-41f1-9b91-7c8c47b3c7ad",
+            "maxPowerKw": 16,
+            "name": "Hotel Indigo Kansas City - The Crossroads",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

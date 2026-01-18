@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Skodje",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6260",
+                "postalExt": null,
+                "state": null,
+                "street": "Øvre Glomset",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 62.469782,
+                "longitude": 6.625729
+            },
+            "commonSiteName": "Storfjord Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 62.469782,
+                "longitude": 6.625729
+            },
+            "locationGUID": "3547402a-1510-49da-b977-69b9bf9e3c16",
+            "maxPowerKw": 6,
+            "name": "Storfjord Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

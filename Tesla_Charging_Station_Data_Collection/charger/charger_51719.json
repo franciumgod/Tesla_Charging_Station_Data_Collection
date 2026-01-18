@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "East Hampton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11937",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main St",
+                "streetNumber": "207"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.9553753,
+                "longitude": -72.1937181
+            },
+            "commonSiteName": "c/o The Maidstone",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.9553753,
+                "longitude": -72.1937181
+            },
+            "locationGUID": "a14a59a2-6570-4215-a88d-de9a958fe9ee",
+            "maxPowerKw": 19,
+            "name": "c/o The Maidstone",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

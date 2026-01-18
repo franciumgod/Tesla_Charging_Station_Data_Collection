@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Rafael",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94901",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Fifth Ave",
+                "streetNumber": "1400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.975114,
+                "longitude": -122.531959
+            },
+            "commonSiteName": "San Rafael City Hall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.975114,
+                "longitude": -122.531959
+            },
+            "locationGUID": "bc542390-638e-4ae8-b630-f31de86ac6ef",
+            "maxPowerKw": 6,
+            "name": "San Rafael City Hall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

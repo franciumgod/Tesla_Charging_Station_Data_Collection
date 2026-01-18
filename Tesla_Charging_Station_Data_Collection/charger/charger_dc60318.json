@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Warrnambool",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3280",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "King Street",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.375751,
+                "longitude": 142.481411
+            },
+            "commonSiteName": "The Botanic Apartments",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.375751,
+                "longitude": 142.481411
+            },
+            "locationGUID": "e9a162d6-af8e-4c74-a4fe-a0529b2328bd",
+            "maxPowerKw": 7,
+            "name": "The Botanic Apartments",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

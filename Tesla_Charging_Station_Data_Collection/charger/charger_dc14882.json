@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roma",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "185",
+                "postalExt": null,
+                "state": null,
+                "street": "Via E. Filiberto",
+                "streetNumber": "173"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.889998,
+                "longitude": 12.506724
+            },
+            "commonSiteName": "Best Western Hotel President",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.889998,
+                "longitude": 12.506724
+            },
+            "locationGUID": "8d53d2ba-3ad7-47e5-aa86-90f0577469c1",
+            "maxPowerKw": 22,
+            "name": "Best Western Hotel President",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

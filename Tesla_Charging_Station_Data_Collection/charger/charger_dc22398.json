@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28042",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Avenida de la Hispanidad",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.451867,
+                "longitude": -3.585918
+            },
+            "commonSiteName": "Hilton Madrid Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.451867,
+                "longitude": -3.585918
+            },
+            "locationGUID": "3b69e7a0-9a06-4ce9-927e-ad93872ed477",
+            "maxPowerKw": 11,
+            "name": "Hilton Madrid Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

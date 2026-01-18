@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Volkach",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "97332",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptstrasse",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.864994,
+                "longitude": 10.226698
+            },
+            "commonSiteName": "Romantik Hotel Zur Schwane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.864994,
+                "longitude": 10.226698
+            },
+            "locationGUID": "8e29aaf0-2a53-4b26-8ef8-d56e68977f2e",
+            "maxPowerKw": 22,
+            "name": "Romantik Hotel Zur Schwane",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

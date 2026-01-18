@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bellevue",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98004",
+                "postalExt": null,
+                "state": "WA",
+                "street": "106th Pl NE",
+                "streetNumber": "208"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.612345,
+                "longitude": -122.197702
+            },
+            "commonSiteName": "Marriott AC Bellevue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.612345,
+                "longitude": -122.197702
+            },
+            "locationGUID": "70fdcf60-41f6-478e-92e8-c1fea001c0a7",
+            "maxPowerKw": 16,
+            "name": "Marriott AC Bellevue",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

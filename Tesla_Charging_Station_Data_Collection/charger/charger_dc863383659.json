@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Austin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78701",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Red River St.",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.26208,
+                "longitude": -97.73814
+            },
+            "commonSiteName": "Fairmont Austin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.26208,
+                "longitude": -97.73814
+            },
+            "locationGUID": "0023222a-6b2e-4d2b-8829-0d17564fc19b",
+            "maxPowerKw": 10,
+            "name": "Fairmont Austin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

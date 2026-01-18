@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Molsheim",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67120",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue Sainte Odile",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.538531,
+                "longitude": 7.496559
+            },
+            "commonSiteName": "Hôtel Diana Restaurant & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.538531,
+                "longitude": 7.496559
+            },
+            "locationGUID": "decbae1e-d5e0-4139-9749-129ff5e71881",
+            "maxPowerKw": 11,
+            "name": "Hôtel Diana Restaurant & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

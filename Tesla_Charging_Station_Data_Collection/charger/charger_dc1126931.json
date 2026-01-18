@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Incheon-si",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": "Seo-gu",
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "22727",
+                "postalExt": null,
+                "state": "Incheon",
+                "street": "Simgok-ro",
+                "streetNumber": "57"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.54229,
+                "longitude": 126.67606
+            },
+            "commonSiteName": "i-Navi Premium Store Incheon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.54229,
+                "longitude": 126.67606
+            },
+            "locationGUID": "0ed94c25-730e-4154-a6d2-2a7992d10149",
+            "maxPowerKw": 10,
+            "name": "i-Navi Incheon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

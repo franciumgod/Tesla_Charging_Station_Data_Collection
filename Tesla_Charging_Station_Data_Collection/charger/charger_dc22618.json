@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Sebastian",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20010",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Plaza Pio XII",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.307583,
+                "longitude": -1.978262
+            },
+            "commonSiteName": "Hotel Silken Amara Plaza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.307583,
+                "longitude": -1.978262
+            },
+            "locationGUID": "7c1b31e4-d970-4974-9b3b-79041318b647",
+            "maxPowerKw": 22,
+            "name": "Hotel Silken Amara Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

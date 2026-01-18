@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Allston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02134",
+                "postalExt": null,
+                "state": "MA",
+                "street": "Western Ave",
+                "streetNumber": "168"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.363186,
+                "longitude": -71.128541
+            },
+            "commonSiteName": "Swissbakers Inc.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.363186,
+                "longitude": -71.128541
+            },
+            "locationGUID": "3a277a57-2ac1-43ad-8f13-07a408d964cd",
+            "maxPowerKw": 16,
+            "name": "Swissbakers Inc.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

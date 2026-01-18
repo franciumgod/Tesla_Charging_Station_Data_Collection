@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20124",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Mauro Macchi",
+                "streetNumber": "79"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.487845,
+                "longitude": 9.210797
+            },
+            "commonSiteName": "Residenza delle Citta'",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.487845,
+                "longitude": 9.210797
+            },
+            "locationGUID": "c3da143c-21f2-4e77-8763-cbd0c92d7d7e",
+            "maxPowerKw": 22,
+            "name": "Residenza delle Citta'",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

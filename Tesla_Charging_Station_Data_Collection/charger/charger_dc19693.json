@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N6E 1L5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Exeter Rd",
+                "streetNumber": "800"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.927365,
+                "longitude": -81.215814
+            },
+            "commonSiteName": "TownePlace Suites London",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.927365,
+                "longitude": -81.215814
+            },
+            "locationGUID": "7d2595cd-1087-4cb8-a0cf-9845087b6cd2",
+            "maxPowerKw": 8,
+            "name": "TownePlace Suites London",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 61st St",
+                "streetNumber": "425"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.760289,
+                "longitude": -73.959501
+            },
+            "commonSiteName": "City Parking E 61st Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.760289,
+                "longitude": -73.959501
+            },
+            "locationGUID": "e53a7379-3a7f-4bfa-8cc6-490ebdd0c5df",
+            "maxPowerKw": 13,
+            "name": "City Parking E 61st Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

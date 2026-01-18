@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Heber Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72543",
+                "postalExt": null,
+                "state": "AR",
+                "street": "Rainbow Loop",
+                "streetNumber": "350"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.5177645,
+                "longitude": -91.9564417
+            },
+            "commonSiteName": "Lindsey's Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.5177645,
+                "longitude": -91.9564417
+            },
+            "locationGUID": "3429de8a-6693-4764-ac23-1bc07c9f7a93",
+            "maxPowerKw": 16,
+            "name": "Lindsey's Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 16,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

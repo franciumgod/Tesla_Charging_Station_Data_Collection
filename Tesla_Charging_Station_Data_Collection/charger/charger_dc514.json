@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sag Harbor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11963",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main St",
+                "streetNumber": "45"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.001188,
+                "longitude": -72.294667
+            },
+            "commonSiteName": "The American Hotel-Sag Harbor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.001188,
+                "longitude": -72.294667
+            },
+            "locationGUID": "51c06ec9-3bb1-4b01-b1ba-5d18eb6a34e0",
+            "maxPowerKw": 10,
+            "name": "The American Hotel-Sag Harbor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

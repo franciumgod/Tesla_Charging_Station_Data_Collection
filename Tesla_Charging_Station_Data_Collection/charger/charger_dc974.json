@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Los Angeles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90045",
+                "postalExt": null,
+                "state": "CA",
+                "street": "W Century Blvd",
+                "streetNumber": "5855"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.946082,
+                "longitude": -118.3842664
+            },
+            "commonSiteName": "Los Angeles Airport Marriott",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.946082,
+                "longitude": -118.3842664
+            },
+            "locationGUID": "1e74b020-da7a-4bd3-8620-eb75c6b7d790",
+            "maxPowerKw": 6,
+            "name": "Los Angeles Airport Marriott",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

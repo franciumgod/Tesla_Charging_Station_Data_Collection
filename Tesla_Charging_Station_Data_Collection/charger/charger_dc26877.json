@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pacific City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97135",
+                "postalExt": null,
+                "state": "OR",
+                "street": "Cape Kiwanda Dr",
+                "streetNumber": "33000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.21595,
+                "longitude": -123.970889
+            },
+            "commonSiteName": "Headlands Coastal Lodge & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.21595,
+                "longitude": -123.970889
+            },
+            "locationGUID": "171fbea0-9f78-4dd5-9495-b4726448e162",
+            "maxPowerKw": 16,
+            "name": "Headlands Coastal Lodge & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

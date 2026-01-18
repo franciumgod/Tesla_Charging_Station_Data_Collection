@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "5th Ave",
+                "streetNumber": "910"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.772175,
+                "longitude": -73.96637
+            },
+            "commonSiteName": "Standard Parking 910 5th Avenue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.772175,
+                "longitude": -73.96637
+            },
+            "locationGUID": "d9fc3eaf-c3b8-4a31-95dc-ae73c2d26b58",
+            "maxPowerKw": 10,
+            "name": "Standard Parking 910 5th Avenue",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

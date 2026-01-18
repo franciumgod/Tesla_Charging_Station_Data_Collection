@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Manhattan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10033",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Broadway",
+                "streetNumber": "4320"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.852461,
+                "longitude": -73.934084
+            },
+            "commonSiteName": "4320 Broadway-PARK-it",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.852461,
+                "longitude": -73.934084
+            },
+            "locationGUID": "e25524f3-6677-47a0-bc56-5389589babb7",
+            "maxPowerKw": 10,
+            "name": "4320 Broadway-PARK-it",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

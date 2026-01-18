@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Freeport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04032",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Holbrook St",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.85583,
+                "longitude": -70.107652
+            },
+            "commonSiteName": "James Place Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.85583,
+                "longitude": -70.107652
+            },
+            "locationGUID": "b4389874-6529-427e-bffd-1b406a19cdf8",
+            "maxPowerKw": 16,
+            "name": "James Place Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

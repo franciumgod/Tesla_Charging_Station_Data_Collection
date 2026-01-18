@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Meissen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1662",
+                "postalExt": null,
+                "state": null,
+                "street": "Vorbruecker Strasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.166232,
+                "longitude": 13.479987
+            },
+            "commonSiteName": "Goldenes Fass Meissen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.166232,
+                "longitude": 13.479987
+            },
+            "locationGUID": "dc5c2618-2d21-4754-bed3-5dc1feb58148",
+            "maxPowerKw": 22,
+            "name": "Goldenes Fass Meissen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Frankfurt am Main",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "60327",
+                "postalExt": null,
+                "state": null,
+                "street": "Gutleutstrasse",
+                "streetNumber": "296"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.09787799,
+                "longitude": 8.64566634
+            },
+            "commonSiteName": "Holiday Inn Express Frankfurt-Messe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.09787799,
+                "longitude": 8.64566634
+            },
+            "locationGUID": "0d8f64a7-5bd2-4495-954f-47a38f9218bd",
+            "maxPowerKw": 11,
+            "name": "Holiday Inn Express Frankfurt-Messe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

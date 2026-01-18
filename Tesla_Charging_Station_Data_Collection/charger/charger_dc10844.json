@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Malo",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "35400",
+                "postalExt": null,
+                "state": "Bretagne",
+                "street": "Boulevard Hébert",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.657875,
+                "longitude": -1.999489
+            },
+            "commonSiteName": "Grand Hôtel des Thermes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.657875,
+                "longitude": -1.999489
+            },
+            "locationGUID": "e6e29fdb-49d7-4637-82eb-2988e5db9b7a",
+            "maxPowerKw": 17,
+            "name": "Grand Hôtel des Thermes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

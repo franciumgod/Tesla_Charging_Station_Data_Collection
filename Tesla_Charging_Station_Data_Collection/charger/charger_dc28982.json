@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kaohsiung",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": "苓雅區",
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "802",
+                "postalExt": null,
+                "state": "Kaohsiung",
+                "street": "三多四路",
+                "streetNumber": "21號 B2"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.613063,
+                "longitude": 120.304165
+            },
+            "commonSiteName": "高雄大遠百",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.613063,
+                "longitude": 120.304165
+            },
+            "locationGUID": "19802766-9366-41cb-b670-d1bf228b1105",
+            "maxPowerKw": 12,
+            "name": "Top City Kaohsiung",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Doué-la-Fontaine",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "49700",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Cholet",
+                "streetNumber": "104"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.19197973,
+                "longitude": -0.29729392
+            },
+            "commonSiteName": "Auberge Bienvenue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.19197973,
+                "longitude": -0.29729392
+            },
+            "locationGUID": "ef2cc91c-4c12-453c-8433-e9b52295923d",
+            "maxPowerKw": 11,
+            "name": "Auberge Bienvenue",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

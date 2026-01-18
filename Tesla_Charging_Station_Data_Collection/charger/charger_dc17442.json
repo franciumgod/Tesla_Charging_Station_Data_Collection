@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensenada",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22750",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Valle de Guadalupe",
+                "streetNumber": "Carretera Tecate- Ensenada Km. 75"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.11059,
+                "longitude": -116.551917
+            },
+            "commonSiteName": "Encuentro Guadalaupe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.11059,
+                "longitude": -116.551917
+            },
+            "locationGUID": "b4965e07-b97b-43c8-8a91-1624bb9e73ce",
+            "maxPowerKw": 8,
+            "name": "Encuentro Guadalaupe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

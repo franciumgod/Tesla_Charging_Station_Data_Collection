@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hengelo",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7554PV",
+                "postalExt": null,
+                "state": null,
+                "street": "Beckumerkerkweg",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.21132,
+                "longitude": 6.742062
+            },
+            "commonSiteName": "Wapen van Beckum",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.21132,
+                "longitude": 6.742062
+            },
+            "locationGUID": "db4ec11b-3f57-4b9b-a0b8-6902849de873",
+            "maxPowerKw": 9,
+            "name": "Wapen van Beckum",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Horsham",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3400",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Baillie St",
+                "streetNumber": "118"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.711207,
+                "longitude": 142.203015
+            },
+            "commonSiteName": "Horsham International Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.711207,
+                "longitude": 142.203015
+            },
+            "locationGUID": "35ac66e4-5416-4bf8-9e2e-b88550b776af",
+            "maxPowerKw": 22,
+            "name": "Horsham International Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Napoleon",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Henry County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43545",
+                "postalExt": null,
+                "state": "OH",
+                "street": "County Rd M2",
+                "streetNumber": "16982"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.35043797,
+                "longitude": -84.18867391
+            },
+            "commonSiteName": "Leisure Time Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.35043797,
+                "longitude": -84.18867391
+            },
+            "locationGUID": "7034d099-c07e-49e6-8a1f-67c597f1f59e",
+            "maxPowerKw": 9,
+            "name": "Leisure Time Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bend",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97753",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SW Brasada Ranch Rd",
+                "streetNumber": "16986"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.157376,
+                "longitude": -121.0465
+            },
+            "commonSiteName": "Brasada Ranch",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.157376,
+                "longitude": -121.0465
+            },
+            "locationGUID": "d5ac8d3d-35ae-4cff-a816-d2ff90bb35eb",
+            "maxPowerKw": 16,
+            "name": "Brasada Ranch",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

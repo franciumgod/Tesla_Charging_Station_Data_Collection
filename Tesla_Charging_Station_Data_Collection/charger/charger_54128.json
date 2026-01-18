@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Düsseldorf",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "40210",
+                "postalExt": null,
+                "state": null,
+                "street": "Stresemannstraße",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.221412,
+                "longitude": 6.783534
+            },
+            "commonSiteName": "ParkCenter/Parkhaus-Garage Hagemann",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.221412,
+                "longitude": 6.783534
+            },
+            "locationGUID": "aa8d4f77-4bb6-451b-a939-d39cfccae698",
+            "maxPowerKw": 22,
+            "name": "ParkCenterKoe/Parkhaus-Garage Hagemann",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

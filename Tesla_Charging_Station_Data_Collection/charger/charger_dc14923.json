@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tewkesbury",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "GL20 7DN",
+                "postalExt": null,
+                "state": "Gloucestershire",
+                "street": "Tewkesbury Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.979296,
+                "longitude": -2.171702
+            },
+            "commonSiteName": "Tewkesbury Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.979296,
+                "longitude": -2.171702
+            },
+            "locationGUID": "c7b0858c-1638-43c0-b54b-e1ade176d216",
+            "maxPowerKw": 22,
+            "name": "Tewkesbury Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

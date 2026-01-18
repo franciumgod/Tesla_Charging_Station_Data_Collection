@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Logan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84321",
+                "postalExt": null,
+                "state": "UT",
+                "street": "S Riverwoods Pkwy",
+                "streetNumber": "635"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.720914,
+                "longitude": -111.833857
+            },
+            "commonSiteName": "SpringHill Suites Logan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.720914,
+                "longitude": -111.833857
+            },
+            "locationGUID": "31e1725c-9359-4aca-b473-eb7c82a6ebf8",
+            "maxPowerKw": 11,
+            "name": "SpringHill Suites Logan",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

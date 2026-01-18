@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "North Conway",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03860",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Kearsarge Rd",
+                "streetNumber": "80"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.0534107,
+                "longitude": -71.1244516
+            },
+            "commonSiteName": "Cranmore Inn Bed and Breakfast",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.0534107,
+                "longitude": -71.1244516
+            },
+            "locationGUID": "814646a8-0b5e-4a9c-a0ee-1fc2e2efd9d4",
+            "maxPowerKw": 16,
+            "name": "Cranmore Inn Bed and Breakfast",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

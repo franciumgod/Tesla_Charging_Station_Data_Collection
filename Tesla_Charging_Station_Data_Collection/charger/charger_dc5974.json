@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Horseshoe Bay",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78657",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Hi Cir N",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.546511,
+                "longitude": -98.360596
+            },
+            "commonSiteName": "Horseshoe Bay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.546511,
+                "longitude": -98.360596
+            },
+            "locationGUID": "a1f8639f-c63b-4c60-916d-e1f41d704ea5",
+            "maxPowerKw": 16,
+            "name": "Horseshoe Bay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

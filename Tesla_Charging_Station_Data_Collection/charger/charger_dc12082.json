@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vail",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81657",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Vail Valley Dr",
+                "streetNumber": "595"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.63943,
+                "longitude": -106.368139
+            },
+            "commonSiteName": "Manor Vail Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.63943,
+                "longitude": -106.368139
+            },
+            "locationGUID": "ed936743-b2ea-4b50-b746-f50aaf6eefa8",
+            "maxPowerKw": 16,
+            "name": "Manor Vail Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

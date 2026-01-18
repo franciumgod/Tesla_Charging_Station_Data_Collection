@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Matsumoto",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "390",
+                "postalExt": "0874",
+                "state": "Nagano",
+                "street": "Ote",
+                "streetNumber": "3-5-15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.236005,
+                "longitude": 137.969496
+            },
+            "commonSiteName": "松本丸の内ホテル",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.236005,
+                "longitude": 137.969496
+            },
+            "locationGUID": "b5bd006e-0d05-4346-94c9-b6615872d2bd",
+            "maxPowerKw": 16,
+            "name": "Matsumoto Marunouchi Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

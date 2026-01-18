@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wien",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1020",
+                "postalExt": null,
+                "state": null,
+                "street": "Hauptallee",
+                "streetNumber": "124"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.211086,
+                "longitude": 16.405357
+            },
+            "commonSiteName": "Die Allee / Kugeltanz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.211086,
+                "longitude": 16.405357
+            },
+            "locationGUID": "57236a6e-4f45-41d1-93b3-b37e1dd27ad1",
+            "maxPowerKw": 11,
+            "name": "Die Allee / Kugeltanz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

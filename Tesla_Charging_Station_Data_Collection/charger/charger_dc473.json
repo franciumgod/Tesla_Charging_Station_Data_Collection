@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kansas City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64112",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Ward Pkwy",
+                "streetNumber": "325"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.039884,
+                "longitude": -94.591361
+            },
+            "commonSiteName": "The Raphael Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.039884,
+                "longitude": -94.591361
+            },
+            "locationGUID": "9bd9b209-7925-491e-8abf-82d3a59c8142",
+            "maxPowerKw": 16,
+            "name": "The Raphael Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Champery",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1874",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue du village",
+                "streetNumber": "47"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.17887,
+                "longitude": 6.870308
+            },
+            "commonSiteName": "Hotel National Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.17887,
+                "longitude": 6.870308
+            },
+            "locationGUID": "8a8c8ab3-4daf-453a-83a4-982f3569ad19",
+            "maxPowerKw": 22,
+            "name": "Hotel National Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mechelen",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6281 BD",
+                "postalExt": null,
+                "state": null,
+                "street": "Hoofdstraat 26",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.794876,
+                "longitude": 5.921583
+            },
+            "commonSiteName": "Hotel Brull",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.794876,
+                "longitude": 5.921583
+            },
+            "locationGUID": "5401e701-1517-4a8b-9210-51b8da155d15",
+            "maxPowerKw": 22,
+            "name": "Hotel Brull",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

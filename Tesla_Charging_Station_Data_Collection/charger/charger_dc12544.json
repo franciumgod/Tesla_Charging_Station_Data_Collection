@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89109",
+                "postalExt": null,
+                "state": "NV",
+                "street": "Sierra Vista Dr",
+                "streetNumber": "536"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.127659,
+                "longitude": -115.150607
+            },
+            "commonSiteName": "Las Vegas Convention Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.127659,
+                "longitude": -115.150607
+            },
+            "locationGUID": "50ef635c-af31-4773-bbc8-d38d499da192",
+            "maxPowerKw": 10,
+            "name": "Las Vegas Convention Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

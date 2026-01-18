@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Murnau am Staffelsee",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82418",
+                "postalExt": null,
+                "state": null,
+                "street": "Ramsachstrasse 8",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.66890233,
+                "longitude": 11.19449771
+            },
+            "commonSiteName": "Alpenhof Murnau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.66890233,
+                "longitude": 11.19449771
+            },
+            "locationGUID": "f78d95e5-4e03-4c90-98cb-5ed49a6051bf",
+            "maxPowerKw": 6,
+            "name": "Alpenhof Murnau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

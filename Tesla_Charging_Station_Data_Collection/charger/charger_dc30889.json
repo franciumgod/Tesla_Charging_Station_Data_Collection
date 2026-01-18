@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97214",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SE Water St",
+                "streetNumber": "1945"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.508384,
+                "longitude": -122.664643
+            },
+            "commonSiteName": "Oregon Museum of Science & Industry",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.508384,
+                "longitude": -122.664643
+            },
+            "locationGUID": "74dcd5d0-bda4-42a9-99a4-9cf43ee3dc79",
+            "maxPowerKw": 8,
+            "name": "Oregon Museum of Science & Industry",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

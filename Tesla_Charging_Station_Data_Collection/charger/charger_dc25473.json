@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3850",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "MacAlister St",
+                "streetNumber": "90"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.109516,
+                "longitude": 147.068037
+            },
+            "commonSiteName": "The Criterion Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.109516,
+                "longitude": 147.068037
+            },
+            "locationGUID": "03831243-8a6b-469b-9382-7db072903720",
+            "maxPowerKw": 22,
+            "name": "The Criterion Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

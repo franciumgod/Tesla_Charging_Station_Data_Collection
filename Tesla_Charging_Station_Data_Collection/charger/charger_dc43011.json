@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Scott",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G0S 3G0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Drouin",
+                "streetNumber": "265"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.506793,
+                "longitude": -71.055195
+            },
+            "commonSiteName": "La Cache a Maxime",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.506793,
+                "longitude": -71.055195
+            },
+            "locationGUID": "100d540a-5e51-45b9-b2a7-3229e86a9899",
+            "maxPowerKw": 10,
+            "name": "La Cache a Maxime",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

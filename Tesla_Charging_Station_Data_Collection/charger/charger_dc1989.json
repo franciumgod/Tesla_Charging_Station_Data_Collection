@@ -1,0 +1,255 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Osoyoos",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0H 1V6",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Rancher Creek Rd",
+                "streetNumber": "1200"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.171875,
+                            0.21875,
+                            0.25,
+                            0.25,
+                            0.21875,
+                            0.171875,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.11875
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.10750000000000001,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.10750000000000001,
+                            0.11875,
+                            0.125,
+                            0.11875,
+                            0.10750000000000001,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1,
+                            0.1
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.09375,
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.171875,
+                            0.1875,
+                            0.171875,
+                            0.125,
+                            0.125,
+                            0.125,
+                            0.09375,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2025-07-20T00:00:00Z",
+                "siteId": {
+                    "id": 1989,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 7285,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "3600s"
+            },
+            "centroid": {
+                "latitude": 49.040895,
+                "longitude": -119.434408
+            },
+            "commonSiteName": "Spirit Ridge Vineyard Resort and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.040895,
+                "longitude": -119.434408
+            },
+            "locationGUID": "2269ea56-fb56-4a88-af6f-a884dbdfabe6",
+            "maxPowerKw": 10,
+            "name": "Spirit Ridge Vineyard Resort and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

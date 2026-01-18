@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garcia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66220",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Del Valle",
+                "streetNumber": "Avenida Jose Vasconcelos 150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.651353,
+                "longitude": -100.367939
+            },
+            "commonSiteName": "Plaza O2",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.651353,
+                "longitude": -100.367939
+            },
+            "locationGUID": "fd4442c2-3835-4590-8e61-5776ec3f4b81",
+            "maxPowerKw": 18,
+            "name": "Plaza O2",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

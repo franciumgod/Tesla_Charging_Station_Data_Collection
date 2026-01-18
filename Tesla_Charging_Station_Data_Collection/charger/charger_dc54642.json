@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Muenchen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "81673",
+                "postalExt": null,
+                "state": null,
+                "street": "Neumarkter Strasse",
+                "streetNumber": "85B"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.131539,
+                "longitude": 11.628208
+            },
+            "commonSiteName": "Holiday Inn Express Munich - City East",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.131539,
+                "longitude": 11.628208
+            },
+            "locationGUID": "94de0c13-c8d8-448a-8ea2-5bc93bdfc7b0",
+            "maxPowerKw": 22,
+            "name": "Holiday Inn Express Munich - City East",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

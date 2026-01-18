@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Covington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "41011",
+                "postalExt": null,
+                "state": "KY",
+                "street": "Madison Ave",
+                "streetNumber": "638"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.083658,
+                "longitude": -84.509769
+            },
+            "commonSiteName": "Hotel Covington",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.083658,
+                "longitude": -84.509769
+            },
+            "locationGUID": "a267adaf-2df0-423a-80e0-319e939def21",
+            "maxPowerKw": 8,
+            "name": "Hotel Covington",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lles de Cerdanya",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25726",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Plaza de Sant Pere",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.391831,
+                "longitude": 1.687148
+            },
+            "commonSiteName": "Hotel Mirador",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.391831,
+                "longitude": 1.687148
+            },
+            "locationGUID": "f56e11fd-8927-4c9f-86e6-d4b67a96f808",
+            "maxPowerKw": 17,
+            "name": "Hotel Mirador",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pigeon Forge",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "37863",
+                "postalExt": null,
+                "state": "TN",
+                "street": "The Island Dr",
+                "streetNumber": "130"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.802613,
+                "longitude": -83.568554
+            },
+            "commonSiteName": "Margaritaville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.802613,
+                "longitude": -83.568554
+            },
+            "locationGUID": "576ce747-6203-4a14-ab61-ad0464874be7",
+            "maxPowerKw": 16,
+            "name": "Margaritaville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

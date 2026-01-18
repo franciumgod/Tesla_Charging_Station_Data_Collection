@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Honfleur",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "14600",
+                "postalExt": null,
+                "state": null,
+                "street": "4 Rue de la Foulerie",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.41655286,
+                "longitude": 0.2309845
+            },
+            "commonSiteName": "A L'Ecole Buissonière",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.41655286,
+                "longitude": 0.2309845
+            },
+            "locationGUID": "a239ec37-6c3e-4a76-a343-4dfc6eff3f00",
+            "maxPowerKw": 11,
+            "name": "A L'Ecole Buissonière",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

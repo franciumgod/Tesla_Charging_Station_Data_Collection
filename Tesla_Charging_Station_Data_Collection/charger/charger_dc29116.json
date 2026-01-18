@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Manzanares",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "13200",
+                "postalExt": null,
+                "state": "Castilla-La Mancha",
+                "street": "Autovia de Andalucía",
+                "streetNumber": "Km 173"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.006986,
+                "longitude": -3.383824
+            },
+            "commonSiteName": "Hotel El Cruce",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.006986,
+                "longitude": -3.383824
+            },
+            "locationGUID": "5745867d-8101-4248-9b3a-709ea3c18179",
+            "maxPowerKw": 22,
+            "name": "Hotel El Cruce",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

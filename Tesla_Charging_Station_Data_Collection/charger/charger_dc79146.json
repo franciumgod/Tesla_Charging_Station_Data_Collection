@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Monza",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20900",
+                "postalExt": null,
+                "state": null,
+                "street": "Viale BRIANZA",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.601178,
+                "longitude": 9.268996
+            },
+            "commonSiteName": "SPORTING CLUB MONZA",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.601178,
+                "longitude": 9.268996
+            },
+            "locationGUID": "07077e5b-aeee-4600-a47e-9d9f9bda146e",
+            "maxPowerKw": 22,
+            "name": "Sporting club Monza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

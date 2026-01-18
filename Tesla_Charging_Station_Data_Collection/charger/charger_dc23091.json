@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Santiago",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "67301",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "El Cerrito, Las Misiones",
+                "streetNumber": "Antiguio Camino a Villa de Santiago No.300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.517896,
+                "longitude": -100.191668
+            },
+            "commonSiteName": "Las Misiones Club Campestre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.517896,
+                "longitude": -100.191668
+            },
+            "locationGUID": "8d4d3457-f49c-4cdf-97f3-146013cb482c",
+            "maxPowerKw": 8,
+            "name": "Las Misiones Club Campestre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

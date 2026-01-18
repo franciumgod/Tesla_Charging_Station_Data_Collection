@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "15301",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Racetrack Rd",
+                "streetNumber": "212"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.217788,
+                "longitude": -80.201721
+            },
+            "commonSiteName": "Hyatt Place Pittsburgh South Meadows",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.217788,
+                "longitude": -80.201721
+            },
+            "locationGUID": "cf56d89a-4383-4461-89f9-929975d98b48",
+            "maxPowerKw": 16,
+            "name": "Hyatt Place Pittsburgh South Meadows",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Central",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Hong Kong Island",
+                "street": "Garden Rd",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.2787254,
+                "longitude": 114.1606646
+            },
+            "commonSiteName": "Three Garden Road, Central",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.2787254,
+                "longitude": 114.1606646
+            },
+            "locationGUID": "16b6f5a2-8001-45bf-9c29-39e12ee49870",
+            "maxPowerKw": 7,
+            "name": "Three Garden Road, Central",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

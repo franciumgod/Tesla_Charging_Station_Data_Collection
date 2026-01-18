@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Saint-Lieux-Les-Lavaur",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "81500",
+                "postalExt": null,
+                "state": null,
+                "street": "Les Caussanels - 17 Route de St Jean",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.76234522,
+                "longitude": 1.76331589
+            },
+            "commonSiteName": "Stiletto Cabaret",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.76234522,
+                "longitude": 1.76331589
+            },
+            "locationGUID": "84ca5389-faa4-4085-bb55-d440f346b257",
+            "maxPowerKw": 22,
+            "name": "Stiletto Cabaret",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

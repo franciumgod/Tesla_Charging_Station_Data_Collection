@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Llanelli",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SA14 9UZ",
+                "postalExt": null,
+                "state": "Wales",
+                "street": "Pemberton Retail Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.67802429,
+                "longitude": -4.12707834
+            },
+            "commonSiteName": "Parc-y-Scarlets",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.67802429,
+                "longitude": -4.12707834
+            },
+            "locationGUID": "22a2ad42-5c39-40e9-895b-ac57f04b1a0a",
+            "maxPowerKw": 11,
+            "name": "Parc-y-Scarlets",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

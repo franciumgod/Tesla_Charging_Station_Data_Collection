@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cuauhtemoc",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "6600",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Juarez",
+                "streetNumber": "Paseo de la Reforma 80"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.432348,
+                "longitude": -99.154855
+            },
+            "commonSiteName": "Fiesta Americana Reforma",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.432348,
+                "longitude": -99.154855
+            },
+            "locationGUID": "82919b13-21f9-4157-b733-f7a98dcf03fc",
+            "maxPowerKw": 10,
+            "name": "Fiesta Americana Reforma",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

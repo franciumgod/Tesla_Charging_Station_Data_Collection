@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 67th St",
+                "streetNumber": "80"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.768144,
+                "longitude": -73.966736
+            },
+            "commonSiteName": "iPark 650 Parking Corp",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.768144,
+                "longitude": -73.966736
+            },
+            "locationGUID": "cb987679-5ea2-4d71-941f-187010c081b2",
+            "maxPowerKw": 10,
+            "name": "iPark 650 Parking Corp",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

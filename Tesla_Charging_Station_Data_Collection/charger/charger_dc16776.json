@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tin Can Bay",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4580",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Tin Can Bay Rd",
+                "streetNumber": "115"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -25.920908,
+                "longitude": 153.000844
+            },
+            "commonSiteName": "Sandcastle Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -25.920908,
+                "longitude": 153.000844
+            },
+            "locationGUID": "23978e32-1494-464e-bff5-eb34c7e8b6d4",
+            "maxPowerKw": 22,
+            "name": "Sandcastle Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

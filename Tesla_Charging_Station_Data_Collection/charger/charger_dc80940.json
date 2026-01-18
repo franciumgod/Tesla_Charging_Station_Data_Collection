@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "6133",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "강남구 테헤란로",
+                "streetNumber": "129"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.499893,
+                "longitude": 127.032379
+            },
+            "commonSiteName": "강남 N 타워",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.499893,
+                "longitude": 127.032379
+            },
+            "locationGUID": "11c9f7f2-ba35-40d2-9be8-a07a85ddbf51",
+            "maxPowerKw": 7,
+            "name": "Bithumb Finance Tower",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

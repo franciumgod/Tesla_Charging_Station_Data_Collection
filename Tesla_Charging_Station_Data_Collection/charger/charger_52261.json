@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lac Beauport",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "G3B 2R3",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Chemin du Tour du Lac",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.945587,
+                "longitude": -71.281891
+            },
+            "commonSiteName": "Entourage sur le Lac",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.945587,
+                "longitude": -71.281891
+            },
+            "locationGUID": "40f355f3-0a60-4878-87d7-1a51ee9e3074",
+            "maxPowerKw": 10,
+            "name": "Entourage sur le Lac",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

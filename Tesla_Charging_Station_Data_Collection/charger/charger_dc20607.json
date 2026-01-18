@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Altoona",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "50009",
+                "postalExt": null,
+                "state": "IA",
+                "street": "Prairie Meadows Dr",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.655869,
+                "longitude": -93.489669
+            },
+            "commonSiteName": "Prairie Meadows Racetrack and Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.655869,
+                "longitude": -93.489669
+            },
+            "locationGUID": "1ab02e1c-c9d6-4923-b7e5-d6e4efa44247",
+            "maxPowerKw": 16,
+            "name": "Prairie Meadows Racetrack and Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

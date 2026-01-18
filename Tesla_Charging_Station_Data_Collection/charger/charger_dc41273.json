@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kamloops",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V1S 1N5",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Rogers Wy",
+                "streetNumber": "1180"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.651584,
+                "longitude": -120.370114
+            },
+            "commonSiteName": "Wingate by Wyndham Kamloops",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.651584,
+                "longitude": -120.370114
+            },
+            "locationGUID": "7ab07196-3896-413c-a85e-267e9034c640",
+            "maxPowerKw": 16,
+            "name": "Wingate by Wyndham Kamloops",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

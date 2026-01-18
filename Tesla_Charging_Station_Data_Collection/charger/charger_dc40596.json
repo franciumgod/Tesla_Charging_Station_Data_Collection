@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Dallas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "75248",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Lyndon B  Johnson Fwy",
+                "streetNumber": "4801"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.926961,
+                "longitude": -96.824545
+            },
+            "commonSiteName": "Sheraton Dallas Galleria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.926961,
+                "longitude": -96.824545
+            },
+            "locationGUID": "b54bdf5c-16f2-4ba6-acaf-c05814f290cf",
+            "maxPowerKw": 16,
+            "name": "Sheraton Dallas Galleria",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cotai",
+                "country": "Macau",
+                "countryCode": "MO",
+                "district": null,
+                "navRegion": "mo",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Macau",
+                "street": "Estrada do Istmo Macau",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.1409493,
+                "longitude": 113.5626983
+            },
+            "commonSiteName": "Studio City Macau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.1409493,
+                "longitude": 113.5626983
+            },
+            "locationGUID": "d661cf8c-c60c-4a80-ac5d-1284b9cfa002",
+            "maxPowerKw": 21,
+            "name": "Studio City Macau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Macau"
+        },
+        "success": true
+    }
+}

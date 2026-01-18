@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chelan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98816",
+                "postalExt": null,
+                "state": "WA",
+                "street": "S Lakeshore Dr",
+                "streetNumber": "565"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.842476,
+                "longitude": -120.098099
+            },
+            "commonSiteName": "Fielding Hills Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.842476,
+                "longitude": -120.098099
+            },
+            "locationGUID": "c60bff75-f781-438a-88b7-c618ee0ae240",
+            "maxPowerKw": 10,
+            "name": "Fielding Hills Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

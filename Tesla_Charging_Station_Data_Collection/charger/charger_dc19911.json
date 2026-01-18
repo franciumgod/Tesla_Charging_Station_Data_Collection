@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Baileys Harbor",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54202",
+                "postalExt": null,
+                "state": "WI",
+                "street": "Pine Dr",
+                "streetNumber": "1420"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.123335,
+                "longitude": -87.058702
+            },
+            "commonSiteName": "Gordon Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.123335,
+                "longitude": -87.058702
+            },
+            "locationGUID": "95e41214-b8d3-4389-9712-47cc179f27ed",
+            "maxPowerKw": 16,
+            "name": "Gordon Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hakone",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "250",
+                "postalExt": "0408",
+                "state": "Kanagawa",
+                "street": "Gora",
+                "streetNumber": "1300"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.248399,
+                "longitude": 139.048509
+            },
+            "commonSiteName": "強羅花壇",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.248399,
+                "longitude": 139.048509
+            },
+            "locationGUID": "bbad32d8-0644-4ad1-8a31-ed5ac7799cb2",
+            "maxPowerKw": 8,
+            "name": "Gora Kadan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

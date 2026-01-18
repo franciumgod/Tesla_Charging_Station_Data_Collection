@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Woodstock",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05091",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Pleasant St",
+                "streetNumber": "56"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.627036,
+                "longitude": -72.509767
+            },
+            "commonSiteName": "Woodstock Park and Ride",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.627036,
+                "longitude": -72.509767
+            },
+            "locationGUID": "64d63727-a635-4770-b9a2-853744b8df4b",
+            "maxPowerKw": 16,
+            "name": "Woodstock Park and Ride",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

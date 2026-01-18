@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Heric",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "44810",
+                "postalExt": null,
+                "state": null,
+                "street": "La Croix Blanche",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.421257,
+                "longitude": -1.639196
+            },
+            "commonSiteName": "Logis L'Abreuvoir Hôtel Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.421257,
+                "longitude": -1.639196
+            },
+            "locationGUID": "15105eec-5c2a-4540-b784-0105e79bfccb",
+            "maxPowerKw": 11,
+            "name": "Logis L'Abreuvoir Hôtel Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wigan",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "WN5 0LX",
+                "postalExt": null,
+                "state": "Greater Manchester",
+                "street": "Martland Mill, Martland Mill Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.55451595,
+                "longitude": -2.66737438
+            },
+            "commonSiteName": "Holiday Inn Express Wigan",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.55451595,
+                "longitude": -2.66737438
+            },
+            "locationGUID": "eb374ee1-6308-479a-b82a-51961ed1305c",
+            "maxPowerKw": 13,
+            "name": "Holiday Inn Express Wigan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

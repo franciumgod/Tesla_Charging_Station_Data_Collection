@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Downtown",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "99440",
+                "postalExt": null,
+                "state": "Dubai",
+                "street": "The Address Boulevard",
+                "streetNumber": "Sheikh Mohammed Bin Rashed Boulevard"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.200881,
+                "longitude": 55.276203
+            },
+            "commonSiteName": "The Address Boulevard",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.200881,
+                "longitude": 55.276203
+            },
+            "locationGUID": "a4ec1c80-3dfb-4aa4-85d8-e55a60e421d8",
+            "maxPowerKw": 11,
+            "name": "Kempinski The Boulevard Dubai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

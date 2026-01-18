@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Luis Potosi",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78216",
+                "postalExt": null,
+                "state": "SLP",
+                "street": "Lomas 4ta Secc",
+                "streetNumber": "Real de Lomas 1015"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.138238,
+                "longitude": -101.030344
+            },
+            "commonSiteName": "Conrad San Luis Potosi",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.138238,
+                "longitude": -101.030344
+            },
+            "locationGUID": "0adeb69e-142b-460f-9236-84b25d37d64e",
+            "maxPowerKw": 18,
+            "name": "Conrad San Luis Potosi",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

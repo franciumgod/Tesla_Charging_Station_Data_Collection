@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28223",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Av. de Monteclaro",
+                "streetNumber": "515"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.442883,
+                "longitude": -3.845569
+            },
+            "commonSiteName": "Centro Comercial Monteclaro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.442883,
+                "longitude": -3.845569
+            },
+            "locationGUID": "66920ef0-5b70-4bc2-9f7c-c05e2655cb6a",
+            "maxPowerKw": 13,
+            "name": "Centro Comercial Monteclaro",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

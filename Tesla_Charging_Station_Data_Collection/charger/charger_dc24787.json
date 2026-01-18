@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Altomonte",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "87042",
+                "postalExt": null,
+                "state": null,
+                "street": "C.da Serragiumenta",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.708321,
+                "longitude": 16.224474
+            },
+            "commonSiteName": "Castello di Serragiumenta",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.708321,
+                "longitude": 16.224474
+            },
+            "locationGUID": "8a577c4b-3f6b-47de-b7d2-d18650eb564c",
+            "maxPowerKw": 11,
+            "name": "Castello di Serragiumenta",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

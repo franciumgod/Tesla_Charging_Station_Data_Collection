@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Torrevieja",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3184",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Avenida Rosa Mazon Valero",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.99016479,
+                "longitude": -0.68603638
+            },
+            "commonSiteName": "Centro Comercial Habaneras",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.99016479,
+                "longitude": -0.68603638
+            },
+            "locationGUID": "79e872bd-aaae-4966-844b-69114464d0b3",
+            "maxPowerKw": 17,
+            "name": "Centro Comercial Habaneras",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

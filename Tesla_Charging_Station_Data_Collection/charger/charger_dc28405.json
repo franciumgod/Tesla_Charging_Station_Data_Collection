@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Glendale",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2285",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Lake Rd",
+                "streetNumber": "387"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.931744,
+                "longitude": 151.63967
+            },
+            "commonSiteName": "Stockland Glendale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.931744,
+                "longitude": 151.63967
+            },
+            "locationGUID": "dd67e1d4-cede-45da-80d8-9b2021d7a689",
+            "maxPowerKw": 22,
+            "name": "Stockland Glendale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

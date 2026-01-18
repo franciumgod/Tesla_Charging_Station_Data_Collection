@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coral Gables",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33134",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Alhambra Plaza",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.752037,
+                "longitude": -80.255731
+            },
+            "commonSiteName": "Hyatt Regency Coral Gables Miami",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.752037,
+                "longitude": -80.255731
+            },
+            "locationGUID": "f4858909-788c-4496-aa88-6608e2cf88d7",
+            "maxPowerKw": 16,
+            "name": "Hyatt Regency Coral Gables Miami",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11570",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Chapultepec Morales",
+                "streetNumber": "Hegel 345"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.431708,
+                "longitude": -99.188316
+            },
+            "commonSiteName": "Sanborn's Masaryk",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.431708,
+                "longitude": -99.188316
+            },
+            "locationGUID": "4a9f52a7-d9c8-48ac-a8a8-129fe5f62055",
+            "maxPowerKw": 18,
+            "name": "Sanborn's Masaryk",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

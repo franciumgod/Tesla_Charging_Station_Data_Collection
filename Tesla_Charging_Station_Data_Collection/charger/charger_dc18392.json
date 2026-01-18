@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Firenze",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "50124",
+                "postalExt": null,
+                "state": "Toscana",
+                "street": "Via Pisana",
+                "streetNumber": "59"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.77092094,
+                "longitude": 11.23444308
+            },
+            "commonSiteName": "UNA Hotel Vittoria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.77092094,
+                "longitude": 11.23444308
+            },
+            "locationGUID": "b9a2dced-83f4-4ebb-8cf4-61d753435ecb",
+            "maxPowerKw": 22,
+            "name": "UNA Hotel Vittoria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

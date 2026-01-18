@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10036",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 43rd St",
+                "streetNumber": "670"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.762189,
+                "longitude": -73.999714
+            },
+            "commonSiteName": "Parkright 670 W 43rd Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.762189,
+                "longitude": -73.999714
+            },
+            "locationGUID": "4f56ad67-f5a5-4b54-a155-8365055e7ae2",
+            "maxPowerKw": 8,
+            "name": "Parkright 670 W 43rd Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

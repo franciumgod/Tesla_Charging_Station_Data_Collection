@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Sneem",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Goldens Cove",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.833795,
+                "longitude": -9.898579
+            },
+            "commonSiteName": "Sneem Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.833795,
+                "longitude": -9.898579
+            },
+            "locationGUID": "87f85001-aa72-4c13-8435-8f8dc6828d0d",
+            "maxPowerKw": 7,
+            "name": "Sneem Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

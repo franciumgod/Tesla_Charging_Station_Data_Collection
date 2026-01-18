@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Koetzting",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "93444",
+                "postalExt": null,
+                "state": null,
+                "street": "Zeltendorfer Weg",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.177683,
+                "longitude": 12.853881
+            },
+            "commonSiteName": "Hotel Amberger Hof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.177683,
+                "longitude": 12.853881
+            },
+            "locationGUID": "5cd8507d-6b76-4767-b2c7-53e7b615aa7c",
+            "maxPowerKw": 11,
+            "name": "Hotel Amberger Hof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

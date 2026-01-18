@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H3C 5L2",
+                "postalExt": null,
+                "state": "QC",
+                "street": "avenue des Canadiens-de-Montreal",
+                "streetNumber": "1909"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.49603,
+                "longitude": -73.569478
+            },
+            "commonSiteName": "Centre Bell",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.49603,
+                "longitude": -73.569478
+            },
+            "locationGUID": "782ab618-aba4-416c-8e58-7c380446ab60",
+            "maxPowerKw": 10,
+            "name": "Centre Bell",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

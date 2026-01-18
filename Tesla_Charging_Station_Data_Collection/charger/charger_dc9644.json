@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salamanca",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37001",
+                "postalExt": null,
+                "state": "Castilla y León",
+                "street": "Arroyo de Santo Domingo",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.959663,
+                "longitude": -5.663082
+            },
+            "commonSiteName": "Hospes Palacio San Esteban",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.959663,
+                "longitude": -5.663082
+            },
+            "locationGUID": "43d19e8f-76b7-4d45-83e0-c5f45e7887d2",
+            "maxPowerKw": 22,
+            "name": "Hospes Palacio San Esteban",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

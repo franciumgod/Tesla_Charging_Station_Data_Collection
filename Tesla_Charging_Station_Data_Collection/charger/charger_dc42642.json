@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Boulder",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80302",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Canyon Blvd",
+                "streetNumber": "2701"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.017573,
+                "longitude": -105.259635
+            },
+            "commonSiteName": "Hilton Garden Inn Boulder",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.017573,
+                "longitude": -105.259635
+            },
+            "locationGUID": "5c7f4d24-36d8-4b90-9f63-78d725e0c269",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Boulder",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 8,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

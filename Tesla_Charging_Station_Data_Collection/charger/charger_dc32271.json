@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cuernavaca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "62448",
+                "postalExt": null,
+                "state": "MOR",
+                "street": "Colonia Cantarranas",
+                "streetNumber": "Av. Gustavo Diaz Ordaz, 9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 18.91875467,
+                "longitude": -99.21839733
+            },
+            "commonSiteName": "Hosteria las Quintas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 18.91875467,
+                "longitude": -99.21839733
+            },
+            "locationGUID": "090fc738-f60e-4621-a00b-d4cf727ae897",
+            "maxPowerKw": 18,
+            "name": "Hosteria las Quintas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45659",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Km 17.5",
+                "streetNumber": "Carr. Guadalajara Chapala"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.52691718,
+                "longitude": -103.30043829
+            },
+            "commonSiteName": "Aeropuerto Guadalajara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.52691718,
+                "longitude": -103.30043829
+            },
+            "locationGUID": "b67f244c-0e67-4d0e-b17b-7a288ff4577b",
+            "maxPowerKw": 18,
+            "name": "Aeropuerto Guadalajara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

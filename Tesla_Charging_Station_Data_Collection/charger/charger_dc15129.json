@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leutasch",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6105",
+                "postalExt": null,
+                "state": null,
+                "street": "Weidach",
+                "streetNumber": "305"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.369319,
+                "longitude": 11.162628
+            },
+            "commonSiteName": "Biohotel Leutascherhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.369319,
+                "longitude": 11.162628
+            },
+            "locationGUID": "2bed8d00-840b-4f6e-b779-5507ea99614f",
+            "maxPowerKw": 11,
+            "name": "Biohotel Leutascherhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

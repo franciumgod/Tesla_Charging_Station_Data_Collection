@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Galway",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Killeencastlegar",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.313477,
+                "longitude": -8.985946
+            },
+            "commonSiteName": "McHugh's Pub and Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.313477,
+                "longitude": -8.985946
+            },
+            "locationGUID": "ffac0363-80a2-49a8-b347-e9a09ec86cf9",
+            "maxPowerKw": 6,
+            "name": "McHugh's Pub and Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

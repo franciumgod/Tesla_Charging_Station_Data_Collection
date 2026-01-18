@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mittagong",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2575",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Ferguson Crescent",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.447058,
+                "longitude": 150.46102
+            },
+            "commonSiteName": "The Fitzroy Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.447058,
+                "longitude": 150.46102
+            },
+            "locationGUID": "3849b805-1793-4537-a38d-5a657edf071d",
+            "maxPowerKw": 22,
+            "name": "The Fitzroy Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

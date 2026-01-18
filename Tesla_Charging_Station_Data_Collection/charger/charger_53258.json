@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nashville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "37203",
+                "postalExt": null,
+                "state": "TN",
+                "street": "W End Ave",
+                "streetNumber": "1808"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.152586,
+                "longitude": -86.797059
+            },
+            "commonSiteName": "Hutton Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.152586,
+                "longitude": -86.797059
+            },
+            "locationGUID": "ce4aba68-52f1-4750-aec8-ba9a61b5d5f3",
+            "maxPowerKw": 0,
+            "name": "Hutton Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

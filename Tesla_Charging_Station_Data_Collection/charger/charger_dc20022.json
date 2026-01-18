@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hestra",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "330 27",
+                "postalExt": null,
+                "state": null,
+                "street": "Hestraviken",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.418979,
+                "longitude": 13.627295
+            },
+            "commonSiteName": "Hestraviken Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.418979,
+                "longitude": 13.627295
+            },
+            "locationGUID": "7e64703f-661b-474c-b329-2083254109e3",
+            "maxPowerKw": 17,
+            "name": "Hestraviken Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Urayasu",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "279",
+                "postalExt": "0031",
+                "state": "Chiba",
+                "street": "Maihama",
+                "streetNumber": "1-8"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.627193,
+                "longitude": 139.874327
+            },
+            "commonSiteName": "ヒルトン東京ベイ",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.627193,
+                "longitude": 139.874327
+            },
+            "locationGUID": "50d6867d-84b4-41fe-97a2-284c35181ff0",
+            "maxPowerKw": 16,
+            "name": "Hilton Tokyo Bay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

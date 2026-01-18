@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miguel Hidalgo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11550",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Polanco",
+                "streetNumber": "Presidente Masaryk 311"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.431843,
+                "longitude": -99.193952
+            },
+            "commonSiteName": "Cipriani Polanco",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.431843,
+                "longitude": -99.193952
+            },
+            "locationGUID": "7dd6ea86-6a0e-47f2-9ab1-46d6c039dab3",
+            "maxPowerKw": 13,
+            "name": "Cipriani Polanco",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

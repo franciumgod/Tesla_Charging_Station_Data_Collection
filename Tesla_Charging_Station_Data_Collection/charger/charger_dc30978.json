@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98105",
+                "postalExt": null,
+                "state": "WA",
+                "street": "NE 45th St",
+                "streetNumber": "324"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.661523,
+                "longitude": -122.324913
+            },
+            "commonSiteName": "Bedrooms & More",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.661523,
+                "longitude": -122.324913
+            },
+            "locationGUID": "5482bf51-af62-44c9-972c-54fc7b864e5e",
+            "maxPowerKw": 6,
+            "name": "Bedrooms & More",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grindelwald",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3818",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse 85",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.624546,
+                "longitude": 8.034113
+            },
+            "commonSiteName": "Hotel Kreuz & Post",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.624546,
+                "longitude": 8.034113
+            },
+            "locationGUID": "7c104420-a233-4a86-b042-550519ef4f85",
+            "maxPowerKw": 11,
+            "name": "Hotel Kreuz & Post",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

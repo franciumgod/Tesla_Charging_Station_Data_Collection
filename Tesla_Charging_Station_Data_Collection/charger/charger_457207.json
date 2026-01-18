@@ -1,0 +1,161 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "16:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Galveston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Galveston County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77554",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Harborside Dr",
+                "streetNumber": "7707"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.2914055,
+                "longitude": -94.8606911
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 29.2914055,
+                "longitude": -94.8606911
+            },
+            "locationGUID": "0b649061-302a-4a20-ac03-f678d1bbbd14",
+            "maxPowerKw": 0,
+            "name": "7707 Parking",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 13,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

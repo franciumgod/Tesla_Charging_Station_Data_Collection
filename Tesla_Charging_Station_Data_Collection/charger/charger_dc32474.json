@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ardmore",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Middle Road",
+                "streetNumber": "Cliff House Hotel"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.948542,
+                "longitude": -7.714601
+            },
+            "commonSiteName": "Cliff House Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.948542,
+                "longitude": -7.714601
+            },
+            "locationGUID": "f3aeb2b5-6d2c-4d0c-b22f-fba1cc424277",
+            "maxPowerKw": 22,
+            "name": "Cliff House Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

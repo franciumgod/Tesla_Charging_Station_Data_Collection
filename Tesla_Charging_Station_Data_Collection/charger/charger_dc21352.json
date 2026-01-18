@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wien",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1070",
+                "postalExt": null,
+                "state": null,
+                "street": "Neubaugürtel",
+                "streetNumber": "26-28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.19989355,
+                "longitude": 16.33916132
+            },
+            "commonSiteName": "Fleming's Conference Hotel Wien",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.19989355,
+                "longitude": 16.33916132
+            },
+            "locationGUID": "13b46fb8-7ee6-40bf-af48-9e450195ff08",
+            "maxPowerKw": 17,
+            "name": "Fleming's Conference Hotel Wien",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

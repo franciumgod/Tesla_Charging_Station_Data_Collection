@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Des Plaines",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60018",
+                "postalExt": null,
+                "state": "IL",
+                "street": "Touhy Ave",
+                "streetNumber": "1450"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.0103814,
+                "longitude": -87.887338
+            },
+            "commonSiteName": "Wyndham Chicago O'Hare",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.0103814,
+                "longitude": -87.887338
+            },
+            "locationGUID": "fea28b98-2f6e-408e-bb7d-f88a8364c637",
+            "maxPowerKw": 12,
+            "name": "Wyndham Chicago O'Hare",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

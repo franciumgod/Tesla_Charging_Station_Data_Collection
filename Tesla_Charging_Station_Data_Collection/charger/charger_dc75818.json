@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Agatha",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4084",
+                "postalExt": null,
+                "state": null,
+                "street": "Stefan-Fadinger-Strasse",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.384486,
+                "longitude": 13.875233
+            },
+            "commonSiteName": "Revita Hotel Kocher",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.384486,
+                "longitude": 13.875233
+            },
+            "locationGUID": "64949134-415c-4740-9891-c5543d76f0ec",
+            "maxPowerKw": 17,
+            "name": "Revita Hotel Kocher",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

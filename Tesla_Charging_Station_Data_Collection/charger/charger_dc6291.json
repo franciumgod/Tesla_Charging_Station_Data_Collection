@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10075",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 79th St",
+                "streetNumber": "50"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.776006,
+                "longitude": -73.961627
+            },
+            "commonSiteName": "GGMC Parking 50 E 79th St Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.776006,
+                "longitude": -73.961627
+            },
+            "locationGUID": "5bc65cbf-96b7-42cc-a0ee-5f5977869916",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking 50 E 79th St Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

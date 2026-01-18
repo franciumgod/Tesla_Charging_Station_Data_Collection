@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Thun",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3602",
+                "postalExt": null,
+                "state": null,
+                "street": "Seestraße",
+                "streetNumber": "47"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.74499725,
+                "longitude": 7.63359262
+            },
+            "commonSiteName": "Congress Hotel Seepark",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.74499725,
+                "longitude": 7.63359262
+            },
+            "locationGUID": "a7edea65-d2d7-41e6-bedb-77fc2ec01e5a",
+            "maxPowerKw": 22,
+            "name": "Congress Hotel Seepark",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

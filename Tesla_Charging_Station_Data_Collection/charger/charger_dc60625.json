@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kasperske Hory",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "34192",
+                "postalExt": null,
+                "state": null,
+                "street": "Namesti",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.144213,
+                "longitude": 13.555013
+            },
+            "commonSiteName": "Hotel Kasperk",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.144213,
+                "longitude": 13.555013
+            },
+            "locationGUID": "e690cb27-87fd-4dfe-b73f-83441efb208f",
+            "maxPowerKw": 14,
+            "name": "Hotel Kasperk",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

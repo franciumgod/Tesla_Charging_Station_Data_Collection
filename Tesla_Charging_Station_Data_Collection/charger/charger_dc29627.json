@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Obergurgl",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6456",
+                "postalExt": null,
+                "state": null,
+                "street": "Gurglerstrasse",
+                "streetNumber": "87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.884626,
+                "longitude": 11.037467
+            },
+            "commonSiteName": "Muehle Resort 1900",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.884626,
+                "longitude": 11.037467
+            },
+            "locationGUID": "841f2707-22d5-4559-97a6-adfd359df5f5",
+            "maxPowerKw": 22,
+            "name": "Muehle Resort 1900",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

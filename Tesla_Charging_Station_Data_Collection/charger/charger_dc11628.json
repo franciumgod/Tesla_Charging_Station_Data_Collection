@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cornwall",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TR8 4AA",
+                "postalExt": null,
+                "state": null,
+                "street": "On The Beach",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.44546392,
+                "longitude": -5.04007617
+            },
+            "commonSiteName": "Watergate Bay Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.44546392,
+                "longitude": -5.04007617
+            },
+            "locationGUID": "64269209-fa4e-4049-a95f-0ff4a692e49d",
+            "maxPowerKw": 22,
+            "name": "Watergate Bay Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

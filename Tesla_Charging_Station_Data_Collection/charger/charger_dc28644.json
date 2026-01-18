@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "東區",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "300",
+                "postalExt": null,
+                "state": "Hsinchu City",
+                "street": "西大路",
+                "streetNumber": "323號 B3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.801878,
+                "longitude": 120.964298
+            },
+            "commonSiteName": "新竹大遠百",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.801878,
+                "longitude": 120.964298
+            },
+            "locationGUID": "994f2163-917b-4ef8-9c99-5c49de955c27",
+            "maxPowerKw": 9,
+            "name": "FE21' Hsinchu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

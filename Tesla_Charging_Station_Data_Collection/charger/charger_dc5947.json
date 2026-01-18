@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phoenix",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85054",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E High St",
+                "streetNumber": "5415"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.675874,
+                "longitude": -111.967054
+            },
+            "commonSiteName": "High Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.675874,
+                "longitude": -111.967054
+            },
+            "locationGUID": "f371c822-d338-4133-a227-4eab2a7c3e4b",
+            "maxPowerKw": 8,
+            "name": "High Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

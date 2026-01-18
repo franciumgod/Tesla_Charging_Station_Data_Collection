@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Uki",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2484",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Bonnydoon Rd",
+                "streetNumber": "128"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -28.40455233,
+                "longitude": 153.35166133
+            },
+            "commonSiteName": "Gymea Eco Retreat & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -28.40455233,
+                "longitude": 153.35166133
+            },
+            "locationGUID": "8f405ab5-e4c1-498e-9697-1f095f4081b6",
+            "maxPowerKw": 22,
+            "name": "Gymea Eco Retreat & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

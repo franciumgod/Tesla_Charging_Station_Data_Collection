@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Breitenbrunn",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8359",
+                "postalExt": null,
+                "state": null,
+                "street": "Karlsbader Strasse",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.479823,
+                "longitude": 12.791746
+            },
+            "commonSiteName": "Landhotel Rittersgrun",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.479823,
+                "longitude": 12.791746
+            },
+            "locationGUID": "e2373de8-8690-4d26-ba92-b7ebc51c7b0b",
+            "maxPowerKw": 11,
+            "name": "Landhotel Rittersgrun",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

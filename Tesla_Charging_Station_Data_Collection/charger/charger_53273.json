@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterey",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93940",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Old Golf Course Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.592387,
+                "longitude": -121.876274
+            },
+            "commonSiteName": "Hyatt Regency Monterey Hotel and Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.592387,
+                "longitude": -121.876274
+            },
+            "locationGUID": "1aaa2f01-cf63-4757-8052-22d529a1ac4c",
+            "maxPowerKw": 8,
+            "name": "Hyatt Regency Monterey Hotel and Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

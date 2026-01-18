@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cuauhtemoc",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "6500",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "483",
+                "streetNumber": "Paseo de La Reforma"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.424493,
+                "longitude": -99.174288
+            },
+            "commonSiteName": "Torre Reforma",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.424493,
+                "longitude": -99.174288
+            },
+            "locationGUID": "e044abef-9736-40ab-98b0-90f5517ce3d0",
+            "maxPowerKw": 16,
+            "name": "Torre Reforma",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

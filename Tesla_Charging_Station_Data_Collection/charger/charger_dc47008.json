@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rzyki",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "34-125",
+                "postalExt": null,
+                "state": null,
+                "street": "Osiedle Praciaki",
+                "streetNumber": "91"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.79425115,
+                "longitude": 19.38781354
+            },
+            "commonSiteName": "Hotel & SPA Czarny Gron",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.79425115,
+                "longitude": 19.38781354
+            },
+            "locationGUID": "f5448918-556c-4dc3-9621-3571918a3e5a",
+            "maxPowerKw": 22,
+            "name": "Hotel & SPA Czarny Gron",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

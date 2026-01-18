@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Emmen",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6032",
+                "postalExt": null,
+                "state": "Luzern",
+                "street": "Feldmastrasse",
+                "streetNumber": "1-3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.10942,
+                "longitude": 8.321079
+            },
+            "commonSiteName": "Motel Brueggli",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.10942,
+                "longitude": 8.321079
+            },
+            "locationGUID": "5eec277b-fd8d-4d18-9b1d-2a92e098846c",
+            "maxPowerKw": 17,
+            "name": "Motel Brueggli",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

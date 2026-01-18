@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Augusta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30901",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Broad St",
+                "streetNumber": "444"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.472116,
+                "longitude": -81.958171
+            },
+            "commonSiteName": "Holiday Inn Express Augusta Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.472116,
+                "longitude": -81.958171
+            },
+            "locationGUID": "3b85fc32-808c-40c5-9cab-99420c433ae1",
+            "maxPowerKw": 8,
+            "name": "Holiday Inn Express Augusta Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

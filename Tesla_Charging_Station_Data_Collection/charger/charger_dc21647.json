@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Richmond",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23233",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Broad St",
+                "streetNumber": "12042"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.659337,
+                "longitude": -77.628263
+            },
+            "commonSiteName": "Hilton Richmond Hotel & Spa/Short Pump",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.659337,
+                "longitude": -77.628263
+            },
+            "locationGUID": "38e91c47-7fe8-45d2-b05a-b7c9ab213cc7",
+            "maxPowerKw": 8,
+            "name": "Hilton Richmond Hotel & Spa/Short Pump",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Somerford Keynes",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "GL7 6BG",
+                "postalExt": null,
+                "state": null,
+                "street": "Mill Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.64795141,
+                "longitude": -1.97152934
+            },
+            "commonSiteName": "Lower Mill Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.64795141,
+                "longitude": -1.97152934
+            },
+            "locationGUID": "6360e274-39e9-4204-a787-d5bb3cbd1d21",
+            "maxPowerKw": 13,
+            "name": "Lower Mill Estate",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

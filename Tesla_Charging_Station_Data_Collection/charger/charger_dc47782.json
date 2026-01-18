@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hauteluce",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73620",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue des Prés",
+                "streetNumber": "97"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.757375,
+                "longitude": 6.54436
+            },
+            "commonSiteName": "Village Les Armaillis",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.757375,
+                "longitude": 6.54436
+            },
+            "locationGUID": "773ca912-633f-425e-8390-82f2d1cef9c8",
+            "maxPowerKw": 14,
+            "name": "Village Les Armaillis",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

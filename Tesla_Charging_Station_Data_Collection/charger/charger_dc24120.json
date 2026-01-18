@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "台中市",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "407",
+                "postalExt": null,
+                "state": "Taichung",
+                "street": "西屯區台灣大道三段",
+                "streetNumber": "301號"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.165252,
+                "longitude": 120.643713
+            },
+            "commonSiteName": "新光三越台中中港店",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.165252,
+                "longitude": 120.643713
+            },
+            "locationGUID": "f1c292a2-ad13-4715-bc25-d96d92921b1e",
+            "maxPowerKw": 8,
+            "name": "SKM Taichung Zhonggang",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

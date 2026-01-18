@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cumbria",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CA19 1TD",
+                "postalExt": null,
+                "state": "Cumbria",
+                "street": "Eskdale",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.390547,
+                "longitude": -3.33964
+            },
+            "commonSiteName": "Bower House Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.390547,
+                "longitude": -3.33964
+            },
+            "locationGUID": "e0aa8838-9c87-4dd7-aff0-0db08c9c5f37",
+            "maxPowerKw": 13,
+            "name": "Bower House Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

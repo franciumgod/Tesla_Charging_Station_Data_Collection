@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hasbergen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "49205",
+                "postalExt": null,
+                "state": "Niedersachsen",
+                "street": "Rheiner Landstraße",
+                "streetNumber": "1a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.266109,
+                "longitude": 7.965902
+            },
+            "commonSiteName": "Taste Kitchen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.266109,
+                "longitude": 7.965902
+            },
+            "locationGUID": "f07903ab-3788-4e0e-b7ee-8816eaaf40c9",
+            "maxPowerKw": 22,
+            "name": "Taste Kitchen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

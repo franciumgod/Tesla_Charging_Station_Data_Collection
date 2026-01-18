@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berkeley",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94704",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Durant Ave",
+                "streetNumber": "2600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.867942,
+                "longitude": -122.256305
+            },
+            "commonSiteName": "Graduate Berkeley",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.867942,
+                "longitude": -122.256305
+            },
+            "locationGUID": "e17aa4f7-a688-4024-9d7d-c2b8c31ceea1",
+            "maxPowerKw": 10,
+            "name": "Graduate Berkeley",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

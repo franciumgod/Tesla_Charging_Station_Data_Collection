@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30326",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Peachtree Rd",
+                "streetNumber": "3315"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.845377,
+                "longitude": -84.368627
+            },
+            "commonSiteName": "InterContinental Buckhead Atlanta",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.845377,
+                "longitude": -84.368627
+            },
+            "locationGUID": "85459d05-0c57-4079-b667-19e671807f1c",
+            "maxPowerKw": 16,
+            "name": "InterContinental Buckhead Atlanta",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

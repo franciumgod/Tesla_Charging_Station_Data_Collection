@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melksham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SN12 7PU",
+                "postalExt": null,
+                "state": null,
+                "street": "Beanacre",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.3898077,
+                "longitude": -2.13944886
+            },
+            "commonSiteName": "Beechfield House Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.3898077,
+                "longitude": -2.13944886
+            },
+            "locationGUID": "c93e16b3-e5af-467b-817a-d435918a5961",
+            "maxPowerKw": 11,
+            "name": "Beechfield House Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

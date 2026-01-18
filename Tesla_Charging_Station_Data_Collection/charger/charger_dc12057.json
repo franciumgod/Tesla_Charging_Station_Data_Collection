@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mission Viejo",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92692",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Los Alisos Blvd",
+                "streetNumber": "28951"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.65447,
+                "longitude": -117.626781
+            },
+            "commonSiteName": "Ayres Hotel & Spa - Mission Viejo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.65447,
+                "longitude": -117.626781
+            },
+            "locationGUID": "d10c51cd-642e-4541-854a-7fa86e477581",
+            "maxPowerKw": 16,
+            "name": "Ayres Hotel & Spa - Mission Viejo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

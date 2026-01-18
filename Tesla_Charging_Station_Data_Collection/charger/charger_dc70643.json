@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Amman",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Taha Hussein Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.951953,
+                "longitude": 35.920235
+            },
+            "commonSiteName": "Fakhreldin Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.951953,
+                "longitude": 35.920235
+            },
+            "locationGUID": "987c4fec-79ca-4fee-94d4-ebd671ede604",
+            "maxPowerKw": 11,
+            "name": "Fakhreldin Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dresden",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1067",
+                "postalExt": null,
+                "state": null,
+                "street": "Salzgasse",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.051848,
+                "longitude": 13.743153
+            },
+            "commonSiteName": "INNSIDE by Melia Dresden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.051848,
+                "longitude": 13.743153
+            },
+            "locationGUID": "a3e243be-6bef-40f4-8164-7a27ec4949ac",
+            "maxPowerKw": 22,
+            "name": "INNSIDE by Melia Dresden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

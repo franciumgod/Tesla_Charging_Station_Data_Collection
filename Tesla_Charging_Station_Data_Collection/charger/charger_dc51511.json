@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "St. Catharines",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L2T 3Y6",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Glendale Ave",
+                "streetNumber": "210"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.132218,
+                "longitude": -79.226305
+            },
+            "commonSiteName": "Pendale Plaza",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.132218,
+                "longitude": -79.226305
+            },
+            "locationGUID": "1abdb1ae-5fde-4288-bfbf-2c2d003093eb",
+            "maxPowerKw": 16,
+            "name": "Pendale Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

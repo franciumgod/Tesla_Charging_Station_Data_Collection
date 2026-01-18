@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roanoke",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "46783",
+                "postalExt": null,
+                "state": "IN",
+                "street": "N Main St",
+                "streetNumber": "191"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.961898,
+                "longitude": -85.373626
+            },
+            "commonSiteName": "Joseph Decuis Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.961898,
+                "longitude": -85.373626
+            },
+            "locationGUID": "7cf01f88-fe7e-4ded-9b92-3f7e3df77c0f",
+            "maxPowerKw": 13,
+            "name": "Joseph Decuis Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Indiana/Tell_City"
+        },
+        "success": true
+    }
+}

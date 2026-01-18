@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sola",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4050",
+                "postalExt": null,
+                "state": "Rogaland",
+                "street": "Axel Lunds veg",
+                "streetNumber": "27"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.885452,
+                "longitude": 5.604788
+            },
+            "commonSiteName": "Sola Strand Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.885452,
+                "longitude": 5.604788
+            },
+            "locationGUID": "6f4ef9df-e595-42a7-b297-150cc1971f72",
+            "maxPowerKw": 6,
+            "name": "Sola Strand Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Méribel-les-Allues",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73550",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de la Montée",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.394101,
+                "longitude": 6.567386
+            },
+            "commonSiteName": "Hotel Le Kaïla",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.394101,
+                "longitude": 6.567386
+            },
+            "locationGUID": "c5ed169c-fa19-4763-98f8-8b42a2af2bae",
+            "maxPowerKw": 14,
+            "name": "Hotel Le Kaïla",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

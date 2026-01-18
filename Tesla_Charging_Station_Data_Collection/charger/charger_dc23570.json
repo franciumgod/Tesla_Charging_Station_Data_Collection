@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aschaffenburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "63739",
+                "postalExt": null,
+                "state": null,
+                "street": "Loherstrasse",
+                "streetNumber": "51"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.97150267,
+                "longitude": 9.14379333
+            },
+            "commonSiteName": "Hotel Wilder Mann",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.97150267,
+                "longitude": 9.14379333
+            },
+            "locationGUID": "41846ccc-3496-4407-a35d-7a126e506152",
+            "maxPowerKw": 11,
+            "name": "Hotel Wilder Mann",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

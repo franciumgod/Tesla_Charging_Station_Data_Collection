@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rock Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "82901",
+                "postalExt": null,
+                "state": "WY",
+                "street": "Elk St",
+                "streetNumber": "1630"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.612227,
+                "longitude": -109.229994
+            },
+            "commonSiteName": "Outlaw Inn & Open Range Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.612227,
+                "longitude": -109.229994
+            },
+            "locationGUID": "c6024ecf-6f26-4803-8e43-a69f26f5aa09",
+            "maxPowerKw": 16,
+            "name": "Outlaw Inn & Open Range Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

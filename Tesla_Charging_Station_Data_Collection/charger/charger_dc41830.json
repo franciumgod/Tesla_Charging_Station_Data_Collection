@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Florence",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97439",
+                "postalExt": null,
+                "state": "OR",
+                "street": "Bay St",
+                "streetNumber": "1202"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.966652,
+                "longitude": -124.109375
+            },
+            "commonSiteName": "Riverhouse Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.966652,
+                "longitude": -124.109375
+            },
+            "locationGUID": "72f10ee7-830a-47fc-ba3f-2c9a58255740",
+            "maxPowerKw": 16,
+            "name": "Riverhouse Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

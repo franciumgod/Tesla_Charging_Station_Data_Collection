@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Neustrelitz",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17235",
+                "postalExt": null,
+                "state": null,
+                "street": "Useriner Strasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.362385,
+                "longitude": 13.05183
+            },
+            "commonSiteName": "Bootshaus Neustrelitz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.362385,
+                "longitude": 13.05183
+            },
+            "locationGUID": "2ec39ec3-4e14-4617-a2ee-94517f3250bd",
+            "maxPowerKw": 22,
+            "name": "Bootshaus Neustrelitz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

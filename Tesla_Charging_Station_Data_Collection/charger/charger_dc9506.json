@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Golden",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80401",
+                "postalExt": null,
+                "state": "CO",
+                "street": "11th St",
+                "streetNumber": "800"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.755936,
+                "longitude": -105.222952
+            },
+            "commonSiteName": "The Golden Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.755936,
+                "longitude": -105.222952
+            },
+            "locationGUID": "3084181d-f508-4689-a52a-11b7e61bd1f6",
+            "maxPowerKw": 16,
+            "name": "The Golden Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

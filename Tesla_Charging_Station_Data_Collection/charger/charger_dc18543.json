@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cd Apodaca",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66600",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Parque industrial Milenio",
+                "streetNumber": "Blvd. Aeropuerto 10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.785577,
+                "longitude": -100.13555
+            },
+            "commonSiteName": "One Monterrey Aeropuerto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.785577,
+                "longitude": -100.13555
+            },
+            "locationGUID": "e37ef36b-ed2c-4e9f-9fab-48ce72e9a26c",
+            "maxPowerKw": 11,
+            "name": "One Monterrey Aeropuerto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

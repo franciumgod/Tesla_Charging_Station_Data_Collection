@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rosemont",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60018",
+                "postalExt": null,
+                "state": "IL",
+                "street": "N River Rd",
+                "streetNumber": "5300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.9745,
+                "longitude": -87.862956
+            },
+            "commonSiteName": "Loews Chicago O'Hare",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.9745,
+                "longitude": -87.862956
+            },
+            "locationGUID": "3a6d3022-d9b0-4e65-82dd-97212510d8e5",
+            "maxPowerKw": 8,
+            "name": "Loews Chicago O'Hare",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

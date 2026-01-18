@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5P 1H1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Berwick Ave",
+                "streetNumber": "46"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.70441436,
+                "longitude": -79.39947983
+            },
+            "commonSiteName": "Canada Square - Oxford Properties Group",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.70441436,
+                "longitude": -79.39947983
+            },
+            "locationGUID": "be504584-3d00-45e9-baad-5fb8289d7560",
+            "maxPowerKw": 13,
+            "name": "Canada Square - Oxford Properties Group",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

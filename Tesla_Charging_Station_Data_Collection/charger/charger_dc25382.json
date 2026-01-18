@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "La Quinta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92253",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Meriwether Wy",
+                "streetNumber": "53-035"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.660694,
+                "longitude": -116.244489
+            },
+            "commonSiteName": "The Madison Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.660694,
+                "longitude": -116.244489
+            },
+            "locationGUID": "c7d12b95-bda0-4551-91fe-547d1958ae73",
+            "maxPowerKw": 16,
+            "name": "The Madison Club",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

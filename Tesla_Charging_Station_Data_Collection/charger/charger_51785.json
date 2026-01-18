@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Manteigas",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6260",
+                "postalExt": "200",
+                "state": null,
+                "street": "Penhas Douradas",
+                "streetNumber": "-"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.40837,
+                "longitude": -7.56723
+            },
+            "commonSiteName": "Casa das Penhas Douradas",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.40837,
+                "longitude": -7.56723
+            },
+            "locationGUID": "08b63a83-698a-4d57-838d-d265dc6c232b",
+            "maxPowerKw": 19,
+            "name": "Casa das Penhas Douradas",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

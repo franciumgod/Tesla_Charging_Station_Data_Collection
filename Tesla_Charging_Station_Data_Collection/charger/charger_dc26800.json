@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sappada",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "32047",
+                "postalExt": null,
+                "state": null,
+                "street": "Borgata Bach",
+                "streetNumber": "155"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.566556,
+                "longitude": 12.687156
+            },
+            "commonSiteName": "Hotel Bladen Wellness & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.566556,
+                "longitude": 12.687156
+            },
+            "locationGUID": "ec4efad9-3faa-434e-a3a0-9f5e53eb5bb5",
+            "maxPowerKw": 22,
+            "name": "Hotel Bladen Wellness & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

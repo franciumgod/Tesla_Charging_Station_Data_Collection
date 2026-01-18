@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Macau",
+                "country": "Macau",
+                "countryCode": "MO",
+                "district": null,
+                "navRegion": "mo",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "Macau",
+                "street": "Avenida Comercial De Macau",
+                "streetNumber": "288"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.1904922,
+                "longitude": 113.5408287
+            },
+            "commonSiteName": "Grand Emperor Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.1904922,
+                "longitude": 113.5408287
+            },
+            "locationGUID": "7f0a03a6-1cb7-44fc-9fca-f0c86520a012",
+            "maxPowerKw": 7,
+            "name": "Grand Emperor Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Macau"
+        },
+        "success": true
+    }
+}

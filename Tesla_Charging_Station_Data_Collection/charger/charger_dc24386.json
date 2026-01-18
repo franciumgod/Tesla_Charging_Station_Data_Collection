@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vignieu",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38890",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de la Garenne",
+                "streetNumber": "312"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.63615154,
+                "longitude": 5.40445511
+            },
+            "commonSiteName": "Château de Chapeau Cornu",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.63615154,
+                "longitude": 5.40445511
+            },
+            "locationGUID": "3cf405bb-02cb-4523-a58a-fa1a843b55fd",
+            "maxPowerKw": 11,
+            "name": "Château de Chapeau Cornu",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

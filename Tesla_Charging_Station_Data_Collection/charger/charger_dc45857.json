@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Philadelphia",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19130",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Benjamin Franklin Pkwy",
+                "streetNumber": "2600"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.967117,
+                "longitude": -75.181341
+            },
+            "commonSiteName": "Philadelphia Museum of Art",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.967117,
+                "longitude": -75.181341
+            },
+            "locationGUID": "75e351e0-9580-4c49-a429-e8f02b0852e2",
+            "maxPowerKw": 16,
+            "name": "Philadelphia Museum of Art",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

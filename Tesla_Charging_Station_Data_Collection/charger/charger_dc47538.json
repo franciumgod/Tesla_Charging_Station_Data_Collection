@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Busselton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6280",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Kent St",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.650633,
+                "longitude": 115.34196
+            },
+            "commonSiteName": "Busselton Central Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.650633,
+                "longitude": 115.34196
+            },
+            "locationGUID": "599aa40d-9419-4336-9fdc-3819e06e4ab1",
+            "maxPowerKw": 22,
+            "name": "Busselton Central Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

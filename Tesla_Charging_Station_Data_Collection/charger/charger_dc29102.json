@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Répara-Auriples",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26400",
+                "postalExt": null,
+                "state": null,
+                "street": "route d'autichamp",
+                "streetNumber": "585"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.669564,
+                "longitude": 4.998245
+            },
+            "commonSiteName": "Le Prieuré des Sources",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.669564,
+                "longitude": 4.998245
+            },
+            "locationGUID": "a5763220-ae13-4305-b029-121e79e18a60",
+            "maxPowerKw": 11,
+            "name": "Le Prieuré des Sources",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bendigo",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3550",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "McCrae St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.753879,
+                "longitude": 144.286809
+            },
+            "commonSiteName": "Alexandra Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.753879,
+                "longitude": 144.286809
+            },
+            "locationGUID": "dbe131f8-fbbf-488b-b94f-3f8b7d7eda6b",
+            "maxPowerKw": 22,
+            "name": "Alexandra Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Bourke St",
+                "streetNumber": "636"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.816095,
+                "longitude": 144.9547
+            },
+            "commonSiteName": "Alto Hotel on Bourke",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.816095,
+                "longitude": 144.9547
+            },
+            "locationGUID": "aa491688-fd6d-4a38-a7bd-fdceda40285a",
+            "maxPowerKw": 22,
+            "name": "Alto Hotel on Bourke",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

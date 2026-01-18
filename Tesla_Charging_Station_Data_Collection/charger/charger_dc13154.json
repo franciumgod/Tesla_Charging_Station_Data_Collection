@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8005",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Calle Marina",
+                "streetNumber": "19"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.387161,
+                "longitude": 2.196535
+            },
+            "commonSiteName": "Hotel Arts Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.387161,
+                "longitude": 2.196535
+            },
+            "locationGUID": "0905e98c-350a-468a-9d36-903dd7a2e3b9",
+            "maxPowerKw": 22,
+            "name": "Hotel Arts Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

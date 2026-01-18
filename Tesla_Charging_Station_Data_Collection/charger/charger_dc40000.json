@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cascais",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2754",
+                "postalExt": "509",
+                "state": null,
+                "street": "Hotel Baia, Passeio de Dom Luis I",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.69743,
+                "longitude": -9.4201
+            },
+            "commonSiteName": "Hotel Baia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.69743,
+                "longitude": -9.4201
+            },
+            "locationGUID": "238d0d26-05ce-4492-a664-19da9a9a2d7b",
+            "maxPowerKw": 17,
+            "name": "Hotel Baia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

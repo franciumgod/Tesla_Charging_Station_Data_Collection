@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mcely, Stredocesky kraj",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "289 36",
+                "postalExt": null,
+                "state": null,
+                "street": "Mcely 61",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.300695,
+                "longitude": 15.075654
+            },
+            "commonSiteName": "Chateau Mcely",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.300695,
+                "longitude": 15.075654
+            },
+            "locationGUID": "ddcf42cd-b607-444b-86bf-6371731e6bf5",
+            "maxPowerKw": 17,
+            "name": "Chateau Mcely",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

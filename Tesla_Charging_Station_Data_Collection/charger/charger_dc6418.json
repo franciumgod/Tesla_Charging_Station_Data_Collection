@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rosemont",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60018",
+                "postalExt": null,
+                "state": "IL",
+                "street": "Bryn Mawr Ave",
+                "streetNumber": "9300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.981019,
+                "longitude": -87.85953
+            },
+            "commonSiteName": "Hyatt Regency O'Hare",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.981019,
+                "longitude": -87.85953
+            },
+            "locationGUID": "9280cd86-4a78-44ac-8d72-99dc1f598c00",
+            "maxPowerKw": 8,
+            "name": "Hyatt Regency O'Hare",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

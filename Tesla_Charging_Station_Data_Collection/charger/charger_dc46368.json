@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mazamitla",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "49500",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "La Prepa",
+                "streetNumber": "Vicente Guerrero 100"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.922642,
+                "longitude": -103.0221176
+            },
+            "commonSiteName": "Quinta del Bosque",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.922642,
+                "longitude": -103.0221176
+            },
+            "locationGUID": "66effa29-5090-4b55-a646-fb3221cd4f66",
+            "maxPowerKw": 18,
+            "name": "Quinta del Bosque",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

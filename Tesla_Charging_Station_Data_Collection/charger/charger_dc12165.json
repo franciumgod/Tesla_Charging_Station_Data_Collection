@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92037",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Camino Del Oro",
+                "streetNumber": "8110"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.854614,
+                "longitude": -117.257992
+            },
+            "commonSiteName": "La Jolla Shores Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.854614,
+                "longitude": -117.257992
+            },
+            "locationGUID": "dd7aa273-2feb-4ecb-b061-b75bb676b258",
+            "maxPowerKw": 8,
+            "name": "La Jolla Shores Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

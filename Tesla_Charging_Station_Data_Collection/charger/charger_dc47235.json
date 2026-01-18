@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Charles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63303",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Mulholland Dr",
+                "streetNumber": "380"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.767072,
+                "longitude": -90.49275
+            },
+            "commonSiteName": "SOSC 3000 Block Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.767072,
+                "longitude": -90.49275
+            },
+            "locationGUID": "74b142c7-502a-40db-bcfb-febce6c24908",
+            "maxPowerKw": 6,
+            "name": "SOSC 3000 Block Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

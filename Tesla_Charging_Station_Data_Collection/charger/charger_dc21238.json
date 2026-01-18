@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Castiglion Fibocchi (AR)",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "52100",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Meliciano",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.528657,
+                "longitude": 11.779867
+            },
+            "commonSiteName": "Fattoria la Vialla",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.528657,
+                "longitude": 11.779867
+            },
+            "locationGUID": "13068577-b689-42e0-8a74-149f8e621f2e",
+            "maxPowerKw": 22,
+            "name": "Fattoria la Vialla",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

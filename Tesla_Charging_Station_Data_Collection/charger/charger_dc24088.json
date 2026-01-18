@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Palm Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33401",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Lakeview Ave",
+                "streetNumber": "295"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.706409,
+                "longitude": -80.051881
+            },
+            "commonSiteName": "Hyatt Place West Palm Beach/Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.706409,
+                "longitude": -80.051881
+            },
+            "locationGUID": "47a6fc35-afbc-458b-909b-f0a6f91576e2",
+            "maxPowerKw": 8,
+            "name": "Hyatt Place West Palm Beach/Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

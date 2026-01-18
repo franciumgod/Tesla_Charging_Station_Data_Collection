@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "4963",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "광진구 워커힐로",
+                "streetNumber": "177"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.554417,
+                "longitude": 127.111294
+            },
+            "commonSiteName": "비스타 워커힐 서울",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.554417,
+                "longitude": 127.111294
+            },
+            "locationGUID": "7d16d019-b8ec-45b2-8e06-e4907da8c17c",
+            "maxPowerKw": 16,
+            "name": "VISTA Walkerhill Seoul",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

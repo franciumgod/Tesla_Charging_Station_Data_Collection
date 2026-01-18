@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hamilton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4007",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "MacArthur Ave",
+                "streetNumber": "221D"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.443857,
+                "longitude": 153.079837
+            },
+            "commonSiteName": "Eat Street Northshore",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.443857,
+                "longitude": 153.079837
+            },
+            "locationGUID": "67762193-0987-478b-b17a-28608ea248c6",
+            "maxPowerKw": 22,
+            "name": "Eat Street Northshore",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

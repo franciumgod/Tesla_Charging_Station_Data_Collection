@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10022",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 59th St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.760462,
+                "longitude": -73.964086
+            },
+            "commonSiteName": "Icon Parking 300 E 59th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.760462,
+                "longitude": -73.964086
+            },
+            "locationGUID": "00b9c0ec-4ed4-4ddb-a3da-94f1b7f78b62",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 300 E 59th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

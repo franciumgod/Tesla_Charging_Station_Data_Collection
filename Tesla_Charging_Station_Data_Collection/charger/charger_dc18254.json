@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hamburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20099",
+                "postalExt": null,
+                "state": null,
+                "street": "An der Alster",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.560549,
+                "longitude": 10.012693
+            },
+            "commonSiteName": "Relexa Hotel Bellevue",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.560549,
+                "longitude": 10.012693
+            },
+            "locationGUID": "3677a032-94e1-4a28-81f3-4c0223b66e0d",
+            "maxPowerKw": 22,
+            "name": "Relexa Hotel Bellevue",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

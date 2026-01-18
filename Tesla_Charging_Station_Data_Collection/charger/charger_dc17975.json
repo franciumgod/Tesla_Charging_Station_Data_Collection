@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "München",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "80804",
+                "postalExt": null,
+                "state": null,
+                "street": "Leopoldstrasse",
+                "streetNumber": "130 - 132"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.167514,
+                "longitude": 11.586884
+            },
+            "commonSiteName": "Flemings Hotel München Schwabing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.167514,
+                "longitude": 11.586884
+            },
+            "locationGUID": "8c011544-5c5e-4789-8305-e428db2d62c7",
+            "maxPowerKw": 22,
+            "name": "Fleming's Hotel Munchen Schwabing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

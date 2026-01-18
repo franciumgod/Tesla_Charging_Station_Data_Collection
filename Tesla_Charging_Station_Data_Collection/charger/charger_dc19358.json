@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Penela",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3230",
+                "postalExt": "292",
+                "state": null,
+                "street": "Ponte do Espinhal",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.022999,
+                "longitude": -8.375048
+            },
+            "commonSiteName": "Duecitania Design Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.022999,
+                "longitude": -8.375048
+            },
+            "locationGUID": "274330a4-e1f6-4bbd-8c13-af35e882b48b",
+            "maxPowerKw": 11,
+            "name": "Duecitania Design Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

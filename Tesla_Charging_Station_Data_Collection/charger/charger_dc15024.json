@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20123",
+                "postalExt": null,
+                "state": null,
+                "street": "Piazza S. Ambrogio",
+                "streetNumber": "5/A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.463992,
+                "longitude": 9.1757
+            },
+            "commonSiteName": "S. Ambrogio Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.463992,
+                "longitude": 9.1757
+            },
+            "locationGUID": "69de6fd1-3dd7-4510-913b-c5e3600af084",
+            "maxPowerKw": 22,
+            "name": "S. Ambrogio Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chenonceaux",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37150",
+                "postalExt": null,
+                "state": "Centre",
+                "street": "rue du Château",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.329847,
+                "longitude": 1.066986
+            },
+            "commonSiteName": "Château de Chenonceau",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.329847,
+                "longitude": 1.066986
+            },
+            "locationGUID": "a84c0863-5273-45fa-94f4-e55403f37cd7",
+            "maxPowerKw": 22,
+            "name": "Château de Chenonceau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

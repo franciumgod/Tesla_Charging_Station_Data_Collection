@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Antonio De Las Minas",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22755",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "carretera Ens Tecate",
+                "streetNumber": "Km 96"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.964578,
+                "longitude": -116.655959
+            },
+            "commonSiteName": "Malva Restaurante",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.964578,
+                "longitude": -116.655959
+            },
+            "locationGUID": "e5b2d4f8-f0c2-45d5-9ce6-f13b0a2a5d77",
+            "maxPowerKw": 13,
+            "name": "Malva Restaurante",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

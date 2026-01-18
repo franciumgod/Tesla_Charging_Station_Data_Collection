@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dellach",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9635",
+                "postalExt": null,
+                "state": null,
+                "street": "St. Daniel",
+                "streetNumber": "32"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.66494881,
+                "longitude": 13.05625096
+            },
+            "commonSiteName": "der daberer. das biohotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.66494881,
+                "longitude": 13.05625096
+            },
+            "locationGUID": "cf3b63a9-2808-4432-8982-9732061d785b",
+            "maxPowerKw": 6,
+            "name": "der daberer. das biohotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cubry",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25680",
+                "postalExt": null,
+                "state": null,
+                "street": "Domaine de Bournel Route du Château de Bournel",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.487171,
+                "longitude": 6.413977
+            },
+            "commonSiteName": "Domaine de Bournel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.487171,
+                "longitude": 6.413977
+            },
+            "locationGUID": "7d48310c-31c2-4d2b-8325-75dd365163a6",
+            "maxPowerKw": 14,
+            "name": "Domaine de Bournel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

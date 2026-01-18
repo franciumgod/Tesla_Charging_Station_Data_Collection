@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "S'Agaro",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17248",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Plaza Roserar",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.790512,
+                "longitude": 3.055764
+            },
+            "commonSiteName": "Hostal de La Gavina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.790512,
+                "longitude": 3.055764
+            },
+            "locationGUID": "e749f90e-3a15-4c24-a496-af9a758946a2",
+            "maxPowerKw": 11,
+            "name": "Hostal de La Gavina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

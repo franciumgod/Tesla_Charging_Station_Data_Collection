@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Yountville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94599",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Washington St",
+                "streetNumber": "6757"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.406124,
+                "longitude": -122.366872
+            },
+            "commonSiteName": "North Block Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.406124,
+                "longitude": -122.366872
+            },
+            "locationGUID": "efe89594-fd8a-43cf-88ba-276b4c467992",
+            "maxPowerKw": 13,
+            "name": "North Block Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

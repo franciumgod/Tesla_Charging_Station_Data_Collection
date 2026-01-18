@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Manchester",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "M3 5LH",
+                "postalExt": null,
+                "state": "Lancashire",
+                "street": "50 Dearmans Place",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.483121,
+                "longitude": -2.250559
+            },
+            "commonSiteName": "The Lowry Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.483121,
+                "longitude": -2.250559
+            },
+            "locationGUID": "41d732f5-ae9f-4ba0-aa7e-7c76627a1f1c",
+            "maxPowerKw": 13,
+            "name": "The Lowry Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

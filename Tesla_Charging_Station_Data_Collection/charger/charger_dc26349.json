@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Highlands",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28741",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Main St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.054647,
+                "longitude": -83.201175
+            },
+            "commonSiteName": "200 Main",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.054647,
+                "longitude": -83.201175
+            },
+            "locationGUID": "65cdb178-bc45-490c-9975-fd83f39ad3fc",
+            "maxPowerKw": 16,
+            "name": "200 Main",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kangaroo Point",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4169",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Lambert Street",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -27.473983,
+                "longitude": 153.036461
+            },
+            "commonSiteName": "The Point Brisbane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -27.473983,
+                "longitude": 153.036461
+            },
+            "locationGUID": "acb0b4d3-d8e2-42e6-9938-331c109b3d7d",
+            "maxPowerKw": 22,
+            "name": "The Point Brisbane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30305",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Peachtree Rd NE",
+                "streetNumber": "3300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.844994,
+                "longitude": -84.370185
+            },
+            "commonSiteName": "Grand Hyatt Atlanta in Buckhead",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.844994,
+                "longitude": -84.370185
+            },
+            "locationGUID": "3d9d8209-8f54-491f-880b-2d6d844d64b7",
+            "maxPowerKw": 16,
+            "name": "Grand Hyatt Atlanta in Buckhead",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

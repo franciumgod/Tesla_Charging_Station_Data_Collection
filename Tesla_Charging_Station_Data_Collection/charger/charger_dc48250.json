@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Joucas",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "84220",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Murs",
+                "streetNumber": "220"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.929389,
+                "longitude": 5.25632368
+            },
+            "commonSiteName": "Le Phebus & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.929389,
+                "longitude": 5.25632368
+            },
+            "locationGUID": "ca7400bf-0a84-4ff9-9306-b7cca8303bb8",
+            "maxPowerKw": 11,
+            "name": "Le Phebus & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hallaton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LE16 8UB",
+                "postalExt": null,
+                "state": null,
+                "street": "Eastgate",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.560318,
+                "longitude": -0.83903
+            },
+            "commonSiteName": "The Bewicke Arms and Hare Pie Rooms",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.560318,
+                "longitude": -0.83903
+            },
+            "locationGUID": "cebd2856-7ff6-4403-8980-47780fdca6e5",
+            "maxPowerKw": 22,
+            "name": "The Bewicke Arms and Hare Pie Rooms",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

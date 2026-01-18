@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Macquarie Park",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2113",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Lane Cove Rd",
+                "streetNumber": "307"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.780806,
+                "longitude": 151.13381
+            },
+            "commonSiteName": "Eden Gardens Sydney",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.780806,
+                "longitude": 151.13381
+            },
+            "locationGUID": "d0dff1fd-353d-44d3-afae-6208b5b64e18",
+            "maxPowerKw": 6,
+            "name": "Eden Gardens Sydney",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

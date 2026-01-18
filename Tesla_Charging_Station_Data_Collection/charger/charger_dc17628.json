@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Limone sul garda",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25010",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Tamas",
+                "streetNumber": "10/b"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.809291,
+                "longitude": 10.788057
+            },
+            "commonSiteName": "Park Hotel Imperial",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.809291,
+                "longitude": 10.788057
+            },
+            "locationGUID": "76ccbf46-e829-415b-8155-2432a65d7e66",
+            "maxPowerKw": 22,
+            "name": "Park Hotel Imperial",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

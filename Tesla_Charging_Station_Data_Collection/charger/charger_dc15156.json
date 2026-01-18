@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fresno",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93720",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Ventura St",
+                "streetNumber": "2233"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.732514,
+                "longitude": -119.78393
+            },
+            "commonSiteName": "DoubleTree by Hilton Fresno Convention Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.732514,
+                "longitude": -119.78393
+            },
+            "locationGUID": "bc146a15-bcbc-4739-834e-b0a8369718a8",
+            "maxPowerKw": 8,
+            "name": "DoubleTree by Hilton Fresno Convention Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

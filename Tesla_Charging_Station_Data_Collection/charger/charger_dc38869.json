@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45089",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Victoria",
+                "streetNumber": "Av Mariano Otero 2397"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.64994,
+                "longitude": -103.399412
+            },
+            "commonSiteName": "Holiday Inn Express Guadalajara Expo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.64994,
+                "longitude": -103.399412
+            },
+            "locationGUID": "bf8a94ee-cc1f-4abc-88ee-a93571df58ca",
+            "maxPowerKw": 18,
+            "name": "Holiday Inn Express Guadalajara Expo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

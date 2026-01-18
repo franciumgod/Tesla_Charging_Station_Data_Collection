@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "East Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3002",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Wellington Parade",
+                "streetNumber": "Basement 1, 192"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.81571,
+                "longitude": 144.98329
+            },
+            "commonSiteName": "Pullman Melbourne on the Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.81571,
+                "longitude": 144.98329
+            },
+            "locationGUID": "5c9606ec-c74b-4f64-bce2-1db855638643",
+            "maxPowerKw": 11,
+            "name": "Pullman Melbourne on the Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

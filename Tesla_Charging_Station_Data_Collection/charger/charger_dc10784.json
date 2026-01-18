@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zaragoza",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "50004",
+                "postalExt": null,
+                "state": "Aragón",
+                "street": "Calle Marques Casa Jimenez",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.65042,
+                "longitude": -0.885434
+            },
+            "commonSiteName": "Hotel Palafox",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.65042,
+                "longitude": -0.885434
+            },
+            "locationGUID": "86f8a1a9-8d16-4fa6-934f-9be83c257ae0",
+            "maxPowerKw": 11,
+            "name": "Hotel Palafox",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

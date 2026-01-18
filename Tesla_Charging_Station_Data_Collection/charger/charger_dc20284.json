@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bologna",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "40128",
+                "postalExt": null,
+                "state": null,
+                "street": "Piazza della Costituzione",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.512571,
+                "longitude": 11.359035
+            },
+            "commonSiteName": "Hotel Bologna Fiera",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.512571,
+                "longitude": 11.359035
+            },
+            "locationGUID": "db7393fc-debc-4a78-be0e-52945efd908d",
+            "maxPowerKw": 22,
+            "name": "Hotel Bologna Fiera",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

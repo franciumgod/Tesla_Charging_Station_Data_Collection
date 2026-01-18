@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Umag",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "52470",
+                "postalExt": null,
+                "state": null,
+                "street": "Jadranska",
+                "streetNumber": "78"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.442938,
+                "longitude": 13.510625
+            },
+            "commonSiteName": "Plava Laguna",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.442938,
+                "longitude": 13.510625
+            },
+            "locationGUID": "5969a9e1-7537-4c07-bfed-a071794f1eb8",
+            "maxPowerKw": 11,
+            "name": "Plava Laguna",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

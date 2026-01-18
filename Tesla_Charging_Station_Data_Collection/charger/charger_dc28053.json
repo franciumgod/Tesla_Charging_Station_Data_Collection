@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H2Y 2Z7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue Saint Jean Baptiste",
+                "streetNumber": "445"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.506477,
+                "longitude": -73.554385
+            },
+            "commonSiteName": "SpringHill Suites by Marriott Old Montreal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.506477,
+                "longitude": -73.554385
+            },
+            "locationGUID": "1eb5d070-289b-4cb9-bc58-472996c3a193",
+            "maxPowerKw": 16,
+            "name": "SpringHill Suites by Marriott Old Montreal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

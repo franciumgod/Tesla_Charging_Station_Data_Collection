@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Haarlem",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2035 LC",
+                "postalExt": null,
+                "state": null,
+                "street": "Toekanweg 2",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.368898,
+                "longitude": 4.647904
+            },
+            "commonSiteName": "Van der Valk Hotel Haarlem",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.368898,
+                "longitude": 4.647904
+            },
+            "locationGUID": "52c9218a-eaf7-424c-a324-bfa315748516",
+            "maxPowerKw": 6,
+            "name": "STE20250425-00208_Van der Valk Hotel Haarlem",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

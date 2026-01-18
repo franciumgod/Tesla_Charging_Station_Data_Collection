@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6E 4M3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "1111 West Georgia Street",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.285731,
+                "longitude": -123.12312
+            },
+            "commonSiteName": "TA Management  - FortisBC Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.285731,
+                "longitude": -123.12312
+            },
+            "locationGUID": "e44ce35e-25dc-49bf-896c-b5da2f2034eb",
+            "maxPowerKw": 16,
+            "name": "TA Management  - FortisBC Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 5,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

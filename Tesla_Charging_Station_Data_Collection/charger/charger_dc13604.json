@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "West Des Moines",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "50266",
+                "postalExt": null,
+                "state": "IA",
+                "street": "Mills Civic Pkwy",
+                "streetNumber": "6075"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.55949,
+                "longitude": -93.791183
+            },
+            "commonSiteName": "Holiday Inn & Suites West Des Moines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.55949,
+                "longitude": -93.791183
+            },
+            "locationGUID": "5b5d3074-1430-4788-8d97-a98074304cfd",
+            "maxPowerKw": 8,
+            "name": "Holiday Inn & Suites West Des Moines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

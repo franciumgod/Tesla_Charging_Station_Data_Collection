@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chambéry",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73000",
+                "postalExt": null,
+                "state": "Rhône-Alpes",
+                "street": "Rue de la Trésorerie",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.564715,
+                "longitude": 5.919223
+            },
+            "commonSiteName": "Petit Hôtel Confidentiel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.564715,
+                "longitude": 5.919223
+            },
+            "locationGUID": "4bd200c9-f5c7-4a4e-b304-ccffcb632041",
+            "maxPowerKw": 7,
+            "name": "Petit Hôtel Confidentiel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10012",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Thompson St",
+                "streetNumber": "221"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.729234,
+                "longitude": -73.999013
+            },
+            "commonSiteName": "Parkit 221 Thompson Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.729234,
+                "longitude": -73.999013
+            },
+            "locationGUID": "047f777b-d081-476a-92b3-a203fce9519c",
+            "maxPowerKw": 8,
+            "name": "Parkit 221 Thompson Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tainan City",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "701",
+                "postalExt": null,
+                "state": "Tainan",
+                "street": "東區前鋒路",
+                "streetNumber": "210號 B3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.99632,
+                "longitude": 120.214327
+            },
+            "commonSiteName": "台南大遠百",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.99632,
+                "longitude": 120.214327
+            },
+            "locationGUID": "f6044480-cd5e-48d9-9bc2-4996514b0af2",
+            "maxPowerKw": 9,
+            "name": "Top City Tainan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

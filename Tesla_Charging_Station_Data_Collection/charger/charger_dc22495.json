@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Las Vegas",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89109",
+                "postalExt": null,
+                "state": "NV",
+                "street": "S Las Vegas Blvd",
+                "streetNumber": "3799"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.102767,
+                "longitude": -115.169994
+            },
+            "commonSiteName": "The Mansion at MGM Grand",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.102767,
+                "longitude": -115.169994
+            },
+            "locationGUID": "9b2257c0-858e-416e-aa07-dcdb77145dac",
+            "maxPowerKw": 16,
+            "name": "The Mansion at MGM Grand",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

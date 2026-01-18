@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44530",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Avenida de Las Rosas Rinconada del Bosque",
+                "streetNumber": "2911"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.653138,
+                "longitude": -103.389201
+            },
+            "commonSiteName": "Westin Gualajara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.653138,
+                "longitude": -103.389201
+            },
+            "locationGUID": "1adf3c66-6365-459d-a7a0-513adb1f1123",
+            "maxPowerKw": 10,
+            "name": "Westin Gualajara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

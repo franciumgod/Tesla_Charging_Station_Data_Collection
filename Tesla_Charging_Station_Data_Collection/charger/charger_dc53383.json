@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ramatuelle",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83350",
+                "postalExt": null,
+                "state": null,
+                "street": "Chemin Val de Rian",
+                "streetNumber": "1100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.245649,
+                "longitude": 6.638692
+            },
+            "commonSiteName": "Villa Marie",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.245649,
+                "longitude": 6.638692
+            },
+            "locationGUID": "51eb9ed3-4f45-4b5e-9128-958687847f72",
+            "maxPowerKw": 14,
+            "name": "Villa Marie",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

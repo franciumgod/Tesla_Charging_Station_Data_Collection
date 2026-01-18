@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Charlottetown",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "C1A 4A1",
+                "postalExt": null,
+                "state": "PE",
+                "street": "Queen St",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.231934,
+                "longitude": -63.124103
+            },
+            "commonSiteName": "Delta Hotels by Marriott Prince Edward",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.231934,
+                "longitude": -63.124103
+            },
+            "locationGUID": "48177ffb-79e3-4228-9ba3-04a7b6eacf37",
+            "maxPowerKw": 0,
+            "name": "Delta Hotels by Marriott Prince Edward",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Halifax"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hiroshima",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "730",
+                "postalExt": "0037",
+                "state": "Hiroshima",
+                "street": "Nakamachi",
+                "streetNumber": "7-20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.390438,
+                "longitude": 132.456922
+            },
+            "commonSiteName": "ANAクラウンプラザホテル広島",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.390438,
+                "longitude": 132.456922
+            },
+            "locationGUID": "ad6c1755-162c-4154-80a9-a3ad5665e671",
+            "maxPowerKw": 13,
+            "name": "ANA Crowne Plaza Hiroshima",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

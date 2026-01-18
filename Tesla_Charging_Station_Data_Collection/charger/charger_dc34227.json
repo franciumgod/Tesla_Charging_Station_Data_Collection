@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wark-On-Tyne",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NE48 3LS",
+                "postalExt": null,
+                "state": "Hexham",
+                "street": "Battlesteads",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.085873,
+                "longitude": -2.22048
+            },
+            "commonSiteName": "Battlesteads",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.085873,
+                "longitude": -2.22048
+            },
+            "locationGUID": "076f38c1-280c-4a16-9d5f-ffff8988a207",
+            "maxPowerKw": 7,
+            "name": "Battlesteads",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

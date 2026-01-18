@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bilbao",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48006",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Avenida Zumalacarregui",
+                "streetNumber": "40"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.257504,
+                "longitude": -2.912844
+            },
+            "commonSiteName": "Occidental Bilbao",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.257504,
+                "longitude": -2.912844
+            },
+            "locationGUID": "5215de6d-1996-4dbb-a55f-bde610b3aa82",
+            "maxPowerKw": 11,
+            "name": "Occidental Bilbao",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

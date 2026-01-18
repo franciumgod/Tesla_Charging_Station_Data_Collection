@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Boulder",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84716",
+                "postalExt": null,
+                "state": "UT",
+                "street": "UT-12",
+                "streetNumber": "20"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.902512,
+                "longitude": -111.423446
+            },
+            "commonSiteName": "Boulder Mountain Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.902512,
+                "longitude": -111.423446
+            },
+            "locationGUID": "b4d3a43d-aed1-4f12-8543-eb2a935df815",
+            "maxPowerKw": 16,
+            "name": "Boulder Mountain Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

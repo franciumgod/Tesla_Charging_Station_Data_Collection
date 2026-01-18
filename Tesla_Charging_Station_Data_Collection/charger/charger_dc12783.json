@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tilburg",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5026 RB",
+                "postalExt": null,
+                "state": null,
+                "street": "Dr. Hub van Doorneweg",
+                "streetNumber": "105"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.541908,
+                "longitude": 5.050957
+            },
+            "commonSiteName": "Hotel Ibis Tilburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.541908,
+                "longitude": 5.050957
+            },
+            "locationGUID": "51011f2c-8912-45eb-8c33-71be1b894766",
+            "maxPowerKw": 0,
+            "name": "Hotel Ibis Tilburg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": null,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

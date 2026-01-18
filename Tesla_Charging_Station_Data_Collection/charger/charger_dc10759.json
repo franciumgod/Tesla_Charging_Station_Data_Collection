@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Valencia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46010",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Carrer d'Amadeu de Savoia",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.472816,
+                "longitude": -0.360725
+            },
+            "commonSiteName": "The Westin Valencia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.472816,
+                "longitude": -0.360725
+            },
+            "locationGUID": "1ebe062e-4807-4cba-8035-04bb9b5bd9d9",
+            "maxPowerKw": 17,
+            "name": "The Westin Valencia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

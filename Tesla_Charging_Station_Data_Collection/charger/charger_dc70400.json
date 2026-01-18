@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Galloway",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08205",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "E Moss Mill Rd",
+                "streetNumber": "106"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.50357453,
+                "longitude": -74.51154989
+            },
+            "commonSiteName": "Swan Lake Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.50357453,
+                "longitude": -74.51154989
+            },
+            "locationGUID": "b8f5670d-bc92-4a77-81ea-b60028b93fa8",
+            "maxPowerKw": 16,
+            "name": "Swan Lake Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

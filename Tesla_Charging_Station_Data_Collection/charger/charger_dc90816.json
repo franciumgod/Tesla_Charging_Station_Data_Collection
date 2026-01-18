@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20002",
+                "postalExt": null,
+                "state": "DC",
+                "street": "New York Ave NE",
+                "streetNumber": "1501"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.915614,
+                "longitude": -76.983038
+            },
+            "commonSiteName": "1501 New York Ave NE",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.915614,
+                "longitude": -76.983038
+            },
+            "locationGUID": "9b11d1ee-87ad-40cd-aa56-081fedf33b9c",
+            "maxPowerKw": 16,
+            "name": "1501 New York Ave NE",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Frankfurt",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "60549",
+                "postalExt": null,
+                "state": null,
+                "street": "Bessie-Coleman-Strasse",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.05585183,
+                "longitude": 8.59049815
+            },
+            "commonSiteName": "Holiday Inn Frankfurt Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.05585183,
+                "longitude": 8.59049815
+            },
+            "locationGUID": "dc29b681-4daf-4688-9f94-2064e3dca0a2",
+            "maxPowerKw": 22,
+            "name": "Holiday Inn Frankfurt Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

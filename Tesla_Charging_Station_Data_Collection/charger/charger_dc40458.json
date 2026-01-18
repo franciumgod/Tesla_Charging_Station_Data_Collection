@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bilbao",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "48001",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Plaza Federico Moyua",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.262414,
+                "longitude": -2.934899
+            },
+            "commonSiteName": "Hotel Carlton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.262414,
+                "longitude": -2.934899
+            },
+            "locationGUID": "065bfc8d-90f2-4ae2-b05c-5d9c9abc0d52",
+            "maxPowerKw": 22,
+            "name": "Hotel Carlton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Humenne",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "066 01",
+                "postalExt": null,
+                "state": "Presovsky",
+                "street": "Namestie slobody 51",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.932242,
+                "longitude": 21.910467
+            },
+            "commonSiteName": "Hotel Alibaba",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.932242,
+                "longitude": 21.910467
+            },
+            "locationGUID": "2f10f7bb-ced3-4053-ba14-b96c32e343a1",
+            "maxPowerKw": 14,
+            "name": "Hotel Ali Baba",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

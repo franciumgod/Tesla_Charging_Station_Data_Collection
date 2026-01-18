@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newfane",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05345",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Route 30",
+                "streetNumber": "550"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.9832298,
+                "longitude": -72.6556763
+            },
+            "commonSiteName": "The Fat Crow",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.9832298,
+                "longitude": -72.6556763
+            },
+            "locationGUID": "075c912c-49e4-4d0f-a1ec-4821e8587630",
+            "maxPowerKw": 16,
+            "name": "The Fat Crow",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

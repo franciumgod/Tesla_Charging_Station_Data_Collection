@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "대구시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "41953",
+                "postalExt": null,
+                "state": "대구광역시",
+                "street": "중구 명덕로",
+                "streetNumber": "333"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.855812,
+                "longitude": 128.606333
+            },
+            "commonSiteName": "대구백화점 프라자점",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.855812,
+                "longitude": 128.606333
+            },
+            "locationGUID": "b7740895-a8c0-49c9-9877-ffa6680e35cf",
+            "maxPowerKw": 7,
+            "name": "Daegu Department Store Plaza",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

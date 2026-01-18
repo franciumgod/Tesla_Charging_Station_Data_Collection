@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Pedro Garza Garcia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66220",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Del Valle",
+                "streetNumber": "Rio Mississippi 119"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.659883,
+                "longitude": -100.370083
+            },
+            "commonSiteName": "Plaza XO",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.659883,
+                "longitude": -100.370083
+            },
+            "locationGUID": "1a3dc0ba-f697-4851-b401-0c38abe8161f",
+            "maxPowerKw": 18,
+            "name": "Plaza XO",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

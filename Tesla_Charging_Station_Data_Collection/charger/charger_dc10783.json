@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zaragoza",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "50009",
+                "postalExt": null,
+                "state": "Zaragoza",
+                "street": "Avenida Alcalde Sainz de Varanda",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.638939,
+                "longitude": -0.908457
+            },
+            "commonSiteName": "Hotel Reina Petronila",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.638939,
+                "longitude": -0.908457
+            },
+            "locationGUID": "74508da9-4c49-4bb7-96ff-4cc5c2e3537c",
+            "maxPowerKw": 22,
+            "name": "Hotel Reina Petronila",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

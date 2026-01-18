@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94111",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Battery St",
+                "streetNumber": "115"
+            },
+            "amenities": [
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.792496,
+                "longitude": -122.39998
+            },
+            "commonSiteName": "345 California Center Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.792496,
+                "longitude": -122.39998
+            },
+            "locationGUID": "a551d692-4456-41bd-a1da-be3919938f6f",
+            "maxPowerKw": 16,
+            "name": "345 California Center Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

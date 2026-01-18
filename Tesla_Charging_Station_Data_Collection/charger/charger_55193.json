@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stowe",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05672",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Mountain Resort",
+                "streetNumber": "4000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.494961,
+                "longitude": -72.738686
+            },
+            "commonSiteName": "Topnotch Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.494961,
+                "longitude": -72.738686
+            },
+            "locationGUID": "39a042be-207e-454f-a4f0-ce59f7889640",
+            "maxPowerKw": 16,
+            "name": "Topnotch Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

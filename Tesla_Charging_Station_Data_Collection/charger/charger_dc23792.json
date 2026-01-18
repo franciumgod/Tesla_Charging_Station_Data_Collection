@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mézangers",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "53600",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Mayenne",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.201272,
+                "longitude": -0.435292
+            },
+            "commonSiteName": "Logis Relais du Gué de Selle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.201272,
+                "longitude": -0.435292
+            },
+            "locationGUID": "7ea41658-7111-4635-8eb6-2842ed34fbce",
+            "maxPowerKw": 11,
+            "name": "Logis Relais du Gué de Selle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

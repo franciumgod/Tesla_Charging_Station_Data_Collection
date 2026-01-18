@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28020",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle de Pedro Teixeira",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.455272,
+                "longitude": -3.694315
+            },
+            "commonSiteName": "H10 Tribeca",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.455272,
+                "longitude": -3.694315
+            },
+            "locationGUID": "afc16f7d-60f6-4d7c-8b80-048d3ebd8a82",
+            "maxPowerKw": 22,
+            "name": "H10 Tribeca",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Carlton",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3053",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Swanston St",
+                "streetNumber": "488"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.805694,
+                "longitude": 144.963611
+            },
+            "commonSiteName": "Arrow on Swanston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.805694,
+                "longitude": 144.963611
+            },
+            "locationGUID": "cf81aa4a-4a06-4e62-82fb-addcd3110c0d",
+            "maxPowerKw": 11,
+            "name": "Arrow on Swanston",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

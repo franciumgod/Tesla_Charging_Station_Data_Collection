@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Great Fransham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NR19 2NA",
+                "postalExt": null,
+                "state": "Norfolk",
+                "street": "Greenbanks Hotel",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.680384,
+                "longitude": 0.841876
+            },
+            "commonSiteName": "Greenbanks",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.680384,
+                "longitude": 0.841876
+            },
+            "locationGUID": "4f566d2c-e176-453d-b9d7-fb35d5d857b2",
+            "maxPowerKw": 7,
+            "name": "Greenbanks",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

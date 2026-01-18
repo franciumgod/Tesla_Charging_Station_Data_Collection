@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10025",
+                "postalExt": null,
+                "state": "NY",
+                "street": "West 120th Street",
+                "streetNumber": "314"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.807356,
+                "longitude": -73.954354
+            },
+            "commonSiteName": "iPark 314 W 120th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.807356,
+                "longitude": -73.954354
+            },
+            "locationGUID": "58f53753-0e7f-4c5e-bff1-3ab1ad902f12",
+            "maxPowerKw": 16,
+            "name": "iPark 314 W 120th Street",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

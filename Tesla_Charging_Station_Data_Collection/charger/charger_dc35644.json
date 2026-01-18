@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ring Of Kerry",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "V23 K132",
+                "postalExt": null,
+                "state": null,
+                "street": "Kells Cahersiveen",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.01329382,
+                "longitude": -10.09858135
+            },
+            "commonSiteName": "Goldens of Kells",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.01329382,
+                "longitude": -10.09858135
+            },
+            "locationGUID": "7e32d8f3-5f69-4762-bb64-e892c60618d1",
+            "maxPowerKw": 22,
+            "name": "Goldens of Kells",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

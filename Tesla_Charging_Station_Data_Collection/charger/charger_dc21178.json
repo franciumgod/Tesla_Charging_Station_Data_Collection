@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lindau",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "88131",
+                "postalExt": null,
+                "state": null,
+                "street": "Bahnhofsplatz",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.544327,
+                "longitude": 9.682278
+            },
+            "commonSiteName": "Hotel Bayerischer Hof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.544327,
+                "longitude": 9.682278
+            },
+            "locationGUID": "af0a1e99-7c72-4cc3-a06c-10c84772a886",
+            "maxPowerKw": 11,
+            "name": "Hotel Bayerischer Hof - Lindau",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

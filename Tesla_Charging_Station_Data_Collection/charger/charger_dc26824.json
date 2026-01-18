@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beverly Hills",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90212",
+                "postalExt": null,
+                "state": "CA",
+                "street": "S Spaulding Ave",
+                "streetNumber": "125"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.066124,
+                "longitude": -118.409117
+            },
+            "commonSiteName": "Mosaic Hotel Beverly Hills",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.066124,
+                "longitude": -118.409117
+            },
+            "locationGUID": "7680cb47-9951-4575-9a72-ad57e072052f",
+            "maxPowerKw": 16,
+            "name": "Mosaic Hotel Beverly Hills",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

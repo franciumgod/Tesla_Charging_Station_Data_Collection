@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H4M 2Z5",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Place Robert Joncas",
+                "streetNumber": "7000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.493146,
+                "longitude": -73.69994
+            },
+            "commonSiteName": "Courtyard & Residence Inn Montreal Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.493146,
+                "longitude": -73.69994
+            },
+            "locationGUID": "e78b4787-cbb9-4eb5-baff-291f5180d87f",
+            "maxPowerKw": 16,
+            "name": "Courtyard & Residence Inn Montreal Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

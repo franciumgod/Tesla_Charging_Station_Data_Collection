@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28027",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle de Juan Rizi",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.447802,
+                "longitude": -3.63562
+            },
+            "commonSiteName": "Hotel Silken Puerta Madrid",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.447802,
+                "longitude": -3.63562
+            },
+            "locationGUID": "fd20d8c1-7aa8-4138-8351-c312a73eb95d",
+            "maxPowerKw": 11,
+            "name": "Hotel Silken Puerta Madrid",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

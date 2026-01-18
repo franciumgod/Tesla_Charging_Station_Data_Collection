@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ehrenhausen",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8461",
+                "postalExt": null,
+                "state": null,
+                "street": "Georgigasse",
+                "streetNumber": "68"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.726839,
+                "longitude": 15.581139
+            },
+            "commonSiteName": "Georgi Schloss",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.726839,
+                "longitude": 15.581139
+            },
+            "locationGUID": "0768f074-e28f-4dfa-ac1a-f2c8ac3947c7",
+            "maxPowerKw": 22,
+            "name": "Georgi Schloss",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

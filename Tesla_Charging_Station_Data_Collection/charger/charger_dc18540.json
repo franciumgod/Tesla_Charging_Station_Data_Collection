@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64590",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Col. Fierro",
+                "streetNumber": "Av. Churubusco #701, Esq. Prolongacio Av. Madero"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.68437,
+                "longitude": -100.269535
+            },
+            "commonSiteName": "Fiesta Inn Monterrey Fundidora",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.68437,
+                "longitude": -100.269535
+            },
+            "locationGUID": "4f459297-d9e9-460c-b823-007d2ce49d9f",
+            "maxPowerKw": 9,
+            "name": "Fiesta Inn Monterrey Fundidora",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

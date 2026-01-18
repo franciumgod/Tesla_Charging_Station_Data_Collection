@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Port Lincoln",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5606",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "London Street",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.724821,
+                "longitude": 135.869564
+            },
+            "commonSiteName": "Beer Garden Brewing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.724821,
+                "longitude": 135.869564
+            },
+            "locationGUID": "8422c2d0-2bdf-49d1-ad0b-d8f6391d5606",
+            "maxPowerKw": 22,
+            "name": "Beer Garden Brewing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

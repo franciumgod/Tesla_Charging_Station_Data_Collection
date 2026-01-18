@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "St. Louis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63134",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Pear Tree Dr",
+                "streetNumber": "10700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.737746,
+                "longitude": -90.368233
+            },
+            "commonSiteName": "Marriott St. Louis Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.737746,
+                "longitude": -90.368233
+            },
+            "locationGUID": "46b531c8-7e21-4976-95ef-b9752d0aba4c",
+            "maxPowerKw": 8,
+            "name": "Marriott St. Louis Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

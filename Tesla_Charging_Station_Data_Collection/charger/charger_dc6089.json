@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Abingdon",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24210",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Main St",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.709813,
+                "longitude": -81.974954
+            },
+            "commonSiteName": "The Martha Washington Inn & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.709813,
+                "longitude": -81.974954
+            },
+            "locationGUID": "dbf383d8-8972-460d-b51b-7be3f511a012",
+            "maxPowerKw": 8,
+            "name": "The Martha Washington Inn & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

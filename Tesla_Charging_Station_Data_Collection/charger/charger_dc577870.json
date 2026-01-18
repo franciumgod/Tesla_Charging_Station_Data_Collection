@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Piestany",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "921 01",
+                "postalExt": null,
+                "state": "Trnavsky",
+                "street": "Winterova",
+                "streetNumber": "56"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.588507,
+                "longitude": 17.83655
+            },
+            "commonSiteName": "Zuckmann Villa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.588507,
+                "longitude": 17.83655
+            },
+            "locationGUID": "8fc7d52c-268b-43ec-942a-c5e320536f70",
+            "maxPowerKw": 11,
+            "name": "Zuckmann Villa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

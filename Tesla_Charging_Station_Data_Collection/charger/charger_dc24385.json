@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Altoetting",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "84503",
+                "postalExt": null,
+                "state": null,
+                "street": "Schlotthamerstrasse",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.22383727,
+                "longitude": 12.67815108
+            },
+            "commonSiteName": "Hotel Bavaria Lifestyle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.22383727,
+                "longitude": 12.67815108
+            },
+            "locationGUID": "4094441b-b8e8-4fe9-b148-c87b92403e4e",
+            "maxPowerKw": 22,
+            "name": "Hotel Bavaria Lifestyle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28009",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle de Alcala",
+                "streetNumber": "66"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.422187,
+                "longitude": -3.68116
+            },
+            "commonSiteName": "Hotel H10 Puerta de Alcalá",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.422187,
+                "longitude": -3.68116
+            },
+            "locationGUID": "94c64cca-3791-4deb-896a-def1ad958ba2",
+            "maxPowerKw": 7,
+            "name": "Hotel H10 Puerta de Alcalá",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

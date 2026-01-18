@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rome",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30165",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Russell Field Rd NE",
+                "streetNumber": "304"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.189909,
+                "longitude": -85.173093
+            },
+            "commonSiteName": "Museum of Flight",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.189909,
+                "longitude": -85.173093
+            },
+            "locationGUID": "63fe89f4-9b94-4a33-adaa-80846835be5b",
+            "maxPowerKw": 16,
+            "name": "Museum of Flight",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "St Charles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63303",
+                "postalExt": null,
+                "state": "MO",
+                "street": "S Main St",
+                "streetNumber": "1551"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.764486,
+                "longitude": -90.493306
+            },
+            "commonSiteName": "SOSC 4000 Block Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.764486,
+                "longitude": -90.493306
+            },
+            "locationGUID": "e923c7ca-6383-4bcf-900a-034919f41c0c",
+            "maxPowerKw": 6,
+            "name": "SOSC 4000 Block Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 12,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

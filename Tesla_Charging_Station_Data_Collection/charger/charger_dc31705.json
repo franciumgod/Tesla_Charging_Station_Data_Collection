@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66260",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Valle Oriente",
+                "streetNumber": "Av L├ízaro C├írdenas 2225"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.647491,
+                "longitude": -100.325805
+            },
+            "commonSiteName": "Latitud",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.647491,
+                "longitude": -100.325805
+            },
+            "locationGUID": "05062c3c-1b51-419d-bd6c-e0b3a6849357",
+            "maxPowerKw": 18,
+            "name": "Latitud",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

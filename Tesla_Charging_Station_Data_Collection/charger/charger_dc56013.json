@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ladysmith",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "54848",
+                "postalExt": null,
+                "state": "WI",
+                "street": "Lake Ave W",
+                "streetNumber": "407"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.465339,
+                "longitude": -91.10521
+            },
+            "commonSiteName": "Taco Theory",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.465339,
+                "longitude": -91.10521
+            },
+            "locationGUID": "87f876e6-92d5-415c-b1f1-a50c1322506a",
+            "maxPowerKw": 10,
+            "name": "Taco Theory",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M4W 0A4",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Yorkville Ave",
+                "streetNumber": "60"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.671853,
+                "longitude": -79.389513
+            },
+            "commonSiteName": "Four Seasons Hotel Toronto",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.671853,
+                "longitude": -79.389513
+            },
+            "locationGUID": "6e24c0d7-2e4f-46c5-a865-e32b49667a2b",
+            "maxPowerKw": 16,
+            "name": "Four Seasons Hotel Toronto",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

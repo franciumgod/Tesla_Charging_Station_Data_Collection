@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Port of Menteith",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "FK8 3RA",
+                "postalExt": null,
+                "state": null,
+                "street": "Port of Menteith",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.18240034,
+                "longitude": -4.28413197
+            },
+            "commonSiteName": "The Lake of Menteith Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.18240034,
+                "longitude": -4.28413197
+            },
+            "locationGUID": "bda5109d-0c5d-4e68-a31a-9af0bc8dcc6b",
+            "maxPowerKw": 13,
+            "name": "The Lake of Menteith Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Garrison",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10524",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Snakehill Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.385216,
+                "longitude": -73.916711
+            },
+            "commonSiteName": "The Garrison and Highlands Country Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.385216,
+                "longitude": -73.916711
+            },
+            "locationGUID": "f12b967a-74c0-48df-b90f-4cb8e14aaadc",
+            "maxPowerKw": 16,
+            "name": "The Garrison and Highlands Country Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

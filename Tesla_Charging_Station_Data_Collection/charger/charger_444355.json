@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Matsumoto",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "390",
+                "postalExt": "0303",
+                "state": "Nagano",
+                "street": "Asama Onsen",
+                "streetNumber": "3-15-17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.26352,
+                "longitude": 137.99151
+            },
+            "commonSiteName": "松本十帖",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.26352,
+                "longitude": 137.99151
+            },
+            "locationGUID": "f2f57b8f-27b9-413e-b17e-46de4a3ed834",
+            "maxPowerKw": 9,
+            "name": "Matsumoto Jyujo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

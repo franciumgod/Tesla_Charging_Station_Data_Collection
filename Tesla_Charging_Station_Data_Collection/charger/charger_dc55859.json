@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fort Davis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "79734",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Memorial Sq",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.58959674,
+                "longitude": -103.89350714
+            },
+            "commonSiteName": "Hotel Limpia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.58959674,
+                "longitude": -103.89350714
+            },
+            "locationGUID": "ff21a41f-6ac2-4e78-9838-ac23952e2bc2",
+            "maxPowerKw": 16,
+            "name": "Hotel Limpia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naples",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34103",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Tamiami Trl N",
+                "streetNumber": "5111"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.209295,
+                "longitude": -81.801635
+            },
+            "commonSiteName": "Hilton Naples",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.209295,
+                "longitude": -81.801635
+            },
+            "locationGUID": "b79643be-fd42-48f5-b822-7068817cb530",
+            "maxPowerKw": 10,
+            "name": "Hilton Naples",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

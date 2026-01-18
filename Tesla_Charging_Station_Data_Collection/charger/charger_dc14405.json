@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chicago",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60604",
+                "postalExt": null,
+                "state": "IL",
+                "street": "S Michigan Ave",
+                "streetNumber": "325"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.877475,
+                "longitude": -87.624245
+            },
+            "commonSiteName": "Grant Park South",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.877475,
+                "longitude": -87.624245
+            },
+            "locationGUID": "3f26ef3a-942d-41b4-a4be-3be82caf0575",
+            "maxPowerKw": 6,
+            "name": "Grant Park South",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

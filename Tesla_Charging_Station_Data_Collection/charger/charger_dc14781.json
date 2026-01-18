@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10022",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 57th St",
+                "streetNumber": "301"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.759127,
+                "longitude": -73.964684
+            },
+            "commonSiteName": "Icon Parking 301 E 57 Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.759127,
+                "longitude": -73.964684
+            },
+            "locationGUID": "fe551884-0951-4848-9d11-2701bafc1d72",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 301 E 57 Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

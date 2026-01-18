@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Abu Dhabi",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Yas Marina, Yas Island",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.465343,
+                "longitude": 54.608897
+            },
+            "commonSiteName": "Yas Marina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.465343,
+                "longitude": 54.608897
+            },
+            "locationGUID": "d8cc6b2e-2a5b-41b5-b662-7a51522f32e4",
+            "maxPowerKw": 11,
+            "name": "Yas Marina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

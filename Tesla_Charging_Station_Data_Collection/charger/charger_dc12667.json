@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Spokane",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "99224",
+                "postalExt": null,
+                "state": "WA",
+                "street": "S Assembly Rd",
+                "streetNumber": "2010"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.63666,
+                "longitude": -117.477532
+            },
+            "commonSiteName": "Hampton Inn Airport Spokane",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.63666,
+                "longitude": -117.477532
+            },
+            "locationGUID": "5b1593fd-e4b0-4649-808c-b2a530dbb27a",
+            "maxPowerKw": 8,
+            "name": "Hampton Inn Airport Spokane",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

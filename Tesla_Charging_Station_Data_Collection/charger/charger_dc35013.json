@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Elk Grove Village",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60007",
+                "postalExt": null,
+                "state": "IL",
+                "street": "Busse Rd",
+                "streetNumber": "1000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.010468,
+                "longitude": -87.960841
+            },
+            "commonSiteName": "Holiday Inn Chicago-Elk Grove",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.010468,
+                "longitude": -87.960841
+            },
+            "locationGUID": "77dadc25-b12b-4759-b1e7-f1b651a80f40",
+            "maxPowerKw": 10,
+            "name": "Holiday Inn Chicago-Elk Grove",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

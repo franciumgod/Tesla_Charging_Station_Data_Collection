@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wuerzburg",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "97070",
+                "postalExt": null,
+                "state": null,
+                "street": "Neubaustraße",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.790479,
+                "longitude": 9.930337
+            },
+            "commonSiteName": "Hotel Rebstock Würzburg GmbH",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.790479,
+                "longitude": 9.930337
+            },
+            "locationGUID": "3b0e3f7b-ecb5-473a-98a2-6663c31339aa",
+            "maxPowerKw": 22,
+            "name": "Hotel Rebstock Wuerzburg GmbH",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

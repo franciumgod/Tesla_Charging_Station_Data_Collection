@@ -1,0 +1,161 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "20:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mnjikaning First Nation 32",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": "Simcoe County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L3V 0N7",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Marina Rd",
+                "streetNumber": "4150"
+            },
+            "amenities": null,
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.65686414,
+                "longitude": -79.35244116
+            },
+            "commonSiteName": "Ojibway Bay Marina",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "CAD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.35,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "CAD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "CAD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.35,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "CAD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 44.65686414,
+                "longitude": -79.35244116
+            },
+            "locationGUID": "ea5d3206-23a3-46b5-97bf-a5092c08d3a0",
+            "maxPowerKw": 11,
+            "name": "Ojibway Bay Marina",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

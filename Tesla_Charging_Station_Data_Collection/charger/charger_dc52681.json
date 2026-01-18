@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cucuron",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "84160",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de Lourmarin",
+                "streetNumber": "3017"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.756325,
+                "longitude": 5.412415
+            },
+            "commonSiteName": "La Cavale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.756325,
+                "longitude": 5.412415
+            },
+            "locationGUID": "4d10531e-0a6c-41fb-ba81-2002c4b3eb21",
+            "maxPowerKw": 11,
+            "name": "La Cavale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

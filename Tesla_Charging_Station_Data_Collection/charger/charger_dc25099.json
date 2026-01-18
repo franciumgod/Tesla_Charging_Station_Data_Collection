@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Clare",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5453",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Main N Rd",
+                "streetNumber": "74A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.84838759,
+                "longitude": 138.61815795
+            },
+            "commonSiteName": "Clare Valley Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.84838759,
+                "longitude": 138.61815795
+            },
+            "locationGUID": "673b6e49-a7de-4774-b10b-16d926ded991",
+            "maxPowerKw": 22,
+            "name": "Clare Valley Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

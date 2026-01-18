@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montreal",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H3B 3A7",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Cathcart",
+                "streetNumber": "638"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.502982,
+                "longitude": -73.568725
+            },
+            "commonSiteName": "Stationnement Publique - Renaissance Marriott",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.502982,
+                "longitude": -73.568725
+            },
+            "locationGUID": "bf3831a6-b669-4cb9-890d-648a8ce4abd6",
+            "maxPowerKw": 14,
+            "name": "Stationnement Publique - Renaissance Marriott",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 21,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

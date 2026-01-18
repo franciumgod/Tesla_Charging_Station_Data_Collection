@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Andrews",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "E5B 1T7",
+                "postalExt": null,
+                "state": "NB",
+                "street": "Adolphus St",
+                "streetNumber": "184"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.080767,
+                "longitude": -67.05517
+            },
+            "commonSiteName": "The Algonquin Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.080767,
+                "longitude": -67.05517
+            },
+            "locationGUID": "be15bed3-e2b5-4888-a113-40496c819b71",
+            "maxPowerKw": 16,
+            "name": "The Algonquin Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Moncton"
+        },
+        "success": true
+    }
+}

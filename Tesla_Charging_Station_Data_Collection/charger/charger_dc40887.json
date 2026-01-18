@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Straskov",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "41184",
+                "postalExt": null,
+                "state": null,
+                "street": "Straskov-Vodochody",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.35785,
+                "longitude": 14.249225
+            },
+            "commonSiteName": "Hotel Amalka",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.35785,
+                "longitude": 14.249225
+            },
+            "locationGUID": "19271596-6acf-4396-a3e1-5b261b8baf5a",
+            "maxPowerKw": 17,
+            "name": "Hotel Amalka",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

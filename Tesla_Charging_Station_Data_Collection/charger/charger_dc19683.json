@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Jose",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95110",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Matrix Blvd",
+                "streetNumber": "1887"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.371136,
+                "longitude": -121.919431
+            },
+            "commonSiteName": "Casino M8trix",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.371136,
+                "longitude": -121.919431
+            },
+            "locationGUID": "77062455-4ad2-4187-b98b-34f27073af22",
+            "maxPowerKw": 0,
+            "name": "Casino M8trix",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wendlingen am Neckar",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": "Süd",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "73240",
+                "postalExt": null,
+                "state": "Baden-Wuerttemberg",
+                "street": "Behrstraße",
+                "streetNumber": "90"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.6743477,
+                "longitude": 9.3762264
+            },
+            "commonSiteName": "Hotel Villa Behr",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.6743477,
+                "longitude": 9.3762264
+            },
+            "locationGUID": "bb5f780c-8567-438d-bd82-8f1c6a80bdee",
+            "maxPowerKw": 0,
+            "name": "Hotel Villa Behr",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

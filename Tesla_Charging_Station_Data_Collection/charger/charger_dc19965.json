@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Schwerin",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "19055",
+                "postalExt": null,
+                "state": null,
+                "street": "Schusterstr.",
+                "streetNumber": "13-15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.628086,
+                "longitude": 11.413883
+            },
+            "commonSiteName": "Weinhaus Uhle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.628086,
+                "longitude": 11.413883
+            },
+            "locationGUID": "7af3cedb-51ff-4778-aacf-cd2dcd058ee7",
+            "maxPowerKw": 11,
+            "name": "Weinhaus Uhle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

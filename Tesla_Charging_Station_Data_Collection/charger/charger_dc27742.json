@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Chestertown",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "12817",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Fiddlehead Bay Rd",
+                "streetNumber": "46"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.625261,
+                "longitude": -73.849046
+            },
+            "commonSiteName": "The Fern Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.625261,
+                "longitude": -73.849046
+            },
+            "locationGUID": "165cd88d-6df6-477b-92e5-cff5c120edec",
+            "maxPowerKw": 16,
+            "name": "The Fern Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

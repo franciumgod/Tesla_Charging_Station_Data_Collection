@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tsim Sha Tsui",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": "00000",
+                "postalExt": null,
+                "state": "Yau Tsim Mong",
+                "street": "Canton Rd",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.29507,
+                "longitude": 114.1665
+            },
+            "commonSiteName": "Ocean Terminal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.29561,
+                "longitude": 114.16824
+            },
+            "locationGUID": "816a65cc-7bd7-42eb-80b5-71d3c663368d",
+            "maxPowerKw": 0,
+            "name": "Tsim Sha Tsui, Hong Kong - Canton Road",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": null,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

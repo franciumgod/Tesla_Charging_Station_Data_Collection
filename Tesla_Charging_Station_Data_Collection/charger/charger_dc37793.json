@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Göhren-Lebbin",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17213",
+                "postalExt": null,
+                "state": null,
+                "street": "Seeblick",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.491306,
+                "longitude": 12.484635
+            },
+            "commonSiteName": "TUI BLUE Fleesensee",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.491306,
+                "longitude": 12.484635
+            },
+            "locationGUID": "59419290-ea26-487d-977a-c83156b371dc",
+            "maxPowerKw": 22,
+            "name": "TUI BLUE Fleesensee",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

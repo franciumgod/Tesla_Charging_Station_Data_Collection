@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montfrin",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30490",
+                "postalExt": null,
+                "state": null,
+                "street": "Cour Antelme",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.88041964,
+                "longitude": 4.58930682
+            },
+            "commonSiteName": "Camping BelleRive",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.88041964,
+                "longitude": 4.58930682
+            },
+            "locationGUID": "a7d863fe-3514-4ea0-a7a3-ae34bbf5edde",
+            "maxPowerKw": 11,
+            "name": "Camping BelleRive",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

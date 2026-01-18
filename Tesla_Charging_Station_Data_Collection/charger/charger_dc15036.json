@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ancona",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "60122",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Rupi di Via XXIX Settembre",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.616018,
+                "longitude": 13.506613
+            },
+            "commonSiteName": "SeePort Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.616018,
+                "longitude": 13.506613
+            },
+            "locationGUID": "7776dd3f-729d-44da-9ec5-df133f813168",
+            "maxPowerKw": 22,
+            "name": "SeePort Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

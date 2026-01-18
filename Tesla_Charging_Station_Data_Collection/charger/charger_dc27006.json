@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arno Bay",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5603",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Creek Rd",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.916567,
+                "longitude": 136.572921
+            },
+            "commonSiteName": "Hotel Arno",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.916567,
+                "longitude": 136.572921
+            },
+            "locationGUID": "1833ae36-e661-4913-9db6-077ef7386e24",
+            "maxPowerKw": 6,
+            "name": "Hotel Arno",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 69th St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.767615,
+                "longitude": -73.961509
+            },
+            "commonSiteName": "Enterprise Parking 200 E 69th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.767615,
+                "longitude": -73.961509
+            },
+            "locationGUID": "a60ff96e-d0e0-40d9-8638-aca4ef7ab8df",
+            "maxPowerKw": 16,
+            "name": "Enterprise Parking 200 E 69th St",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

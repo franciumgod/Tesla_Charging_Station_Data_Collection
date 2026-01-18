@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Miami Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33139",
+                "postalExt": null,
+                "state": "FL",
+                "street": "West Ave",
+                "streetNumber": "1100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.781954,
+                "longitude": -80.142626
+            },
+            "commonSiteName": "Mondrian South Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.781954,
+                "longitude": -80.142626
+            },
+            "locationGUID": "7a08902b-1d0a-4c86-81a9-46327fcc0baa",
+            "maxPowerKw": 8,
+            "name": "Mondrian South Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Coral Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33040",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Coral Springs Dr",
+                "streetNumber": "2501"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.261331,
+                "longitude": -80.264953
+            },
+            "commonSiteName": "City of Coral Springs",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.261331,
+                "longitude": -80.264953
+            },
+            "locationGUID": "fccec042-3a1b-4406-84e6-8430c322790b",
+            "maxPowerKw": 8,
+            "name": "City of Coral Springs",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

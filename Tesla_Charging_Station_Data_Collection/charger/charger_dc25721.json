@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Amorosi",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82031",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Telese",
+                "streetNumber": "296"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.207435,
+                "longitude": 14.486316
+            },
+            "commonSiteName": "Hotel Ristorante La Piana",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.207435,
+                "longitude": 14.486316
+            },
+            "locationGUID": "0a556ff1-cece-4b8a-b4ca-2010e4435a88",
+            "maxPowerKw": 22,
+            "name": "Hotel Ristorante La Piana",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

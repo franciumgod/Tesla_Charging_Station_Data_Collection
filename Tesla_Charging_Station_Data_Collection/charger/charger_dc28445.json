@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Valle Ruesga",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "39815",
+                "postalExt": null,
+                "state": "Cantabria",
+                "street": "Barrio La Barcena",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.279418,
+                "longitude": -3.526302
+            },
+            "commonSiteName": "Palacio Torre de Ruesga",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.279418,
+                "longitude": -3.526302
+            },
+            "locationGUID": "5ec8209a-e5e3-4c35-9294-617574e7d4fa",
+            "maxPowerKw": 11,
+            "name": "Palacio Torre de Ruesga",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

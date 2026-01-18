@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Taby",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "18770",
+                "postalExt": null,
+                "state": null,
+                "street": "Såstaholms alle",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.482685,
+                "longitude": 18.038392
+            },
+            "commonSiteName": "Sastaholm",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.482685,
+                "longitude": 18.038392
+            },
+            "locationGUID": "ed67e841-b22c-4d60-a8b9-8ca34740cc6d",
+            "maxPowerKw": 22,
+            "name": "Sastaholm",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

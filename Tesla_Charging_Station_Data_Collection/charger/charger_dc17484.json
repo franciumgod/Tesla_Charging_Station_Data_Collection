@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Corregidora",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "76900",
+                "postalExt": null,
+                "state": "QUE",
+                "street": "Santa Fe",
+                "streetNumber": "Paseo de la Garza 87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.5902726,
+                "longitude": -100.4488621
+            },
+            "commonSiteName": "Paseo Santiago",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.5902726,
+                "longitude": -100.4488621
+            },
+            "locationGUID": "33c61dcc-5129-49e9-89d9-c4aff9c8ad07",
+            "maxPowerKw": 11,
+            "name": "Paseo Santiago",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

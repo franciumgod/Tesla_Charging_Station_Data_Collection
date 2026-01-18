@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saas-Almagell",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3905",
+                "postalExt": null,
+                "state": null,
+                "street": "Talstrasse",
+                "streetNumber": "41-43"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.09807133,
+                "longitude": 7.95664206
+            },
+            "commonSiteName": "Hotel Kristall-Saphir",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.09807133,
+                "longitude": 7.95664206
+            },
+            "locationGUID": "20cf1410-e9b5-4bf9-b792-b11d66d5e85f",
+            "maxPowerKw": 22,
+            "name": "Hotel Kristall-Saphir",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

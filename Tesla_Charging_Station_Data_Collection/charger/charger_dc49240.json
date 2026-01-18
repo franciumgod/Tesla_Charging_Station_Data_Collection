@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zell am Ziller",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6280",
+                "postalExt": null,
+                "state": null,
+                "street": "Rohrerstr.",
+                "streetNumber": "47"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.236726,
+                "longitude": 11.894267
+            },
+            "commonSiteName": "Ferienhotel Sonnenhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.236726,
+                "longitude": 11.894267
+            },
+            "locationGUID": "61c2c01e-23ef-461e-a7db-660fc38e2206",
+            "maxPowerKw": 11,
+            "name": "Ferienhotel Sonnenhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

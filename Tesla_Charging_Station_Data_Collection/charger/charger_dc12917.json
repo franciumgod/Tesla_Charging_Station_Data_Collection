@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Poole",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BH13 7QL",
+                "postalExt": null,
+                "state": "Dorset",
+                "street": "161 Banks Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.683042,
+                "longitude": -1.947168
+            },
+            "commonSiteName": "Haven Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.683042,
+                "longitude": -1.947168
+            },
+            "locationGUID": "a4ec53d3-6456-477b-a0d1-949cdf2ecb60",
+            "maxPowerKw": 7,
+            "name": "Haven Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

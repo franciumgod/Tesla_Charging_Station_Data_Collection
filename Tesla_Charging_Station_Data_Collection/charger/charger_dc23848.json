@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bandholm",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4941",
+                "postalExt": null,
+                "state": null,
+                "street": "Havnegade",
+                "streetNumber": "37"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.836852,
+                "longitude": 11.485978
+            },
+            "commonSiteName": "Bandholm Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.836852,
+                "longitude": 11.485978
+            },
+            "locationGUID": "8177beae-3098-4bb0-ac88-3bf3dc5a9643",
+            "maxPowerKw": 6,
+            "name": "Bandholm Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

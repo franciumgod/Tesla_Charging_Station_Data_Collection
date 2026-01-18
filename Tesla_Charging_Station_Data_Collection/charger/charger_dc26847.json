@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Reims",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "51100",
+                "postalExt": null,
+                "state": null,
+                "street": "Boulevard Paul Doumer",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.249047,
+                "longitude": 4.026702
+            },
+            "commonSiteName": "Hôtel Mercure Reims Centre Cathedrale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.249047,
+                "longitude": 4.026702
+            },
+            "locationGUID": "d53f1990-ad25-4ea5-b499-fcf206f47fa6",
+            "maxPowerKw": 19,
+            "name": "Hôtel Mercure Reims Centre Cathedrale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

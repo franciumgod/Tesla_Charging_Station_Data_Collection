@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grindelwald",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3818",
+                "postalExt": null,
+                "state": null,
+                "street": "Bortweg",
+                "streetNumber": "44"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.646361,
+                "longitude": 8.052375
+            },
+            "commonSiteName": "Alpinhotel Bort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.646361,
+                "longitude": 8.052375
+            },
+            "locationGUID": "9d865986-3323-4db1-a5ad-73ebf3075525",
+            "maxPowerKw": 22,
+            "name": "Alpinhotel Bort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

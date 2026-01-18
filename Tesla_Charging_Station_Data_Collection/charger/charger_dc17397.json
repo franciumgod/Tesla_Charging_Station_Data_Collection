@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guadalajara",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44610",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Country Club",
+                "streetNumber": "Av. de las Americas 1500"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.697882,
+                "longitude": -103.373736
+            },
+            "commonSiteName": "Torre MIL",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.697882,
+                "longitude": -103.373736
+            },
+            "locationGUID": "2c936a2e-2304-4c61-8cb2-8fa987facc4f",
+            "maxPowerKw": 10,
+            "name": "Torre MIL",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

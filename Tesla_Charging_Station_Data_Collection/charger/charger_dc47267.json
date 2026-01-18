@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alvaro Obregon",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "1900",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Jardines del Pedregal",
+                "streetNumber": "Crater 823"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.316086,
+                "longitude": -99.211582
+            },
+            "commonSiteName": "Crater 823",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.316086,
+                "longitude": -99.211582
+            },
+            "locationGUID": "03ec90e1-dee4-4ecd-80f7-e1616756afa9",
+            "maxPowerKw": 11,
+            "name": "Crater 823",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Yuen Long",
+                "country": "Hong Kong",
+                "countryCode": "HK",
+                "district": null,
+                "navRegion": "hk",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": "New Territories",
+                "street": "Kung Um Rd",
+                "streetNumber": "68"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.4369294,
+                "longitude": 114.0235187
+            },
+            "commonSiteName": "The Green Atrium",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.4369294,
+                "longitude": 114.0235187
+            },
+            "locationGUID": "2e59dca9-aebe-43e2-83f6-5e3b33f1a951",
+            "maxPowerKw": 21,
+            "name": "The Green Atrium",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Hong_Kong"
+        },
+        "success": true
+    }
+}

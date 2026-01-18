@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Monica",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90401",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Ocean Ave",
+                "streetNumber": "1740"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.00854,
+                "longitude": -118.492438
+            },
+            "commonSiteName": "JW Marriott Santa Monica Le Merigot",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.00854,
+                "longitude": -118.492438
+            },
+            "locationGUID": "5e01de48-ec17-47bf-af29-7b5fc81054bd",
+            "maxPowerKw": 16,
+            "name": "JW Marriott Santa Monica Le Merigot",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aandalsnes",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6300",
+                "postalExt": null,
+                "state": null,
+                "street": "Aak",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 62.536592,
+                "longitude": 7.730605
+            },
+            "commonSiteName": "Hotel Aak",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 62.536592,
+                "longitude": 7.730605
+            },
+            "locationGUID": "d8e7cb38-01c5-4987-a3d8-03e9a47ddb73",
+            "maxPowerKw": 7,
+            "name": "Hotel Aak",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

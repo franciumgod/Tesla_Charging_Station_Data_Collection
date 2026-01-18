@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lisboa",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1250",
+                "postalExt": "195",
+                "state": null,
+                "street": "Rua Rosa Araujo",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.721852,
+                "longitude": -9.149275
+            },
+            "commonSiteName": "Hotel Vincci Liberdade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.721852,
+                "longitude": -9.149275
+            },
+            "locationGUID": "5acd337a-a0f9-42a2-aba6-fd48eb1ebfc0",
+            "maxPowerKw": 11,
+            "name": "Hotel Vincci Liberdade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

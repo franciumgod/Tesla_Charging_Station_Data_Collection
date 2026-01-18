@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28000",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Plaza España",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.422713,
+                "longitude": -3.711732
+            },
+            "commonSiteName": "Hotel VP Plaza España Design",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.422713,
+                "longitude": -3.711732
+            },
+            "locationGUID": "d355630c-1507-48e2-a872-f776ec19239e",
+            "maxPowerKw": 22,
+            "name": "Hotel VP Plaza España Design",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Orlando",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32839",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Conroy Rd",
+                "streetNumber": "4200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 28.484944,
+                "longitude": -81.432871
+            },
+            "commonSiteName": "The Mall at Millenia",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 28.484944,
+                "longitude": -81.432871
+            },
+            "locationGUID": "9174884e-8084-421d-be89-a6dcfc63603d",
+            "maxPowerKw": 16,
+            "name": "The Mall at Millenia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

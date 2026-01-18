@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlottesville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22902",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Harris Creek Rd",
+                "streetNumber": "1650"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.892855,
+                "longitude": -78.556809
+            },
+            "commonSiteName": "Thatch Winery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.892855,
+                "longitude": -78.556809
+            },
+            "locationGUID": "335160c0-319e-4ba5-8542-2127bd521971",
+            "maxPowerKw": 16,
+            "name": "Thatch Winery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28042",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle Piragua",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.451572,
+                "longitude": -3.592847
+            },
+            "commonSiteName": "Hotel Maydrit",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.451572,
+                "longitude": -3.592847
+            },
+            "locationGUID": "e5b11cba-8090-4229-a0dd-7d8cd8efb1d2",
+            "maxPowerKw": 11,
+            "name": "Hotel Maydrit",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

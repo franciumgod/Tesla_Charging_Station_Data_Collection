@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5J 2N5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Queens Quay W",
+                "streetNumber": "249"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.638603,
+                "longitude": -79.385449
+            },
+            "commonSiteName": "Radisson Admiral Hotel Toronto- Harbourfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.638603,
+                "longitude": -79.385449
+            },
+            "locationGUID": "3397cc67-8383-400e-95fa-df1c57075eae",
+            "maxPowerKw": 16,
+            "name": "Radisson Admiral Hotel Toronto- Harbourfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

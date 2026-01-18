@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Batizovce",
+                "country": "Slovakia",
+                "countryCode": "SK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "059 35",
+                "postalExt": null,
+                "state": "Presovsky",
+                "street": "Sturova",
+                "streetNumber": "121/75"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.078531,
+                "longitude": 20.175265
+            },
+            "commonSiteName": "Gasperov Mlyn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.078531,
+                "longitude": 20.175265
+            },
+            "locationGUID": "f9443a37-f977-4e95-85f7-e6e5e62313ed",
+            "maxPowerKw": 22,
+            "name": "Gasperov Mlyn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Bratislava"
+        },
+        "success": true
+    }
+}

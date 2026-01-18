@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10128",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 93rd St",
+                "streetNumber": "340"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.781413,
+                "longitude": -73.946377
+            },
+            "commonSiteName": "MPG 340 East 93rd",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.781413,
+                "longitude": -73.946377
+            },
+            "locationGUID": "9c3ee582-5a30-4b59-bddd-9debb82f28a3",
+            "maxPowerKw": 10,
+            "name": "MPG 340 East 93rd",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

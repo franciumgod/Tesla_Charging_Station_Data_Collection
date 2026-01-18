@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Rothenburg ob der Tauber",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "91541",
+                "postalExt": null,
+                "state": "Bayern",
+                "street": "Vorm Wuerzburger Tor",
+                "streetNumber": "6+10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.379847,
+                "longitude": 10.185614
+            },
+            "commonSiteName": "Hotel Rappen Rothenburg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.379847,
+                "longitude": 10.185614
+            },
+            "locationGUID": "504f080f-c46c-4ab5-b723-e1017b2ddbdb",
+            "maxPowerKw": 11,
+            "name": "Hotel Rappen Rothenburg",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

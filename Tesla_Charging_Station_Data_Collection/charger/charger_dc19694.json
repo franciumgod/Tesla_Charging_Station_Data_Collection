@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "London",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N6E 1N9",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Dearness Dr",
+                "streetNumber": "1120"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.931599,
+                "longitude": -81.218504
+            },
+            "commonSiteName": "Quality Suites London",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.931599,
+                "longitude": -81.218504
+            },
+            "locationGUID": "82579795-14c7-484b-b53b-6f77d28dd5a4",
+            "maxPowerKw": 8,
+            "name": "Quality Suites London",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

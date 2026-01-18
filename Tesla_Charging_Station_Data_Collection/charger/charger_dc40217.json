@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Belmont",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3216",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Barrabool Road",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.166789,
+                "longitude": 144.341445
+            },
+            "commonSiteName": "Barwon Valley Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.166789,
+                "longitude": 144.341445
+            },
+            "locationGUID": "71df64c0-6628-43e1-83e5-4d556e3062b2",
+            "maxPowerKw": 22,
+            "name": "Barwon Valley Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

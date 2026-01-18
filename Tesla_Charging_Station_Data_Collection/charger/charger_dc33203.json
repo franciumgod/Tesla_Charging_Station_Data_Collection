@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64619",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Bosques de Las Cumbres",
+                "streetNumber": "Calle Alejandro de Rodas"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.731889,
+                "longitude": -100.395715
+            },
+            "commonSiteName": "Plaza Cumbres",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.731889,
+                "longitude": -100.395715
+            },
+            "locationGUID": "3ca084bd-6a49-4a5b-a148-97a99f19262f",
+            "maxPowerKw": 18,
+            "name": "Plaza Cumbres",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

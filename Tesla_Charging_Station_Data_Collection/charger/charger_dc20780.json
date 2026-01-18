@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arras",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "62000",
+                "postalExt": null,
+                "state": null,
+                "street": "Place de la Croix Rouge",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.289439,
+                "longitude": 2.773402
+            },
+            "commonSiteName": "Najeti Hôtel de l'Univers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.289439,
+                "longitude": 2.773402
+            },
+            "locationGUID": "65f85dcf-3001-4bfb-94bf-80d611381374",
+            "maxPowerKw": 11,
+            "name": "Najeti Hôtel de l'Univers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Jose",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95111",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Monterey Hwy",
+                "streetNumber": "2660"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.296681,
+                "longitude": -121.853109
+            },
+            "commonSiteName": "Holiday Inn Express San Jose",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.296681,
+                "longitude": -121.853109
+            },
+            "locationGUID": "90b3affe-9885-4fe6-a8b5-e102980af8e0",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Express San Jose",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

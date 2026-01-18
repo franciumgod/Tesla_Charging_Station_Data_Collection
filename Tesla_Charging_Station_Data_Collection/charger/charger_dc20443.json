@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 70th St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.768283,
+                "longitude": -73.961149
+            },
+            "commonSiteName": "iPark 200 E 70th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.768283,
+                "longitude": -73.961149
+            },
+            "locationGUID": "a4553713-f931-4899-9576-32050f53f2bf",
+            "maxPowerKw": 16,
+            "name": "iPark 200 E 70th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

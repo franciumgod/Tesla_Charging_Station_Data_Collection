@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ajaccio",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20000",
+                "postalExt": null,
+                "state": null,
+                "street": "Cours Lucien Bonaparte",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.910296,
+                "longitude": 8.721465
+            },
+            "commonSiteName": "Hotel Les Mouettes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.910296,
+                "longitude": 8.721465
+            },
+            "locationGUID": "53c92b08-a745-4a66-b236-954e659f05d5",
+            "maxPowerKw": 7,
+            "name": "Hotel Les Mouettes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

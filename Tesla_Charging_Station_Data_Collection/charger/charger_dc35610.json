@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Pedro Garza Garcia",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "66260",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Colonia Real de San Agustin",
+                "streetNumber": "Av. Real San Augustin # 222"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.65011,
+                "longitude": -100.335286
+            },
+            "commonSiteName": "Plaza Fiesta San Agustin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.65011,
+                "longitude": -100.335286
+            },
+            "locationGUID": "7014b6f1-bd42-4aa4-b3ab-09f45b268d79",
+            "maxPowerKw": 11,
+            "name": "Plaza Fiesta San Agustin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

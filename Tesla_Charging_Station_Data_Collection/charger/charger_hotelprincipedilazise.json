@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lazise",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "37017",
+                "postalExt": null,
+                "state": null,
+                "street": "Strada delle greghe",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.48018386,
+                "longitude": 10.73389402
+            },
+            "commonSiteName": "Hotel Principe di Lazise",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.48018386,
+                "longitude": 10.73389402
+            },
+            "locationGUID": "822bc361-093b-404f-abaa-71a0ce91f4ac",
+            "maxPowerKw": 22,
+            "name": "Hotel Principe di Lazise",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

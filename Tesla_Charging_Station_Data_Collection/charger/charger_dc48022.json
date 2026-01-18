@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Obbuergen",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6363",
+                "postalExt": null,
+                "state": null,
+                "street": "Buergenstock",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.997434,
+                "longitude": 8.383946
+            },
+            "commonSiteName": "Waldhotel Health & Medical Excellence",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.997434,
+                "longitude": 8.383946
+            },
+            "locationGUID": "ec44ceef-4568-499f-b557-ad24a1fca6f3",
+            "maxPowerKw": 0,
+            "name": "Waldhotel Health & Medical Excellence",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

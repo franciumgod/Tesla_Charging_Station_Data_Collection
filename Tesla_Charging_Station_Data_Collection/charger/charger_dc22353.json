@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Venoy",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "89290",
+                "postalExt": null,
+                "state": null,
+                "street": "rue des gravottes",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.802153,
+                "longitude": 3.660254
+            },
+            "commonSiteName": "Logis Le Moulin de la Coudre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.802153,
+                "longitude": 3.660254
+            },
+            "locationGUID": "80b86b5f-06bf-4ee0-8f97-0f38c69c691f",
+            "maxPowerKw": 17,
+            "name": "Logis Le Moulin de la Coudre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

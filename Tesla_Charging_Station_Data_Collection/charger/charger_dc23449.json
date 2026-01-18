@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berkeley Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25411",
+                "postalExt": null,
+                "state": "WV",
+                "street": "Cacapon Lodge Rd",
+                "streetNumber": "818"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.505529,
+                "longitude": -78.300008
+            },
+            "commonSiteName": "Cacapon Resort State Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.505529,
+                "longitude": -78.300008
+            },
+            "locationGUID": "7a3295b0-dd5c-44e1-a2ba-4645f29ab386",
+            "maxPowerKw": 8,
+            "name": "Cacapon Resort State Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

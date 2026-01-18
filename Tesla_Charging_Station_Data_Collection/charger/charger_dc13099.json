@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Memphis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "38103",
+                "postalExt": null,
+                "state": "TN",
+                "street": "Union Ave",
+                "streetNumber": "149"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.142409,
+                "longitude": -90.051998
+            },
+            "commonSiteName": "The Peabody Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.142409,
+                "longitude": -90.051998
+            },
+            "locationGUID": "bf48afe6-3888-42bd-b797-9ae41ab925bb",
+            "maxPowerKw": 13,
+            "name": "The Peabody Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

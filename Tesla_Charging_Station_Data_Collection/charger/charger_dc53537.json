@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Lyme",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03768",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Market St",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.8098339,
+                "longitude": -72.1546709
+            },
+            "commonSiteName": "The Lyme Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.8098339,
+                "longitude": -72.1546709
+            },
+            "locationGUID": "bd5f97c4-b077-42fa-aa2f-ba5091b91113",
+            "maxPowerKw": 16,
+            "name": "The Lyme Inn",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

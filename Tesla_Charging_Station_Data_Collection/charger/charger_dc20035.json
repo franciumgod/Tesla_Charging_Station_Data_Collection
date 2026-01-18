@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Stockton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08559",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "Main St",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.406122,
+                "longitude": -74.977199
+            },
+            "commonSiteName": "Stockton Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.406122,
+                "longitude": -74.977199
+            },
+            "locationGUID": "56471a74-4bc9-40f9-b007-6bf2e7d95723",
+            "maxPowerKw": 16,
+            "name": "Stockton Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

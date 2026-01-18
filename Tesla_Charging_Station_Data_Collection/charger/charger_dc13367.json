@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 15th St",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.734939,
+                "longitude": -73.989409
+            },
+            "commonSiteName": "GGMC Parking Union Square Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.734939,
+                "longitude": -73.989409
+            },
+            "locationGUID": "06b9f66f-11f4-48cd-87a9-c3387239c260",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking Union Square Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

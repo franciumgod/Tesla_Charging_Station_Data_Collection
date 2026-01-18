@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kingston",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "K7L 5H7",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Johnson St",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.228412,
+                "longitude": -76.480206
+            },
+            "commonSiteName": "Delta Hotels by Marriott Kingston Waterfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.228412,
+                "longitude": -76.480206
+            },
+            "locationGUID": "8213c686-986f-48c4-9987-3956dc957334",
+            "maxPowerKw": 16,
+            "name": "Delta Hotels by Marriott Kingston Waterfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

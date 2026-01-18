@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wilkes-Barre Township",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "18702",
+                "postalExt": null,
+                "state": "PA",
+                "street": "E Northampton St",
+                "streetNumber": "787"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.225321,
+                "longitude": -75.868909
+            },
+            "commonSiteName": "Breaker Brewing Company",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.225321,
+                "longitude": -75.868909
+            },
+            "locationGUID": "b945b2d7-424e-443e-a574-d7c038facc40",
+            "maxPowerKw": 16,
+            "name": "Breaker Brewing Company",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

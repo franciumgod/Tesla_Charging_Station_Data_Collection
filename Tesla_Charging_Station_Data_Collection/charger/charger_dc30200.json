@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43215",
+                "postalExt": null,
+                "state": "OH",
+                "street": "E Town St",
+                "streetNumber": "175"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.958798,
+                "longitude": -82.994743
+            },
+            "commonSiteName": "Holiday Inn Columbus Downtown - Capitol Square",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.958798,
+                "longitude": -82.994743
+            },
+            "locationGUID": "53147d4d-0040-48a2-9294-b785178b8fb4",
+            "maxPowerKw": 16,
+            "name": "Holiday Inn Columbus Downtown - Capitol Square",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

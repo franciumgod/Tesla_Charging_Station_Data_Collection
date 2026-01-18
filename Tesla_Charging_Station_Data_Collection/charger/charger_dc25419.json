@@ -1,0 +1,79 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "16:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "17:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "17:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "17:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "17:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "17:00",
+                        "weekday": 5
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rutherglen",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3685",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Slaughterhouse Rd",
+                "streetNumber": "74"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.07021813,
+                "longitude": 146.45199513
+            },
+            "commonSiteName": "Scion Wine",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.07021813,
+                "longitude": 146.45199513
+            },
+            "locationGUID": "927e5f8e-6896-424e-9104-ca431cbff4a3",
+            "maxPowerKw": 6,
+            "name": "Scion Wine",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

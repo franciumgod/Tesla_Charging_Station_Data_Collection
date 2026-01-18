@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M5B 2H4",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Bay St",
+                "streetNumber": "777"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.659317,
+                "longitude": -79.384998
+            },
+            "commonSiteName": "College Park Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.659317,
+                "longitude": -79.384998
+            },
+            "locationGUID": "223c1a5c-8f26-44e0-84e8-3d31f99c2010",
+            "maxPowerKw": 17,
+            "name": "College Park Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

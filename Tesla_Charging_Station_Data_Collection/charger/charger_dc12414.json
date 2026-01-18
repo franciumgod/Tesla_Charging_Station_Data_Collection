@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grafton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "05146",
+                "postalExt": null,
+                "state": "VT",
+                "street": "Main St",
+                "streetNumber": "92"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.172567,
+                "longitude": -72.609107
+            },
+            "commonSiteName": "Grafton Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.172567,
+                "longitude": -72.609107
+            },
+            "locationGUID": "56fc24b7-30ca-46b5-9e4c-b1413326584e",
+            "maxPowerKw": 16,
+            "name": "Grafton Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

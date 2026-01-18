@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santpedor",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8251",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Cami de Juncadella",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.779178,
+                "longitude": 1.831411
+            },
+            "commonSiteName": "Ramon Park Hotel y Restaurante",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.779178,
+                "longitude": 1.831411
+            },
+            "locationGUID": "d249717f-ab5c-4ac8-8fa8-704687d1c692",
+            "maxPowerKw": 22,
+            "name": "Ramon Park Hotel y Restaurante",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

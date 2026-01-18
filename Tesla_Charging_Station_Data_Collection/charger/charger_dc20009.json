@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Russell Street",
+                "streetNumber": "133"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.813325,
+                "longitude": 144.968236
+            },
+            "commonSiteName": "QT Melbourne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.813325,
+                "longitude": 144.968236
+            },
+            "locationGUID": "b2521ce8-a27a-47f0-a529-73b0d5757ace",
+            "maxPowerKw": 22,
+            "name": "QT Melbourne",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

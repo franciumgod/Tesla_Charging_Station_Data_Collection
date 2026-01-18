@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mexicali",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21254",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Manuel Gomez Morin",
+                "streetNumber": "Calzada Cetys"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.65382272,
+                "longitude": -115.41101669
+            },
+            "commonSiteName": "Gran Via Mexicali",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.65382272,
+                "longitude": -115.41101669
+            },
+            "locationGUID": "75bbab57-3b29-471d-a61b-059f157723d3",
+            "maxPowerKw": 18,
+            "name": "Gran Via Mexicali",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

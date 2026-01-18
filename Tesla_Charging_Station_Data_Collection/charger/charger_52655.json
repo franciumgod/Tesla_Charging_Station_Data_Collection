@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Greenville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "29601",
+                "postalExt": null,
+                "state": "SC",
+                "street": "Hampton Ave Ext",
+                "streetNumber": "1320"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.865857,
+                "longitude": -82.4156408
+            },
+            "commonSiteName": "Hampton Station",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.865857,
+                "longitude": -82.4156408
+            },
+            "locationGUID": "b54ccc7a-b239-4b1a-8a3d-548520545824",
+            "maxPowerKw": 19,
+            "name": "Hampton Station",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

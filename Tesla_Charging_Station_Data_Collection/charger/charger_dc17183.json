@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Werribee",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3030",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Derrimut Rd & Heaths Rd",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.875247,
+                "longitude": 144.679638
+            },
+            "commonSiteName": "Pacific Werribee Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.875247,
+                "longitude": 144.679638
+            },
+            "locationGUID": "a3a18678-8885-4615-8b0f-7390456006b6",
+            "maxPowerKw": 6,
+            "name": "Pacific Werribee Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

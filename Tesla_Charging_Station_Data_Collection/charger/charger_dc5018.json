@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Reno",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "89501",
+                "postalExt": null,
+                "state": "NV",
+                "street": "N Virginia St",
+                "streetNumber": "407"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.529751,
+                "longitude": -119.814875
+            },
+            "commonSiteName": "Silver Legacy Resort Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.529751,
+                "longitude": -119.814875
+            },
+            "locationGUID": "e722b398-bbab-4027-abc1-c6ac06e359dc",
+            "maxPowerKw": 8,
+            "name": "Silver Legacy Resort Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

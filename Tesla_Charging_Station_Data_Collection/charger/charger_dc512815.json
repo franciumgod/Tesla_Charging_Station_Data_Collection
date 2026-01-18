@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Koronowo",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "86",
+                "postalExt": "010",
+                "state": null,
+                "street": "ul. Nakielska 11",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.314422,
+                "longitude": 17.930142
+            },
+            "commonSiteName": "Restauracja Diabelski Młyn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.314422,
+                "longitude": 17.930142
+            },
+            "locationGUID": "d65f4813-271f-4aab-a5a8-00c5fd63b6bb",
+            "maxPowerKw": 22,
+            "name": "Restauracja Diabelski Młyn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

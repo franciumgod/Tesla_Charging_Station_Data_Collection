@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Porto-Vecchio",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20137",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue des Turriccioli",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.600377,
+                "longitude": 9.269668
+            },
+            "commonSiteName": "Résidence Le Balamina",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.600377,
+                "longitude": 9.269668
+            },
+            "locationGUID": "d98f7ddd-fa40-4268-a7e8-dbebc644e164",
+            "maxPowerKw": 11,
+            "name": "Résidence Le Balamina",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

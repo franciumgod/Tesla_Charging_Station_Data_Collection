@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Southampton",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SO31 4HQ",
+                "postalExt": null,
+                "state": "Hampshire",
+                "street": "Satchell Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.870977,
+                "longitude": -1.313358
+            },
+            "commonSiteName": "Mercury Yacht Harbour",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.870977,
+                "longitude": -1.313358
+            },
+            "locationGUID": "2e6a89da-6c45-43e7-b5af-e40a68a2f9cc",
+            "maxPowerKw": 22,
+            "name": "Mercury Yacht Harbour",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

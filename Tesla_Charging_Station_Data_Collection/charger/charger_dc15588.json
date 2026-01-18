@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Assago",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20090",
+                "postalExt": null,
+                "state": "Lombardia",
+                "street": "via G. di Vittorio",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.40313646,
+                "longitude": 9.14030489
+            },
+            "commonSiteName": "Royal Garden Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.40313646,
+                "longitude": 9.14030489
+            },
+            "locationGUID": "5f839764-27f4-4a53-a7ad-53addb00fba2",
+            "maxPowerKw": 22,
+            "name": "Royal Garden Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

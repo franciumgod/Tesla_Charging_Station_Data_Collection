@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10075",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 80th St",
+                "streetNumber": "345"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.77331,
+                "longitude": -73.952621
+            },
+            "commonSiteName": "iPark NYC E 80th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.77331,
+                "longitude": -73.952621
+            },
+            "locationGUID": "3b7bc6e1-0801-4b1b-8de6-772706864579",
+            "maxPowerKw": 8,
+            "name": "iPark NYC E 80th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Spodnja Idrija",
+                "country": "Slovenia",
+                "countryCode": "SI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5281",
+                "postalExt": null,
+                "state": "Idrija",
+                "street": "Na Gricu",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.033286,
+                "longitude": 14.025397
+            },
+            "commonSiteName": "Hotel Kendov Dvorec",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.033286,
+                "longitude": 14.025397
+            },
+            "locationGUID": "c787e8ca-e229-4972-8aba-8991c978a004",
+            "maxPowerKw": 22,
+            "name": "Hotel Kendov Dvorec",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Ljubljana"
+        },
+        "success": true
+    }
+}

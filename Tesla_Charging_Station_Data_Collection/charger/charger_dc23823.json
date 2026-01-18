@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hamilton",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3204",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Liverpool St",
+                "streetNumber": "36"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.781653,
+                "longitude": 175.272205
+            },
+            "commonSiteName": "Anglesea Motel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.781653,
+                "longitude": 175.272205
+            },
+            "locationGUID": "b3edcf92-eb98-4883-84ae-536d73b7cec7",
+            "maxPowerKw": 7,
+            "name": "Anglesea Motel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

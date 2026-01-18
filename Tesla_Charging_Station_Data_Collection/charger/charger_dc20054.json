@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Stockholm",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "11527",
+                "postalExt": null,
+                "state": null,
+                "street": "Djurgårdsbrunnsvägen",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.333016,
+                "longitude": 18.111341
+            },
+            "commonSiteName": "Villa Kâllhagen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.333016,
+                "longitude": 18.111341
+            },
+            "locationGUID": "5f33f4fc-92b7-497a-88a1-12a2190075e4",
+            "maxPowerKw": 22,
+            "name": "Villa Källhagen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

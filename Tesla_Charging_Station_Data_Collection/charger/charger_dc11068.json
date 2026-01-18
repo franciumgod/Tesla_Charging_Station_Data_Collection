@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ruy",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38300",
+                "postalExt": null,
+                "state": "Rhône-Alpes",
+                "street": "vie de Boussieu",
+                "streetNumber": "54"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.582345,
+                "longitude": 5.307523
+            },
+            "commonSiteName": "Domaine des Séquoias",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.582345,
+                "longitude": 5.307523
+            },
+            "locationGUID": "a023961b-f333-48ff-9506-523c5ae591d9",
+            "maxPowerKw": 14,
+            "name": "Domaine des Séquoias",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

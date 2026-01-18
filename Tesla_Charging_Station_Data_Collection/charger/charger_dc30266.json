@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Markham",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L6G 1A5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Warden Ave",
+                "streetNumber": "8500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.853852,
+                "longitude": -79.335003
+            },
+            "commonSiteName": "Hilton Toronto/Markham Suites Conference Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.853852,
+                "longitude": -79.335003
+            },
+            "locationGUID": "a118ba9b-3634-4750-a970-ad051dd03af4",
+            "maxPowerKw": 16,
+            "name": "Hilton Toronto/Markham Suites Conference Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Amman",
+                "country": "Jordan",
+                "countryCode": "JO",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Abdullah ad Dawud",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.977694,
+                "longitude": 35.843194
+            },
+            "commonSiteName": "Mecca Mall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.977694,
+                "longitude": 35.843194
+            },
+            "locationGUID": "c6833259-6457-411d-850e-7f3611ffeadc",
+            "maxPowerKw": 11,
+            "name": "Mecca Mall",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Amman"
+        },
+        "success": true
+    }
+}

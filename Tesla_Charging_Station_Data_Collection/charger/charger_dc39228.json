@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lagos",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8600",
+                "postalExt": "544",
+                "state": null,
+                "street": "Rua Costa D'oiro",
+                "streetNumber": "38"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.089347,
+                "longitude": -8.673192
+            },
+            "commonSiteName": "Costa D'oiro Ambiance Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.089347,
+                "longitude": -8.673192
+            },
+            "locationGUID": "d0d46441-f7de-4707-87c7-215c6aeb4c94",
+            "maxPowerKw": 11,
+            "name": "Costa D'oiro Ambiance Village",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

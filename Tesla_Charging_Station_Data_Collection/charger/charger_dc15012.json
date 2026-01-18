@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melesse",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "35520",
+                "postalExt": null,
+                "state": "Bretagne",
+                "street": "Avenue du Phare du Grand Jardin",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.19774919,
+                "longitude": -1.72218885
+            },
+            "commonSiteName": "Golf Cap Malo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.19774919,
+                "longitude": -1.72218885
+            },
+            "locationGUID": "f9572b81-8806-46ed-9e27-8321a23daf40",
+            "maxPowerKw": 6,
+            "name": "Golf Cap Malo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

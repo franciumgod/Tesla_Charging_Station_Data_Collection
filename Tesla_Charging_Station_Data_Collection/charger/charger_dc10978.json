@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Göteborg",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "41451",
+                "postalExt": null,
+                "state": null,
+                "street": "5 Adolf Edelsvärds gata",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.691701,
+                "longitude": 11.909282
+            },
+            "commonSiteName": "Sjomagasinet",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.691701,
+                "longitude": 11.909282
+            },
+            "locationGUID": "9fa8505d-62a7-41e9-893f-6d528f78df3b",
+            "maxPowerKw": 11,
+            "name": "Sjomagasinet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

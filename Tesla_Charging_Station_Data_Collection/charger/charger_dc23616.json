@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bordeaux",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "33000",
+                "postalExt": null,
+                "state": null,
+                "street": "rue Labottière",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.853058,
+                "longitude": -0.589105
+            },
+            "commonSiteName": "La Grande Maison de Bernard Magrez",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.853058,
+                "longitude": -0.589105
+            },
+            "locationGUID": "68f8ec8e-3bc8-40e6-9aba-79bc8dd69b43",
+            "maxPowerKw": 11,
+            "name": "La Grande Maison de Bernard Magrez",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

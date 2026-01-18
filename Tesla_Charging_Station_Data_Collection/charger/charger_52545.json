@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tampa",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "33607",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Bayport Dr",
+                "streetNumber": "2900"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 27.964577,
+                "longitude": -82.549756
+            },
+            "commonSiteName": "Grand Hyatt Tampa Bay",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 27.964577,
+                "longitude": -82.549756
+            },
+            "locationGUID": "b489927b-5bc5-47e9-8b78-89c106ef0086",
+            "maxPowerKw": 16,
+            "name": "Grand Hyatt Tampa Bay",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

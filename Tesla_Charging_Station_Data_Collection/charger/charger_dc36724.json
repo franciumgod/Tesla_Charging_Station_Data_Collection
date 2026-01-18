@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Capdenac-Gare",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "12700",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de la Diège",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.557577,
+                "longitude": 2.075115
+            },
+            "commonSiteName": "Logis Auberge de la Diège",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.557577,
+                "longitude": 2.075115
+            },
+            "locationGUID": "1f24bb70-18d2-426b-b6ab-34cc40224756",
+            "maxPowerKw": 14,
+            "name": "Logis Auberge de la Diège",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Zell am See",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5700",
+                "postalExt": null,
+                "state": null,
+                "street": "Auerspergstrasse",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.325049,
+                "longitude": 12.797519
+            },
+            "commonSiteName": "Hotel Tirolerhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.325049,
+                "longitude": 12.797519
+            },
+            "locationGUID": "b15d0c69-6f56-48e7-baf8-0cb2f2491812",
+            "maxPowerKw": 17,
+            "name": "Hotel Tirolerhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

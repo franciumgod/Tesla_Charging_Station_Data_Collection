@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Piedmont",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0R 1R3",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Chemin Avila",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.886227,
+                "longitude": -74.134116
+            },
+            "commonSiteName": "Sommet Saint-Sauveur versant Avila",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.886227,
+                "longitude": -74.134116
+            },
+            "locationGUID": "6e4fb328-c77d-45eb-ad9e-f7727163299d",
+            "maxPowerKw": 11,
+            "name": "Sommet Saint-Sauveur versant Avila",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

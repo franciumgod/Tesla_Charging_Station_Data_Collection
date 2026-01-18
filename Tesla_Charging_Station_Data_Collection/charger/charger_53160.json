@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "08415",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Carrer Palaudaries",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.37302051,
+                "longitude": 2.17206481
+            },
+            "commonSiteName": "Hotel Spa Grums Barcelona",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.37302051,
+                "longitude": 2.17206481
+            },
+            "locationGUID": "a2b229aa-657a-4598-a7bb-6940c5121453",
+            "maxPowerKw": 22,
+            "name": "Hotel Spa Grums Barcelona",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

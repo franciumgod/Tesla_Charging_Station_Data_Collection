@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Courban",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21520",
+                "postalExt": null,
+                "state": "Bourgogne",
+                "street": "Rue du Lavoir",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.919094,
+                "longitude": 4.737496
+            },
+            "commonSiteName": "Chateau de Courban & Spa Nuxe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.919094,
+                "longitude": 4.737496
+            },
+            "locationGUID": "4ffa2970-d84c-447b-b0ab-e2f4c10d2168",
+            "maxPowerKw": 22,
+            "name": "Chateau de Courban & Spa Nuxe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

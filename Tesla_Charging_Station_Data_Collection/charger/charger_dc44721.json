@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Rumorosa",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21505",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Km. 71.5",
+                "streetNumber": "Tijuana-Mexicali"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.522747,
+                "longitude": -116.063097
+            },
+            "commonSiteName": "La Cabana Del Abuelo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.522747,
+                "longitude": -116.063097
+            },
+            "locationGUID": "90cb2d55-ff04-4408-be10-835bf5e74dd6",
+            "maxPowerKw": 13,
+            "name": "La Cabana Del Abuelo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

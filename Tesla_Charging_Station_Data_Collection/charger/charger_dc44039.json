@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nelson",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V1L 6G3",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Lakeside Dr",
+                "streetNumber": "701"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.497254,
+                "longitude": -117.293984
+            },
+            "commonSiteName": "Prestige Lakeside Resort Nelson",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.497254,
+                "longitude": -117.293984
+            },
+            "locationGUID": "8e0b3a85-a323-44b6-bc18-d3af62c70694",
+            "maxPowerKw": 16,
+            "name": "Prestige Lakeside Resort Nelson",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

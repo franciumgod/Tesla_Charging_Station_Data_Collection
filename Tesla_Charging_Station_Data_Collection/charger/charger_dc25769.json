@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Crested Butte",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "81225",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Gothic Rd",
+                "streetNumber": "620"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.900381,
+                "longitude": -106.966694
+            },
+            "commonSiteName": "The Lodge at Mountaineer Square",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.900381,
+                "longitude": -106.966694
+            },
+            "locationGUID": "e8964921-6d64-49bd-bc8f-64f698d55a67",
+            "maxPowerKw": 13,
+            "name": "The Lodge at Mountaineer Square",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Abu Dhabi",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": "00000",
+                "postalExt": null,
+                "state": null,
+                "street": "Saadiyat Island",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.538398,
+                "longitude": 54.42481
+            },
+            "commonSiteName": "St Regis Saadiyat Island Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.538398,
+                "longitude": 54.42481
+            },
+            "locationGUID": "0ef36900-8fef-4ba5-92c2-5f945e2ad120",
+            "maxPowerKw": 22,
+            "name": "St Regis Saadiyat Island Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

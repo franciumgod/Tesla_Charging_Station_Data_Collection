@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Diego",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "92127",
+                "postalExt": null,
+                "state": "CA",
+                "street": "W Bernardo Ct",
+                "streetNumber": "11520"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.02097,
+                "longitude": -117.082304
+            },
+            "commonSiteName": "Radisson Hotel San Diego - Rancho Bernardo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.02097,
+                "longitude": -117.082304
+            },
+            "locationGUID": "889ade84-fcdd-4510-9fa6-1d1f5cee782b",
+            "maxPowerKw": 16,
+            "name": "Radisson Hotel San Diego - Rancho Bernardo",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

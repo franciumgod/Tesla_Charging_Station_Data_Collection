@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cleveland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44106",
+                "postalExt": null,
+                "state": "OH",
+                "street": "Carnegie Ave",
+                "streetNumber": "9801"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.501611,
+                "longitude": -81.619244
+            },
+            "commonSiteName": "InterContinental Cleveland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.501611,
+                "longitude": -81.619244
+            },
+            "locationGUID": "2315e08e-486f-4e5a-8c7c-71c02ea20022",
+            "maxPowerKw": 16,
+            "name": "InterContinental Cleveland",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

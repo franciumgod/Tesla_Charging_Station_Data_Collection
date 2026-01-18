@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Perth",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6000",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Cathedral Avenue",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -31.955555,
+                "longitude": 115.860357
+            },
+            "commonSiteName": "COMO The Treasury",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -31.955555,
+                "longitude": 115.860357
+            },
+            "locationGUID": "ef8d4d3b-f1d7-477f-a2d2-52a159957737",
+            "maxPowerKw": 8,
+            "name": "COMO The Treasury",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

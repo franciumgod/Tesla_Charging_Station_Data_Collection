@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Port Arthur",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7182",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Radnor Road",
+                "streetNumber": "229"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -43.155649,
+                "longitude": 147.805292
+            },
+            "commonSiteName": "McHenry Distillery",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -43.155649,
+                "longitude": 147.805292
+            },
+            "locationGUID": "e6405d47-8201-4d0c-8faa-97af115d0be8",
+            "maxPowerKw": 14,
+            "name": "McHenry Distillery",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Hobart"
+        },
+        "success": true
+    }
+}

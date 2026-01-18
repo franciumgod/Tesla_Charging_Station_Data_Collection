@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Menlo Park",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94025",
+                "postalExt": null,
+                "state": "CA",
+                "street": "El Camino Real",
+                "streetNumber": "1400"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.456271,
+                "longitude": -122.187642
+            },
+            "commonSiteName": "Park James Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.456271,
+                "longitude": -122.187642
+            },
+            "locationGUID": "222fa3ba-b488-475f-a998-e0e1d9160a26",
+            "maxPowerKw": 16,
+            "name": "Park James Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

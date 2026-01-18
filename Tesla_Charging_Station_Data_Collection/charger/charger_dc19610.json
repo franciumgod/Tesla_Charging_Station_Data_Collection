@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taluyers",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69440",
+                "postalExt": null,
+                "state": null,
+                "street": "rue du Pensionnat",
+                "streetNumber": "144"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.639641,
+                "longitude": 4.72231
+            },
+            "commonSiteName": "Le Talluy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.639641,
+                "longitude": 4.72231
+            },
+            "locationGUID": "2179bf03-4137-4243-b325-942ba8a4850b",
+            "maxPowerKw": 14,
+            "name": "Le Talluy",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

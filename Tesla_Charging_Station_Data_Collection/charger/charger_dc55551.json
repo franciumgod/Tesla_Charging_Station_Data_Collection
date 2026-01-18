@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Leavenworth",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98826",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Hwy 2",
+                "streetNumber": "505"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.589123,
+                "longitude": -120.672887
+            },
+            "commonSiteName": "Icicle Village Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.589123,
+                "longitude": -120.672887
+            },
+            "locationGUID": "5c6f96be-f836-4cce-90ec-9a08b22757d2",
+            "maxPowerKw": 16,
+            "name": "Icicle Village Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

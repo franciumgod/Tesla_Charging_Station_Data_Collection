@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Hancock",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03449",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Main St",
+                "streetNumber": "33"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.9730504,
+                "longitude": -71.9827878
+            },
+            "commonSiteName": "The Hancock Inn, a Select Registry Property",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.9730504,
+                "longitude": -71.9827878
+            },
+            "locationGUID": "a1c1f35f-079f-4bdd-b0ea-24d5712f84ba",
+            "maxPowerKw": 16,
+            "name": "The Hancock Inn, a Select Registry Property",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11217",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Schermerhorn St",
+                "streetNumber": "333"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.686983,
+                "longitude": -73.980498
+            },
+            "commonSiteName": "333 Schermerhorn Garage - The Hub",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.686983,
+                "longitude": -73.980498
+            },
+            "locationGUID": "383f2731-ac6a-48fb-83d9-8a98c657ddf1",
+            "maxPowerKw": 10,
+            "name": "333 Schermerhorn Garage - The Hub",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

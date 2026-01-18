@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Colbourne",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "K0K 1S0",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Orchard Dr",
+                "streetNumber": "262"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.021778,
+                "longitude": -77.90676
+            },
+            "commonSiteName": "The Big Apple",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.021778,
+                "longitude": -77.90676
+            },
+            "locationGUID": "56f9fc9a-aa09-4888-8a6e-6b870c7f0696",
+            "maxPowerKw": 13,
+            "name": "The Big Apple",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

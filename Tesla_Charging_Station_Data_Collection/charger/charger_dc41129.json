@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Airport Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.248907,
+                "longitude": 55.347345
+            },
+            "commonSiteName": "Le Meridien Dubai Hotel & Conference Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.248907,
+                "longitude": 55.347345
+            },
+            "locationGUID": "908241cc-d2ae-4f7f-8f47-d4c098ee3792",
+            "maxPowerKw": 11,
+            "name": "Le Meridien Dubai Hotel & Conference Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

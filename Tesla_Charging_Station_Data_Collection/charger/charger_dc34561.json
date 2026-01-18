@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Maastricht",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6221 CJ",
+                "postalExt": null,
+                "state": null,
+                "street": "Lage Barakken",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.849842,
+                "longitude": 5.700734
+            },
+            "commonSiteName": "Hotel Beaumont",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.849842,
+                "longitude": 5.700734
+            },
+            "locationGUID": "4531a6ef-715c-47bf-aaa1-ed2530993099",
+            "maxPowerKw": 22,
+            "name": "Hotel Beaumont",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 6,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

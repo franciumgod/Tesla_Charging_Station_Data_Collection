@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Beach Haven",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "08008",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "Centre St",
+                "streetNumber": "212"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.563186,
+                "longitude": -74.239133
+            },
+            "commonSiteName": "The Gables",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.563186,
+                "longitude": -74.239133
+            },
+            "locationGUID": "ce403b9d-f1b3-4478-a1f6-fd6905d98a97",
+            "maxPowerKw": 16,
+            "name": "The Gables",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

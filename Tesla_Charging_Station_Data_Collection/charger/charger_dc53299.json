@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Derby",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "DE7 6DG",
+                "postalExt": null,
+                "state": "Derbyshire",
+                "street": "Main Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.975428,
+                "longitude": -1.404159
+            },
+            "commonSiteName": "Morley Hayes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.975428,
+                "longitude": -1.404159
+            },
+            "locationGUID": "e0883bbb-c01c-4012-9377-a7c4c786d160",
+            "maxPowerKw": 22,
+            "name": "Morley Hayes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

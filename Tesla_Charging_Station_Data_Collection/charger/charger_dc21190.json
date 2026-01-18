@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tänndalen",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "840 98",
+                "postalExt": null,
+                "state": null,
+                "street": "Malmagen",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 62.59839485,
+                "longitude": 12.17938012
+            },
+            "commonSiteName": "Fjällnäs Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 62.59839485,
+                "longitude": 12.17938012
+            },
+            "locationGUID": "a718ee83-77f1-4a86-99b5-0276567f0bab",
+            "maxPowerKw": 11,
+            "name": "Fjällnäs Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

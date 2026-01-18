@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Garmisch-Partenkirchen",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82467",
+                "postalExt": null,
+                "state": null,
+                "street": "Chamonixstrasse",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.494519,
+                "longitude": 11.093944
+            },
+            "commonSiteName": "Biohotel Garmischer Hof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.494519,
+                "longitude": 11.093944
+            },
+            "locationGUID": "f6d67ee6-870d-4860-a79f-ecca6381ae9b",
+            "maxPowerKw": 11,
+            "name": "Biohotel Garmischer Hof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

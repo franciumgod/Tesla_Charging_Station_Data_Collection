@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Järfälla",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "175 46",
+                "postalExt": null,
+                "state": "Stockholms län",
+                "street": "Görvälnsvägen",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.43504443,
+                "longitude": 17.78774057
+            },
+            "commonSiteName": "Görvälns Slott",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.43504443,
+                "longitude": 17.78774057
+            },
+            "locationGUID": "d038ddb3-5a33-493d-bed4-eb045adf0d6f",
+            "maxPowerKw": 11,
+            "name": "Görvälns Slott",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

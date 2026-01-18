@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jersey City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "07311",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "Greene St",
+                "streetNumber": "135"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.718398,
+                "longitude": -74.035327
+            },
+            "commonSiteName": "160 Greene-Littleman Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.718398,
+                "longitude": -74.035327
+            },
+            "locationGUID": "53e67144-a716-4d39-a8af-6d65a395b0e9",
+            "maxPowerKw": 10,
+            "name": "160 Greene-Littleman Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

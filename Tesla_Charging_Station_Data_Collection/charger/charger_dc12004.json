@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Newry",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04261",
+                "postalExt": null,
+                "state": "ME",
+                "street": "S Ridge Rd",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.474261,
+                "longitude": -70.855942
+            },
+            "commonSiteName": "Sunday River Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.474261,
+                "longitude": -70.855942
+            },
+            "locationGUID": "cfda8fd9-659b-4781-9e74-ea584e3bc382",
+            "maxPowerKw": 13,
+            "name": "Sunday River Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

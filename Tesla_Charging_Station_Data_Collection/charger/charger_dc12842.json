@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlotte",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28277",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Johnston Rd",
+                "streetNumber": "12325"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.070875,
+                "longitude": -80.842091
+            },
+            "commonSiteName": "SpringHill Suites Charlotte Ballantyne Area",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.070875,
+                "longitude": -80.842091
+            },
+            "locationGUID": "ec84fa0c-9bfe-41af-b76a-0cae1008d548",
+            "maxPowerKw": 16,
+            "name": "SpringHill Suites Charlotte Ballantyne Area",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Paul",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55102",
+                "postalExt": null,
+                "state": "MN",
+                "street": "W 7th St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.943732,
+                "longitude": -93.103125
+            },
+            "commonSiteName": "Hampton Inn & Suites Downtown St. Paul",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.943732,
+                "longitude": -93.103125
+            },
+            "locationGUID": "e69f6f0e-c4a4-4da5-ba09-ef784092c60f",
+            "maxPowerKw": 16,
+            "name": "Hampton Inn & Suites Downtown St. Paul",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

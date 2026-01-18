@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "White Sulphur Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "24986",
+                "postalExt": null,
+                "state": "WV",
+                "street": "W Main St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.786041,
+                "longitude": -80.307948
+            },
+            "commonSiteName": "The Greenbrier",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.786041,
+                "longitude": -80.307948
+            },
+            "locationGUID": "2e2d90d4-4673-4aa9-a5f9-b2b50320d528",
+            "maxPowerKw": 13,
+            "name": "The Greenbrier",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

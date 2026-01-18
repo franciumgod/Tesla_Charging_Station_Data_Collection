@@ -1,0 +1,376 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "22:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Antalya",
+                "country": "Turkey",
+                "countryCode": "TR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7010",
+                "postalExt": null,
+                "state": null,
+                "street": "Konyaaltı Cd. No:1",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.05859375,
+                            0.20842933947772657,
+                            0.3169642857142857,
+                            0.4122488839285714,
+                            0.5208333333333334,
+                            0.625,
+                            0.5833333333333333,
+                            0.46875,
+                            0.41824776785714285,
+                            0.4153814935064935,
+                            0.46912202380952384,
+                            0.5226328903654485,
+                            0.48883928571428575,
+                            0.32620431893687707,
+                            0.13913690476190477,
+                            0.04910714285714286,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.15,
+                            0.234375,
+                            0.2984375,
+                            0.3914930555555556,
+                            0.4732142857142857,
+                            0.5164753401360545,
+                            0.484375,
+                            0.44695960541474666,
+                            0.42779541015625,
+                            0.478515625,
+                            0.5173611111111112,
+                            0.4720982142857143,
+                            0.3027122307256236,
+                            0.12346776634382568,
+                            0.03348214285714286,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.03125,
+                            0.16527157738095236,
+                            0.2785714285714286,
+                            0.4224537037037036,
+                            0.47751913265306123,
+                            0.5428358843537415,
+                            0.609375,
+                            0.625,
+                            0.6140500124875126,
+                            0.5926339285714286,
+                            0.5325924075924076,
+                            0.493530569007264,
+                            0.48995535714285715,
+                            0.35396489104116224,
+                            0.20758928571428573,
+                            0.03125,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.05859375,
+                            0.1625,
+                            0.30208333333333337,
+                            0.4425551470588235,
+                            0.5230034722222222,
+                            0.5625,
+                            0.5234375,
+                            0.5513392857142858,
+                            0.5883152173913043,
+                            0.65625,
+                            0.5016983695652174,
+                            0.34558823529411764,
+                            0.166015625,
+                            0.109375,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.0234375,
+                            0.11830357142857142,
+                            0.18055555555555555,
+                            0.27265625,
+                            0.3317307692307692,
+                            0.34375,
+                            0.4625,
+                            0.515625,
+                            0.55390625,
+                            0.4505208333333333,
+                            0.375,
+                            0.3203125,
+                            0.29048295454545453,
+                            0.22395833333333331,
+                            0.125,
+                            0.0625,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.017857142857142863,
+                            0.09469246031746033,
+                            0.2659276634382567,
+                            0.47583777829313545,
+                            0.6238839285714286,
+                            0.6026278409090908,
+                            0.505345394736842,
+                            0.4053308823529411,
+                            0.33984375,
+                            0.3527644230769231,
+                            0.3978794642857143,
+                            0.45588235294117646,
+                            0.4609375,
+                            0.35431985294117646,
+                            0.17613636363636365,
+                            0.09375,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.060000000000000005,
+                            0.15397727272727274,
+                            0.3021875,
+                            0.46354166666666663,
+                            0.55625,
+                            0.5109375,
+                            0.4386904761904762,
+                            0.36250000000000004,
+                            0.32734375000000004,
+                            0.31160714285714286,
+                            0.33749999999999997,
+                            0.3183035714285714,
+                            0.2894230769230769,
+                            0.21875000000000003,
+                            0.12954545454545455,
+                            0.025,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11008501,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 28892,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "10800s"
+            },
+            "centroid": {
+                "latitude": 36.892899,
+                "longitude": 30.704637
+            },
+            "commonSiteName": "MarkAntalya",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 9.4,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 10,
+                    "rateTier2": 20,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 11.7,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "TRY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 10,
+                    "rateTier2": 20,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 36.8933132,
+                "longitude": 30.7052135
+            },
+            "locationGUID": "f4c5f633-5abd-40ba-931e-a32fe062da13",
+            "maxPowerKw": 250,
+            "name": "Muratpaşa Antalya, Türkiye",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Europe/Istanbul"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98109",
+                "postalExt": null,
+                "state": "WA",
+                "street": "Roy St",
+                "streetNumber": "601"
+            },
+            "amenities": [
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.625378,
+                "longitude": -122.344596
+            },
+            "commonSiteName": "Four Points by Sheraton Downtown Seattle Center",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.625378,
+                "longitude": -122.344596
+            },
+            "locationGUID": "eb33e398-20a4-472d-92f2-15ae62614902",
+            "maxPowerKw": 16,
+            "name": "Four Points by Sheraton Downtown Seattle Center",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

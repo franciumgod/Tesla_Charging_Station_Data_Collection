@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Eagan",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55121",
+                "postalExt": null,
+                "state": "MN",
+                "street": "Nordic Way",
+                "streetNumber": "2611"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.8608166,
+                "longitude": -93.1126914
+            },
+            "commonSiteName": "Omni Viking Lakes Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.8608166,
+                "longitude": -93.1126914
+            },
+            "locationGUID": "005e5c4d-d82a-45d2-93a1-c4bacfe1374c",
+            "maxPowerKw": 6,
+            "name": "Omni Viking Lakes Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

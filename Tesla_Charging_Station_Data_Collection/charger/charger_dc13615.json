@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roma",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "195",
+                "postalExt": null,
+                "state": "Lazio",
+                "street": "Via Faravelli Luigi Giuseppe",
+                "streetNumber": "28"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.919729,
+                "longitude": 12.453658
+            },
+            "commonSiteName": "Parking Faravelli",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.919729,
+                "longitude": 12.453658
+            },
+            "locationGUID": "fd2c683d-72c7-4af7-995e-6905b82db2a9",
+            "maxPowerKw": 22,
+            "name": "Parking Faravelli",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Juan Cuautlancingo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72730",
+                "postalExt": null,
+                "state": "PUE",
+                "street": "San Juan Cuautlancingo, Sanctorum",
+                "streetNumber": "Guerrero 117"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.112044,
+                "longitude": -98.249921
+            },
+            "commonSiteName": "City Express Puebla Autopista",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.112044,
+                "longitude": -98.249921
+            },
+            "locationGUID": "d5b5fb2a-366c-4e88-8e23-d58e652e0b25",
+            "maxPowerKw": 18,
+            "name": "City Express Puebla Autopista",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

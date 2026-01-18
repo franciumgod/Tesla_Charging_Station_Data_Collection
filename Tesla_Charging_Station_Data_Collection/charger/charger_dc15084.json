@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Springdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84767",
+                "postalExt": null,
+                "state": "UT",
+                "street": "Zion Park Blvd",
+                "streetNumber": "147"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.198939,
+                "longitude": -112.989039
+            },
+            "commonSiteName": "Cable Mountain Lodge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.198939,
+                "longitude": -112.989039
+            },
+            "locationGUID": "2cbbf6c9-9178-4512-8029-e1fbc8fc8483",
+            "maxPowerKw": 10,
+            "name": "Cable Mountain Lodge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

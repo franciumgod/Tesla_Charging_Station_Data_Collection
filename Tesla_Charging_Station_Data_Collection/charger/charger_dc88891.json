@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ponferrada",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24400",
+                "postalExt": null,
+                "state": "Castilla y León",
+                "street": "Avenida Portugal",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.546988,
+                "longitude": -6.60526
+            },
+            "commonSiteName": "Temple Hoteles",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.546988,
+                "longitude": -6.60526
+            },
+            "locationGUID": "6baa99d1-0bc7-4a79-91f3-91ca724bd76f",
+            "maxPowerKw": 22,
+            "name": "Temple Hoteles",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

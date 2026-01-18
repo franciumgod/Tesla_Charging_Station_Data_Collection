@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Jose",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95113",
+                "postalExt": null,
+                "state": "CA",
+                "street": "S Market St",
+                "streetNumber": "170"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.3327794,
+                "longitude": -121.8892745
+            },
+            "commonSiteName": "The Fairmont San Jose",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.3327794,
+                "longitude": -121.8892745
+            },
+            "locationGUID": "0ea85103-7946-451c-85b2-3d47c7f00636",
+            "maxPowerKw": 13,
+            "name": "The Fairmont San Jose",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

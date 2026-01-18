@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ballarat",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3350",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Lydiard St",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.562761,
+                "longitude": 143.857347
+            },
+            "commonSiteName": "Craig's Royal Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.562761,
+                "longitude": 143.857347
+            },
+            "locationGUID": "0168e81e-5ab7-47f9-8639-a36df54e203d",
+            "maxPowerKw": 22,
+            "name": "Craig's Royal Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

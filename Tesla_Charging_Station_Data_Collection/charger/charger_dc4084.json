@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Waynesville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28785",
+                "postalExt": null,
+                "state": "NC",
+                "street": "Swag Rd",
+                "streetNumber": "2300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.573886,
+                "longitude": -83.093919
+            },
+            "commonSiteName": "The Swag",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.573886,
+                "longitude": -83.093919
+            },
+            "locationGUID": "b0639e2a-cbff-42d2-b605-7fc07bc8031b",
+            "maxPowerKw": 13,
+            "name": "The Swag",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

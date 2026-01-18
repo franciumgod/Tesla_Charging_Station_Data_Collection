@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 61 St",
+                "streetNumber": "203"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.762678,
+                "longitude": -73.965447
+            },
+            "commonSiteName": "Icon Parking 203 E 61 Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.762678,
+                "longitude": -73.965447
+            },
+            "locationGUID": "7dd8ba30-46be-4aaa-9cb9-8f22a0ad7041",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 203 E 61 Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

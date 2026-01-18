@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10003",
+                "postalExt": null,
+                "state": "NY",
+                "street": "East 9th St",
+                "streetNumber": "91"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.731257,
+                "longitude": -73.992101
+            },
+            "commonSiteName": "GGMC Parking Stewart House Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.731257,
+                "longitude": -73.992101
+            },
+            "locationGUID": "df05a6a9-4d3b-4471-8be3-28a3d63d6e05",
+            "maxPowerKw": 8,
+            "name": "GGMC Parking Stewart House Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

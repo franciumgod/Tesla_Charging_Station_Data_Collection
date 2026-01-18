@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Orleans",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70130",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Poydras St",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.947975,
+                "longitude": -90.066201
+            },
+            "commonSiteName": "Loews New Orleans Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.947975,
+                "longitude": -90.066201
+            },
+            "locationGUID": "45631176-a578-45c4-ba80-1657969b798f",
+            "maxPowerKw": 8,
+            "name": "Loews New Orleans Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Milford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "06776",
+                "postalExt": null,
+                "state": "CT",
+                "street": "Elm St",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.5811518,
+                "longitude": -73.4110271
+            },
+            "commonSiteName": "Homestead Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.5811518,
+                "longitude": -73.4110271
+            },
+            "locationGUID": "14f57e83-3ecc-424d-8ab6-e75c3f4a0a13",
+            "maxPowerKw": 16,
+            "name": "Homestead Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

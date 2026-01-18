@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Boston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02108",
+                "postalExt": null,
+                "state": "MA",
+                "street": "Tremont St",
+                "streetNumber": "90"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.357382,
+                "longitude": -71.060875
+            },
+            "commonSiteName": "Kimpton Nine Zero Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.357382,
+                "longitude": -71.060875
+            },
+            "locationGUID": "447b8c92-52a2-4b32-956b-d352b6e489ac",
+            "maxPowerKw": 16,
+            "name": "Kimpton Nine Zero Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

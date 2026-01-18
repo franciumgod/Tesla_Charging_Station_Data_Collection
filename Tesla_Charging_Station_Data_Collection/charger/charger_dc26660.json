@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Noordwijk",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2202CL",
+                "postalExt": null,
+                "state": null,
+                "street": "Pickeplein",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.241952,
+                "longitude": 4.431662
+            },
+            "commonSiteName": "Radisson Blu Palace Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.241952,
+                "longitude": 4.431662
+            },
+            "locationGUID": "afe5164d-970d-4443-a0f1-ce28ac453524",
+            "maxPowerKw": 22,
+            "name": "Radisson Blu Palace Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

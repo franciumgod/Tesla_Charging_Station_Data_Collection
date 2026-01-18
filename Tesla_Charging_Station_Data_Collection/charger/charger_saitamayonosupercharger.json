@@ -1,0 +1,336 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "09:00",
+                        "periodEnd": "20:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saitama",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "338",
+                "postalExt": "0004",
+                "state": "Saitama",
+                "street": "Honmachinishi, Chuo-ku",
+                "streetNumber": "5-2-9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.0828125,
+                            0.140625,
+                            0.2013888888888889,
+                            0.25,
+                            0.265625,
+                            0.23784722222222224,
+                            0.23784722222222224,
+                            0.265625,
+                            0.265625,
+                            0.31009615384615385,
+                            0.296875,
+                            0.19411057692307693,
+                            0.078125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.078125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.10267857142857142,
+                            0.19010416666666669,
+                            0.25,
+                            0.21875,
+                            0.23828125,
+                            0.265625,
+                            0.27265625,
+                            0.28267045454545453,
+                            0.28125,
+                            0.27201704545454547,
+                            0.2109375,
+                            0.125,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.109375,
+                            0.19791666666666666,
+                            0.25355113636363635,
+                            0.3203125,
+                            0.33984375,
+                            0.36658653846153844,
+                            0.3828125,
+                            0.34375,
+                            0.3181818181818182,
+                            0.3046875,
+                            0.2002840909090909,
+                            0.125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.1294642857142857,
+                            0.1796875,
+                            0.203125,
+                            0.2099609375,
+                            0.240625,
+                            0.296875,
+                            0.34134615384615385,
+                            0.375,
+                            0.36658653846153844,
+                            0.30338541666666663,
+                            0.22890624999999998,
+                            0.13616071428571427,
+                            0.0734375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.0734375,
+                            0.1455078125,
+                            0.203125,
+                            0.220703125,
+                            0.1953125,
+                            0.171875,
+                            0.171875,
+                            0.23125,
+                            0.265625,
+                            0.2203125,
+                            0.15625,
+                            0.096875,
+                            0.0625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.046875
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.115625,
+                            0.1328125,
+                            0.1826171875,
+                            0.21527777777777776,
+                            0.28125,
+                            0.2890625,
+                            0.259375,
+                            0.24739583333333334,
+                            0.25,
+                            0.19010416666666669,
+                            0.10267857142857142,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0125
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.07083333333333333,
+                            0.1794642857142857,
+                            0.2875,
+                            0.3142857142857143,
+                            0.28125,
+                            0.25625,
+                            0.2653846153846154,
+                            0.29375,
+                            0.2966346153846154,
+                            0.28125,
+                            0.23541666666666664,
+                            0.1325,
+                            0.075,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 8885,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 31648,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 35.89096,
+                "longitude": 139.614367
+            },
+            "commonSiteName": "AEON MALL Yono",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 35.89159209,
+                "longitude": 139.61398262
+            },
+            "locationGUID": "ee4b157f-bfa7-4059-95d3-3e2cca83a8a1",
+            "maxPowerKw": 250,
+            "name": "Saitama - Yono, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

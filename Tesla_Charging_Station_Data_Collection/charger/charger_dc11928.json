@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Chicago",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "60601",
+                "postalExt": null,
+                "state": "IL",
+                "street": "S Columbus Dr",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.881747,
+                "longitude": -87.620555
+            },
+            "commonSiteName": "Millennium Parking Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.881747,
+                "longitude": -87.620555
+            },
+            "locationGUID": "1aa8d5bd-f675-4ca6-a56b-ac52dea36cad",
+            "maxPowerKw": 0,
+            "name": "Millennium Parking Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 11,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

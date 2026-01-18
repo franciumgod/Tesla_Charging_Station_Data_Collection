@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wassenaar",
+                "country": "Netherlands",
+                "countryCode": "NL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2245 BZ",
+                "postalExt": null,
+                "state": null,
+                "street": "Zijdeweg 58",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.102594,
+                "longitude": 4.364455
+            },
+            "commonSiteName": "Restaurant De Landbouw",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.102594,
+                "longitude": 4.364455
+            },
+            "locationGUID": "e938d40d-02b7-4b6f-9dc1-b9437182f777",
+            "maxPowerKw": 6,
+            "name": "Restaurant De Landbouw",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Amsterdam"
+        },
+        "success": true
+    }
+}

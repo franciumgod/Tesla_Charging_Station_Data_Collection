@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brussels",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "B",
+                "postalExt": "1000",
+                "state": null,
+                "street": "Rue du Commerce",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.839762,
+                "longitude": 4.367453
+            },
+            "commonSiteName": "Stanhope Hotel by Thon",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.839762,
+                "longitude": 4.367453
+            },
+            "locationGUID": "83208fe4-c564-465d-9bc6-be6cfd4cd7ea",
+            "maxPowerKw": 11,
+            "name": "Stanhope Hotel by Thon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

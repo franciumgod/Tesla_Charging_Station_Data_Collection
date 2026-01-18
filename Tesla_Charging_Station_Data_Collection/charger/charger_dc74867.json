@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "11201",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Atlantic Ave",
+                "streetNumber": "211"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.6910734,
+                "longitude": -73.9901973
+            },
+            "commonSiteName": "Park Kwik - 211 Atlantic",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.6910734,
+                "longitude": -73.9901973
+            },
+            "locationGUID": "7e49b011-4f57-4f58-aff9-b534f17a219c",
+            "maxPowerKw": 10,
+            "name": "Park Kwik - 211 Atlantic",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 6,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

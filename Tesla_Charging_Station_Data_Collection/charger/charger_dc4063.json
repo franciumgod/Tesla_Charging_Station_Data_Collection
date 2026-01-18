@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Clarence",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "14031",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Main St",
+                "streetNumber": "10529"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.9797166,
+                "longitude": -78.5957239
+            },
+            "commonSiteName": "Asa Ransom House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.9797166,
+                "longitude": -78.5957239
+            },
+            "locationGUID": "6c786ccb-1108-4510-bca4-ab6b1fac4635",
+            "maxPowerKw": 16,
+            "name": "Asa Ransom House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

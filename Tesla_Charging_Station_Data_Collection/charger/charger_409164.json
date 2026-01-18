@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bryce Canyon City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Garfield County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "84764",
+                "postalExt": null,
+                "state": "UT",
+                "street": "S Main St",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.673655,
+                "longitude": -112.1575573
+            },
+            "commonSiteName": "Best Western Plus Ruby's Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.673655,
+                "longitude": -112.1575573
+            },
+            "locationGUID": "a1d222a4-9796-45d5-a186-a28120e31def",
+            "maxPowerKw": 0,
+            "name": "Best Western Plus Ruby's Inn",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

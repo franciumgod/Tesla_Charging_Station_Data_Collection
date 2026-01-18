@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Denver",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80239",
+                "postalExt": null,
+                "state": "CO",
+                "street": "E 40th Ave",
+                "streetNumber": "15500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.771872,
+                "longitude": -104.80692
+            },
+            "commonSiteName": "Crowne Plaza Denver Airport Convention Ctr",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.771872,
+                "longitude": -104.80692
+            },
+            "locationGUID": "c7009863-e5a8-4268-8d94-95ddf2dfa58a",
+            "maxPowerKw": 16,
+            "name": "Crowne Plaza Denver Airport Convention Ctr",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

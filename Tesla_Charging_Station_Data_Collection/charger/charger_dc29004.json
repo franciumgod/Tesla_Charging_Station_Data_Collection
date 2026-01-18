@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Krakow",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31101",
+                "postalExt": null,
+                "state": null,
+                "street": "Powisle",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.056425,
+                "longitude": 19.930354
+            },
+            "commonSiteName": "Sheraton Grand Krakow",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.056425,
+                "longitude": 19.930354
+            },
+            "locationGUID": "7ca81b22-d8da-41ae-831b-353e79701b37",
+            "maxPowerKw": 11,
+            "name": "Sheraton Grand Krakow",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

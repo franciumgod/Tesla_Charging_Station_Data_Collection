@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Starkville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39759",
+                "postalExt": null,
+                "state": "MS",
+                "street": "MS-12",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.453778,
+                "longitude": -88.805404
+            },
+            "commonSiteName": "Hampton Inn Starkville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.453778,
+                "longitude": -88.805404
+            },
+            "locationGUID": "65ad6a48-c0bc-4a70-afc8-1df4557e7bf0",
+            "maxPowerKw": 8,
+            "name": "Hampton Inn Starkville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Berkeley Springs",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25411",
+                "postalExt": null,
+                "state": "WV",
+                "street": "Valley Rd",
+                "streetNumber": "11500"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.471919,
+                "longitude": -78.307941
+            },
+            "commonSiteName": "Mountain View Solar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.471919,
+                "longitude": -78.307941
+            },
+            "locationGUID": "52df03ee-c03f-4fba-8ff6-402c107eb7b4",
+            "maxPowerKw": 8,
+            "name": "Mountain View Solar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

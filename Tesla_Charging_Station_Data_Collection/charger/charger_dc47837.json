@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hexham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NE47 5LU",
+                "postalExt": null,
+                "state": null,
+                "street": "Langley-on-Tyne",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.95659708,
+                "longitude": -2.26006476
+            },
+            "commonSiteName": "Langley Castle Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.95659708,
+                "longitude": -2.26006476
+            },
+            "locationGUID": "a562122f-4a01-4400-b531-7f9d6d700d36",
+            "maxPowerKw": 13,
+            "name": "Langley Castle Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Toronto",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "M4Y 2L1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Bloor St E",
+                "streetNumber": "365"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.671915,
+                "longitude": -79.377971
+            },
+            "commonSiteName": "Target Park - 365 Bloor St",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.671915,
+                "longitude": -79.377971
+            },
+            "locationGUID": "33b8d624-fbdd-4760-86a0-a3c9cbae9ad9",
+            "maxPowerKw": 16,
+            "name": "Target Park - 365 Bloor St",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

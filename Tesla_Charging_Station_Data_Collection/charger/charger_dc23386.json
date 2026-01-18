@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "39701",
+                "postalExt": null,
+                "state": "MS",
+                "street": "6th St N",
+                "streetNumber": "1995"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.516035,
+                "longitude": -88.427726
+            },
+            "commonSiteName": "Courtyard Columbus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.516035,
+                "longitude": -88.427726
+            },
+            "locationGUID": "72d52faf-018c-412e-8cb9-df5cb0d476e1",
+            "maxPowerKw": 16,
+            "name": "Courtyard Columbus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

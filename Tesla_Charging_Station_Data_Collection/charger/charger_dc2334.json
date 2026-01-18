@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94108",
+                "postalExt": null,
+                "state": "CA",
+                "street": "California St",
+                "streetNumber": "999"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.791596,
+                "longitude": -122.410385
+            },
+            "commonSiteName": "InterContinental Mark Hopkins San Francisco",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.791596,
+                "longitude": -122.410385
+            },
+            "locationGUID": "9a3f784d-0ba1-4f19-bb6c-d68e7c894dd3",
+            "maxPowerKw": 13,
+            "name": "InterContinental Mark Hopkins San Francisco",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

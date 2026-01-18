@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Modena",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "12548",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Route 44/55",
+                "streetNumber": "1938"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.667789,
+                "longitude": -74.105714
+            },
+            "commonSiteName": "New York State Solar Farm",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.667789,
+                "longitude": -74.105714
+            },
+            "locationGUID": "2fba0a60-4402-4c82-bedc-6e96b21530fe",
+            "maxPowerKw": 11,
+            "name": "New York State Solar Farm",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

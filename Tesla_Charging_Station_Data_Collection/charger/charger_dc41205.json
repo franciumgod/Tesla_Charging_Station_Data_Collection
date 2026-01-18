@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10007",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Chambers St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.716256,
+                "longitude": -74.012543
+            },
+            "commonSiteName": "Central Parking 200 Chambers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.716256,
+                "longitude": -74.012543
+            },
+            "locationGUID": "65262fb8-8742-4d76-af16-4ae5f7df68b7",
+            "maxPowerKw": 8,
+            "name": "Central Parking 200 Chambers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

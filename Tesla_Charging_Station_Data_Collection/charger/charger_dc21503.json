@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Detroit",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "48226",
+                "postalExt": null,
+                "state": "MI",
+                "street": "Woodward Ave",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.330607,
+                "longitude": -83.044786
+            },
+            "commonSiteName": "One Detroit Center Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.330607,
+                "longitude": -83.044786
+            },
+            "locationGUID": "2baa454c-8c32-4e8d-b498-1579ea8f2517",
+            "maxPowerKw": 17,
+            "name": "One Detroit Center Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

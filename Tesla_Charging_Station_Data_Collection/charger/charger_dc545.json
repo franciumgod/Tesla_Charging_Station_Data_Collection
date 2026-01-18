@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Seattle",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98104",
+                "postalExt": null,
+                "state": "WA",
+                "street": "1st Ave",
+                "streetNumber": "1000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.6049041,
+                "longitude": -122.3361893
+            },
+            "commonSiteName": "Hotel 1000",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.6049041,
+                "longitude": -122.3361893
+            },
+            "locationGUID": "cb35ca13-8dad-49d5-b96d-41e7a2985b4c",
+            "maxPowerKw": 8,
+            "name": "Hotel 1000",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

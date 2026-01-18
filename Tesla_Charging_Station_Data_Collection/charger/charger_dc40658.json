@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Clara",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95054",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Rivermark Plaza",
+                "streetNumber": "3915"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.39449,
+                "longitude": -121.944762
+            },
+            "commonSiteName": "Hyatt House Santa Clara",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.39449,
+                "longitude": -121.944762
+            },
+            "locationGUID": "0fb775c5-2c29-47e4-a733-7cc795fcaa47",
+            "maxPowerKw": 16,
+            "name": "Hyatt House Santa Clara",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

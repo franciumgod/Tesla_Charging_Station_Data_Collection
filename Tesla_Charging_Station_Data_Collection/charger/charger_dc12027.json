@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Les Baux-de-Provence",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "13520",
+                "postalExt": null,
+                "state": "Provence-Alpes-Côte d'Azur",
+                "street": "Domaine de Manville",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.73310271,
+                "longitude": 4.80103348
+            },
+            "commonSiteName": "Domaine de Manville",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.73310271,
+                "longitude": 4.80103348
+            },
+            "locationGUID": "2a58ecf2-638f-455b-be25-69eb033421d4",
+            "maxPowerKw": 22,
+            "name": "Domaine de Manville",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

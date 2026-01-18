@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Jean-Cap-Ferrat",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6230",
+                "postalExt": null,
+                "state": "Provence-Alpes-Côte d'Azur",
+                "street": "Avenue Jean Monnet",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.701976,
+                "longitude": 7.328267
+            },
+            "commonSiteName": "Hotel Royal Riviera",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.701976,
+                "longitude": 7.328267
+            },
+            "locationGUID": "cd512acb-eb25-484c-b34b-86a27c15db6c",
+            "maxPowerKw": 22,
+            "name": "Hotel Royal Riviera",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

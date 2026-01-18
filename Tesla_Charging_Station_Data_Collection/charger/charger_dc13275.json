@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Denver",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "80202",
+                "postalExt": null,
+                "state": "CO",
+                "street": "Curtis St",
+                "streetNumber": "1881"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.749998,
+                "longitude": -104.991988
+            },
+            "commonSiteName": "The Ritz-Carlton, Denver",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.749998,
+                "longitude": -104.991988
+            },
+            "locationGUID": "882a9255-359d-4cd3-96fb-5b4b71549361",
+            "maxPowerKw": 8,
+            "name": "The Ritz-Carlton, Denver",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

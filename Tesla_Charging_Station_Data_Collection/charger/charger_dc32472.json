@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Morzine",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "74110",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Téléphérique",
+                "streetNumber": "231"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.179577,
+                "longitude": 6.702311
+            },
+            "commonSiteName": "Hôtel Champs Fleuris",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.179577,
+                "longitude": 6.702311
+            },
+            "locationGUID": "b3ecad6e-2735-41fb-afdc-1af41ecd9769",
+            "maxPowerKw": 14,
+            "name": "Hôtel Champs Fleuris",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

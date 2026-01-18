@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lisbon",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1249",
+                "postalExt": "021",
+                "state": null,
+                "street": "Rua do Pau de Bandeira",
+                "streetNumber": "4"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.706785,
+                "longitude": -9.16383
+            },
+            "commonSiteName": "Olissippo Lapa Palace",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.706785,
+                "longitude": -9.16383
+            },
+            "locationGUID": "6b8f3dd5-46ac-406d-a731-965dde4fca13",
+            "maxPowerKw": 22,
+            "name": "Olissippo Lapa Palace",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

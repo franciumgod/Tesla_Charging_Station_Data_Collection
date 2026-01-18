@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Henne",
+                "country": "Denmark",
+                "countryCode": "DK",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": "Strandvejen 234",
+                "postalCode": "6854",
+                "postalExt": null,
+                "state": "Denmark",
+                "street": "Strandvejen",
+                "streetNumber": "234"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT",
+                "AMENITIES_TWENTY_FOUR_HOUR"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.72713035,
+                "longitude": 8.242753
+            },
+            "commonSiteName": "Henne Kirkeby Kro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.726714,
+                "longitude": 8.241968
+            },
+            "locationGUID": "6289856e-f121-47bc-a604-6c81ed6a07e4",
+            "maxPowerKw": 11,
+            "name": "Henne Kirkeby Kro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Copenhagen"
+        },
+        "success": true
+    }
+}

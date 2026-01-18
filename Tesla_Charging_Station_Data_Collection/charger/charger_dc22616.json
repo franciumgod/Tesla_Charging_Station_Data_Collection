@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Leganes",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28916",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Avda Gran Bretana",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.340227,
+                "longitude": -3.733088
+            },
+            "commonSiteName": "Parquesur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.340227,
+                "longitude": -3.733088
+            },
+            "locationGUID": "a4460ab7-adcc-4c1f-ad0d-8daf83d3b0fd",
+            "maxPowerKw": 22,
+            "name": "Parquesur",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

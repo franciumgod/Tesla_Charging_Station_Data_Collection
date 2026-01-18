@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Redmond",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "98052",
+                "postalExt": null,
+                "state": "WA",
+                "street": "164th Ave NE",
+                "streetNumber": "7401"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.671225,
+                "longitude": -122.122192
+            },
+            "commonSiteName": "Seattle Marriott Redmond",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.671225,
+                "longitude": -122.122192
+            },
+            "locationGUID": "c434b770-ba96-43bd-98ff-3717be5b0402",
+            "maxPowerKw": 8,
+            "name": "Seattle Marriott Redmond",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Fe",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "87501",
+                "postalExt": null,
+                "state": "NM",
+                "street": "E De Vargas St",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.683768,
+                "longitude": -105.938017
+            },
+            "commonSiteName": "The Inn of The Five Graces",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.683768,
+                "longitude": -105.938017
+            },
+            "locationGUID": "1d6b8a78-1b04-45e0-9a4f-383178db6c64",
+            "maxPowerKw": 13,
+            "name": "The Inn of The Five Graces",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

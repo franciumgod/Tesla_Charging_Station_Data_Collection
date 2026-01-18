@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Boston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02116",
+                "postalExt": null,
+                "state": "MA",
+                "street": "Boylston St",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.352135,
+                "longitude": -71.068673
+            },
+            "commonSiteName": "Four Seasons Hotel Boston",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.352135,
+                "longitude": -71.068673
+            },
+            "locationGUID": "67071ede-a22c-4632-b9e4-bb7f09cb16b2",
+            "maxPowerKw": 8,
+            "name": "Four Seasons Hotel Boston",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

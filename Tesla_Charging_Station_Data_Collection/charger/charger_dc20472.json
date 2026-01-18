@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sainte-Preuve",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2350",
+                "postalExt": null,
+                "state": null,
+                "street": "Domaine de Barive, Le Prieuré",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.617202,
+                "longitude": 3.914441
+            },
+            "commonSiteName": "Le Prieuré",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.617202,
+                "longitude": 3.914441
+            },
+            "locationGUID": "0340d416-61e5-4246-9c4d-8b67588857cc",
+            "maxPowerKw": 22,
+            "name": "Le Prieuré",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

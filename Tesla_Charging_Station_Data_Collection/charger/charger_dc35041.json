@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kings Lynn",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "PE31 8JY",
+                "postalExt": null,
+                "state": null,
+                "street": "Sussex Farm",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.945165,
+                "longitude": 0.68074
+            },
+            "commonSiteName": "The White House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.945165,
+                "longitude": 0.68074
+            },
+            "locationGUID": "33bb8136-bc16-4617-8d64-2a3b09e22719",
+            "maxPowerKw": 7,
+            "name": "The White House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3000",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Flinders Street",
+                "streetNumber": "300"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.818269,
+                "longitude": 144.964026
+            },
+            "commonSiteName": "Secure Parking - L1 - 13 & 14",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.818269,
+                "longitude": 144.964026
+            },
+            "locationGUID": "169c3607-a4f7-4e82-8155-fbb19a669e8a",
+            "maxPowerKw": 6,
+            "name": "Secure Parking - L1 - 13 & 14",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

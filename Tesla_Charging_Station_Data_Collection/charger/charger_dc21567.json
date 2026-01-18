@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jozefow",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "05",
+                "postalExt": "420",
+                "state": null,
+                "street": "Telimeny",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.12312,
+                "longitude": 21.234339
+            },
+            "commonSiteName": "Holiday Inn Warszawa Jozefow",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.12312,
+                "longitude": 21.234339
+            },
+            "locationGUID": "21fde69b-4a6d-4e11-a674-a7a099d5089e",
+            "maxPowerKw": 22,
+            "name": "Holiday Inn Warszawa Jozefow",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

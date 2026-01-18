@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Paz",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23000",
+                "postalExt": null,
+                "state": "BCS",
+                "street": "Zona Central",
+                "streetNumber": "Nicolas Bravo No.590 Esq. Ignacio Altamirano"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.154868,
+                "longitude": -110.31324
+            },
+            "commonSiteName": "Hotel One la Paz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.154868,
+                "longitude": -110.31324
+            },
+            "locationGUID": "06cddac1-c2aa-425a-bb71-9927c9663437",
+            "maxPowerKw": 18,
+            "name": "Hotel One la Paz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mazatlan"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Mergentheim",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "97980",
+                "postalExt": null,
+                "state": null,
+                "street": "Erlenbachweg",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.495764,
+                "longitude": 9.79623
+            },
+            "commonSiteName": "AKZENT Vitalhotel König am Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.495764,
+                "longitude": 9.79623
+            },
+            "locationGUID": "851e3ad1-9ab4-4151-b8ca-25b3312de7bb",
+            "maxPowerKw": 11,
+            "name": "AKZENT Vitalhotel Koenig am Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

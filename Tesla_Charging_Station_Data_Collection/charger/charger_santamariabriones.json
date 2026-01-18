@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Briones, La Rioja",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26330",
+                "postalExt": null,
+                "state": "La Rioja",
+                "street": "Calle Concepción",
+                "streetNumber": "37"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.544396,
+                "longitude": -2.78628
+            },
+            "commonSiteName": "Hotel Santa María Briones",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.544396,
+                "longitude": -2.78628
+            },
+            "locationGUID": "a250d534-cf0e-49d6-bf91-ee2bc087df48",
+            "maxPowerKw": 11,
+            "name": "Hotel Santa María Briones",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

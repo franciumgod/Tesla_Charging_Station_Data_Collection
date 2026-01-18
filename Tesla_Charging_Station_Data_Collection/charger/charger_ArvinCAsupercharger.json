@@ -1,0 +1,374 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "04:30",
+                        "periodEnd": "23:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arvin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": "Restroom Hours: 10AM - 8PM",
+                "postalCode": "93203",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Outlets at Tejon Parkway",
+                "streetNumber": "5701"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.3144036622035504,
+                            0.27962198075127764,
+                            0.2483500459818902,
+                            0.1957911698018583,
+                            0.12657472308243525,
+                            0.09104565323714287,
+                            0.058242184671134796,
+                            0.030792862915258016,
+                            0.008988398415393312,
+                            0,
+                            0,
+                            0.007343661573288057,
+                            0.00935979060554612,
+                            0.030251395167842244,
+                            0.04546457822379418,
+                            0.08195218579286648,
+                            0.11450492442810184,
+                            0.1785342313247668,
+                            0.2741381736443972,
+                            0.3950849620487611,
+                            0.4849860998902468,
+                            0.5287933716894113,
+                            0.544441867957219,
+                            0.5171248983281576
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.6679907494712803,
+                            0.5830334600388034,
+                            0.47808024284675005,
+                            0.3607648563403462,
+                            0.25074194519743565,
+                            0.15614705327493048,
+                            0.08361164091027648,
+                            0.04630764722939027,
+                            0.013959916202310949,
+                            0.0078125,
+                            0.0078125,
+                            0.0078125,
+                            0.013913928952991456,
+                            0.038903662908069014,
+                            0.05569004303599375,
+                            0.07220831606925374,
+                            0.08379776167190078,
+                            0.14702983083223825,
+                            0.20967682031716744,
+                            0.2970471602441518,
+                            0.3513670427168273,
+                            0.3756694230948702,
+                            0.37834593912157155,
+                            0.3593415176944409
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.45074103736501364,
+                            0.3793673710330814,
+                            0.33274957492320145,
+                            0.2885694931516535,
+                            0.21659942243043806,
+                            0.14361223604404508,
+                            0.07903657279686549,
+                            0.04410224655081293,
+                            0.0074375582869030815,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.020174087286879167,
+                            0.043550272951848684,
+                            0.10222390097218237,
+                            0.18724024870061806,
+                            0.32543717417767,
+                            0.47263235613330423,
+                            0.6080723699022829,
+                            0.6860348844656403,
+                            0.7083294292807112,
+                            0.70513606313427,
+                            0.7034578328487726
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.6511223591549296,
+                            0.5916846608239061,
+                            0.4826244411180341,
+                            0.362197619741267,
+                            0.2628421881029783,
+                            0.18982377073946247,
+                            0.1145061302181551,
+                            0.07267903484483523,
+                            0.012419871794871798,
+                            0.007378472222222224,
+                            0,
+                            0.0034722222222222238,
+                            0.0034722222222222238,
+                            0.018278071205007823,
+                            0.041564578867693075,
+                            0.10037531589102161,
+                            0.17495084765187224,
+                            0.2949807903311835,
+                            0.44119889872837215,
+                            0.5903009350999533,
+                            0.6888276276842477,
+                            0.7460409385990497,
+                            0.7569203247422158,
+                            0.721669914537211
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.23440867077464786,
+                            0.18952690782335313,
+                            0.13236194165552337,
+                            0.09553077717739092,
+                            0.05928358430235785,
+                            0.03885354580326586,
+                            0.018119148580766686,
+                            0.010767152255639095,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0017857142857142794,
+                            0.017312680792134133,
+                            0.03001381393762888,
+                            0.04882398583221201,
+                            0.06676635805341881,
+                            0.09108338535493193,
+                            0.13353487039194653,
+                            0.19679905872481002,
+                            0.29196985350442617,
+                            0.3631571115288221,
+                            0.37972228328554214,
+                            0.3627686403508772
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.31841821280310906,
+                            0.2835950570753787,
+                            0.23980226124102194,
+                            0.18541859993926368,
+                            0.12584338278213586,
+                            0.07751012190464233,
+                            0.0435707848331266,
+                            0.014188727525256212,
+                            0.006859166168192063,
+                            0.0016447368421052683,
+                            0,
+                            0.009573063380281688,
+                            0.015434711930991779,
+                            0.024330812175685695,
+                            0.03221946735594653,
+                            0.051260433835767116,
+                            0.07959608214376596,
+                            0.12248586755218208,
+                            0.19214010932775877,
+                            0.2693648631114892,
+                            0.33801150367823823,
+                            0.3517356153047316,
+                            0.3314493050667516,
+                            0.31383381660401166
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.3039526882513214,
+                            0.2534832215814149,
+                            0.19752228666753915,
+                            0.14977059116618127,
+                            0.1094553519604349,
+                            0.07373257853639867,
+                            0.0468045917882375,
+                            0.02688305352733893,
+                            0.00949120421571482,
+                            0.003947368421052633,
+                            0,
+                            0.003125,
+                            0.006890682374541005,
+                            0.026939887800007757,
+                            0.04098522053372868,
+                            0.05330244407429657,
+                            0.07408040075613428,
+                            0.1234271264757241,
+                            0.18117623184934345,
+                            0.22924036498512806,
+                            0.2732790203020761,
+                            0.3081876853224611,
+                            0.30003951981334387,
+                            0.2705819251706608
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 3258,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 12015,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "-28800s"
+            },
+            "centroid": {
+                "latitude": 34.985712,
+                "longitude": -118.943935
+            },
+            "commonSiteName": "Outlets at Tejon",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.45,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.64,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "NTSLA"
+                },
+                {
+                    "currencyCode": "USD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": false,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "NTSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 34.985141,
+                "longitude": -118.938936
+            },
+            "locationGUID": "16a475c9-3031-4eb6-8e26-671b59de2ecd",
+            "maxPowerKw": 250,
+            "name": "Tejon Ranch, CA – Outlets at Tejon Pkwy",
+            "openToNonTeslas": true,
+            "openToPublic": true,
+            "publicStallCount": 76,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

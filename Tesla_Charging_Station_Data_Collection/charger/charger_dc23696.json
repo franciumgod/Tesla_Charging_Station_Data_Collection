@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Roma",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "4455",
+                "postalExt": null,
+                "state": "Queensland",
+                "street": "Warrego Hwy",
+                "streetNumber": "44778"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -26.575267,
+                "longitude": 148.807733
+            },
+            "commonSiteName": "Roma Explorer Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -26.575267,
+                "longitude": 148.807733
+            },
+            "locationGUID": "3bd9a9eb-4b66-40bb-a94e-815333ae3282",
+            "maxPowerKw": 22,
+            "name": "Roma Explorer Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Brisbane"
+        },
+        "success": true
+    }
+}

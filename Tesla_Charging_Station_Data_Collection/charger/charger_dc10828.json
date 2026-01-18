@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nuits-Saint-Georges",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21700",
+                "postalExt": null,
+                "state": null,
+                "street": "Route de la Serree",
+                "streetNumber": "13"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.145443,
+                "longitude": 4.928141
+            },
+            "commonSiteName": "La Gentilhommiere",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.145443,
+                "longitude": 4.928141
+            },
+            "locationGUID": "8e0501e7-e778-4677-b309-463b7ee6922f",
+            "maxPowerKw": 22,
+            "name": "La Gentilhommiere",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Velke Bilovice",
+                "country": "Czech Republic",
+                "countryCode": "CZ",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "69102",
+                "postalExt": null,
+                "state": null,
+                "street": "Lipova",
+                "streetNumber": "49"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.851925,
+                "longitude": 16.889317
+            },
+            "commonSiteName": "Restaurace Na Pekarne",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.851925,
+                "longitude": 16.889317
+            },
+            "locationGUID": "1fdc3c54-605e-4732-bdff-6d14eea8805b",
+            "maxPowerKw": 22,
+            "name": "Restaurace Na Pekarne",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Prague"
+        },
+        "success": true
+    }
+}

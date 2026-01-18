@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Carrabassett Valley",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04947",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Access Rd",
+                "streetNumber": "5092"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.053883,
+                "longitude": -70.308763
+            },
+            "commonSiteName": "Sugarloaf",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.053883,
+                "longitude": -70.308763
+            },
+            "locationGUID": "7c002a50-f8b1-4130-8315-60540ff3e5c2",
+            "maxPowerKw": 8,
+            "name": "Sugarloaf",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

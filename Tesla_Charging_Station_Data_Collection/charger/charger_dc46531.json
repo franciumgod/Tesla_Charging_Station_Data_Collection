@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mariefred",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "647 30",
+                "postalExt": null,
+                "state": null,
+                "street": "Kyrkogatan 1",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.2585905,
+                "longitude": 17.22322983
+            },
+            "commonSiteName": "Gripsholms Värdshus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.2585905,
+                "longitude": 17.22322983
+            },
+            "locationGUID": "d9c86a11-76cc-4ef6-865d-eb3cbd923aaf",
+            "maxPowerKw": 11,
+            "name": "Gripsholms Värdshus",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

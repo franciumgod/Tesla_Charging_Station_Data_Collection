@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gstaad",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3780",
+                "postalExt": null,
+                "state": null,
+                "street": "Gsteigstr.",
+                "streetNumber": "7"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.465726,
+                "longitude": 7.285539
+            },
+            "commonSiteName": "Hotel Ultima Gstaad",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.465726,
+                "longitude": 7.285539
+            },
+            "locationGUID": "914a0df0-0fc4-4c07-9e71-e111f12fe983",
+            "maxPowerKw": 11,
+            "name": "Hotel Ultima Gstaad",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

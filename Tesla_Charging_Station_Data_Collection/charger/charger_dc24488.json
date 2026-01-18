@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Atlanta",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "30334",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Virginia Ave",
+                "streetNumber": "1325"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.660132,
+                "longitude": -84.431519
+            },
+            "commonSiteName": "Crowne Plaza Atlanta Airport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.660132,
+                "longitude": -84.431519
+            },
+            "locationGUID": "67065e06-2fb6-4082-b6a4-2989c28f5d9e",
+            "maxPowerKw": 8,
+            "name": "Crowne Plaza Atlanta Airport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Epping",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3076",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "High Street",
+                "streetNumber": "571-583"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -37.653251,
+                "longitude": 145.015958
+            },
+            "commonSiteName": "Pacific Epping Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -37.653251,
+                "longitude": 145.015958
+            },
+            "locationGUID": "6f2f3cd2-8d5e-4606-82ef-6af0c75efd2c",
+            "maxPowerKw": 22,
+            "name": "Pacific Epping Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

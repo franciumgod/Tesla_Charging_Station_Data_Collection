@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rotkreuz",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6343",
+                "postalExt": null,
+                "state": null,
+                "street": "Mattenstraße",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.142898,
+                "longitude": 8.430569
+            },
+            "commonSiteName": "APARTHOTEL Rotkreuz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.142898,
+                "longitude": 8.430569
+            },
+            "locationGUID": "af516d88-a2e6-4d8f-9e6a-624c5570a875",
+            "maxPowerKw": 22,
+            "name": "Aparthotel Rotkreuz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

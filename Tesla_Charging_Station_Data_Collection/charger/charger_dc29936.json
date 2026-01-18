@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Zapopan",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45138",
+                "postalExt": null,
+                "state": "JAL",
+                "street": "Parque Industrial Belenes,",
+                "streetNumber": "Av. Laureles 1300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.73853989,
+                "longitude": -103.40087168
+            },
+            "commonSiteName": "Gran Terraza Belenes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.73853989,
+                "longitude": -103.40087168
+            },
+            "locationGUID": "993c68eb-a45c-452d-a519-978fa54fe6be",
+            "maxPowerKw": 18,
+            "name": "Gran Terraza Belenes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sanxenxo",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "36960",
+                "postalExt": null,
+                "state": "Galicia",
+                "street": "Lugar de Padrinan",
+                "streetNumber": "25"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.405112,
+                "longitude": -8.805932
+            },
+            "commonSiteName": "Augusta Spa Resort Superior",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.405112,
+                "longitude": -8.805932
+            },
+            "locationGUID": "7f4e1ef4-1556-4c8d-9dda-20fb6d44120f",
+            "maxPowerKw": 22,
+            "name": "Augusta Spa Resort Superior",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

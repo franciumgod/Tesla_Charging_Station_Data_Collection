@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Montr├⌐al",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "H3G 0A1",
+                "postalExt": null,
+                "state": "QC",
+                "street": "Rue de la Montagne",
+                "streetNumber": "1100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.49682,
+                "longitude": -73.573009
+            },
+            "commonSiteName": "Hotel Le Crystal",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.49682,
+                "longitude": -73.573009
+            },
+            "locationGUID": "38400d65-25bc-4a10-9c41-fdf13bdf5bb6",
+            "maxPowerKw": 8,
+            "name": "Hotel Le Crystal",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

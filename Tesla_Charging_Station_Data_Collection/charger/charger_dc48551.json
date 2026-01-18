@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Upper Hutt",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5018",
+                "postalExt": null,
+                "state": "Wellington",
+                "street": "Main Road North",
+                "streetNumber": "1747"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -41.081635,
+                "longitude": 175.205784
+            },
+            "commonSiteName": "Aston Norwood Cafe",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -41.081635,
+                "longitude": 175.205784
+            },
+            "locationGUID": "6dd2c073-63ca-4f3c-b53b-9d5ae89a54e3",
+            "maxPowerKw": 22,
+            "name": "Aston Norwood Cafe",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

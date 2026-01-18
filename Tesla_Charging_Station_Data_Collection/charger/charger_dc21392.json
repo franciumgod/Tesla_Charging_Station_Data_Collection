@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sant Cugat del Valles",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "100",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Calle Cesar Martinell",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.47098,
+                "longitude": 2.085902
+            },
+            "commonSiteName": "Hotel Sant Cugat",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.47098,
+                "longitude": 2.085902
+            },
+            "locationGUID": "14fa4645-66aa-47fe-a9d0-78b3ac8e51bf",
+            "maxPowerKw": 11,
+            "name": "Hotel Sant Cugat",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

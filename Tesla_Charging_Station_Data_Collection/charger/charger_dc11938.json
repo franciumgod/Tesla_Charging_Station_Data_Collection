@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Osoyoos",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0H 1V0",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Golf Course Dr",
+                "streetNumber": "12300"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.0159475,
+                "longitude": -119.4906618
+            },
+            "commonSiteName": "Osoyoos Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.0159475,
+                "longitude": -119.4906618
+            },
+            "locationGUID": "a241cec2-c553-45a3-ad80-2ecad13030fe",
+            "maxPowerKw": 8,
+            "name": "Osoyoos Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

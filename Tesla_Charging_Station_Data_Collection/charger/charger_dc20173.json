@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Naples",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34109",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Pine Ridge Rd",
+                "streetNumber": "3557"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 26.212753,
+                "longitude": -81.746669
+            },
+            "commonSiteName": "Hawthorn Suites by Wyndham Naples",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 26.212753,
+                "longitude": -81.746669
+            },
+            "locationGUID": "2a047539-d40b-4f27-9cf9-7f6144cf460d",
+            "maxPowerKw": 8,
+            "name": "Hawthorn Suites by Wyndham Naples",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

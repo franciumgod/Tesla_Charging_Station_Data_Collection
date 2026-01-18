@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Deidesheim",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "67146",
+                "postalExt": null,
+                "state": null,
+                "street": "Weinstrasse",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.410284,
+                "longitude": 8.186306
+            },
+            "commonSiteName": "Kaisergarten Hotel & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.410284,
+                "longitude": 8.186306
+            },
+            "locationGUID": "bd108cb5-5799-4de9-af7a-1851117fa07c",
+            "maxPowerKw": 22,
+            "name": "Kaisergarten Hotel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

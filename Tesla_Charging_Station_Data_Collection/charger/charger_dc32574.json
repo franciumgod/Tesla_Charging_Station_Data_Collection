@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Churchill",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3842",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Balfour Place",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.315499,
+                "longitude": 146.419641
+            },
+            "commonSiteName": "Churchill Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.315499,
+                "longitude": 146.419641
+            },
+            "locationGUID": "b45b7846-c649-4b1d-a951-c0bc7698834f",
+            "maxPowerKw": 22,
+            "name": "Churchill Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

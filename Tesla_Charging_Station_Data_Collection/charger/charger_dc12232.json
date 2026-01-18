@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28007",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Plaza Conde de Casal",
+                "streetNumber": "6"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.406371,
+                "longitude": -3.669528
+            },
+            "commonSiteName": "Hotel Claridge",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.406371,
+                "longitude": -3.669528
+            },
+            "locationGUID": "c0ab48c4-0bf8-42c3-87cf-b3c0125cc288",
+            "maxPowerKw": 22,
+            "name": "Hotel Claridge",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

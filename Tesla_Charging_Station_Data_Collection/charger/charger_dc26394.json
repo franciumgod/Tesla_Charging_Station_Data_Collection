@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Queenstown",
+                "country": "New Zealand",
+                "countryCode": "NZ",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "9348",
+                "postalExt": null,
+                "state": "NZ",
+                "street": "Frankton Rd",
+                "streetNumber": "554"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -45.023723,
+                "longitude": 168.696841
+            },
+            "commonSiteName": "Sherwood",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -45.023723,
+                "longitude": 168.696841
+            },
+            "locationGUID": "0276bd6d-727d-44df-b81b-593ad6b1495c",
+            "maxPowerKw": 22,
+            "name": "Sherwood",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Pacific/Auckland"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Essomes Sur Marne",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2400",
+                "postalExt": null,
+                "state": null,
+                "street": "Avenue du General de Gaulle",
+                "streetNumber": "60"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.035373,
+                "longitude": 3.38018
+            },
+            "commonSiteName": "Pizza Del Arte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.035373,
+                "longitude": 3.38018
+            },
+            "locationGUID": "a1101267-f87e-4173-bad3-5b98abab656c",
+            "maxPowerKw": 22,
+            "name": "Pizza Del Arte",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

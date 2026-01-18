@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Bergamo",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24129",
+                "postalExt": null,
+                "state": null,
+                "street": "Piazza Mascheroni",
+                "streetNumber": "9A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.705596,
+                "longitude": 9.66018
+            },
+            "commonSiteName": "Relais San Lorenzo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.705596,
+                "longitude": 9.66018
+            },
+            "locationGUID": "3ecd3e5d-cdd3-401f-870d-74279fcd3d13",
+            "maxPowerKw": 19,
+            "name": "Relais San Lorenzo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

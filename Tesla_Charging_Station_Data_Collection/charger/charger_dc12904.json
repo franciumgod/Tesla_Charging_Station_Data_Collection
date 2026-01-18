@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Magenta",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2261",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "1 Magenta Drive",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.310939,
+                "longitude": 151.522813
+            },
+            "commonSiteName": "Pullman Magenta Shores Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.310939,
+                "longitude": 151.522813
+            },
+            "locationGUID": "d3b65b30-8088-4af2-84c3-c7fb85a039df",
+            "maxPowerKw": 6,
+            "name": "Pullman Magenta Shores Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

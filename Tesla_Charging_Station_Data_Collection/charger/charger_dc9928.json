@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Les Epesses",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "85590",
+                "postalExt": null,
+                "state": null,
+                "street": "Le Puy du Fou",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.89375,
+                "longitude": -0.931264
+            },
+            "commonSiteName": "Grand Parc du Puy du Fou",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.89375,
+                "longitude": -0.931264
+            },
+            "locationGUID": "46c61095-39fe-496a-a5e7-d904073ea325",
+            "maxPowerKw": 11,
+            "name": "Grand Parc du Puy du Fou",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

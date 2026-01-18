@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10022",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 58th St",
+                "streetNumber": "425"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.758519,
+                "longitude": -73.961272
+            },
+            "commonSiteName": "iPark NYC 425 E 58th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.758519,
+                "longitude": -73.961272
+            },
+            "locationGUID": "bec84798-7215-465d-a989-e44065971802",
+            "maxPowerKw": 8,
+            "name": "iPark NYC 425 E 58th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

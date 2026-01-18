@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ischgl",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6561",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstrasse",
+                "streetNumber": "77"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.009195,
+                "longitude": 10.28846
+            },
+            "commonSiteName": "alpin spa Hotel Tirol",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.009195,
+                "longitude": 10.28846
+            },
+            "locationGUID": "35a8d8cf-93bf-47e1-b70e-ddf9c1cd9f7a",
+            "maxPowerKw": 11,
+            "name": "alpin spa Hotel Tirol",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

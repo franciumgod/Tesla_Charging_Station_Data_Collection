@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geyserville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95441",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Dry Creek Rd",
+                "streetNumber": "7878"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.710151,
+                "longitude": -122.961827
+            },
+            "commonSiteName": "Trattore Farms",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.710151,
+                "longitude": -122.961827
+            },
+            "locationGUID": "9d98ee76-b55f-4416-8174-3f1091febcfb",
+            "maxPowerKw": 16,
+            "name": "Trattore Farms",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

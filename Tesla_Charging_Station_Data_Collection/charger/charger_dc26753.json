@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Griesbach",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "94086",
+                "postalExt": null,
+                "state": null,
+                "street": "Professor-Baumgartner-Strasse",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.441201,
+                "longitude": 13.197406
+            },
+            "commonSiteName": "AktiVital Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.441201,
+                "longitude": 13.197406
+            },
+            "locationGUID": "1cb59191-fc75-41ff-86f8-22c35d104f73",
+            "maxPowerKw": 11,
+            "name": "AktiVital Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

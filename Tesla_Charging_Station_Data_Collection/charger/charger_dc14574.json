@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Parma",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "43126",
+                "postalExt": null,
+                "state": null,
+                "street": "via Reggio",
+                "streetNumber": "51/a"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.814721,
+                "longitude": 10.316646
+            },
+            "commonSiteName": "Best Western Hotel Farnese",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.814721,
+                "longitude": 10.316646
+            },
+            "locationGUID": "ddc1547e-a0a6-409b-a9a9-0768c1f8d4da",
+            "maxPowerKw": 22,
+            "name": "Best Western Hotel Farnese",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pensacola Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32561",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Via De Luna Dr",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.332929,
+                "longitude": -87.137378
+            },
+            "commonSiteName": "Hilton Pensacola Beach",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.332929,
+                "longitude": -87.137378
+            },
+            "locationGUID": "f1525964-2daa-40c9-9818-9f921463a97b",
+            "maxPowerKw": 16,
+            "name": "Hilton Pensacola Beach",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

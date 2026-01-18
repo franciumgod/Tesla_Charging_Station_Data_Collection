@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Elster",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8645",
+                "postalExt": null,
+                "state": null,
+                "street": "Carl-August-Klingner-Straße",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.28474603,
+                "longitude": 12.23988762
+            },
+            "commonSiteName": "Hotel König Albert",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.28474603,
+                "longitude": 12.23988762
+            },
+            "locationGUID": "08e3d4ba-bde8-46e2-88a0-8df6a85081fc",
+            "maxPowerKw": 22,
+            "name": "Hotel Koenig Albert",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

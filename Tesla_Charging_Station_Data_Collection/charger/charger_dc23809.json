@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Louis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "63110",
+                "postalExt": null,
+                "state": "MO",
+                "street": "Manchester Ave",
+                "streetNumber": "4465"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.626813,
+                "longitude": -90.261288
+            },
+            "commonSiteName": "Urban Chestnut Grove Brewery and Bierhall",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.626813,
+                "longitude": -90.261288
+            },
+            "locationGUID": "c43ec9aa-fe9a-46cb-ac6f-528fdbbb2022",
+            "maxPowerKw": 8,
+            "name": "Urban Chestnut Grove Brewery and Bierhall",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

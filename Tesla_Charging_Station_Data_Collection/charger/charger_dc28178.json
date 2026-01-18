@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Blankenberge",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8370",
+                "postalExt": null,
+                "state": null,
+                "street": "Vissersstraat",
+                "streetNumber": "53"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.315424,
+                "longitude": 3.130263
+            },
+            "commonSiteName": "Witte Paard hotels en events",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.315424,
+                "longitude": 3.130263
+            },
+            "locationGUID": "072ee23a-130a-4b90-97a2-3c8bb0b46be2",
+            "maxPowerKw": 11,
+            "name": "Witte Paard hotels en events",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

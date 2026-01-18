@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dunham",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "J0E 1M0",
+                "postalExt": null,
+                "state": "QC",
+                "street": "rue Bruce",
+                "streetNumber": "1046"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.109832,
+                "longitude": -72.856095
+            },
+            "commonSiteName": "Vignoble Gagliano Inc.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.109832,
+                "longitude": -72.856095
+            },
+            "locationGUID": "9def092a-07d3-44aa-bb4f-c237e961c11c",
+            "maxPowerKw": 8,
+            "name": "Vignoble Gagliano Inc.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

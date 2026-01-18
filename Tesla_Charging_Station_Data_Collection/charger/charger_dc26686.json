@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bad Hofgastein",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5630",
+                "postalExt": null,
+                "state": null,
+                "street": "Salzburgerstrasse",
+                "streetNumber": "24"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.174405,
+                "longitude": 13.104756
+            },
+            "commonSiteName": "Hotel Astoria Garden",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.174405,
+                "longitude": 13.104756
+            },
+            "locationGUID": "4bbdeade-424b-4e50-a421-844256a8278f",
+            "maxPowerKw": 22,
+            "name": "Hotel Astoria Garden",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

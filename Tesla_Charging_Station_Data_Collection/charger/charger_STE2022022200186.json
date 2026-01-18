@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Parras de la Fuente",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "27980",
+                "postalExt": null,
+                "state": "Coahuila",
+                "street": "Carretera Parras-Paila Km. 3",
+                "streetNumber": "KM 3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.47587852,
+                "longitude": -102.16370319
+            },
+            "commonSiteName": "Hotel Rincón del Montero",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.47587852,
+                "longitude": -102.16370319
+            },
+            "locationGUID": "311d1c82-273c-4514-ac07-580d4257f99b",
+            "maxPowerKw": 10,
+            "name": "Hotel Rincón del Montero",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

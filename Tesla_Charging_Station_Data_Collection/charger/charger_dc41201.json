@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Omaha",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "68118",
+                "postalExt": null,
+                "state": "NE",
+                "street": "N 170th St",
+                "streetNumber": "305"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.261001,
+                "longitude": -96.181076
+            },
+            "commonSiteName": "Johnny's Italian Steakhouse Omaha",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.261001,
+                "longitude": -96.181076
+            },
+            "locationGUID": "29ac87e7-4257-4e4b-a80e-a4603fb0581f",
+            "maxPowerKw": 13,
+            "name": "Johnny's Italian Steakhouse Omaha",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

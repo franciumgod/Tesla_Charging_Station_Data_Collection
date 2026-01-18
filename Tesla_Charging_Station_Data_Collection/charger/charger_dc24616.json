@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ljubljana",
+                "country": "Slovenia",
+                "countryCode": "SI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1000",
+                "postalExt": null,
+                "state": null,
+                "street": "Miklosiceva cesta",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.053342,
+                "longitude": 14.506282
+            },
+            "commonSiteName": "Grand Hotel Union",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.053342,
+                "longitude": 14.506282
+            },
+            "locationGUID": "48014cb6-2939-4232-98b4-5c5278952748",
+            "maxPowerKw": 11,
+            "name": "Grand Hotel Union",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Ljubljana"
+        },
+        "success": true
+    }
+}

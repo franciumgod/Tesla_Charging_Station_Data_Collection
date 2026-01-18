@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ensisheim",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "68190",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de la 1ère Armée Française",
+                "streetNumber": "44"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.86616173,
+                "longitude": 7.35019731
+            },
+            "commonSiteName": "Domaine du Moulin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.86616173,
+                "longitude": 7.35019731
+            },
+            "locationGUID": "006821d9-b912-4ccc-948e-c6f89f67180b",
+            "maxPowerKw": 22,
+            "name": "Domaine du Moulin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

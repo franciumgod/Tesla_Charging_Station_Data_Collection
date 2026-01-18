@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Boston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "02116",
+                "postalExt": null,
+                "state": "MA",
+                "street": "Huntington Ave",
+                "streetNumber": "10"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.348627,
+                "longitude": -71.077525
+            },
+            "commonSiteName": "The Westin Copley Place",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.348627,
+                "longitude": -71.077525
+            },
+            "locationGUID": "14711992-d163-4017-b35c-ec8e683e07f0",
+            "maxPowerKw": 8,
+            "name": "The Westin Copley Place",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

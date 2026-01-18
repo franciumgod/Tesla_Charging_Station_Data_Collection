@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": "Muscogee County",
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31901",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Broadway",
+                "streetNumber": "1225"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.4696883,
+                "longitude": -84.9938203
+            },
+            "commonSiteName": "AC Hotel by Marriott Columbus Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.4696883,
+                "longitude": -84.9938203
+            },
+            "locationGUID": "e2bc5c1c-e17d-41ad-9a05-25e4984ec224",
+            "maxPowerKw": 9,
+            "name": "AC Hotel by Marriott Columbus Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

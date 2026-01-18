@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Mayfield",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2304",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "William St",
+                "streetNumber": "26"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -32.891821,
+                "longitude": 151.744469
+            },
+            "commonSiteName": "The Gateway Inn Newcastle",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -32.891821,
+                "longitude": 151.744469
+            },
+            "locationGUID": "7473d40a-4f78-4406-b465-2e875fc0fc25",
+            "maxPowerKw": 22,
+            "name": "The Gateway Inn Newcastle",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

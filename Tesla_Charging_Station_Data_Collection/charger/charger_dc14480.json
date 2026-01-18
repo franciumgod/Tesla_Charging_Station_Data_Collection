@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hannover",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30519",
+                "postalExt": null,
+                "state": null,
+                "street": "Hildesheimer Str.",
+                "streetNumber": "380"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.327176,
+                "longitude": 9.776727
+            },
+            "commonSiteName": "Designhotel + CongressCentrum Wienecke XI.",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.327176,
+                "longitude": 9.776727
+            },
+            "locationGUID": "5dd0e989-238e-4be4-a798-efdfdf21dfec",
+            "maxPowerKw": 22,
+            "name": "Designhotel + CongressCentrum Wienecke XI.",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

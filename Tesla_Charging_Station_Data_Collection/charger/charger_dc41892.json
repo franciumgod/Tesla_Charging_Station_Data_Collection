@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Arlington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22201",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Wilson Blvd",
+                "streetNumber": "2311"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.8911312,
+                "longitude": -77.0868397
+            },
+            "commonSiteName": "2311 Wilson Blvd",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.8911312,
+                "longitude": -77.0868397
+            },
+            "locationGUID": "ff26534d-e4b6-4821-afa5-b70664962c5e",
+            "maxPowerKw": 16,
+            "name": "2311 Wilson Blvd",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kennebunkport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04046",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Ocean Ave",
+                "streetNumber": "126"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.34924,
+                "longitude": -70.472396
+            },
+            "commonSiteName": "The Edgewater Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.34924,
+                "longitude": -70.472396
+            },
+            "locationGUID": "1a351724-e118-4a98-a7fe-5c31de45f198",
+            "maxPowerKw": 8,
+            "name": "The Edgewater Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

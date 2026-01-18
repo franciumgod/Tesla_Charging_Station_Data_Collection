@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Solna",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "169 56",
+                "postalExt": null,
+                "state": "Solna",
+                "street": "Rasta Strandvag",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.37234,
+                "longitude": 18.00279
+            },
+            "commonSiteName": "Quality Hotel Friends",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.37234,
+                "longitude": 18.00279
+            },
+            "locationGUID": "8a43fc4b-3212-404d-8a57-7f9dd1ebe953",
+            "maxPowerKw": 11,
+            "name": "Quality Hotel Friends",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

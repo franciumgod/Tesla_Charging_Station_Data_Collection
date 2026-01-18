@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Lärbro",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "624 53",
+                "postalExt": null,
+                "state": null,
+                "street": "Lärbro Storugns 2741",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 57.836868,
+                "longitude": 18.830627
+            },
+            "commonSiteName": "GotlandRing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 57.836868,
+                "longitude": 18.830627
+            },
+            "locationGUID": "9a079ae5-a64b-4a48-88b0-1c27c9cbb220",
+            "maxPowerKw": 22,
+            "name": "GotlandRing",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

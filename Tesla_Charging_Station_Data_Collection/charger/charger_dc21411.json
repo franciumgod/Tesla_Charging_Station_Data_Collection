@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Luxembourg",
+                "country": "Luxembourg",
+                "countryCode": "LU",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1611",
+                "postalExt": null,
+                "state": null,
+                "street": "45-47 Avenue de la Gare",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.602352,
+                "longitude": 6.133357
+            },
+            "commonSiteName": "Park Inn by Radisson Luxembourg City",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.602352,
+                "longitude": 6.133357
+            },
+            "locationGUID": "a16b6ed5-628e-44f7-a835-e76a931e6267",
+            "maxPowerKw": 14,
+            "name": "Park Inn by Radisson Luxembourg City",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Luxembourg"
+        },
+        "success": true
+    }
+}

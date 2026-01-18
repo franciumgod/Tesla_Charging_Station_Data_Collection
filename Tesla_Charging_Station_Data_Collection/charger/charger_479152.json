@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Albon",
+                "country": "France",
+                "countryCode": "FR",
+                "district": "Drôme",
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26140",
+                "postalExt": null,
+                "state": null,
+                "street": "Senaud",
+                "streetNumber": "410"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.234867,
+                "longitude": 4.8459639
+            },
+            "commonSiteName": null,
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.234867,
+                "longitude": 4.8459639
+            },
+            "locationGUID": "10f0e63a-44eb-4489-832f-1c35e7e1673f",
+            "maxPowerKw": 22,
+            "name": "Domaine du Golf d'Albon",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

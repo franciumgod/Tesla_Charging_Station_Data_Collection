@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "West Hollywood",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90069",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Sunset Blvd",
+                "streetNumber": "8300"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.095937,
+                "longitude": -118.371104
+            },
+            "commonSiteName": "The Standard, Hollywood",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.095937,
+                "longitude": -118.371104
+            },
+            "locationGUID": "4c79fd38-1206-4f25-9940-79c864304b4f",
+            "maxPowerKw": 16,
+            "name": "The Standard, Hollywood",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

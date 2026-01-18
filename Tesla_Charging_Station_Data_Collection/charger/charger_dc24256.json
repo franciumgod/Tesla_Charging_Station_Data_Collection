@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Somma Lombardo",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "21019",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Luigi Bailo",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.643703,
+                "longitude": 8.706916
+            },
+            "commonSiteName": "Central Parking Malpensa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.643703,
+                "longitude": 8.706916
+            },
+            "locationGUID": "8ee8de32-16ed-443c-ad13-ae572918a299",
+            "maxPowerKw": 6,
+            "name": "Central Parking Malpensa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

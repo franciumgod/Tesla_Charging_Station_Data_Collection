@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10016",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 35th St",
+                "streetNumber": "400"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.743971,
+                "longitude": -73.971882
+            },
+            "commonSiteName": "iPark NYC 400 E 35th NYU",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.743971,
+                "longitude": -73.971882
+            },
+            "locationGUID": "837d6bb3-ff47-4e84-b1b8-f6ffb27e0de4",
+            "maxPowerKw": 8,
+            "name": "iPark NYC 400 E 35th NYU",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

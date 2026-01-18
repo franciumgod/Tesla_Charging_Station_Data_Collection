@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10065",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 67th St",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.769061,
+                "longitude": -73.96876
+            },
+            "commonSiteName": "iPark 3 East 67th Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.769061,
+                "longitude": -73.96876
+            },
+            "locationGUID": "af14bbb8-9ea5-4881-a027-ea2eb06762af",
+            "maxPowerKw": 8,
+            "name": "iPark 3 E 67th Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

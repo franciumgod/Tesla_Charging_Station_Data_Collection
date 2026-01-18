@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Scottsdale",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85253",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "N Scottsdale Rd",
+                "streetNumber": "6114"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.526007,
+                "longitude": -111.925956
+            },
+            "commonSiteName": "Andaz Scottsdale Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.526007,
+                "longitude": -111.925956
+            },
+            "locationGUID": "c3c05243-1bd4-48b0-9bca-82f12dd86910",
+            "maxPowerKw": 8,
+            "name": "Andaz Scottsdale Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

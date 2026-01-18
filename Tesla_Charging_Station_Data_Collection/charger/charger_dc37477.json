@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Son",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1555",
+                "postalExt": null,
+                "state": "Akershus",
+                "street": "Hollandveien",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.516821,
+                "longitude": 10.681866
+            },
+            "commonSiteName": "Son Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.516821,
+                "longitude": 10.681866
+            },
+            "locationGUID": "423a6ea7-f795-4c71-aa5a-9d2f6a8245d3",
+            "maxPowerKw": 13,
+            "name": "Son Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Panama City",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32408",
+                "postalExt": null,
+                "state": "FL",
+                "street": "North Lagoon drive",
+                "streetNumber": "5551"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.14956,
+                "longitude": -85.74693
+            },
+            "commonSiteName": "Capt. Anderson's Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.14956,
+                "longitude": -85.74693
+            },
+            "locationGUID": "7f2b71e2-4ba3-4345-ac9a-dd28647a38ee",
+            "maxPowerKw": 6,
+            "name": "Capt. Anderson's Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

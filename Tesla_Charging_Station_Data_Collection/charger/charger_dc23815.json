@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Mississauga",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L4V 1N1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Airport Rd",
+                "streetNumber": "5875"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.686947,
+                "longitude": -79.603876
+            },
+            "commonSiteName": "Hilton Toronto Airport Hotel & Suites",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.686947,
+                "longitude": -79.603876
+            },
+            "locationGUID": "2eaf327f-2bc2-41d9-a7d8-7c85484c44be",
+            "maxPowerKw": 16,
+            "name": "Hilton Toronto Airport Hotel & Suites",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 12,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sankt Jakob in Haus",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6392",
+                "postalExt": null,
+                "state": null,
+                "street": "Reith",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.49991,
+                "longitude": 12.569326
+            },
+            "commonSiteName": "Naturhotel Kitzspitz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.49991,
+                "longitude": 12.569326
+            },
+            "locationGUID": "74f15c57-dc36-47ef-ab0f-978ec02aa29c",
+            "maxPowerKw": 22,
+            "name": "Naturhotel Kitzspitz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

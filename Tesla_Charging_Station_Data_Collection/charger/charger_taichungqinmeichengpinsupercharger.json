@@ -1,0 +1,335 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "08:00",
+                        "periodEnd": "21:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Taichung City",
+                "country": "Taiwan",
+                "countryCode": "TW",
+                "district": null,
+                "navRegion": "tw",
+                "nearestEntrance": null,
+                "postalCode": "403",
+                "postalExt": null,
+                "state": "Taichung",
+                "street": "Gongyi Road",
+                "streetNumber": "68 B3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.3046875,
+                            0.32211538461538464,
+                            0.38143382352941174,
+                            0.4708059210526315,
+                            0.5625,
+                            0.5701729910714286,
+                            0.5954358141858143,
+                            0.5747767857142858,
+                            0.5191136988011988,
+                            0.48581932773109243,
+                            0.5805027173913043,
+                            0.6780598958333334,
+                            0.625,
+                            0.3828125,
+                            0.13194444444444445,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.3515625,
+                            0.3578125,
+                            0.3662109375,
+                            0.4586397058823529,
+                            0.484375,
+                            0.47610294117647056,
+                            0.484375,
+                            0.49172794117647056,
+                            0.4462890625,
+                            0.40625,
+                            0.44791666666666674,
+                            0.484375,
+                            0.4088541666666667,
+                            0.2421875,
+                            0.10267857142857142,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0625,
+                            0.17708333333333334
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.09375,
+                            0.1857638888888889,
+                            0.246875,
+                            0.34263392857142855,
+                            0.4125,
+                            0.48697916666666663,
+                            0.5078125,
+                            0.5653409090909091,
+                            0.578125,
+                            0.5596590909090909,
+                            0.4921875,
+                            0.46875,
+                            0.4375,
+                            0.3141741071428571,
+                            0.19651442307692307,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.0234375
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.15848214285714285,
+                            0.1953125,
+                            0.3145833333333333,
+                            0.4163602941176471,
+                            0.515625,
+                            0.5394965277777778,
+                            0.5390625,
+                            0.5677083333333333,
+                            0.6015625,
+                            0.59375,
+                            0.53125,
+                            0.46875,
+                            0.37083333333333335,
+                            0.20733173076923078,
+                            0.109375,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.09375,
+                            0.225
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.09301020408163266,
+                            0.14174107142857142,
+                            0.24283854166666666,
+                            0.3859375,
+                            0.4921875,
+                            0.536328125,
+                            0.5493607954545454,
+                            0.640625,
+                            0.59375,
+                            0.490953947368421,
+                            0.453125,
+                            0.490953947368421,
+                            0.5625,
+                            0.47203947368421056,
+                            0.265625,
+                            0.09375,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.046875,
+                            0.19050480769230768
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.2421875,
+                            0.23046875,
+                            0.1736111111111111,
+                            0.26171875,
+                            0.375,
+                            0.4521484375,
+                            0.4609375,
+                            0.50625,
+                            0.5234375,
+                            0.5792410714285714,
+                            0.609375,
+                            0.59375,
+                            0.42782738095238093,
+                            0.21875,
+                            0.10379464285714286,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.08774896978021979
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.16185825892857142,
+                            0.21785714285714283,
+                            0.3253042328042328,
+                            0.40982142857142856,
+                            0.44067460317460316,
+                            0.41043571428571435,
+                            0.4080803571428571,
+                            0.44846059113300496,
+                            0.4883928571428572,
+                            0.45065886699507385,
+                            0.43795918367346937,
+                            0.45357142857142857,
+                            0.43125,
+                            0.2540625,
+                            0.10763888888888888,
+                            0.0125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.0125,
+                            0.046038961038961046
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 2601,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 11329,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "28800s"
+            },
+            "centroid": {
+                "latitude": 24.151412,
+                "longitude": 120.663707
+            },
+            "commonSiteName": "Park Lane by CMP",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 5,
+                    "rateMinTier2": 11,
+                    "rateMinTier3": 17,
+                    "rateMinTier4": 28,
+                    "rateTier1": 5,
+                    "rateTier2": 11,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "TWD",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 15,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 24.15162,
+                "longitude": 120.664184
+            },
+            "locationGUID": "f3fc3d2b-0ab6-4125-a630-fc6c584a5fb1",
+            "maxPowerKw": 120,
+            "name": "Taichung, West District - Park Lane by CMP",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Taipei"
+        },
+        "success": true
+    }
+}

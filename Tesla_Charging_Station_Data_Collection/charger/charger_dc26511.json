@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Neda",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "15510",
+                "postalExt": null,
+                "state": "Galicia",
+                "street": "Pazo da Merced",
+                "streetNumber": "s/n"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.49258025,
+                "longitude": -8.16324975
+            },
+            "commonSiteName": "Pazo da Merced",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.49258025,
+                "longitude": -8.16324975
+            },
+            "locationGUID": "a0ea3f78-a488-466c-8c6a-cab2490044f8",
+            "maxPowerKw": 17,
+            "name": "Pazo da Merced",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

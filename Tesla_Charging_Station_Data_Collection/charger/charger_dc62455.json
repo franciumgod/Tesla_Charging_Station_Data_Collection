@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Minneapolis",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "55430",
+                "postalExt": null,
+                "state": "MN",
+                "street": "Freeway Blvd",
+                "streetNumber": "2200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.074457,
+                "longitude": -93.309125
+            },
+            "commonSiteName": "RISE by Elevation",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.074457,
+                "longitude": -93.309125
+            },
+            "locationGUID": "557ec505-615e-4ed7-b2bb-299149ee148c",
+            "maxPowerKw": 16,
+            "name": "RISE by Elevation",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 4,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Portland",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3305",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Julia Street",
+                "streetNumber": "66"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.348253,
+                "longitude": 141.602287
+            },
+            "commonSiteName": "Quest Portland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.348253,
+                "longitude": 141.602287
+            },
+            "locationGUID": "359c57d3-4fde-4004-bb7c-2bc68fa3730e",
+            "maxPowerKw": 11,
+            "name": "Quest Portland",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

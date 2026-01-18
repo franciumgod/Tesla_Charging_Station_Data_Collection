@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Grainau",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "82491",
+                "postalExt": null,
+                "state": null,
+                "street": "Am Eibsee",
+                "streetNumber": "1-3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.45766,
+                "longitude": 10.990598
+            },
+            "commonSiteName": "EIBSEE-HOTEL",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.45766,
+                "longitude": 10.990598
+            },
+            "locationGUID": "5b04b535-3d3d-478f-94aa-ed9bcd95b9ef",
+            "maxPowerKw": 22,
+            "name": "Eibsee-Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

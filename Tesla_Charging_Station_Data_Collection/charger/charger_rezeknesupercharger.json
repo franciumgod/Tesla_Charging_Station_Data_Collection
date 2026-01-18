@@ -1,0 +1,296 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rēzekne",
+                "country": "Latvia",
+                "countryCode": "LV",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "LV",
+                "postalExt": "4601",
+                "state": null,
+                "street": "Stacijas iela",
+                "streetNumber": "30"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.046875,
+                            0.03125,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.0625,
+                            0.0859375,
+                            0.09375,
+                            0.140625,
+                            0.1875,
+                            0.234375,
+                            0.275,
+                            0.234375,
+                            0.23124999999999998,
+                            0.1875,
+                            0.20703125,
+                            0.21875,
+                            0.20703125,
+                            0.171875,
+                            0.125,
+                            0.109375,
+                            0.09375,
+                            0.0625,
+                            0.03125
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.08854166666666667,
+                            0.16796875,
+                            0.25,
+                            0.265625,
+                            0.1875,
+                            0.16666666666666669,
+                            0.16796875,
+                            0.1875,
+                            0.3236607142857143,
+                            0.34375,
+                            0.375,
+                            0.2857142857142857,
+                            0.140625,
+                            0.125,
+                            0.046875,
+                            0.0859375,
+                            0.09375,
+                            0.0859375,
+                            0.0625
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.03125,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0.0625,
+                            0.09375,
+                            0.109375,
+                            0.0859375,
+                            0.0625,
+                            0.0859375,
+                            0.125,
+                            0.1875,
+                            0.171875,
+                            0.15625,
+                            0.08854166666666667,
+                            0.1875,
+                            0.25,
+                            0.1875,
+                            0.140625,
+                            0.078125,
+                            0.0625,
+                            0,
+                            0.03125,
+                            0.046875
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.09375,
+                            0.140625,
+                            0.171875,
+                            0.16666666666666666,
+                            0.20937499999999998,
+                            0.28125,
+                            0.3526785714285714,
+                            0.375,
+                            0.3325892857142857,
+                            0.23125,
+                            0.125,
+                            0.09375,
+                            0.08854166666666667,
+                            0.125,
+                            0.11458333333333334,
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0.03125,
+                            0.0625,
+                            0.125,
+                            0.1875,
+                            0.203125,
+                            0.1484375,
+                            0.171875,
+                            0.203125,
+                            0.26875,
+                            0.265625,
+                            0.253125,
+                            0.29464285714285715,
+                            0.359375,
+                            0.2924107142857143,
+                            0.225,
+                            0.15625,
+                            0.16666666666666666,
+                            0.171875,
+                            0.171875,
+                            0.125,
+                            0.0859375
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.0625,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0,
+                            0.03125,
+                            0.046875,
+                            0.14453125,
+                            0.203125,
+                            0.26875,
+                            0.28125,
+                            0.25,
+                            0.1875,
+                            0.1953125,
+                            0.203125,
+                            0.253125,
+                            0.28125,
+                            0.265625,
+                            0.175,
+                            0.0859375,
+                            0.046875,
+                            0.03125,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0,
+                            0.025,
+                            0.037500000000000006,
+                            0.05,
+                            0.06875,
+                            0.11875000000000002,
+                            0.185,
+                            0.26607142857142857,
+                            0.3125,
+                            0.32857142857142857,
+                            0.3375,
+                            0.29999999999999993,
+                            0.22857142857142854,
+                            0.15,
+                            0.12499999999999999,
+                            0.09166666666666666,
+                            0.05,
+                            0.05,
+                            0.037500000000000006,
+                            0.025,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 5764,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 25956,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "7200s"
+            },
+            "centroid": {
+                "latitude": 56.514634,
+                "longitude": 27.350949
+            },
+            "commonSiteName": "Olympic Center Rezekne",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.38,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "EUR",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0.5,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 56.515089,
+                "longitude": 27.352472
+            },
+            "locationGUID": "e6e92949-9456-4a25-8edc-e93902ba193e",
+            "maxPowerKw": 150,
+            "name": "Rezekne, Latvia",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Riga"
+        },
+        "success": true
+    }
+}

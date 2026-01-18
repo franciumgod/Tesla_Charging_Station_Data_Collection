@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dover",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "03820",
+                "postalExt": null,
+                "state": "NH",
+                "street": "Sterling Wy",
+                "streetNumber": "200"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.1888713,
+                "longitude": -70.8877473
+            },
+            "commonSiteName": "The Garrison Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.1888713,
+                "longitude": -70.8877473
+            },
+            "locationGUID": "76d95fa4-35b2-40cd-b40c-41d825065493",
+            "maxPowerKw": 16,
+            "name": "The Garrison Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

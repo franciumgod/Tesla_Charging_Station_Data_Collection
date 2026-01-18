@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Meyrin",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1217",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue des Entreprises",
+                "streetNumber": "14"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.223094,
+                "longitude": 6.080877
+            },
+            "commonSiteName": "Park my Car",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.223094,
+                "longitude": 6.080877
+            },
+            "locationGUID": "c1526ef1-498b-46eb-bb3a-777b8c2805ef",
+            "maxPowerKw": 11,
+            "name": "Park my Car",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

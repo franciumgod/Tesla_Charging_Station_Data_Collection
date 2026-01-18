@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Borgo Virgilio",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46034",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Cisa",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.12456,
+                "longitude": 10.788388
+            },
+            "commonSiteName": "Best Western Hotel Cristallo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.12456,
+                "longitude": 10.788388
+            },
+            "locationGUID": "9c5e897a-6af5-4e58-b0b8-8995340befe5",
+            "maxPowerKw": 22,
+            "name": "Best Western Hotel Cristallo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

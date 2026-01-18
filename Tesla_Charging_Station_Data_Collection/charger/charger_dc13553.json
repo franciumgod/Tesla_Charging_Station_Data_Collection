@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Haven",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "06511",
+                "postalExt": null,
+                "state": "CT",
+                "street": "Chapel St",
+                "streetNumber": "1157"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.308979,
+                "longitude": -72.93288
+            },
+            "commonSiteName": "The Study at Yale",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.308979,
+                "longitude": -72.93288
+            },
+            "locationGUID": "9ec75acc-f573-4419-93f8-69a5bbadd6fe",
+            "maxPowerKw": 8,
+            "name": "The Study at Yale",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

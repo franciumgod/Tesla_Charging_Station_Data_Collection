@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paris",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "75016",
+                "postalExt": null,
+                "state": null,
+                "street": "Carrefour de Longchamp - Bois de Boulogne",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.8624709,
+                "longitude": 2.2405583
+            },
+            "commonSiteName": "Restaurant La Grande Cascade - L'Auberge du Bonheur",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.8624709,
+                "longitude": 2.2405583
+            },
+            "locationGUID": "e0a8dcaa-6798-4420-838e-cb9db8257f33",
+            "maxPowerKw": 11,
+            "name": "Restaurant La Grande Cascade - L'Auberge du Bonheur",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

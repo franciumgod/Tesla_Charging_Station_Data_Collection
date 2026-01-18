@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "La Croix-Valmer",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83420",
+                "postalExt": null,
+                "state": null,
+                "street": "Boulevard de Gigaro",
+                "streetNumber": "81"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.191923,
+                "longitude": 6.58823
+            },
+            "commonSiteName": "Château de Valmer",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.191923,
+                "longitude": 6.58823
+            },
+            "locationGUID": "3cad73d4-d288-4be3-9b09-ab0bae79787e",
+            "maxPowerKw": 17,
+            "name": "Château de Valmer",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

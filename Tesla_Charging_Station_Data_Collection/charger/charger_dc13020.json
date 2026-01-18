@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Cruz",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95065",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Chaminade Ln",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 36.996951,
+                "longitude": -121.985265
+            },
+            "commonSiteName": "Chaminade Resort & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 36.996951,
+                "longitude": -121.985265
+            },
+            "locationGUID": "fa4654ec-94da-4e50-a901-0da6c0ed4fd1",
+            "maxPowerKw": 16,
+            "name": "Chaminade Resort & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 10,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

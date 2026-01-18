@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Figueres",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17600",
+                "postalExt": null,
+                "state": "Catalunya",
+                "street": "Avda. Salvador Dali",
+                "streetNumber": "170"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.275944,
+                "longitude": 2.953234
+            },
+            "commonSiteName": "Hotel Emporda",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.275944,
+                "longitude": 2.953234
+            },
+            "locationGUID": "fe5c5e1b-569f-4d68-bc93-d04a9b7858e1",
+            "maxPowerKw": 22,
+            "name": "Hotel Emporda",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

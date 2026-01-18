@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Wals",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5071",
+                "postalExt": null,
+                "state": null,
+                "street": "Josef Hauthaler Strasse",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.776038,
+                "longitude": 12.992191
+            },
+            "commonSiteName": "Hotel Restaurant Laschenskyhof",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.776038,
+                "longitude": 12.992191
+            },
+            "locationGUID": "9fb7787f-ba47-4453-aa2f-24b387a75d1f",
+            "maxPowerKw": 22,
+            "name": "Hotel Restaurant Laschenskyhof",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

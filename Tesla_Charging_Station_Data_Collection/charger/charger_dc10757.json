@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Valencia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "46011",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Carrer d'Eugénia Viñes",
+                "streetNumber": "22"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.466282,
+                "longitude": -0.324696
+            },
+            "commonSiteName": "Hotel Las Arenas Balneario Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.466282,
+                "longitude": -0.324696
+            },
+            "locationGUID": "9d23fdce-6b01-4a5a-8f72-4ed7fabac006",
+            "maxPowerKw": 22,
+            "name": "Hotel Las Arenas Balneario Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

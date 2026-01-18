@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Phoenixville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "19460",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Cresson Blvd",
+                "streetNumber": "500"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.13029,
+                "longitude": -75.450725
+            },
+            "commonSiteName": "Hilton Garden Inn Valley Forge / Oaks",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.13029,
+                "longitude": -75.450725
+            },
+            "locationGUID": "ed2bdf83-97b1-41b2-8055-c86fff9f9ba5",
+            "maxPowerKw": 8,
+            "name": "Hilton Garden Inn Valley Forge / Oaks",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

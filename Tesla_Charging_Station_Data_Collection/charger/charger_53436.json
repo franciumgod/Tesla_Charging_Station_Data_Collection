@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Geneva",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44041",
+                "postalExt": null,
+                "state": "OH",
+                "street": "OH-534",
+                "streetNumber": "1640"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.768193,
+                "longitude": -80.946033
+            },
+            "commonSiteName": "J&B Jerky Outlets",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.768193,
+                "longitude": -80.946033
+            },
+            "locationGUID": "2c49bd8e-8be7-4fd4-804a-800ca6bfc093",
+            "maxPowerKw": 16,
+            "name": "J&B Jerky Outlets",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

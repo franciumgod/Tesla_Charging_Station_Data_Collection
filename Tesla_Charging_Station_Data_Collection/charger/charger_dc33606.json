@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Bristol",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "BS40 5SW",
+                "postalExt": null,
+                "state": null,
+                "street": "Winters Lane",
+                "streetNumber": "Goblin Combe Farm"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.37622835,
+                "longitude": -2.72535935
+            },
+            "commonSiteName": "Goblin Parking",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.37622835,
+                "longitude": -2.72535935
+            },
+            "locationGUID": "f95f6885-b30b-4494-b28a-50b44560645e",
+            "maxPowerKw": 11,
+            "name": "Goblin Parking",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

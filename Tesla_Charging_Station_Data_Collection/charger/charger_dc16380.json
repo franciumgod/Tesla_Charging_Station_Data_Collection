@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sandnes",
+                "country": "Norway",
+                "countryCode": "NO",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4309",
+                "postalExt": null,
+                "state": null,
+                "street": "Lutsiveien 70",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 58.855431,
+                "longitude": 5.782825
+            },
+            "commonSiteName": "Kronen Gaard Hotell",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 58.855431,
+                "longitude": 5.782825
+            },
+            "locationGUID": "1d8bb81e-dff7-485f-be72-aa8bfb0eb3f7",
+            "maxPowerKw": 8,
+            "name": "Kronen Gaard Hotell",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Oslo"
+        },
+        "success": true
+    }
+}

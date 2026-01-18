@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Monica",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90401",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Wilshire Blvd",
+                "streetNumber": "101"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.01765,
+                "longitude": -118.501217
+            },
+            "commonSiteName": "Fairmont Miramar Hotel & Bungalows",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.01765,
+                "longitude": -118.501217
+            },
+            "locationGUID": "9c2453c8-2282-459a-a1d5-b3a016c5f895",
+            "maxPowerKw": 13,
+            "name": "Fairmont Miramar Hotel & Bungalows",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

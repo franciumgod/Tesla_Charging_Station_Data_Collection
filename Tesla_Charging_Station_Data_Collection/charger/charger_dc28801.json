@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Dubai Creek Club Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.2447793,
+                "longitude": 55.33358826
+            },
+            "commonSiteName": "Park Hyatt Dubai",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.2447793,
+                "longitude": 55.33358826
+            },
+            "locationGUID": "5c2f0352-3655-4c14-b2c9-219ff935fc89",
+            "maxPowerKw": 8,
+            "name": "Park Hyatt Dubai",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

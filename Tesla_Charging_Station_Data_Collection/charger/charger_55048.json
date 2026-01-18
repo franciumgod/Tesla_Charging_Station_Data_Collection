@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Deadwood",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "57732",
+                "postalExt": null,
+                "state": "SD",
+                "street": "Pine Crest Lane",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.39651408,
+                "longitude": -103.71686475
+            },
+            "commonSiteName": "The Lodge at Deadwood Gaming Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.39651408,
+                "longitude": -103.71686475
+            },
+            "locationGUID": "625e9104-f7b9-4300-941c-4452f289b566",
+            "maxPowerKw": 6,
+            "name": "The Lodge at Deadwood Gaming Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Denver"
+        },
+        "success": true
+    }
+}

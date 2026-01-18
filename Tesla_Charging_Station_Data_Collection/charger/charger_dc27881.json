@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Glasgow",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "G3 8HL",
+                "postalExt": null,
+                "state": null,
+                "street": "Finnieston Quay  25 Tunnel Street",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 55.858578,
+                "longitude": -4.283023
+            },
+            "commonSiteName": "Radisson Red Glasgow",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 55.858578,
+                "longitude": -4.283023
+            },
+            "locationGUID": "290c882a-708f-4008-9dec-e5f38f5a6afd",
+            "maxPowerKw": 13,
+            "name": "Radisson Red Glasgow",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

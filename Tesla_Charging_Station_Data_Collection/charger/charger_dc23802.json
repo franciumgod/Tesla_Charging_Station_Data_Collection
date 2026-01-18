@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Westfield",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "07090",
+                "postalExt": null,
+                "state": "NJ",
+                "street": "N Ave W",
+                "streetNumber": "435"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.649738,
+                "longitude": -74.349093
+            },
+            "commonSiteName": "Best Western Westfield Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.649738,
+                "longitude": -74.349093
+            },
+            "locationGUID": "22f2136c-9b29-4218-8c88-94552fe6f80b",
+            "maxPowerKw": 8,
+            "name": "Best Western Westfield Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

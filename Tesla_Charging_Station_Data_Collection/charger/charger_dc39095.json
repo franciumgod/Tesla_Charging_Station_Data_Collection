@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Champéry",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1874",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue du Village",
+                "streetNumber": "114"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.175405,
+                "longitude": 6.866558
+            },
+            "commonSiteName": "Boutique Hotel Beau-Séjour & SPA",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.175405,
+                "longitude": 6.866558
+            },
+            "locationGUID": "2affb850-8d9d-4e77-860d-dfa753e10cbc",
+            "maxPowerKw": 11,
+            "name": "Boutique Hotel Beau-Séjour & SPA",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

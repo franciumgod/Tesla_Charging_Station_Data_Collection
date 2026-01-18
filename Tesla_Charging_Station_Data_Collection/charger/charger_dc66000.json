@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "서울시",
+                "country": "South Korea",
+                "countryCode": "KR",
+                "district": null,
+                "navRegion": "kr",
+                "nearestEntrance": null,
+                "postalCode": "8511",
+                "postalExt": null,
+                "state": "서울특별시",
+                "street": "디지털로",
+                "streetNumber": "9길 23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.478524,
+                "longitude": 126.8847098
+            },
+            "commonSiteName": "마리오 아울렛",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.478524,
+                "longitude": 126.8847098
+            },
+            "locationGUID": "a2b2d46b-7668-4312-bec1-1b29db5050dc",
+            "maxPowerKw": 6,
+            "name": "Mario Outlet",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Seoul"
+        },
+        "success": true
+    }
+}

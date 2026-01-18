@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jamestown",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95327",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Chicken Ranch Rd",
+                "streetNumber": "16929"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.929206,
+                "longitude": -120.451752
+            },
+            "commonSiteName": "Chicken Ranch Casino",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.929206,
+                "longitude": -120.451752
+            },
+            "locationGUID": "4caf105c-68d7-4a20-9248-f1a9f656ecca",
+            "maxPowerKw": 16,
+            "name": "Chicken Ranch Casino",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

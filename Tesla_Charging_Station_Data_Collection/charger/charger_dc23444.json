@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dayton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "45409",
+                "postalExt": null,
+                "state": "OH",
+                "street": "S Paterson Blvd",
+                "streetNumber": "1414"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.7374245,
+                "longitude": -84.19049746
+            },
+            "commonSiteName": "Marriott at the University of Dayton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.7374245,
+                "longitude": -84.19049746
+            },
+            "locationGUID": "0512ff6f-68c8-4e11-8b90-f2179fc230b6",
+            "maxPowerKw": 8,
+            "name": "Marriott at the University of Dayton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

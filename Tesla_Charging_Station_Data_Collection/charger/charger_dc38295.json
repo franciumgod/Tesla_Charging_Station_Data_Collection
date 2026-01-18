@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Sins",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "5643",
+                "postalExt": null,
+                "state": null,
+                "street": "Luzernerestr.",
+                "streetNumber": "31"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.187403,
+                "longitude": 8.396723
+            },
+            "commonSiteName": "Hotel Arcade",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.187403,
+                "longitude": 8.396723
+            },
+            "locationGUID": "1f39e7c1-a960-4f16-9f6d-553a561895f2",
+            "maxPowerKw": 11,
+            "name": "Hotel Arcade",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

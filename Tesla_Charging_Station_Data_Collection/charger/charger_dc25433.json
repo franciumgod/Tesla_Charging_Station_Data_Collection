@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Margaret River",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "6285",
+                "postalExt": null,
+                "state": "Western Australia",
+                "street": "Stevens Rd",
+                "streetNumber": "41"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.99514614,
+                "longitude": 115.05331621
+            },
+            "commonSiteName": "Voyager Estate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.99514614,
+                "longitude": 115.05331621
+            },
+            "locationGUID": "c96d248f-eb71-4b6b-a61e-3248919b324e",
+            "maxPowerKw": 22,
+            "name": "Voyager Estate",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Perth"
+        },
+        "success": true
+    }
+}

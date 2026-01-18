@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 61st St",
+                "streetNumber": "35-39"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.764617,
+                "longitude": -73.969764
+            },
+            "commonSiteName": "Icon Parking 35-39 East 61st Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.764617,
+                "longitude": -73.969764
+            },
+            "locationGUID": "501b9e1c-6b2c-498d-afb5-8cf678564d96",
+            "maxPowerKw": 16,
+            "name": "Icon Parking 35-39 East 61st Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

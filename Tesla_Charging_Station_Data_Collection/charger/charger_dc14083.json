@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cambridge",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CB1 1LY",
+                "postalExt": null,
+                "state": null,
+                "street": "The Gonville Hotel",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.199851,
+                "longitude": 0.128561
+            },
+            "commonSiteName": "The Gonville Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.199851,
+                "longitude": 0.128561
+            },
+            "locationGUID": "573ef1d4-f3db-4f24-abd1-9322ddb3ce25",
+            "maxPowerKw": 6,
+            "name": "The Gonville Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

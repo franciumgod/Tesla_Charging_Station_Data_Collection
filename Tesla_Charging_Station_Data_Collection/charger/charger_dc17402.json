@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Steinegg",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "39053",
+                "postalExt": null,
+                "state": null,
+                "street": "Peter-Anich-Weg",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.483919,
+                "longitude": 11.457039
+            },
+            "commonSiteName": "Hotel Oberwirt Weisses Kreuz",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.483919,
+                "longitude": 11.457039
+            },
+            "locationGUID": "bda3f7e1-742b-40fb-9139-14e6071fbf83",
+            "maxPowerKw": 11,
+            "name": "Hotel Oberwirt Weisses Kreuz",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

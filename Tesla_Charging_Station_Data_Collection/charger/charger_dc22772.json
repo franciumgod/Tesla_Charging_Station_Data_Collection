@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Folgarida",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "38025",
+                "postalExt": null,
+                "state": null,
+                "street": "Via dei Brenzi",
+                "streetNumber": "32"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.304928,
+                "longitude": 10.862434
+            },
+            "commonSiteName": "Luna Wellness Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.304928,
+                "longitude": 10.862434
+            },
+            "locationGUID": "7433c89d-7dfe-4b0b-a574-4a0abe34be97",
+            "maxPowerKw": 22,
+            "name": "Luna Wellness Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

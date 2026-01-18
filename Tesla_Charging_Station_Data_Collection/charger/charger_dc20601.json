@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Donostia",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20013",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Avenida Ategorrieta",
+                "streetNumber": "61"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.32252027,
+                "longitude": -1.9632811
+            },
+            "commonSiteName": "Hotel Villa Soro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.32252027,
+                "longitude": -1.9632811
+            },
+            "locationGUID": "c06abf5e-b520-41af-b39a-414217dfd9a9",
+            "maxPowerKw": 22,
+            "name": "Hotel Villa Soro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

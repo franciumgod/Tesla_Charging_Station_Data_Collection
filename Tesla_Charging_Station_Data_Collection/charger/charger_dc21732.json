@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fasano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "72015",
+                "postalExt": null,
+                "state": null,
+                "street": "Contrada coccaro",
+                "streetNumber": "8"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.86365445,
+                "longitude": 17.38809264
+            },
+            "commonSiteName": "Masseria Torre Coccaro",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.86365445,
+                "longitude": 17.38809264
+            },
+            "locationGUID": "831f7486-003e-4800-be25-136e9ed93a15",
+            "maxPowerKw": 11,
+            "name": "Masseria Torre Coccaro",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

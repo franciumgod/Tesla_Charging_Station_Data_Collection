@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aurillac",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "15000",
+                "postalExt": null,
+                "state": null,
+                "street": "Cours Montyhon",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.927892,
+                "longitude": 2.446547
+            },
+            "commonSiteName": "The Originals Aurillac Grand Hôtel Saint Pierre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.927892,
+                "longitude": 2.446547
+            },
+            "locationGUID": "ea61844b-b502-44f7-9c25-7f48197f2f7a",
+            "maxPowerKw": 14,
+            "name": "The Originals Aurillac Grand Hôtel Saint Pierre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

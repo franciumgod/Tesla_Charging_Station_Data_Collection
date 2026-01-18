@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Madrid",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "28004",
+                "postalExt": null,
+                "state": "Comunidad de Madrid",
+                "street": "Calle Mejia Lequerica 8",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.426818,
+                "longitude": -3.698358
+            },
+            "commonSiteName": "Urso Hotel & SPa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.426818,
+                "longitude": -3.698358
+            },
+            "locationGUID": "06325016-3629-439b-bedd-cf37972d1f6b",
+            "maxPowerKw": 11,
+            "name": "Urso Hotel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "10:00",
+                        "periodEnd": "21:00",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nakhon Ratchasima",
+                "country": "Thailand",
+                "countryCode": "TH",
+                "district": "Muang Nakhon Ratchasima",
+                "navRegion": null,
+                "nearestEntrance": null,
+                "postalCode": "30000",
+                "postalExt": null,
+                "state": "NA",
+                "street": "Mittraphap Rd",
+                "streetNumber": "990"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.078125,
+                            0.15625,
+                            0.2734375,
+                            0.3125,
+                            0.32102272727272724,
+                            0.3359375,
+                            0.328125,
+                            0.29048295454545453,
+                            0.2586805555555556,
+                            0.2265625,
+                            0.177734375,
+                            0.125,
+                            0.07421875,
+                            0.046875,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.03125,
+                            0.1171875,
+                            0.1953125,
+                            0.1923828125,
+                            0.1919642857142857,
+                            0.1796875,
+                            0.20535714285714285,
+                            0.1953125,
+                            0.18638392857142855,
+                            0.1796875,
+                            0.1875,
+                            0.1640625,
+                            0.09375,
+                            0.046875,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.0625,
+                            0.10416666666666666,
+                            0.1875,
+                            0.2265625,
+                            0.27201704545454547,
+                            0.2890625,
+                            0.25,
+                            0.1884765625,
+                            0.1763392857142857,
+                            0.171875,
+                            0.1919642857142857,
+                            0.171875,
+                            0.13616071428571427,
+                            0.0734375,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0.015625,
+                            0.0234375,
+                            0.03125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.0234375,
+                            0.015625,
+                            0.0625,
+                            0.096875,
+                            0.16629464285714285,
+                            0.24005681818181818,
+                            0.296875,
+                            0.30894886363636365,
+                            0.2734375,
+                            0.2203125,
+                            0.19921875,
+                            0.21875,
+                            0.1923828125,
+                            0.10602678571428571,
+                            0.046875,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0.0125,
+                            0.04687500000000001,
+                            0.085,
+                            0.11249999999999999,
+                            0.146875,
+                            0.15,
+                            0.15625,
+                            0.1375,
+                            0.185,
+                            0.22954545454545455,
+                            0.25,
+                            0.2,
+                            0.125,
+                            0.1611111111111111,
+                            0.125,
+                            0.1125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.03125,
+                            0.075,
+                            0.109375,
+                            0.15364583333333334,
+                            0.1484375,
+                            0.19921875,
+                            0.1875,
+                            0.2080078125,
+                            0.1796875,
+                            0.20535714285714285,
+                            0.2109375,
+                            0.1796875,
+                            0.10267857142857142,
+                            0.03125,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0,
+                            0.078125,
+                            0.11979166666666666,
+                            0.20833333333333337,
+                            0.234375,
+                            0.22916666666666669,
+                            0.203125,
+                            0.1875,
+                            0.15625,
+                            0.134375,
+                            0.14583333333333334,
+                            0.15625,
+                            0.125,
+                            0.0625,
+                            0.03125,
+                            0,
+                            0.015625,
+                            0.015625,
+                            0.015625,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 9514,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 4006766,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "25200s"
+            },
+            "centroid": {
+                "latitude": 14.996443,
+                "longitude": 102.115826
+            },
+            "commonSiteName": "Central Korat",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 6.73,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "THB",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 12,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 14.9962534,
+                "longitude": 102.11527223
+            },
+            "locationGUID": "a54040fe-80f0-406b-a1e5-c8ca53bee9e8",
+            "maxPowerKw": 250,
+            "name": "Korat, Thailand - Central Korat",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Bangkok"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Warszawa",
+                "country": "Poland",
+                "countryCode": "PL",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "00",
+                "postalExt": "680",
+                "state": null,
+                "street": "Poznanska",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.225119,
+                "longitude": 21.011656
+            },
+            "commonSiteName": "H15 Boutique Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.225119,
+                "longitude": 21.011656
+            },
+            "locationGUID": "6509a486-0299-4cd9-9f8b-64bdf2cc2a74",
+            "maxPowerKw": 22,
+            "name": "H15 Boutique Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Warsaw"
+        },
+        "success": true
+    }
+}

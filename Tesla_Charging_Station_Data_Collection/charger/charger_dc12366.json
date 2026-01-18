@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Godby",
+                "country": "Finland",
+                "countryCode": "FI",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "22310",
+                "postalExt": null,
+                "state": null,
+                "street": "Getavagen 196",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 60.24045562,
+                "longitude": 19.96368055
+            },
+            "commonSiteName": "Stallhagen",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 60.24045562,
+                "longitude": 19.96368055
+            },
+            "locationGUID": "b50646ef-9b1f-42c9-8db5-e7fc65b8e9bb",
+            "maxPowerKw": 11,
+            "name": "Stallhagen",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Mariehamn"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "North Killingholme, Immingham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "DN40 3JL",
+                "postalExt": null,
+                "state": null,
+                "street": "Vicarage Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.639621,
+                "longitude": -0.269843
+            },
+            "commonSiteName": "The Ashbourne Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.639621,
+                "longitude": -0.269843
+            },
+            "locationGUID": "9997cf91-df0c-4c5c-8a32-b04a4613f1a3",
+            "maxPowerKw": 13,
+            "name": "The Ashbourne Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

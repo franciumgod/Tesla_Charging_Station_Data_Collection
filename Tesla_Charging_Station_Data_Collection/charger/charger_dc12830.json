@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cison di Valmarino",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "31030",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Brandolini Brando",
+                "streetNumber": "29"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.968691,
+                "longitude": 12.135624
+            },
+            "commonSiteName": "Castelbrando",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.968691,
+                "longitude": 12.135624
+            },
+            "locationGUID": "1f1c10f6-8453-4b5b-a618-cd143627c37c",
+            "maxPowerKw": 22,
+            "name": "Castelbrando",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

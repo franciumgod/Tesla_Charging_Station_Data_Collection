@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10002",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Clinton St",
+                "streetNumber": "188"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.714821,
+                "longitude": -73.987138
+            },
+            "commonSiteName": "Icon Parking 240 East Broadway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.714821,
+                "longitude": -73.987138
+            },
+            "locationGUID": "5c9732dc-85df-495f-bf1c-565198a490d0",
+            "maxPowerKw": 10,
+            "name": "Icon Parking 240 East Broadway",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

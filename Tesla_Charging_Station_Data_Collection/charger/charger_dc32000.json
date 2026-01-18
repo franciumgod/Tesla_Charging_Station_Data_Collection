@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Durango",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "34080",
+                "postalExt": null,
+                "state": "DUR",
+                "street": "Esperanza",
+                "streetNumber": "Avenida Felipe Pescador 1401"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 24.035748,
+                "longitude": -104.651107
+            },
+            "commonSiteName": "Fiesta Inn Durango",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 24.035748,
+                "longitude": -104.651107
+            },
+            "locationGUID": "f27e49f1-1f8f-4fa1-b90d-d4921388cbc8",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Durango",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

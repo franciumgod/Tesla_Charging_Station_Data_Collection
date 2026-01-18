@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Aguascalientes",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20020",
+                "postalExt": null,
+                "state": "AGU",
+                "street": "Las Flores",
+                "streetNumber": "Calle Los Laureles S/N"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 21.875751,
+                "longitude": -102.303819
+            },
+            "commonSiteName": "Fiesta Americana Aguascalientes",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 21.875751,
+                "longitude": -102.303819
+            },
+            "locationGUID": "7d5266ef-60d8-48ce-ab56-3b823919905e",
+            "maxPowerKw": 18,
+            "name": "Fiesta Americana Aguascalientes",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

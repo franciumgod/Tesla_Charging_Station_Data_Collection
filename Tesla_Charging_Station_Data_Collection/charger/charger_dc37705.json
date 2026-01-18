@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Guardamiglio",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "26862",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Della Braglia",
+                "streetNumber": "2"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.10662425,
+                "longitude": 9.68541475
+            },
+            "commonSiteName": "InnovEnergy",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.10662425,
+                "longitude": 9.68541475
+            },
+            "locationGUID": "517efe5c-cff7-49f9-a337-51b068f387bc",
+            "maxPowerKw": 11,
+            "name": "InnovEnergy",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

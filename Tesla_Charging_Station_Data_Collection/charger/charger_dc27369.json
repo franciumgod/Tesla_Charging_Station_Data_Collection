@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Clermont-Ferrand",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "63000",
+                "postalExt": null,
+                "state": null,
+                "street": "Rue de l'Eminee",
+                "streetNumber": "23"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.76137,
+                "longitude": 3.140594
+            },
+            "commonSiteName": "Caffe Mazzo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.76137,
+                "longitude": 3.140594
+            },
+            "locationGUID": "4a415de3-d092-4236-85b0-3611910046cf",
+            "maxPowerKw": 11,
+            "name": "Caffe Mazzo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

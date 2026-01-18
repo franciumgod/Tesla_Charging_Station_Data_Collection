@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vancouver",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6E 0A8",
+                "postalExt": null,
+                "state": "BC",
+                "street": "W Georgia St",
+                "streetNumber": "1128"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.28571,
+                "longitude": -123.123763
+            },
+            "commonSiteName": "Shangri-La Hotel, Vancouver",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.28571,
+                "longitude": -123.123763
+            },
+            "locationGUID": "03077b29-0570-485d-93c8-f01f856062f2",
+            "maxPowerKw": 16,
+            "name": "Shangri-La Hotel, Vancouver",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

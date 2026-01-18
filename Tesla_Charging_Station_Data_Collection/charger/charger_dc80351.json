@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hampstead",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "21074",
+                "postalExt": null,
+                "state": "MD",
+                "street": "N Main St",
+                "streetNumber": "1625"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.62023,
+                "longitude": -76.856198
+            },
+            "commonSiteName": "Greenmount Bowl",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.62023,
+                "longitude": -76.856198
+            },
+            "locationGUID": "c290b2c1-9fb6-410d-9265-5973042f44dc",
+            "maxPowerKw": 16,
+            "name": "Greenmount Bowl",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

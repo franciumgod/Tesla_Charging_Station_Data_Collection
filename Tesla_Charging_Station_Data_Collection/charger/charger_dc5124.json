@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hamilton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "L8P 0A1",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Longwood Rd S, Suite 105",
+                "streetNumber": "175"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.2568689,
+                "longitude": -79.9010344
+            },
+            "commonSiteName": "McMaster Innovation Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.2568689,
+                "longitude": -79.9010344
+            },
+            "locationGUID": "ac7f2ec3-df6c-4ccb-a29e-efd54bdaab7c",
+            "maxPowerKw": 13,
+            "name": "McMaster Innovation Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

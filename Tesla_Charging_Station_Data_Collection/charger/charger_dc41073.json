@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10128",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 90th St",
+                "streetNumber": "245"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.78098,
+                "longitude": -73.951145
+            },
+            "commonSiteName": "GGMC Ruppert Car Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.78098,
+                "longitude": -73.951145
+            },
+            "locationGUID": "086a0c91-a709-46c9-9e5d-62d71cee7a54",
+            "maxPowerKw": 8,
+            "name": "GGMC Ruppert Car Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

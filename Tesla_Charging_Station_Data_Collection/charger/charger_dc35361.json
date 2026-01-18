@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Nottingham",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "NG147FS",
+                "postalExt": null,
+                "state": null,
+                "street": "Gibsmere",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.028472,
+                "longitude": -0.933407
+            },
+            "commonSiteName": "Horspool Retreat",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.028472,
+                "longitude": -0.933407
+            },
+            "locationGUID": "b2a1aba3-7b0d-476f-9667-28c6350d1122",
+            "maxPowerKw": 11,
+            "name": "Horspool Retreat",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

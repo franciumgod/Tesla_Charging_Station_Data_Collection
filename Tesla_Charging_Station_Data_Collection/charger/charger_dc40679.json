@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "South Portland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04106",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Main St",
+                "streetNumber": "675"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.6203154,
+                "longitude": -70.3061887
+            },
+            "commonSiteName": "Howard Johnson Hotel South Portland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.6203154,
+                "longitude": -70.3061887
+            },
+            "locationGUID": "b73fc8f3-78e1-4df2-a9b6-b75e95f86808",
+            "maxPowerKw": 16,
+            "name": "Howard Johnson Hotel South Portland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

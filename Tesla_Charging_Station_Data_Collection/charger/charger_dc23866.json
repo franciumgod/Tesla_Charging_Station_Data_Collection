@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Honolulu",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "96815",
+                "postalExt": null,
+                "state": "HI",
+                "street": "Kalakaua Ave",
+                "streetNumber": "2335"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 21.277073,
+                "longitude": -157.827506
+            },
+            "commonSiteName": "Outrigger Waikiki Beach Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 21.277073,
+                "longitude": -157.827506
+            },
+            "locationGUID": "2d9c5473-3c26-40d1-8d98-8181577f1907",
+            "maxPowerKw": 16,
+            "name": "Outrigger Waikiki Beach Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Pacific/Honolulu"
+        },
+        "success": true
+    }
+}

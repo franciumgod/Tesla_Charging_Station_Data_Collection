@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pittsburgh",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "15219",
+                "postalExt": null,
+                "state": "PA",
+                "street": "Boulevard of the Allies",
+                "streetNumber": "453"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.437204,
+                "longitude": -79.998658
+            },
+            "commonSiteName": "Distrikt Hotel Pittsburgh",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.437204,
+                "longitude": -79.998658
+            },
+            "locationGUID": "70923ff4-5edd-40de-aed6-73b37aa2ca46",
+            "maxPowerKw": 16,
+            "name": "Distrikt Hotel Pittsburgh",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

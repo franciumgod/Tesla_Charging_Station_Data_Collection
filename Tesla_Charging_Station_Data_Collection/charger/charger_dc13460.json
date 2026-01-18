@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77027",
+                "postalExt": null,
+                "state": "TX",
+                "street": "West Loop S",
+                "streetNumber": "2525"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.741523,
+                "longitude": -95.456936
+            },
+            "commonSiteName": "Hotel Derek",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.741523,
+                "longitude": -95.456936
+            },
+            "locationGUID": "cad6fd28-543a-400b-8e7d-c6ccb48315a8",
+            "maxPowerKw": 8,
+            "name": "Hotel Derek",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paso Robles",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "93446",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Chimney Rock Rd",
+                "streetNumber": "11680"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.654981,
+                "longitude": -120.900694
+            },
+            "commonSiteName": "JUSTIN Wines",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.654981,
+                "longitude": -120.900694
+            },
+            "locationGUID": "d9c90c21-08d8-4090-8867-1b8b7ed534e0",
+            "maxPowerKw": 8,
+            "name": "JUSTIN Wines",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

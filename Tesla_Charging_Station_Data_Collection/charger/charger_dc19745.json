@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Decatur",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "62521",
+                "postalExt": null,
+                "state": "IL",
+                "street": "E Evergreen Ct",
+                "streetNumber": "4855"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.81597,
+                "longitude": -88.879021
+            },
+            "commonSiteName": "Hampton Inn Decatur Mt. Zion",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.81597,
+                "longitude": -88.879021
+            },
+            "locationGUID": "403f6bf6-756d-4a10-97c7-0fac59365cf3",
+            "maxPowerKw": 6,
+            "name": "Hampton Inn Decatur Mt. Zion",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

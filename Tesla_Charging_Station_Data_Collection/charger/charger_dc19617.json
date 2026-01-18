@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hannover",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "30169",
+                "postalExt": null,
+                "state": "Niedersachsen",
+                "street": "Hildesheimer Straße",
+                "streetNumber": "34-38"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.36419466,
+                "longitude": 9.74637172
+            },
+            "commonSiteName": "DORMERO Hotel Hannover",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.36419466,
+                "longitude": 9.74637172
+            },
+            "locationGUID": "d8b95852-c940-4435-ba95-410fc882c2cd",
+            "maxPowerKw": 22,
+            "name": "DORMERO Hotel Hannover",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

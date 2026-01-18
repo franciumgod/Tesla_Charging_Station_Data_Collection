@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rosslare",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "Y35 Y83V",
+                "postalExt": null,
+                "state": null,
+                "street": "Doogans Warren",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.27556,
+                "longitude": -6.388634
+            },
+            "commonSiteName": "Kelly's Resort Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.27556,
+                "longitude": -6.388634
+            },
+            "locationGUID": "d52f49f9-91aa-4446-8a7a-af8a9d342333",
+            "maxPowerKw": 7,
+            "name": "Kelly's Resort Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 7,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Leonhard",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6481",
+                "postalExt": null,
+                "state": null,
+                "street": "Plangeross",
+                "streetNumber": "36"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.98686852,
+                "longitude": 10.86942084
+            },
+            "commonSiteName": "Hotel Sportalm",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.98686852,
+                "longitude": 10.86942084
+            },
+            "locationGUID": "536c1733-a822-4a5e-b5d2-1bb731beae6b",
+            "maxPowerKw": 22,
+            "name": "Hotel Sportalm",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

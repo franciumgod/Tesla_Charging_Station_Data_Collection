@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "ennis",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "clare",
+                "postalExt": null,
+                "state": null,
+                "street": "shanaway road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.841302,
+                "longitude": -9.028287
+            },
+            "commonSiteName": "Hotel Woodstock",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.841302,
+                "longitude": -9.028287
+            },
+            "locationGUID": "96020a08-c193-4f0a-9ea4-da5e4da61ede",
+            "maxPowerKw": 6,
+            "name": "Hotel Woodstock",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

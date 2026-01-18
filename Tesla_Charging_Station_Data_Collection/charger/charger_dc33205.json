@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64700",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "Paseo de Las Privanzas",
+                "streetNumber": "Av Lazaro Cardenas 1000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.637913,
+                "longitude": -100.31443
+            },
+            "commonSiteName": "Galerias Valle Oriente",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.637913,
+                "longitude": -100.31443
+            },
+            "locationGUID": "08e9c8ca-582b-4de7-ae16-9372171f14b8",
+            "maxPowerKw": 18,
+            "name": "Galerias Valle Oriente",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

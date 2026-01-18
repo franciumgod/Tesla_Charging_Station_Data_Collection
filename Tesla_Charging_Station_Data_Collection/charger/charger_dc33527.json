@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Baillet-en-France",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "95560",
+                "postalExt": null,
+                "state": null,
+                "street": "Route du Golf",
+                "streetNumber": "18"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.04935835,
+                "longitude": 2.29423609
+            },
+            "commonSiteName": "Paris International Golf Club",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.04935835,
+                "longitude": 2.29423609
+            },
+            "locationGUID": "21db5084-b1a8-4036-9003-a731a66c1b20",
+            "maxPowerKw": 14,
+            "name": "Paris International Golf Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

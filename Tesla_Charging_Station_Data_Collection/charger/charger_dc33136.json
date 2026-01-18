@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alice Spring",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "870",
+                "postalExt": null,
+                "state": "Northern Territory",
+                "street": "Barrett Drive",
+                "streetNumber": "93"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -23.71816461,
+                "longitude": 133.87890175
+            },
+            "commonSiteName": "Crowne Plaza Alice Springs",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -23.71816461,
+                "longitude": 133.87890175
+            },
+            "locationGUID": "678bf406-32a1-469a-a9a6-9af89115921f",
+            "maxPowerKw": 22,
+            "name": "Crowne Plaza Alice Springs",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Darwin"
+        },
+        "success": true
+    }
+}

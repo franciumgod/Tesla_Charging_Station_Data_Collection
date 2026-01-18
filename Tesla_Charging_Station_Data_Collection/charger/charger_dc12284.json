@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Long Beach",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90802",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Queensway Dr",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.757146,
+                "longitude": -118.19861
+            },
+            "commonSiteName": "Hotel Maya, a Doubletree by Hilton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.757146,
+                "longitude": -118.19861
+            },
+            "locationGUID": "c167c3d4-30b3-45de-9dbd-fa91f8ba9db1",
+            "maxPowerKw": 8,
+            "name": "Hotel Maya, a Doubletree by Hilton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

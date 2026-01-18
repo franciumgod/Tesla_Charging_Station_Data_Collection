@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Benito Ju├írez",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "3230",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Insurgentes Mixcoac",
+                "streetNumber": "Avenida de los Insurgentes Sur 1457"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.368596,
+                "longitude": -99.180948
+            },
+            "commonSiteName": "Manacar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.368596,
+                "longitude": -99.180948
+            },
+            "locationGUID": "dd8ce846-0712-4750-b9ed-0dcfb6999e79",
+            "maxPowerKw": 18,
+            "name": "Manacar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

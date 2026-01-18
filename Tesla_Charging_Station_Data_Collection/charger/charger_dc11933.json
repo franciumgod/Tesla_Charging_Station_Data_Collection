@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Christina Lake",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V0H 1E2",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Highway 3",
+                "streetNumber": "1675"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.0449413,
+                "longitude": -118.2065915
+            },
+            "commonSiteName": "Christina Lake Welcome Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.0449413,
+                "longitude": -118.2065915
+            },
+            "locationGUID": "cea59bd5-c5bd-44d0-a409-2eeca0c982f8",
+            "maxPowerKw": 16,
+            "name": "Christina Lake Welcome Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Columbus",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "43215",
+                "postalExt": null,
+                "state": "OH",
+                "street": "N High St",
+                "streetNumber": "401"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.971151,
+                "longitude": -83.002496
+            },
+            "commonSiteName": "Hilton Columbus Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.971151,
+                "longitude": -83.002496
+            },
+            "locationGUID": "f6dfb2e4-e71b-40b1-b986-f8dcec4b324b",
+            "maxPowerKw": 8,
+            "name": "Hilton Columbus Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

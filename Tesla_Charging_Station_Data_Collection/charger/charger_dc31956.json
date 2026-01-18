@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Martin-de-Ré",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "17410",
+                "postalExt": null,
+                "state": null,
+                "street": "Cours Pasteur",
+                "streetNumber": "87"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.204107,
+                "longitude": -1.372894
+            },
+            "commonSiteName": "Le Clos Saint-Martin Hôtel & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.204107,
+                "longitude": -1.372894
+            },
+            "locationGUID": "abadbb33-ba72-441c-b944-74fb77d472cf",
+            "maxPowerKw": 11,
+            "name": "Le Clos Saint-Martin Hôtel & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

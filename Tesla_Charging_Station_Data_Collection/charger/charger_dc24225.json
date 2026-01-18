@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Meydan Racecourse, Al Meydan Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.15610451,
+                "longitude": 55.29999124
+            },
+            "commonSiteName": "The Meydan Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.15610451,
+                "longitude": 55.29999124
+            },
+            "locationGUID": "691b848f-0b3d-4208-8871-19732da597dd",
+            "maxPowerKw": 22,
+            "name": "The Meydan Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

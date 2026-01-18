@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alveston",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "CV37 7RJ",
+                "postalExt": null,
+                "state": null,
+                "street": "Pimlico Lane",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.202722,
+                "longitude": -1.663184
+            },
+            "commonSiteName": "Baraset Barn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.202722,
+                "longitude": -1.663184
+            },
+            "locationGUID": "e582e5f4-33b5-4d52-86f7-8cc01534e208",
+            "maxPowerKw": 6,
+            "name": "Baraset Barn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

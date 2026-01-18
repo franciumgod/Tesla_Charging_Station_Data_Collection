@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Albir",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3581",
+                "postalExt": null,
+                "state": "Comunidad Valenciana",
+                "street": "Calle Verderol",
+                "streetNumber": "5"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.559818,
+                "longitude": -0.07438
+            },
+            "commonSiteName": "SHA Wellness Clinic",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.559818,
+                "longitude": -0.07438
+            },
+            "locationGUID": "d616721b-596d-4fcc-acec-fde833489271",
+            "maxPowerKw": 17,
+            "name": "SHA Wellness Clinic",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

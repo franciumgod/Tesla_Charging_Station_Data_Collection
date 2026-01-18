@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Richmond",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "V6X 4J7",
+                "postalExt": null,
+                "state": "BC",
+                "street": "Hazelbridge Wy",
+                "streetNumber": "4151"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.18379,
+                "longitude": -123.133567
+            },
+            "commonSiteName": "Aberdeen Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.18379,
+                "longitude": -123.133567
+            },
+            "locationGUID": "f51a7b11-a744-45bb-a6bb-680eaa4c9566",
+            "maxPowerKw": 16,
+            "name": "Aberdeen Centre",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Vancouver"
+        },
+        "success": true
+    }
+}

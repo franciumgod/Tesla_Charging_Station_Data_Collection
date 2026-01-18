@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Täby",
+                "country": "Sweden",
+                "countryCode": "SE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "183 70",
+                "postalExt": null,
+                "state": "Stockholm",
+                "street": "Stora Marknadsvägen",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 59.445166,
+                "longitude": 18.073511
+            },
+            "commonSiteName": "Täby Centrum",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 59.445166,
+                "longitude": 18.073511
+            },
+            "locationGUID": "2b4bf944-e69c-48c6-9c12-9616bd23eabc",
+            "maxPowerKw": 11,
+            "name": "Täby Centrum",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Stockholm"
+        },
+        "success": true
+    }
+}

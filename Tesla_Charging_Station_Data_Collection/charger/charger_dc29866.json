@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Colima",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28010",
+                "postalExt": null,
+                "state": "COL",
+                "street": "Col. El Diezmo",
+                "streetNumber": "Blvd. Camino Real No. 999"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.257353,
+                "longitude": -103.694081
+            },
+            "commonSiteName": "Hotel Mision Colima",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.257353,
+                "longitude": -103.694081
+            },
+            "locationGUID": "47dc6fc5-d10a-431a-b4ac-ca9c6924c427",
+            "maxPowerKw": 18,
+            "name": "Hotel Mision Colima",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

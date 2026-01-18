@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Ramsau",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "83486",
+                "postalExt": null,
+                "state": null,
+                "street": "Holzengasse",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.608506,
+                "longitude": 12.898958
+            },
+            "commonSiteName": "Berghotel Rehlegg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.608506,
+                "longitude": 12.898958
+            },
+            "locationGUID": "05ccfa31-f6a4-45c6-8494-b15605ad7267",
+            "maxPowerKw": 22,
+            "name": "Berghotel Rehlegg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

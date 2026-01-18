@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pforzheim",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "75175",
+                "postalExt": null,
+                "state": null,
+                "street": "Kaulbachstrasse",
+                "streetNumber": "48"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.886999,
+                "longitude": 8.736759
+            },
+            "commonSiteName": "Fitnesstime",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.886999,
+                "longitude": 8.736759
+            },
+            "locationGUID": "b123e752-afb4-459c-ae98-54ddb8ccaf95",
+            "maxPowerKw": 11,
+            "name": "Fitnesstime",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

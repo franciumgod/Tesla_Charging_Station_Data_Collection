@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Gosau",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "4824",
+                "postalExt": null,
+                "state": null,
+                "street": "Gosauseestr.",
+                "streetNumber": "15"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.581307,
+                "longitude": 13.534471
+            },
+            "commonSiteName": "COOEE alpin Dachstein",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.581307,
+                "longitude": 13.534471
+            },
+            "locationGUID": "fe810644-f787-43e5-a28c-a3e6fe1752ab",
+            "maxPowerKw": 22,
+            "name": "COOEE alpin Dachstein",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

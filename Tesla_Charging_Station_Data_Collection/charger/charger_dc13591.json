@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Nasu",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "325",
+                "postalExt": "0303",
+                "state": "Tochigi",
+                "street": "Takakuotsu",
+                "streetNumber": "2301"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.059273,
+                "longitude": 139.978116
+            },
+            "commonSiteName": "二期倶楽部",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.059273,
+                "longitude": 139.978116
+            },
+            "locationGUID": "f1443955-d9a2-4857-a621-7eb1751bf7fb",
+            "maxPowerKw": 8,
+            "name": "Niki Club",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "San Francisco",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "94115",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Sutter St",
+                "streetNumber": "1800"
+            },
+            "amenities": [
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.78679,
+                "longitude": -122.430143
+            },
+            "commonSiteName": "Hotel Buchanan, a Kimpton Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.78679,
+                "longitude": -122.430143
+            },
+            "locationGUID": "4d150fd2-94cf-41d1-b60e-5c7b9d4416c6",
+            "maxPowerKw": 13,
+            "name": "Hotel Buchanan, a Kimpton Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

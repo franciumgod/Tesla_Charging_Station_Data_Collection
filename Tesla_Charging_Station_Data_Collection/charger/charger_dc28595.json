@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Muenster",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "3985",
+                "postalExt": null,
+                "state": "n/a",
+                "street": "Furkastrasse",
+                "streetNumber": "735"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.48801,
+                "longitude": 8.268234
+            },
+            "commonSiteName": "Hotel Restaurant Landhaus",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.48801,
+                "longitude": 8.268234
+            },
+            "locationGUID": "6b5f5e1b-6c0f-4e74-8678-f326a92da30d",
+            "maxPowerKw": 22,
+            "name": "Hotel Restaurant Landhaus",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

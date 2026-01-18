@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Main Ridge",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3928",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Mornington-Flinders Road",
+                "streetNumber": "1333"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -38.394317,
+                "longitude": 144.994243
+            },
+            "commonSiteName": "Ten Minutes By Tractor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -38.394317,
+                "longitude": 144.994243
+            },
+            "locationGUID": "d3bf74f8-f5de-4651-b949-e81bb38cc6e4",
+            "maxPowerKw": 22,
+            "name": "Ten Minutes By Tractor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

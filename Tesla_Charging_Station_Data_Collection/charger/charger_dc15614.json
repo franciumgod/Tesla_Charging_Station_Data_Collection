@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fort Wayne",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "46825",
+                "postalExt": null,
+                "state": "IN",
+                "street": "N Clinton St",
+                "streetNumber": "4820"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.122117,
+                "longitude": -85.125386
+            },
+            "commonSiteName": "Bakerstreet Steakhouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.122117,
+                "longitude": -85.125386
+            },
+            "locationGUID": "a9b55d33-b1c4-4293-8b86-364013fd288f",
+            "maxPowerKw": 16,
+            "name": "Bakerstreet Steakhouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Indiana/Indianapolis"
+        },
+        "success": true
+    }
+}

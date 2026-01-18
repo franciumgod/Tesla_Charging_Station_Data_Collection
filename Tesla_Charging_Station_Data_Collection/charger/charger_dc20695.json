@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Tijuana",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22457",
+                "postalExt": null,
+                "state": "Baja California",
+                "street": "Col. Otay Constituyentes",
+                "streetNumber": "Blvd. Tijuana 17226"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.5328777,
+                "longitude": -116.94625328
+            },
+            "commonSiteName": "Gamma by Fiesta Inn Tijuana",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.5328777,
+                "longitude": -116.94625328
+            },
+            "locationGUID": "0f897dc9-c0a2-48df-8a62-d8453bdc4471",
+            "maxPowerKw": 18,
+            "name": "Gamma by Fiesta Inn Tijuana",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Tijuana"
+        },
+        "success": true
+    }
+}

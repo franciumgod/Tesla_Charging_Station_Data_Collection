@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Catalina",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "85739",
+                "postalExt": null,
+                "state": "AZ",
+                "street": "E Via Estancia",
+                "streetNumber": "5000"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 32.507832,
+                "longitude": -110.884743
+            },
+            "commonSiteName": "Miraval Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 32.507832,
+                "longitude": -110.884743
+            },
+            "locationGUID": "63d27bea-6806-4e77-be4f-daa5468c422a",
+            "maxPowerKw": 6,
+            "name": "Miraval Resort",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/Phoenix"
+        },
+        "success": true
+    }
+}

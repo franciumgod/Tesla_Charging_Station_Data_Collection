@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Milano",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "20121",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Privata Fratelli Gabba",
+                "streetNumber": "7b"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.470092,
+                "longitude": 9.189372
+            },
+            "commonSiteName": "Bulgari Hotel Milano",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.470092,
+                "longitude": 9.189372
+            },
+            "locationGUID": "472ff9fd-23e9-4ce5-aa6e-755169e4458b",
+            "maxPowerKw": 22,
+            "name": "Bulgari Hotel Milano",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

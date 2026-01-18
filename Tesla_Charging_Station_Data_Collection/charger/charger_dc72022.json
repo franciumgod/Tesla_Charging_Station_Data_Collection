@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Charlottesville",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22903",
+                "postalExt": null,
+                "state": "VA",
+                "street": "Oakhurst Cir",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.031897,
+                "longitude": -78.506854
+            },
+            "commonSiteName": "Oakhurst Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.031897,
+                "longitude": -78.506854
+            },
+            "locationGUID": "db42acb2-0fc5-4071-b55e-cdad8a0e7f7f",
+            "maxPowerKw": 8,
+            "name": "Oakhurst Inn",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

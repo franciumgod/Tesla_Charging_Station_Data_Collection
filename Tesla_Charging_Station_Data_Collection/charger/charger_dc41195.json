@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Rockford",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "61108",
+                "postalExt": null,
+                "state": "IL",
+                "street": "E State St",
+                "streetNumber": "7475"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.269632,
+                "longitude": -88.971292
+            },
+            "commonSiteName": "Machine Shed Restaurant Rockford",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.269632,
+                "longitude": -88.971292
+            },
+            "locationGUID": "fb855d82-e02f-4339-899f-a77c6ae10243",
+            "maxPowerKw": 16,
+            "name": "Machine Shed Restaurant Rockford",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

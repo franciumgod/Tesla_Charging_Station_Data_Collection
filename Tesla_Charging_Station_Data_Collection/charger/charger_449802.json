@@ -1,0 +1,368 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "regularHours": [
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 7
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 1
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 2
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 3
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 4
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 5
+                    },
+                    {
+                        "periodBegin": "00:00",
+                        "periodEnd": "02:00",
+                        "weekday": 6
+                    },
+                    {
+                        "periodBegin": "06:30",
+                        "periodEnd": "23:59",
+                        "weekday": 6
+                    }
+                ],
+                "twentyFourSeven": false
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "countryCode": "AE",
+                "district": null,
+                "navRegion": "me",
+                "nearestEntrance": null,
+                "postalCode": null,
+                "postalExt": null,
+                "state": null,
+                "street": "Abu Baker Al Siddique St",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0,
+                            0.140625,
+                            0.3309659090909091,
+                            0.6134259259259258,
+                            0.7890625,
+                            0.866943359375,
+                            0.9296875,
+                            0.96240234375,
+                            0.9609375,
+                            0.976806640625,
+                            0.984375,
+                            0.960693359375,
+                            0.8729838709677419,
+                            0.7564655172413792,
+                            0.6817255434782608,
+                            0.7145432692307693,
+                            0.7881944444444444,
+                            0.84375,
+                            0.859375,
+                            0.878125,
+                            0.9140625,
+                            0.703125,
+                            0.46875,
+                            0
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0,
+                            0.3125,
+                            0.484375,
+                            0.78125,
+                            0.8828125,
+                            0.8833333333333333,
+                            0.8518415178571428,
+                            0.84375,
+                            0.8790322580645161,
+                            0.944580078125,
+                            0.9765625,
+                            0.94580078125,
+                            0.8416666666666666,
+                            0.665948275862069,
+                            0.5078125,
+                            0.5051598084886129,
+                            0.6754443712969058,
+                            0.8727678571428572,
+                            0.96240234375,
+                            0.984375,
+                            1,
+                            0.75,
+                            0.5,
+                            0
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0,
+                            0.25,
+                            0.40828804347826086,
+                            0.7003348214285714,
+                            0.828125,
+                            0.878125,
+                            0.90625,
+                            0.9404296875,
+                            0.96875,
+                            0.9365234375,
+                            0.91455078125,
+                            0.9375,
+                            0.89599609375,
+                            0.7669270833333334,
+                            0.744140625,
+                            0.8125,
+                            0.8518415178571428,
+                            0.8359375,
+                            0.8206018518518519,
+                            0.8125,
+                            0.8125,
+                            0.609375,
+                            0.40625,
+                            0
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0,
+                            0.234375,
+                            0.359375,
+                            0.5,
+                            0.5743885869565217,
+                            0.6810344827586208,
+                            0.8515625,
+                            0.9,
+                            0.9140625,
+                            0.9311995967741935,
+                            0.960693359375,
+                            0.9765625,
+                            0.96240234375,
+                            0.9453125,
+                            0.8563508064516128,
+                            0.7758620689655173,
+                            0.7903645833333333,
+                            0.859375,
+                            0.8632812499999999,
+                            0.88203125,
+                            0.9140625,
+                            0.6583333333333333,
+                            0.4375,
+                            0
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0,
+                            0.359375,
+                            0.5483217592592593,
+                            0.83515625,
+                            0.9140625,
+                            0.9140625,
+                            0.9054939516129032,
+                            0.944580078125,
+                            0.96875,
+                            0.931884765625,
+                            0.8984375,
+                            0.8507543103448276,
+                            0.6964285714285714,
+                            0.5924479166666666,
+                            0.5925,
+                            0.7466517857142858,
+                            0.8588362068965517,
+                            0.92333984375,
+                            0.9609375,
+                            0.92919921875,
+                            0.86953125,
+                            0.6484375,
+                            0.4085648148148148,
+                            0.03125
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0,
+                            0.296875,
+                            0.46781249999999996,
+                            0.7721354166666666,
+                            0.875,
+                            0.9054939516129032,
+                            0.921875,
+                            0.939516129032258,
+                            0.960693359375,
+                            0.984375,
+                            0.976806640625,
+                            0.9296875,
+                            0.748991935483871,
+                            0.5402644230769231,
+                            0.3722098214285714,
+                            0.47265625,
+                            0.6673387096774194,
+                            0.890625,
+                            0.9536290322580645,
+                            0.96875,
+                            0.9921875,
+                            0.75,
+                            0.5,
+                            0
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0,
+                            0.275,
+                            0.44516129032258067,
+                            0.7674679487179487,
+                            0.91875,
+                            0.9307692307692307,
+                            0.8983552631578947,
+                            0.90625,
+                            0.9314144736842105,
+                            0.9565625,
+                            0.9750000000000001,
+                            0.9303125,
+                            0.825,
+                            0.6712121212121211,
+                            0.6036033163265306,
+                            0.5973214285714286,
+                            0.7318257032542748,
+                            0.8674107142857144,
+                            0.94375,
+                            0.9075,
+                            0.85,
+                            0.575,
+                            0.375,
+                            0
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-15T00:00:00Z",
+                "siteId": {
+                    "id": 11029015,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 449802,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "14400s"
+            },
+            "centroid": {
+                "latitude": 25.286475,
+                "longitude": 55.323629
+            },
+            "commonSiteName": "Union Coop Abu Hail",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "AED",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 1.26,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "kwh",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "AED",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CONGESTION",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 2,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 0,
+                    "rateTier2": 0,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 25.287248,
+                "longitude": 55.323276
+            },
+            "locationGUID": "fa1759a7-2afd-4dbe-8177-4f7d975f812a",
+            "maxPowerKw": 250,
+            "name": "Dubai, UAE - Abu Hail",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 8,
+            "timeZone": "Asia/Dubai"
+        },
+        "success": true
+    }
+}

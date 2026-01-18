@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hasliberg",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6083",
+                "postalExt": null,
+                "state": null,
+                "street": "Sattel",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.753819,
+                "longitude": 8.167171
+            },
+            "commonSiteName": "Hotel Wetterhorn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.753819,
+                "longitude": 8.167171
+            },
+            "locationGUID": "04cb5151-c7a8-42c4-8134-784f39f66743",
+            "maxPowerKw": 11,
+            "name": "Hotel Wetterhorn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

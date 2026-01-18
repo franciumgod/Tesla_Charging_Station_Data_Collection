@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10280",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Battery Pl",
+                "streetNumber": "99"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.707738,
+                "longitude": -74.016845
+            },
+            "commonSiteName": "GGMC The Cove",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.707738,
+                "longitude": -74.016845
+            },
+            "locationGUID": "cbe40d6b-a037-459e-b477-63e08775984a",
+            "maxPowerKw": 16,
+            "name": "GGMC The Cove",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Niesky",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2906",
+                "postalExt": null,
+                "state": null,
+                "street": "Rothenburger Str.",
+                "streetNumber": "55"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.289931,
+                "longitude": 14.842982
+            },
+            "commonSiteName": "Restaurant und Eiscafe Becker",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.289931,
+                "longitude": 14.842982
+            },
+            "locationGUID": "8e0ed442-c290-4db2-8ee3-316b8643261f",
+            "maxPowerKw": 11,
+            "name": "Restaurant und Eiscafe Becker",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

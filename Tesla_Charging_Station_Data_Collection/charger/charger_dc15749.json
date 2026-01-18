@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Hoover",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "35244",
+                "postalExt": null,
+                "state": "AL",
+                "street": "John Hawkins Pkwy",
+                "streetNumber": "2725"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 33.36292,
+                "longitude": -86.828371
+            },
+            "commonSiteName": "Residence Inn Birmingham Hoover",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 33.36292,
+                "longitude": -86.828371
+            },
+            "locationGUID": "d1192fac-b2bc-4cc7-856b-be03b67e6ace",
+            "maxPowerKw": 8,
+            "name": "Residence Inn Birmingham Hoover",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

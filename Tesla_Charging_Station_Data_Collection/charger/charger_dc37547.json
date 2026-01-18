@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pilsting",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "94431",
+                "postalExt": null,
+                "state": "Bayern",
+                "street": "Hietzinger Wiesen",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.691791,
+                "longitude": 12.672385
+            },
+            "commonSiteName": "Motel Isar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.691791,
+                "longitude": 12.672385
+            },
+            "locationGUID": "7155c646-1d74-4089-a4c6-18f5bcfa25dc",
+            "maxPowerKw": 22,
+            "name": "Motel Isar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

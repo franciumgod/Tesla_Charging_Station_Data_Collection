@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Kitchener",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N2A 2Y5",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Weber St E",
+                "streetNumber": "1458"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.431633,
+                "longitude": -80.438145
+            },
+            "commonSiteName": "Fork and Cork Grill",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.431633,
+                "longitude": -80.438145
+            },
+            "locationGUID": "8426e3bb-c8e6-4b4c-b609-299d3ca6e296",
+            "maxPowerKw": 16,
+            "name": "Fork and Cork Grill",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

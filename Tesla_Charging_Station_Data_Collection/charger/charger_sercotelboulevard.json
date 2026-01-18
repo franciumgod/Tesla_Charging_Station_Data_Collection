@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Vitoria-Gasteiz, Araba",
+                "country": "Spain",
+                "countryCode": "ES",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "1013",
+                "postalExt": null,
+                "state": "Euskadi",
+                "street": "Zaramaga Kalea",
+                "streetNumber": "3"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 42.860591,
+                "longitude": -2.663331
+            },
+            "commonSiteName": "Sercotel Boulevard",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 42.86085,
+                "longitude": -2.662554
+            },
+            "locationGUID": "706d0829-1e68-4682-9f8e-b6935c9d5250",
+            "maxPowerKw": 11,
+            "name": "Sercotel Boulevard",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Madrid"
+        },
+        "success": true
+    }
+}

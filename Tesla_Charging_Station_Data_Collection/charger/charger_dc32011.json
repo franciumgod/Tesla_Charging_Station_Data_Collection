@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Brunswick",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "04011",
+                "postalExt": null,
+                "state": "ME",
+                "street": "Atlantic Ave",
+                "streetNumber": "11"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.8991326,
+                "longitude": -69.9274902
+            },
+            "commonSiteName": "Flight Deck Brewing",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.8991326,
+                "longitude": -69.9274902
+            },
+            "locationGUID": "550d2bac-1a5e-4159-8185-2b1b6b1b83ef",
+            "maxPowerKw": 16,
+            "name": "Flight Deck Brewing",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

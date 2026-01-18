@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Huntsville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "P1H 2E8",
+                "postalExt": null,
+                "state": "ON",
+                "street": "Deerhurst Dr",
+                "streetNumber": "1235"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.346529,
+                "longitude": -79.131782
+            },
+            "commonSiteName": "Deerhurst Resort",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.346529,
+                "longitude": -79.131782
+            },
+            "locationGUID": "deb1caca-5902-4fb2-b34b-e5129bd7f0be",
+            "maxPowerKw": 16,
+            "name": "Deerhurst Resort",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

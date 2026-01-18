@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tifton",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "31793",
+                "postalExt": null,
+                "state": "GA",
+                "street": "Boo Dr",
+                "streetNumber": "201"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 31.447475,
+                "longitude": -83.534205
+            },
+            "commonSiteName": "Hilton Garden Inn Tifton",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 31.447475,
+                "longitude": -83.534205
+            },
+            "locationGUID": "f6e332a7-b8a1-465e-b74e-8896aa106b7b",
+            "maxPowerKw": 16,
+            "name": "Hilton Garden Inn Tifton",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

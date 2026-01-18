@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Oudenaarde",
+                "country": "Belgium",
+                "countryCode": "BE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "9700",
+                "postalExt": null,
+                "state": null,
+                "street": "Zandstraat 5",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.885962,
+                "longitude": 3.645266
+            },
+            "commonSiteName": "B&B Scheldekant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.885962,
+                "longitude": 3.645266
+            },
+            "locationGUID": "0a52be1c-d7eb-4fcf-b090-22cd33ff5e42",
+            "maxPowerKw": 22,
+            "name": "B&B Scheldekant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Brussels"
+        },
+        "success": true
+    }
+}

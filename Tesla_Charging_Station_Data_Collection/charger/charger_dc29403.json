@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Monterrey",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "64640",
+                "postalExt": null,
+                "state": "NLE",
+                "street": "San Jeronimo",
+                "streetNumber": "San Jeronimo 311"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.67416,
+                "longitude": -100.355648
+            },
+            "commonSiteName": "City Express Plus Monterrey San Jer├│nimo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.67416,
+                "longitude": -100.355648
+            },
+            "locationGUID": "da001edd-faf9-4d59-8d02-22d337c1afaa",
+            "maxPowerKw": 18,
+            "name": "City Express Plus Monterrey San Jeronimo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

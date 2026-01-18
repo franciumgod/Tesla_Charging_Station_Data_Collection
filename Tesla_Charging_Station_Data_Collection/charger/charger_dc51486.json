@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cork",
+                "country": "Ireland",
+                "countryCode": "IE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "T12 X2AH",
+                "postalExt": null,
+                "state": null,
+                "street": "Western Road",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.895981,
+                "longitude": -8.484816
+            },
+            "commonSiteName": "The River Lee Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.895981,
+                "longitude": -8.484816
+            },
+            "locationGUID": "9b82c7fd-bdcd-4e3e-a97d-32129e7414a2",
+            "maxPowerKw": 22,
+            "name": "The River Lee Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Dublin"
+        },
+        "success": true
+    }
+}

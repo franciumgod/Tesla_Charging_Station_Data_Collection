@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Llandeilo",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SA19 6EN",
+                "postalExt": null,
+                "state": null,
+                "street": "Rhosmaen St",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.882965,
+                "longitude": -3.992978
+            },
+            "commonSiteName": "The Cawdor",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.882965,
+                "longitude": -3.992978
+            },
+            "locationGUID": "c62208e7-1fce-42b8-9471-f06e33944ecf",
+            "maxPowerKw": 13,
+            "name": "The Cawdor",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

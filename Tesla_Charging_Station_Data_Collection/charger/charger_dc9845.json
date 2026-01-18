@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Savudrija",
+                "country": "Croatia",
+                "countryCode": "HR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "52475",
+                "postalExt": null,
+                "state": null,
+                "street": "Alberi",
+                "streetNumber": "300 A"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.497657,
+                "longitude": 13.528364
+            },
+            "commonSiteName": "Kempinski Hotel Adriatic",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.497657,
+                "longitude": 13.528364
+            },
+            "locationGUID": "aaadbe3e-6b06-4b1a-a555-4e45c9fb218c",
+            "maxPowerKw": 22,
+            "name": "Kempinski Hotel Adriatic",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Zagreb"
+        },
+        "success": true
+    }
+}

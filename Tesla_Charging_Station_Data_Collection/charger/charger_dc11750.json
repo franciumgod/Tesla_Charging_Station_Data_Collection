@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "North Bovey",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "TQ13 8RE",
+                "postalExt": null,
+                "state": null,
+                "street": "Dartmoor National Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 50.64632073,
+                "longitude": -3.79557783
+            },
+            "commonSiteName": "Bovey Castle Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 50.64632073,
+                "longitude": -3.79557783
+            },
+            "locationGUID": "ade7efee-3bb6-4608-b589-d2515b3ecb2c",
+            "maxPowerKw": 22,
+            "name": "Bovey Castle Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

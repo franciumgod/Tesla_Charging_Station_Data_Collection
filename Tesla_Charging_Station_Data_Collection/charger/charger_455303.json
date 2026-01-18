@@ -1,0 +1,298 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Fukuoka",
+                "country": "Japan",
+                "countryCode": "JP",
+                "district": null,
+                "navRegion": "jp",
+                "nearestEntrance": null,
+                "postalCode": "819",
+                "postalExt": "0014",
+                "state": "Fukuoka",
+                "street": "Toyohama, Nishi-Ku",
+                "streetNumber": "3-1-10"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": {
+                "availabilityProfile": {
+                    "friday": {
+                        "congestionValue": [
+                            0.346875,
+                            0.3325892857142857,
+                            0.3125,
+                            0.3125,
+                            0.25,
+                            0.3125,
+                            0.396875,
+                            0.53125,
+                            0.5187499999999999,
+                            0.5,
+                            0.53125,
+                            0.5,
+                            0.419921875,
+                            0.3526785714285714,
+                            0.296875,
+                            0.25,
+                            0.1875,
+                            0.16666666666666666,
+                            0.15625,
+                            0.14583333333333331,
+                            0.109375,
+                            0.109375,
+                            0.125,
+                            0.1875
+                        ]
+                    },
+                    "monday": {
+                        "congestionValue": [
+                            0.34375,
+                            0.4375,
+                            0.4375,
+                            0.4756944444444445,
+                            0.53125,
+                            0.6442307692307693,
+                            0.65625,
+                            0.5516826923076923,
+                            0.39285714285714285,
+                            0.39285714285714285,
+                            0.34375,
+                            0.3392857142857143,
+                            0.25,
+                            0.25,
+                            0.16796875,
+                            0.23125,
+                            0.203125,
+                            0.15,
+                            0.09375,
+                            0.046875,
+                            0.046875,
+                            0.03125,
+                            0.125,
+                            0.171875
+                        ]
+                    },
+                    "saturday": {
+                        "congestionValue": [
+                            0.3203125,
+                            0.4375,
+                            0.5173611111111112,
+                            0.53125,
+                            0.6041666666666667,
+                            0.625,
+                            0.5833333333333333,
+                            0.5375,
+                            0.546875,
+                            0.5390625,
+                            0.484375,
+                            0.4166666666666667,
+                            0.2942708333333333,
+                            0.165625,
+                            0.09375,
+                            0,
+                            0.0625,
+                            0.0625,
+                            0.125,
+                            0.09375,
+                            0.14583333333333334,
+                            0.15625,
+                            0.14583333333333331,
+                            0.125
+                        ]
+                    },
+                    "sunday": {
+                        "congestionValue": [
+                            0.23660714285714285,
+                            0.296875,
+                            0.4140625,
+                            0.48011363636363635,
+                            0.578125,
+                            0.5227272727272727,
+                            0.455078125,
+                            0.484375,
+                            0.5375,
+                            0.515625,
+                            0.4296875,
+                            0.265625,
+                            0.2,
+                            0.171875,
+                            0.1875,
+                            0.1953125,
+                            0.140625,
+                            0.08854166666666667,
+                            0.09375,
+                            0.0625,
+                            0.0625,
+                            0,
+                            0.03125,
+                            0.20758928571428573
+                        ]
+                    },
+                    "thursday": {
+                        "congestionValue": [
+                            0.0734375,
+                            0.1,
+                            0.1375,
+                            0.15,
+                            0.22857142857142856,
+                            0.3078125,
+                            0.375,
+                            0.3359375,
+                            0.3142857142857142,
+                            0.3359375,
+                            0.44999999999999996,
+                            0.45,
+                            0.38749999999999996,
+                            0.19999999999999998,
+                            0.18,
+                            0.1375,
+                            0.12499999999999999,
+                            0.07083333333333333,
+                            0.025,
+                            0,
+                            0,
+                            0.075,
+                            0.11875,
+                            0.27232142857142855
+                        ]
+                    },
+                    "tuesday": {
+                        "congestionValue": [
+                            0.2265625,
+                            0.234375,
+                            0.26875,
+                            0.3325892857142857,
+                            0.390625,
+                            0.375,
+                            0.33072916666666663,
+                            0.3125,
+                            0.296875,
+                            0.2875,
+                            0.28125,
+                            0.19375,
+                            0.125,
+                            0.0625,
+                            0.078125,
+                            0.109375,
+                            0.09375,
+                            0.0859375,
+                            0.046875,
+                            0.0625,
+                            0.0625,
+                            0.109375,
+                            0.125,
+                            0.2
+                        ]
+                    },
+                    "wednesday": {
+                        "congestionValue": [
+                            0.25,
+                            0.3392857142857143,
+                            0.390625,
+                            0.359375,
+                            0.42578125,
+                            0.40625,
+                            0.484375,
+                            0.4947916666666667,
+                            0.46875,
+                            0.4253472222222222,
+                            0.34375,
+                            0.33072916666666663,
+                            0.28125,
+                            0.1875,
+                            0.08854166666666667,
+                            0.03125,
+                            0.09375,
+                            0.125,
+                            0.14583333333333331,
+                            0.109375,
+                            0.0625,
+                            0.03125,
+                            0.03125,
+                            0.04375
+                        ]
+                    }
+                },
+                "createdTimestamp": "2026-01-16T00:00:00Z",
+                "siteId": {
+                    "id": 11029404,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "trtId": {
+                    "id": 455303,
+                    "siteType": "SITE_TYPE_SUPERCHARGER"
+                },
+                "utcOffset": "32400s"
+            },
+            "centroid": {
+                "latitude": 33.589085,
+                "longitude": 130.332878
+            },
+            "commonSiteName": "AEON Marina Town",
+            "effectivePricebooks": [
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "CHARGING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": 35,
+                    "rateMinTier2": 74,
+                    "rateMinTier3": 116,
+                    "rateMinTier4": 190,
+                    "rateTier1": 35,
+                    "rateTier2": 74,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                },
+                {
+                    "currencyCode": "JPY",
+                    "days": "",
+                    "endTime": "",
+                    "feeType": "PARKING",
+                    "isMemberPricebook": true,
+                    "isTou": false,
+                    "maxSiteOccupancy": null,
+                    "minSiteOccupancy": null,
+                    "rateBase": 0,
+                    "rateMinTier1": null,
+                    "rateMinTier2": null,
+                    "rateMinTier3": null,
+                    "rateMinTier4": null,
+                    "rateTier1": 50,
+                    "rateTier2": 100,
+                    "startTime": "",
+                    "uom": "min",
+                    "vehicleMakeType": "TSLA"
+                }
+            ],
+            "entryPoint": {
+                "latitude": 33.588569,
+                "longitude": 130.333598
+            },
+            "locationGUID": "60d03d67-77ff-4a7f-8a45-f37da8fc11eb",
+            "maxPowerKw": 250,
+            "name": "Fukuoka - Nishi, Japan",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Asia/Tokyo"
+        },
+        "success": true
+    }
+}

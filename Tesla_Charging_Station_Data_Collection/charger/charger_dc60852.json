@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kitchener",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "N2A 1A9",
+                "postalExt": null,
+                "state": "ON",
+                "street": "King St E",
+                "streetNumber": "2960"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 43.429393,
+                "longitude": -80.433222
+            },
+            "commonSiteName": "Radisson Hotel Kitchener",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 43.429393,
+                "longitude": -80.433222
+            },
+            "locationGUID": "8447ee55-c290-4a47-93da-21b9ac897416",
+            "maxPowerKw": 16,
+            "name": "Radisson Hotel Kitchener",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

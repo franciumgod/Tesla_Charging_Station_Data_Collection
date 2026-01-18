@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Paris",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "75008",
+                "postalExt": null,
+                "state": null,
+                "street": "rue d'Aguesseau",
+                "streetNumber": "9"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 48.87038162,
+                "longitude": 2.3193
+            },
+            "commonSiteName": "Les Jardins du Faubourg",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 48.87038162,
+                "longitude": 2.3193
+            },
+            "locationGUID": "cd4644d2-e4ad-419a-adb7-809ed2a09965",
+            "maxPowerKw": 22,
+            "name": "Les Jardins du Faubourg",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

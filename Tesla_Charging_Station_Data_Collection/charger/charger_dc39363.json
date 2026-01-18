@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Powys",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "HR3 5LE",
+                "postalExt": null,
+                "state": null,
+                "street": "Clyro Court, Hay on Wye",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 52.07872,
+                "longitude": -3.156996
+            },
+            "commonSiteName": "Baskerville Hall Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 52.07872,
+                "longitude": -3.156996
+            },
+            "locationGUID": "cbbf2046-f0f9-4780-8219-ad4c930a7e1a",
+            "maxPowerKw": 22,
+            "name": "Baskerville Hall Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

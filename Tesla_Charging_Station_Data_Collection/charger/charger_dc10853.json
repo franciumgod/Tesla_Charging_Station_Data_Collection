@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Forges-les-Eaux",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "76440",
+                "postalExt": null,
+                "state": "Haute-Normandie",
+                "street": "Avenue des Sources",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.607792,
+                "longitude": 1.531708
+            },
+            "commonSiteName": "Casino Le Domaine de Forges",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.607792,
+                "longitude": 1.531708
+            },
+            "locationGUID": "fa40ef61-9059-4b1b-8809-c48a3b59f549",
+            "maxPowerKw": 22,
+            "name": "Casino Le Domaine de Forges",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

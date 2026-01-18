@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10024",
+                "postalExt": null,
+                "state": "NY",
+                "street": "W 83rd St",
+                "streetNumber": "225"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.786099,
+                "longitude": -73.977303
+            },
+            "commonSiteName": "Icon Parking 225 W 83 Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.786099,
+                "longitude": -73.977303
+            },
+            "locationGUID": "64269ab6-91e9-4a37-bf58-eaa720b36250",
+            "maxPowerKw": 8,
+            "name": "Icon Parking 225 W 83 Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

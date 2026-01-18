@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Little River",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95456",
+                "postalExt": null,
+                "state": "CA",
+                "street": "N Highway 1",
+                "streetNumber": "8211"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 39.278015,
+                "longitude": -123.790152
+            },
+            "commonSiteName": "Mendocino Inn & Spa",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 39.278015,
+                "longitude": -123.790152
+            },
+            "locationGUID": "5b66a028-827f-45d7-a6bb-16e7b32a9362",
+            "maxPowerKw": 16,
+            "name": "Mendocino Inn & Spa",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

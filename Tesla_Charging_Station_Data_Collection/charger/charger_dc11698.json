@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Ischgl",
+                "country": "Austria",
+                "countryCode": "AT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "6561",
+                "postalExt": null,
+                "state": null,
+                "street": "Dorfstr.",
+                "streetNumber": "39"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 47.014695,
+                "longitude": 10.293666
+            },
+            "commonSiteName": "Solaria hotel Ischgl",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 47.014695,
+                "longitude": 10.293666
+            },
+            "locationGUID": "1b10ae56-7116-43a9-97b5-491cc4643c3b",
+            "maxPowerKw": 11,
+            "name": "Solaria hotel Ischgl",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Vienna"
+        },
+        "success": true
+    }
+}

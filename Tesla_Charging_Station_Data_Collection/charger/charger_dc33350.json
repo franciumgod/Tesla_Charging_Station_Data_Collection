@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Adelaide",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5000",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "North Terrace",
+                "streetNumber": "31-34"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.922773,
+                "longitude": 138.590044
+            },
+            "commonSiteName": "Adelaide Riviera Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.922773,
+                "longitude": 138.590044
+            },
+            "locationGUID": "eabab638-3730-47de-b43d-53c356ddbc13",
+            "maxPowerKw": 7,
+            "name": "Adelaide Riviera Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

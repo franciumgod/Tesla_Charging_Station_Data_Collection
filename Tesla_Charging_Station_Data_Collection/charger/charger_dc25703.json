@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "San Luis Potosi",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78200",
+                "postalExt": null,
+                "state": "SLP",
+                "street": "Col. del Valle",
+                "streetNumber": "Av Nereo Rodri¡guez Barragan 450"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 22.155638,
+                "longitude": -101.00415
+            },
+            "commonSiteName": "El Dorado Centro Comercial",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 22.155638,
+                "longitude": -101.00415
+            },
+            "locationGUID": "89e7857e-6ce0-41eb-b528-019d2c6eacdc",
+            "maxPowerKw": 18,
+            "name": "El Dorado Centro Comercial",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

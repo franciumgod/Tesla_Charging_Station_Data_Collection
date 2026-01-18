@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brooklyn",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10021",
+                "postalExt": null,
+                "state": "NY",
+                "street": "Jay St",
+                "streetNumber": "100"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.702194,
+                "longitude": -73.98672
+            },
+            "commonSiteName": "MPG 100 Jay Street",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.702194,
+                "longitude": -73.98672
+            },
+            "locationGUID": "02ca9ac3-108a-4d9f-99cc-6a6beb888bfa",
+            "maxPowerKw": 16,
+            "name": "MPG 100 Jay Street",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

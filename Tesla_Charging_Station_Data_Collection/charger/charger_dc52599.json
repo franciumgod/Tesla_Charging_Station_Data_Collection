@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77020",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Clinton",
+                "streetNumber": "5610"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.76154,
+                "longitude": -95.31026
+            },
+            "commonSiteName": "Gulf Coast Distillers",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.76154,
+                "longitude": -95.31026
+            },
+            "locationGUID": "305c9f01-c9a9-4c72-afe0-897a1058fa9b",
+            "maxPowerKw": 10,
+            "name": "Gulf Coast Distillers",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

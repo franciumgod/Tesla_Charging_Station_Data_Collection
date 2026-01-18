@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Santa Monica",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "90401",
+                "postalExt": null,
+                "state": "CA",
+                "street": "7th St",
+                "streetNumber": "1437"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 34.0206953,
+                "longitude": -118.4945041
+            },
+            "commonSiteName": "Proper Hotel Santa Monica",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 34.0206953,
+                "longitude": -118.4945041
+            },
+            "locationGUID": "376979f7-38fa-4f20-b21f-774e18271106",
+            "maxPowerKw": 16,
+            "name": "Proper Hotel Santa Monica",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

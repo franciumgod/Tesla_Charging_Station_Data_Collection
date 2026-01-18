@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Salem",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "62881",
+                "postalExt": null,
+                "state": "IL",
+                "street": "Holiday Ln",
+                "streetNumber": "102"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.623,
+                "longitude": -88.970418
+            },
+            "commonSiteName": "Holiday Inn Express and Suites Salem",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.623,
+                "longitude": -88.970418
+            },
+            "locationGUID": "ccf2b0e9-d41b-4d3e-8d9c-32cb57b4cb07",
+            "maxPowerKw": 8,
+            "name": "Holiday Inn Express and Suites Salem",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

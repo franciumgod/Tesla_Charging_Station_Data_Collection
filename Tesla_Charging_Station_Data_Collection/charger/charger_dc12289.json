@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Tönning",
+                "country": "Germany",
+                "countryCode": "DE",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "25832",
+                "postalExt": null,
+                "state": null,
+                "street": "Westerstraße",
+                "streetNumber": "21"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 54.31469,
+                "longitude": 8.93856
+            },
+            "commonSiteName": "Bio Hotel Miramar",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 54.31469,
+                "longitude": 8.93856
+            },
+            "locationGUID": "16cb651e-0ce7-46c9-9344-cacb35fd56c7",
+            "maxPowerKw": 22,
+            "name": "Bio Hotel Miramar",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Berlin"
+        },
+        "success": true
+    }
+}

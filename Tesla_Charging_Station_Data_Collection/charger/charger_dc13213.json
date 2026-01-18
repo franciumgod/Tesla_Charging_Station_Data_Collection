@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Cleveland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "44113",
+                "postalExt": null,
+                "state": "OH",
+                "street": "1515 W Third St",
+                "streetNumber": "1515"
+            },
+            "amenities": [
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 41.497316,
+                "longitude": -81.694402
+            },
+            "commonSiteName": "The Ritz-Carlton, Cleveland",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 41.497316,
+                "longitude": -81.694402
+            },
+            "locationGUID": "a8675dc4-7d1b-44a1-85ca-2eb318675885",
+            "maxPowerKw": 16,
+            "name": "The Ritz-Carlton, Cleveland",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

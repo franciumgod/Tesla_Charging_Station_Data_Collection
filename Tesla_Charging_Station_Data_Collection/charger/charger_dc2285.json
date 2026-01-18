@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Edmonton",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "T6X 0P9",
+                "postalExt": null,
+                "state": "AB",
+                "street": "12th Ave SW",
+                "streetNumber": "10010"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 53.42421,
+                "longitude": -113.487865
+            },
+            "commonSiteName": "Four Points by Sheraton Edmonton Gateway",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 53.42421,
+                "longitude": -113.487865
+            },
+            "locationGUID": "9c22185a-78ef-489f-9bff-2ed8f748c201",
+            "maxPowerKw": 13,
+            "name": "Four Points by Sheraton Edmonton Gateway",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Edmonton"
+        },
+        "success": true
+    }
+}

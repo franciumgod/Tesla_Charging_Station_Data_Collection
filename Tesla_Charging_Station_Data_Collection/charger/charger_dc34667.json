@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Kennington",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "3550",
+                "postalExt": null,
+                "state": "Victoria",
+                "street": "Condon St",
+                "streetNumber": "150"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -36.77561,
+                "longitude": 144.306286
+            },
+            "commonSiteName": "Kennington Village Shopping Centre",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -36.77561,
+                "longitude": 144.306286
+            },
+            "locationGUID": "3b3861c6-d203-485e-bce1-1a7e2339186a",
+            "maxPowerKw": 0,
+            "name": "Kennington Village Shopping Centre",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "Australia/Melbourne"
+        },
+        "success": true
+    }
+}

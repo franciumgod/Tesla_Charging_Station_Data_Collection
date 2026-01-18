@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saint-Quentin",
+                "country": "France",
+                "countryCode": "FR",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "2100",
+                "postalExt": null,
+                "state": null,
+                "street": "Boulevard de Verdun",
+                "streetNumber": "12"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 49.84529,
+                "longitude": 3.276931
+            },
+            "commonSiteName": "Restaurant Del Arte",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 49.84529,
+                "longitude": 3.276931
+            },
+            "locationGUID": "4831fa09-3d19-4ca7-8005-e721dfb6496b",
+            "maxPowerKw": 22,
+            "name": "Restaurant Del Arte",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Paris"
+        },
+        "success": true
+    }
+}

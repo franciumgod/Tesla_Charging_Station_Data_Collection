@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "beauceville",
+                "country": "Canada",
+                "countryCode": "CA",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "g5x2t8",
+                "postalExt": null,
+                "state": "QC",
+                "street": "route du golf",
+                "streetNumber": "723"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.26332809,
+                "longitude": -70.76484579
+            },
+            "commonSiteName": "La Cache du Golf",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.26332809,
+                "longitude": -70.76484579
+            },
+            "locationGUID": "2804b540-d2f9-4b15-aa78-0f520e4a97e2",
+            "maxPowerKw": 14,
+            "name": "La Cache du Golf",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Toronto"
+        },
+        "success": true
+    }
+}

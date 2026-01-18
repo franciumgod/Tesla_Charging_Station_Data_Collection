@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St. Augustine",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "32084",
+                "postalExt": null,
+                "state": "FL",
+                "street": "Avenida Menendez",
+                "streetNumber": "32"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.894283,
+                "longitude": -81.311564
+            },
+            "commonSiteName": "Hilton St. Augustine Historic Bayfront",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.894283,
+                "longitude": -81.311564
+            },
+            "locationGUID": "bc09f92e-bf00-4050-bbef-50de479186dd",
+            "maxPowerKw": 8,
+            "name": "Hilton St. Augustine Historic Bayfront",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cradle Mountain",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "7303",
+                "postalExt": null,
+                "state": "Tasmania",
+                "street": "Cradle Mountain Rd",
+                "streetNumber": "3816"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -41.578593,
+                "longitude": 145.93749
+            },
+            "commonSiteName": "Cradle Mountain Wilderness Village",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -41.578593,
+                "longitude": 145.93749
+            },
+            "locationGUID": "590e29b5-6d28-40f2-8f67-8c7805e03d97",
+            "maxPowerKw": 22,
+            "name": "Cradle Mountain Wilderness Village",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Hobart"
+        },
+        "success": true
+    }
+}

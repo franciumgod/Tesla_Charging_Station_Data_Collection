@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Portland",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97204",
+                "postalExt": null,
+                "state": "OR",
+                "street": "SW Pine St",
+                "streetNumber": "319"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.521879,
+                "longitude": -122.674024
+            },
+            "commonSiteName": "Embassy Suites by Hilton Portland Downtown",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.521879,
+                "longitude": -122.674024
+            },
+            "locationGUID": "c6a75cc5-31d4-4fa5-948a-a68616493c29",
+            "maxPowerKw": 16,
+            "name": "Embassy Suites by Hilton Portland Downtown",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

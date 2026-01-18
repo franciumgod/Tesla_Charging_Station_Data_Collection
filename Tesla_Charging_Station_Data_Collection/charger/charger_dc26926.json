@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Northport",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "49670",
+                "postalExt": null,
+                "state": "MI",
+                "street": "S Waukazoo St",
+                "streetNumber": "116"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.1286664,
+                "longitude": -85.6169305
+            },
+            "commonSiteName": "Village of Northport",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.1286664,
+                "longitude": -85.6169305
+            },
+            "locationGUID": "1f412920-ec43-4b71-a567-aad32621f06e",
+            "maxPowerKw": 16,
+            "name": "Village of Northport",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Detroit"
+        },
+        "success": true
+    }
+}

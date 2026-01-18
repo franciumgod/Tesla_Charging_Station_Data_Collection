@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Merida",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "97000",
+                "postalExt": null,
+                "state": "YUC",
+                "street": "Centro",
+                "streetNumber": "Paseo Montejo No. 451"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 20.986255,
+                "longitude": -89.618614
+            },
+            "commonSiteName": "Fiesta Americana Merida",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 20.986255,
+                "longitude": -89.618614
+            },
+            "locationGUID": "bdb82070-df9d-4266-9d9a-eaf73a96d860",
+            "maxPowerKw": 18,
+            "name": "Fiesta Americana Merida",
+            "openToNonTeslas": false,
+            "openToPublic": false,
+            "publicStallCount": 2,
+            "timeZone": "America/Merida"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Alexandria",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "22314",
+                "postalExt": null,
+                "state": "VA",
+                "street": "King St",
+                "streetNumber": "480"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.804411,
+                "longitude": -77.044697
+            },
+            "commonSiteName": "The Alexandrian, Autograph Collection",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.804411,
+                "longitude": -77.044697
+            },
+            "locationGUID": "9ed26e11-9d0e-463f-9386-b2da80112561",
+            "maxPowerKw": 8,
+            "name": "The Alexandrian, Autograph Collection",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

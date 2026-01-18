@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "Harrodsburg",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "40330",
+                "postalExt": null,
+                "state": "KY",
+                "street": "Lexington Rd",
+                "streetNumber": "3501"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.81664,
+                "longitude": -84.740626
+            },
+            "commonSiteName": "Shaker Village of Pleasant Hill",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.81664,
+                "longitude": -84.740626
+            },
+            "locationGUID": "cebfb472-4531-47fe-a18c-1b041e111d71",
+            "maxPowerKw": 16,
+            "name": "Shaker Village of Pleasant Hill",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Brusaporto",
+                "country": "Italy",
+                "countryCode": "IT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "24060",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Cantalupa",
+                "streetNumber": "17"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 45.67736464,
+                "longitude": 9.77039673
+            },
+            "commonSiteName": "Da Vittorio",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 45.67736464,
+                "longitude": 9.77039673
+            },
+            "locationGUID": "565f5dad-72d3-4e58-af9d-9c90d3ff5e1e",
+            "maxPowerKw": 22,
+            "name": "Da Vittorio",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Rome"
+        },
+        "success": true
+    }
+}

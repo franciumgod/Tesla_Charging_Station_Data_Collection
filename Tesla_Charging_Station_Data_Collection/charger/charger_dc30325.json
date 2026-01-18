@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Puebla",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "72000",
+                "postalExt": null,
+                "state": "PUE",
+                "street": "Barrio del Alto",
+                "streetNumber": "Calle 10 Nte. 1402"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.045347,
+                "longitude": -98.189087
+            },
+            "commonSiteName": "Rosewood Puebla",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.045347,
+                "longitude": -98.189087
+            },
+            "locationGUID": "caf86c99-0b70-405b-9ee4-17c3bbe737ee",
+            "maxPowerKw": 16,
+            "name": "Rosewood Puebla",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

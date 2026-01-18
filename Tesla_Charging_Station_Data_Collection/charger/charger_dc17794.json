@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Disentis",
+                "country": "Switzerland",
+                "countryCode": "CH",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "7180",
+                "postalExt": null,
+                "state": null,
+                "street": "Via Alpsu",
+                "streetNumber": "43"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 46.70093,
+                "longitude": 8.845353
+            },
+            "commonSiteName": "Nangijala Café, Bar & Guest House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 46.70093,
+                "longitude": 8.845353
+            },
+            "locationGUID": "4aec1dfa-6dc6-4261-a813-31b6105cf67b",
+            "maxPowerKw": 14,
+            "name": "Nangijala Café, Bar & Guest House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/Zurich"
+        },
+        "success": true
+    }
+}

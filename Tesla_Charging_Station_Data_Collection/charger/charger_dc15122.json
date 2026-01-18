@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New Orleans",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "70119",
+                "postalExt": null,
+                "state": "LA",
+                "street": "Canal St",
+                "streetNumber": "3620"
+            },
+            "amenities": [
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.971577,
+                "longitude": -90.096655
+            },
+            "commonSiteName": "Canal Street Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.971577,
+                "longitude": -90.096655
+            },
+            "locationGUID": "d77d16d4-57a4-4a95-9389-1d7c58d1529b",
+            "maxPowerKw": 8,
+            "name": "Canal Street Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

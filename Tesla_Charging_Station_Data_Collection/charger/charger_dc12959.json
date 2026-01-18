@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Jamestown",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "95327",
+                "postalExt": null,
+                "state": "CA",
+                "street": "Main St",
+                "streetNumber": "18153"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.952106,
+                "longitude": -120.423294
+            },
+            "commonSiteName": "Jamestown Hotel",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.952106,
+                "longitude": -120.423294
+            },
+            "locationGUID": "12da9fb6-2bb2-44b5-b0a2-595239dac2aa",
+            "maxPowerKw": 16,
+            "name": "Jamestown Hotel",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 1,
+            "timeZone": "America/Los_Angeles"
+        },
+        "success": true
+    }
+}

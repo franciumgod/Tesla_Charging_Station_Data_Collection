@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Saltillo",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "25270",
+                "postalExt": null,
+                "state": "Coahuila",
+                "street": "Zona Industrial",
+                "streetNumber": "Carretera Saltillo - Monterrey No.6607"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 25.481011,
+                "longitude": -100.973983
+            },
+            "commonSiteName": "Fiesta Inn Saltillo",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 25.481011,
+                "longitude": -100.973983
+            },
+            "locationGUID": "ddb88698-a797-4661-af90-6a3ad0eedd8a",
+            "maxPowerKw": 18,
+            "name": "Fiesta Inn Saltillo",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Monterrey"
+        },
+        "success": true
+    }
+}

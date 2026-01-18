@@ -1,0 +1,50 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Houston",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "77056",
+                "postalExt": null,
+                "state": "TX",
+                "street": "Sage Rd",
+                "streetNumber": "2626"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 29.738161,
+                "longitude": -95.467246
+            },
+            "commonSiteName": "Hyatt Regency Houston Galleria",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 29.738161,
+                "longitude": -95.467246
+            },
+            "locationGUID": "fe1e6462-aec8-4692-bde5-2cd8d2f466e2",
+            "maxPowerKw": 16,
+            "name": "Hyatt Regency Houston Galleria",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 5,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

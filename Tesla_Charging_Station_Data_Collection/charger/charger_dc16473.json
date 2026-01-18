@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Whitland",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SA34 0LG",
+                "postalExt": null,
+                "state": null,
+                "street": "Abbey Road",
+                "streetNumber": "1"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.825342,
+                "longitude": -4.594731
+            },
+            "commonSiteName": "Roadhouse",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.825342,
+                "longitude": -4.594731
+            },
+            "locationGUID": "45f16479-3ea3-4a0f-87ab-4c492986fa41",
+            "maxPowerKw": 7,
+            "name": "Roadhouse",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

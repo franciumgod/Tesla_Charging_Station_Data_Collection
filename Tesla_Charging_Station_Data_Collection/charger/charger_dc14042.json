@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "New York",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "10128",
+                "postalExt": null,
+                "state": "NY",
+                "street": "E 92nd St",
+                "streetNumber": "230"
+            },
+            "amenities": [
+                "AMENITIES_SHOPPING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 40.782212,
+                "longitude": -73.95023
+            },
+            "commonSiteName": "GGMC Yorkville Car Park",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 40.782212,
+                "longitude": -73.95023
+            },
+            "locationGUID": "22d322ed-286d-4ba8-8b67-35e8852a09cc",
+            "maxPowerKw": 8,
+            "name": "GGMC Yorkville Car Park",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

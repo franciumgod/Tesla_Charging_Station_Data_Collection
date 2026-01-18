@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Washington",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "20001",
+                "postalExt": null,
+                "state": "DC",
+                "street": "L St NW",
+                "streetNumber": "1011"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 38.9043681,
+                "longitude": -77.0267268
+            },
+            "commonSiteName": "Morrison-Clark Historic Inn & Restaurant",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 38.9043681,
+                "longitude": -77.0267268
+            },
+            "locationGUID": "4231932e-8e0b-4536-ac14-14c10f8738c2",
+            "maxPowerKw": 16,
+            "name": "Morrison-Clark Historic Inn & Restaurant",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

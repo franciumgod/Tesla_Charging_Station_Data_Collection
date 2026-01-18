@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Haymarket",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "2000",
+                "postalExt": null,
+                "state": "New South Wales",
+                "street": "Thomas St",
+                "streetNumber": "Wilson Parking Level 2 &3, 169-179"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -33.881854,
+                "longitude": 151.202419
+            },
+            "commonSiteName": "Novotel Sydney Central",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -33.881854,
+                "longitude": 151.202419
+            },
+            "locationGUID": "21a83b4a-fc20-45b9-a67d-3b8f85ff892b",
+            "maxPowerKw": 22,
+            "name": "Novotel Sydney Central",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Sydney"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Charlotte",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "28202",
+                "postalExt": null,
+                "state": "NC",
+                "street": "S Mint Street",
+                "streetNumber": "415"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 35.2267399,
+                "longitude": -80.8494899
+            },
+            "commonSiteName": "Catalyst Garage",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 35.2267399,
+                "longitude": -80.8494899
+            },
+            "locationGUID": "aaad67c5-0251-47d1-af60-eac9799be315",
+            "maxPowerKw": 6,
+            "name": "Catalyst Garage",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 4,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}

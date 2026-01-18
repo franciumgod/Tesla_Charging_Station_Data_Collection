@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Pierre",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "57501",
+                "postalExt": null,
+                "state": "SD",
+                "street": "West Sioux Ave",
+                "streetNumber": "700"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 44.37165,
+                "longitude": -100.36149
+            },
+            "commonSiteName": "Governors Inn",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 44.37165,
+                "longitude": -100.36149
+            },
+            "locationGUID": "7d827822-7b46-429b-b7b3-ac39d810614b",
+            "maxPowerKw": 9,
+            "name": "Governors Inn",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

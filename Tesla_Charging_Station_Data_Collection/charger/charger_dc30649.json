@@ -1,0 +1,47 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Adelaide",
+                "country": "Australia",
+                "countryCode": "AU",
+                "district": null,
+                "navRegion": "au",
+                "nearestEntrance": null,
+                "postalCode": "5000",
+                "postalExt": null,
+                "state": "South Australia",
+                "street": "Hindley Street",
+                "streetNumber": "16"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": -34.922681,
+                "longitude": 138.598383
+            },
+            "commonSiteName": "Miller Apartments",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": -34.922681,
+                "longitude": 138.598383
+            },
+            "locationGUID": "46f3bd63-7c6c-42db-b9a4-add80d9ec645",
+            "maxPowerKw": 22,
+            "name": "Miller Apartments",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Australia/Adelaide"
+        },
+        "success": true
+    }
+}

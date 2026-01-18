@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Faro",
+                "country": "Portugal",
+                "countryCode": "PT",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "8005",
+                "postalExt": "502",
+                "state": null,
+                "street": "Lugar do Medronhal",
+                "streetNumber": "475Z"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.085513,
+                "longitude": -7.944782
+            },
+            "commonSiteName": "Mercedes Country House",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.085513,
+                "longitude": -7.944782
+            },
+            "locationGUID": "d3acff0f-f0b5-4314-9c39-fd81f1d87495",
+            "maxPowerKw": 22,
+            "name": "Mercedes Country House",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/Lisbon"
+        },
+        "success": true
+    }
+}

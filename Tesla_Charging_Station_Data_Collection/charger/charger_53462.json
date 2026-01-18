@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Austin",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "78701",
+                "postalExt": null,
+                "state": "TX",
+                "street": "East 2nd Street",
+                "streetNumber": "110"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_LODGING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 30.2645053,
+                "longitude": -97.7433019
+            },
+            "commonSiteName": "JW Marriott Austin",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 30.2645053,
+                "longitude": -97.7433019
+            },
+            "locationGUID": "42af7034-46af-45e5-a4e1-48c2e9a2a606",
+            "maxPowerKw": 10,
+            "name": "JW Marriott Austin",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Chicago"
+        },
+        "success": true
+    }
+}

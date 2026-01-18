@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "St Andrews",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "KY16 9SF",
+                "postalExt": null,
+                "state": null,
+                "street": "Balgove Farmhouse",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 56.345497,
+                "longitude": -2.823472
+            },
+            "commonSiteName": "Balgove Larder",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 56.345497,
+                "longitude": -2.823472
+            },
+            "locationGUID": "005159b6-0221-43fc-9f39-863415ba6c73",
+            "maxPowerKw": 13,
+            "name": "Balgove Larder",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 3,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Cuauhtemoc",
+                "country": "Mexico",
+                "countryCode": "MX",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "6700",
+                "postalExt": null,
+                "state": "CMX",
+                "street": "Roma Nte",
+                "streetNumber": "Sinaloa 195"
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 19.419975,
+                "longitude": -99.172411
+            },
+            "commonSiteName": "Sinaloa 195",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 19.419975,
+                "longitude": -99.172411
+            },
+            "locationGUID": "48101171-3d0d-45b4-938c-d7ad2bb239d5",
+            "maxPowerKw": 18,
+            "name": "Sinaloa 195",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "America/Mexico_City"
+        },
+        "success": true
+    }
+}

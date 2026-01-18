@@ -1,0 +1,49 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "None",
+            "address": {
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "GB",
+                "district": null,
+                "navRegion": "eu",
+                "nearestEntrance": null,
+                "postalCode": "SW3 1BB",
+                "postalExt": null,
+                "state": null,
+                "street": "Harrods Car Park",
+                "streetNumber": null
+            },
+            "amenities": [
+                "AMENITIES_WIFI",
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 51.499395,
+                "longitude": -0.163234
+            },
+            "commonSiteName": "Harrods",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 51.499395,
+                "longitude": -0.163234
+            },
+            "locationGUID": "b94d049d-c106-41dd-a1a7-e357b58a96c3",
+            "maxPowerKw": 22,
+            "name": "Harrods",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 2,
+            "timeZone": "Europe/London"
+        },
+        "success": true
+    }
+}

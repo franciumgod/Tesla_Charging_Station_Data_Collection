@@ -1,0 +1,48 @@
+{
+    "data": {
+        "data": {
+            "accessHours": {
+                "twentyFourSeven": true
+            },
+            "accessType": "Public",
+            "address": {
+                "city": "Glen Allen",
+                "country": "United States",
+                "countryCode": "US",
+                "district": null,
+                "navRegion": "us",
+                "nearestEntrance": null,
+                "postalCode": "23233",
+                "postalExt": null,
+                "state": "VA",
+                "street": "W Broad St",
+                "streetNumber": "12201"
+            },
+            "amenities": [
+                "AMENITIES_RESTROOMS",
+                "AMENITIES_CAFE",
+                "AMENITIES_SHOPPING",
+                "AMENITIES_RESTAURANT"
+            ],
+            "availabilityProfile": null,
+            "centroid": {
+                "latitude": 37.65748887,
+                "longitude": -77.63597735
+            },
+            "commonSiteName": "The Row at GreenGate",
+            "effectivePricebooks": [],
+            "entryPoint": {
+                "latitude": 37.65748887,
+                "longitude": -77.63597735
+            },
+            "locationGUID": "29106988-d95c-4db8-869f-2f1e512bf543",
+            "maxPowerKw": 16,
+            "name": "The Row at GreenGate",
+            "openToNonTeslas": false,
+            "openToPublic": true,
+            "publicStallCount": 6,
+            "timeZone": "America/New_York"
+        },
+        "success": true
+    }
+}
